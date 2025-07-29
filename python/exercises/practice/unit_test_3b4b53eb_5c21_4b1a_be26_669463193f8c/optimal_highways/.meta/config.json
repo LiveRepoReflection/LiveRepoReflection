@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_highways.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_highways.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_highways_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_highways/optimal_highways_test.py"
+        ],
+        "solution": [
+            "optimal_highways/optimal_highways.py",
+            "optimal_highways/__init__.py"
+        ],
+        "example": [
+            "optimal_highways/.meta//optimal_highways.py",
+            "optimal_highways/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "txn_coordinator.py",
+            "__main__.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_coordinator.py",
+            ".meta//__main__.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_txn_coordinator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_coordinator/test_txn_coordinator.py",
+            "txn_coordinator/__init__.py"
+        ],
+        "solution": [
+            "txn_coordinator/txn_coordinator.py",
+            "txn_coordinator/__main__.py",
+            "txn_coordinator/__init__.py"
+        ],
+        "example": [
+            "txn_coordinator/.meta//txn_coordinator.py",
+            "txn_coordinator/.meta//__main__.py",
+            "txn_coordinator/.meta//__init__.py"
+        ]
+    }
+}

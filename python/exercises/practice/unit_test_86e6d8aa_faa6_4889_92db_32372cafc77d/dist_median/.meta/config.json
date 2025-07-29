@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "median_tracker.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//median_tracker.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_median_tracker.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_median/test_median_tracker.py"
+        ],
+        "solution": [
+            "dist_median/median_tracker.py",
+            "dist_median/__init__.py"
+        ],
+        "example": [
+            "dist_median/.meta//median_tracker.py",
+            "dist_median/.meta//__init__.py"
+        ]
+    }
+}

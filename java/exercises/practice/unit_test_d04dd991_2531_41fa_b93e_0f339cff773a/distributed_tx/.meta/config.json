@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DistributedTransactionCoordinator.java",
+            "src/main/java/TransactionContext.java",
+            "src/main/java/TransactionException.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DistributedTransactionCoordinator.java",
+            ".meta//src/main/java/TransactionContext.java",
+            ".meta//src/main/java/TransactionException.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTransactionCoordinatorTest.java",
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/ResourceManager.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/DistributedTransactionCoordinator.java",
+            "distributed_tx/src/main/java/TransactionContext.java",
+            "distributed_tx/src/main/java/TransactionException.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/DistributedTransactionCoordinator.java",
+            "distributed_tx/.meta//src/main/java/TransactionContext.java",
+            "distributed_tx/.meta//src/main/java/TransactionException.java"
+        ]
+    }
+}

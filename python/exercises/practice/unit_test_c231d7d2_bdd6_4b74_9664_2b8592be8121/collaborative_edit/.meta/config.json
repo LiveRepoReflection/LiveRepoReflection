@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "collaborative_edit.py"
+        ],
+        "example": [
+            ".meta//collaborative_edit.py"
+        ],
+        "test": [
+            "collaborative_edit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "collaborative_edit/collaborative_edit_test.py"
+        ],
+        "solution": [
+            "collaborative_edit/collaborative_edit.py"
+        ],
+        "example": [
+            "collaborative_edit/.meta//collaborative_edit.py"
+        ]
+    }
+}

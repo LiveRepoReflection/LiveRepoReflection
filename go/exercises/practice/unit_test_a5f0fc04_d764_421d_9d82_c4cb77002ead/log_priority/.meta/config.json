@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "log_priority.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//log_priority.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "log_priority_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_priority/log_priority_test.go",
+            "log_priority/go.mod",
+            "log_priority/log_priority.go"
+        ],
+        "solution": [
+            "log_priority/log_priority.go",
+            "log_priority/go.mod"
+        ],
+        "example": [
+            "log_priority/.meta//log_priority.go",
+            "log_priority/.meta//go.mod"
+        ]
+    }
+}

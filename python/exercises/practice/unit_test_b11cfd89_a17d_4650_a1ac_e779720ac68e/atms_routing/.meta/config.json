@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "atms_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//atms_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "atms_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "atms_routing/atms_routing_test.py"
+        ],
+        "solution": [
+            "atms_routing/atms_routing.py",
+            "atms_routing/__init__.py"
+        ],
+        "example": [
+            "atms_routing/.meta//atms_routing.py",
+            "atms_routing/.meta//__init__.py"
+        ]
+    }
+}

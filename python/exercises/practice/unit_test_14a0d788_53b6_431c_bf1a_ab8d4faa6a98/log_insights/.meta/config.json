@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "log_insights.py"
+        ],
+        "example": [
+            ".meta//log_insights.py"
+        ],
+        "test": [
+            "log_insights_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_insights/log_insights_test.py"
+        ],
+        "solution": [
+            "log_insights/log_insights.py"
+        ],
+        "example": [
+            "log_insights/.meta//log_insights.py"
+        ]
+    }
+}

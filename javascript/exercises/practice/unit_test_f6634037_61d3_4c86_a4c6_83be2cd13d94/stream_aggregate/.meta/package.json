@@ -1,0 +1,12 @@
+{
+  "name": "stream_aggregate",
+  "version": "1.0.0",
+  "description": "Stream Aggregator Implementation for real-time event aggregation.",
+  "main": "stream_aggregate.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

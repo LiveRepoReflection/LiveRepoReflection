@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "run_consensus.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//run_consensus.go"
+        ],
+        "test": [
+            "consensus_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_consensus/consensus_test.go"
+        ],
+        "solution": [
+            "byzantine_consensus/go.mod",
+            "byzantine_consensus/run_consensus.go"
+        ],
+        "example": [
+            "byzantine_consensus/.meta//go.mod",
+            "byzantine_consensus/.meta//run_consensus.go"
+        ]
+    }
+}

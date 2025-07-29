@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "sensor_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//sensor_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "sensor_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "sensor_network/sensor_network_test.py"
+        ],
+        "solution": [
+            "sensor_network/sensor_network.py",
+            "sensor_network/__init__.py"
+        ],
+        "example": [
+            "sensor_network/.meta//sensor_network.py",
+            "sensor_network/.meta//__init__.py"
+        ]
+    }
+}

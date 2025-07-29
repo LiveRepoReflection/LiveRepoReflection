@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_aggregator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//order_aggregator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "order_aggregator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_aggregator/order_aggregator_test.py"
+        ],
+        "solution": [
+            "order_aggregator/order_aggregator.py",
+            "order_aggregator/__init__.py"
+        ],
+        "example": [
+            "order_aggregator/.meta//order_aggregator.py",
+            "order_aggregator/.meta//__init__.py"
+        ]
+    }
+}

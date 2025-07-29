@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_kv_store.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_kv_store.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_txn_kv_store.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_kv_store/test_txn_kv_store.py"
+        ],
+        "solution": [
+            "txn_kv_store/txn_kv_store.py",
+            "txn_kv_store/__init__.py"
+        ],
+        "example": [
+            "txn_kv_store/.meta//txn_kv_store.py",
+            "txn_kv_store/.meta//__init__.py"
+        ]
+    }
+}

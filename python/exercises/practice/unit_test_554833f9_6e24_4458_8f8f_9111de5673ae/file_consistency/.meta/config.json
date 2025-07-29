@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "file_consistency.py"
+        ],
+        "example": [
+            ".meta//file_consistency.py"
+        ],
+        "test": [
+            "file_consistency_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "file_consistency/file_consistency_test.py"
+        ],
+        "solution": [
+            "file_consistency/file_consistency.py"
+        ],
+        "example": [
+            "file_consistency/.meta//file_consistency.py"
+        ]
+    }
+}

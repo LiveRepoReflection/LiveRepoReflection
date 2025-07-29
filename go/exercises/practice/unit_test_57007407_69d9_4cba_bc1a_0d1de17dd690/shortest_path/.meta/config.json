@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "shortest_path.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//shortest_path.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "shortest_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "shortest_path/shortest_path_test.go"
+        ],
+        "solution": [
+            "shortest_path/shortest_path.go",
+            "shortest_path/go.mod"
+        ],
+        "example": [
+            "shortest_path/.meta//shortest_path.go",
+            "shortest_path/.meta//go.mod"
+        ]
+    }
+}

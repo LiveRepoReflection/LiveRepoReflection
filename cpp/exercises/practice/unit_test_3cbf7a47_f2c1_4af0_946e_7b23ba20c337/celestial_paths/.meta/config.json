@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "celestial_paths.h",
+            "celestial_paths.cpp",
+            "main.cpp",
+            "README.md"
+        ],
+        "example": [
+            ".meta//celestial_paths.h",
+            ".meta//celestial_paths.cpp",
+            ".meta//main.cpp",
+            ".meta//README.md"
+        ],
+        "test": [
+            "celestial_paths_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "celestial_paths/celestial_paths_test.cpp",
+            "celestial_paths/celestial_paths.h"
+        ],
+        "solution": [
+            "celestial_paths/celestial_paths.h",
+            "celestial_paths/celestial_paths.cpp",
+            "celestial_paths/main.cpp",
+            "celestial_paths/README.md"
+        ],
+        "example": [
+            "celestial_paths/.meta//celestial_paths.h",
+            "celestial_paths/.meta//celestial_paths.cpp",
+            "celestial_paths/.meta//main.cpp",
+            "celestial_paths/.meta//README.md"
+        ]
+    }
+}

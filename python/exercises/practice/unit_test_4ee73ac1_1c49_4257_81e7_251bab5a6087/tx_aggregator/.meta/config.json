@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_aggregator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//tx_aggregator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "tx_aggregator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_aggregator/tx_aggregator_test.py"
+        ],
+        "solution": [
+            "tx_aggregator/tx_aggregator.py",
+            "tx_aggregator/__init__.py"
+        ],
+        "example": [
+            "tx_aggregator/.meta//tx_aggregator.py",
+            "tx_aggregator/.meta//__init__.py"
+        ]
+    }
+}

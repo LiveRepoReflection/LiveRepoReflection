@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "omsrp_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//omsrp_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "omsrp_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "omsrp_routing/omsrp_routing_test.py"
+        ],
+        "solution": [
+            "omsrp_routing/omsrp_routing.py",
+            "omsrp_routing/__init__.py"
+        ],
+        "example": [
+            "omsrp_routing/.meta//omsrp_routing.py",
+            "omsrp_routing/.meta//__init__.py"
+        ]
+    }
+}

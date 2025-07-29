@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dtc_saga.py"
+        ],
+        "example": [
+            ".meta//dtc_saga.py"
+        ],
+        "test": [
+            "dtc_saga_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_saga/dtc_saga_test.py"
+        ],
+        "solution": [
+            "dtc_saga/dtc_saga.py"
+        ],
+        "example": [
+            "dtc_saga/.meta//dtc_saga.py"
+        ]
+    }
+}

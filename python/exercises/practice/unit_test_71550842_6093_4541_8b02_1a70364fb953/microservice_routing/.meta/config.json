@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "microservice_routing.py"
+        ],
+        "example": [
+            ".meta//microservice_routing.py"
+        ],
+        "test": [
+            "microservice_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microservice_routing/microservice_routing_test.py"
+        ],
+        "solution": [
+            "microservice_routing/microservice_routing.py"
+        ],
+        "example": [
+            "microservice_routing/.meta//microservice_routing.py"
+        ]
+    }
+}

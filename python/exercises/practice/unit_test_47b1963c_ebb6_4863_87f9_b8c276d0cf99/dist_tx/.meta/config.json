@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dist_tx.py"
+        ],
+        "example": [
+            ".meta//dist_tx.py"
+        ],
+        "test": [
+            "dist_tx_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx/dist_tx_test.py"
+        ],
+        "solution": [
+            "dist_tx/dist_tx.py"
+        ],
+        "example": [
+            "dist_tx/.meta//dist_tx.py"
+        ]
+    }
+}

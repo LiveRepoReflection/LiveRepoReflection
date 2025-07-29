@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_path.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_path.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_path/social_path_test.go"
+        ],
+        "solution": [
+            "social_path/social_path.go",
+            "social_path/go.mod"
+        ],
+        "example": [
+            "social_path/.meta//social_path.go",
+            "social_path/.meta//go.mod"
+        ]
+    }
+}

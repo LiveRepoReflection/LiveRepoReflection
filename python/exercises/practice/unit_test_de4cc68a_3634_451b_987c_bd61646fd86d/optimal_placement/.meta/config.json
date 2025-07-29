@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_placement.py"
+        ],
+        "example": [
+            ".meta//optimal_placement.py"
+        ],
+        "test": [
+            "optimal_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_placement/optimal_placement_test.py"
+        ],
+        "solution": [
+            "optimal_placement/optimal_placement.py"
+        ],
+        "example": [
+            "optimal_placement/.meta//optimal_placement.py"
+        ]
+    }
+}

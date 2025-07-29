@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_reconstruction.py"
+        ],
+        "example": [
+            ".meta//network_reconstruction.py"
+        ],
+        "test": [
+            "network_reconstruction_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reconstruction/network_reconstruction_test.py"
+        ],
+        "solution": [
+            "network_reconstruction/network_reconstruction.py"
+        ],
+        "example": [
+            "network_reconstruction/.meta//network_reconstruction.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_influencer.py"
+        ],
+        "example": [
+            ".meta//social_influencer.py"
+        ],
+        "test": [
+            "social_influencer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_influencer/social_influencer_test.py"
+        ],
+        "solution": [
+            "social_influencer/social_influencer.py"
+        ],
+        "example": [
+            "social_influencer/.meta//social_influencer.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_rerouting.py"
+        ],
+        "example": [
+            ".meta//traffic_rerouting.py"
+        ],
+        "test": [
+            "traffic_rerouting_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_rerouting/traffic_rerouting_test.py"
+        ],
+        "solution": [
+            "traffic_rerouting/traffic_rerouting.py"
+        ],
+        "example": [
+            "traffic_rerouting/.meta//traffic_rerouting.py"
+        ]
+    }
+}

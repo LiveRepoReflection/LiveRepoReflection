@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/ParallelAggregate.java"
+        ],
+        "example": [
+            ".meta//src/main/java/ParallelAggregate.java"
+        ],
+        "test": [
+            "src/test/java/ParallelAggregateTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "parallel_aggregate/src/test/java/ParallelAggregateTest.java",
+            "parallel_aggregate/build.gradle"
+        ],
+        "solution": [
+            "parallel_aggregate/src/main/java/ParallelAggregate.java"
+        ],
+        "example": [
+            "parallel_aggregate/.meta//src/main/java/ParallelAggregate.java"
+        ]
+    }
+}

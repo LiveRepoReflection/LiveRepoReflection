@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "trade_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//trade_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_trade_route.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "trade_route/test_trade_route.py"
+        ],
+        "solution": [
+            "trade_route/trade_route.py",
+            "trade_route/__init__.py"
+        ],
+        "example": [
+            "trade_route/.meta//trade_route.py",
+            "trade_route/.meta//__init__.py"
+        ]
+    }
+}

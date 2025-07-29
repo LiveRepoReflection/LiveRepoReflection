@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_analytics.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_analytics.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_analytics_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_analytics/social_analytics_test.go"
+        ],
+        "solution": [
+            "social_analytics/social_analytics.go",
+            "social_analytics/go.mod"
+        ],
+        "example": [
+            "social_analytics/.meta//social_analytics.go",
+            "social_analytics/.meta//go.mod"
+        ]
+    }
+}

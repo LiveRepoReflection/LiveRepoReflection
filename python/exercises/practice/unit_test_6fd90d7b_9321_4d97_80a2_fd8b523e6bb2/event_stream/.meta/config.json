@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_stream.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//event_stream.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "event_stream_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_stream/event_stream_test.py"
+        ],
+        "solution": [
+            "event_stream/event_stream.py",
+            "event_stream/__init__.py"
+        ],
+        "example": [
+            "event_stream/.meta//event_stream.py",
+            "event_stream/.meta//__init__.py"
+        ]
+    }
+}

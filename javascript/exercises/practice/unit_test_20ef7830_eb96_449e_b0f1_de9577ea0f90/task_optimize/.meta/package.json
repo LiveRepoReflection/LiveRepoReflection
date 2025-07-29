@@ -1,0 +1,12 @@
+{
+  "name": "task_optimize",
+  "version": "1.0.0",
+  "description": "Optimizes task scheduling to minimize weighted average completion time.",
+  "main": "task_optimize.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

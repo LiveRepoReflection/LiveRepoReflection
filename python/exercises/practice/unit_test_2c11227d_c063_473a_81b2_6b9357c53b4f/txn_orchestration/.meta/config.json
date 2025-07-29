@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_orchestration.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_orchestration.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_orchestration_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_orchestration/txn_orchestration_test.py"
+        ],
+        "solution": [
+            "txn_orchestration/txn_orchestration.py",
+            "txn_orchestration/__init__.py"
+        ],
+        "example": [
+            "txn_orchestration/.meta//txn_orchestration.py",
+            "txn_orchestration/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_analytics.h",
+            "social_analytics.cpp"
+        ],
+        "example": [
+            ".meta//social_analytics.h",
+            ".meta//social_analytics.cpp"
+        ],
+        "test": [
+            "social_analytics_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_analytics/social_analytics_test.cpp"
+        ],
+        "solution": [
+            "social_analytics/social_analytics.h",
+            "social_analytics/social_analytics.cpp"
+        ],
+        "example": [
+            "social_analytics/.meta//social_analytics.h",
+            "social_analytics/.meta//social_analytics.cpp"
+        ]
+    }
+}

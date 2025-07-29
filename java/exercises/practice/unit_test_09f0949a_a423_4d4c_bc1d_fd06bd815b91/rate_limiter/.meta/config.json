@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/RateLimiter.java",
+            "src/main/java/RateLimiterImpl.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/RateLimiter.java",
+            ".meta//src/main/java/RateLimiterImpl.java"
+        ],
+        "test": [
+            "src/test/java/RateLimiterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limiter/src/test/java/RateLimiterTest.java"
+        ],
+        "solution": [
+            "rate_limiter/build.gradle",
+            "rate_limiter/src/main/java/RateLimiter.java",
+            "rate_limiter/src/main/java/RateLimiterImpl.java"
+        ],
+        "example": [
+            "rate_limiter/.meta//build.gradle",
+            "rate_limiter/.meta//src/main/java/RateLimiter.java",
+            "rate_limiter/.meta//src/main/java/RateLimiterImpl.java"
+        ]
+    }
+}

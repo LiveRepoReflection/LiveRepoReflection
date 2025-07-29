@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_reconciliation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//data_reconciliation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_data_reconciliation.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_reconciliation/test_data_reconciliation.py"
+        ],
+        "solution": [
+            "data_reconciliation/data_reconciliation.py",
+            "data_reconciliation/__init__.py"
+        ],
+        "example": [
+            "data_reconciliation/.meta//data_reconciliation.py",
+            "data_reconciliation/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "collaborative_edit.go"
+        ],
+        "example": [
+            ".meta//collaborative_edit.go"
+        ],
+        "test": [
+            "collaborative_edit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "collaborative_edit/collaborative_edit_test.go",
+            "collaborative_edit/go.mod"
+        ],
+        "solution": [
+            "collaborative_edit/collaborative_edit.go"
+        ],
+        "example": [
+            "collaborative_edit/.meta//collaborative_edit.go"
+        ]
+    }
+}

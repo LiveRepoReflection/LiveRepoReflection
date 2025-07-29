@@ -1,0 +1,1 @@
+from .sensor_network import optimal_coverage

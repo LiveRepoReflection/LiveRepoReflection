@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "traffic_control.go",
+            "go.mod",
+            "README.md"
+        ],
+        "example": [
+            ".meta//traffic_control.go",
+            ".meta//go.mod",
+            ".meta//README.md"
+        ],
+        "test": [
+            "traffic_control_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_control/traffic_control_test.go",
+            "traffic_control/traffic_control.go"
+        ],
+        "solution": [
+            "traffic_control/traffic_control.go",
+            "traffic_control/go.mod",
+            "traffic_control/README.md"
+        ],
+        "example": [
+            "traffic_control/.meta//traffic_control.go",
+            "traffic_control/.meta//go.mod",
+            "traffic_control/.meta//README.md"
+        ]
+    }
+}

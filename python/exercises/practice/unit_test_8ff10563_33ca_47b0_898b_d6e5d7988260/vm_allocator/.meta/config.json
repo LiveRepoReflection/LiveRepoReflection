@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "vm_allocator.py"
+        ],
+        "example": [
+            ".meta//vm_allocator.py"
+        ],
+        "test": [
+            "vm_allocator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "vm_allocator/vm_allocator_test.py"
+        ],
+        "solution": [
+            "vm_allocator/vm_allocator.py"
+        ],
+        "example": [
+            "vm_allocator/.meta//vm_allocator.py"
+        ]
+    }
+}

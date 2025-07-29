@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "node_allocator.py"
+        ],
+        "example": [
+            ".meta//node_allocator.py"
+        ],
+        "test": [
+            "node_allocator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "node_allocator/node_allocator_test.py"
+        ],
+        "solution": [
+            "node_allocator/node_allocator.py"
+        ],
+        "example": [
+            "node_allocator/.meta//node_allocator.py"
+        ]
+    }
+}

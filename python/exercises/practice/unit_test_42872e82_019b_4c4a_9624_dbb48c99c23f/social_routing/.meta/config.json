@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//social_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_social_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_routing/test_social_routing.py"
+        ],
+        "solution": [
+            "social_routing/social_routing.py",
+            "social_routing/__init__.py"
+        ],
+        "example": [
+            "social_routing/.meta//social_routing.py",
+            "social_routing/.meta//__init__.py"
+        ]
+    }
+}

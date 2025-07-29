@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_robust_routing.py"
+        ],
+        "example": [
+            ".meta//network_robust_routing.py"
+        ],
+        "test": [
+            "network_robust_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_robust_routing/network_robust_routing_test.py"
+        ],
+        "solution": [
+            "network_robust_routing/network_robust_routing.py"
+        ],
+        "example": [
+            "network_robust_routing/.meta//network_robust_routing.py"
+        ]
+    }
+}

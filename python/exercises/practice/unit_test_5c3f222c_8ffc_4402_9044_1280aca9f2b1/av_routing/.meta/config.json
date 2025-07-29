@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "av_routing.py"
+        ],
+        "example": [
+            ".meta//av_routing.py"
+        ],
+        "test": [
+            "av_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "av_routing/av_routing_test.py"
+        ],
+        "solution": [
+            "av_routing/av_routing.py"
+        ],
+        "example": [
+            "av_routing/.meta//av_routing.py"
+        ]
+    }
+}

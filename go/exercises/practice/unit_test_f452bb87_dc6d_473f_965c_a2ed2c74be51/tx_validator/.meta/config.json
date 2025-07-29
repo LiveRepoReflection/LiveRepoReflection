@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "tx_validator.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//tx_validator.go"
+        ],
+        "test": [
+            "tx_validator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_validator/tx_validator_test.go"
+        ],
+        "solution": [
+            "tx_validator/go.mod",
+            "tx_validator/tx_validator.go"
+        ],
+        "example": [
+            "tx_validator/.meta//go.mod",
+            "tx_validator/.meta//tx_validator.go"
+        ]
+    }
+}

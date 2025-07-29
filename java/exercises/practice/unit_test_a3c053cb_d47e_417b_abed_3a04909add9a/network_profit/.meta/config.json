@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkProfit.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkProfit.java"
+        ],
+        "test": [
+            "src/test/java/NetworkProfitTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_profit/src/test/java/NetworkProfitTest.java"
+        ],
+        "solution": [
+            "network_profit/build.gradle",
+            "network_profit/src/main/java/NetworkProfit.java"
+        ],
+        "example": [
+            "network_profit/.meta//build.gradle",
+            "network_profit/.meta//src/main/java/NetworkProfit.java"
+        ]
+    }
+}

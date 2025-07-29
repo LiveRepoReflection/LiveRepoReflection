@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "stream_fusion.py"
+        ],
+        "example": [
+            ".meta//stream_fusion.py"
+        ],
+        "test": [
+            "stream_fusion_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_fusion/stream_fusion_test.py"
+        ],
+        "solution": [
+            "stream_fusion/stream_fusion.py"
+        ],
+        "example": [
+            "stream_fusion/.meta//stream_fusion.py"
+        ]
+    }
+}

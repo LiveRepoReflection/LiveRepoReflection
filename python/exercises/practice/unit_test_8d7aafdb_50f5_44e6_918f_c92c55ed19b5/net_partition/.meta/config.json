@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_partition.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//net_partition.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "net_partition_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_partition/net_partition_test.py"
+        ],
+        "solution": [
+            "net_partition/net_partition.py",
+            "net_partition/__init__.py"
+        ],
+        "example": [
+            "net_partition/.meta//net_partition.py",
+            "net_partition/.meta//__init__.py"
+        ]
+    }
+}

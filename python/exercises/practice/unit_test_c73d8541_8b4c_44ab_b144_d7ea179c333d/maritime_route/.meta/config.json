@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "maritime_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//maritime_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_maritime_route.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "maritime_route/test_maritime_route.py"
+        ],
+        "solution": [
+            "maritime_route/maritime_route.py",
+            "maritime_route/__init__.py"
+        ],
+        "example": [
+            "maritime_route/.meta//maritime_route.py",
+            "maritime_route/.meta//__init__.py"
+        ]
+    }
+}

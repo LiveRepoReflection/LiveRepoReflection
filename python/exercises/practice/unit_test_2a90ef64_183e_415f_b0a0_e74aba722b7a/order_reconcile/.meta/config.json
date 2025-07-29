@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "reconcile.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//reconcile.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "order_reconcile_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_reconcile/order_reconcile_test.py"
+        ],
+        "solution": [
+            "order_reconcile/reconcile.py",
+            "order_reconcile/__init__.py"
+        ],
+        "example": [
+            "order_reconcile/.meta//reconcile.py",
+            "order_reconcile/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "tiered_rate_limit.py"
+        ],
+        "example": [
+            ".meta//tiered_rate_limit.py"
+        ],
+        "test": [
+            "tiered_rate_limit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tiered_rate_limit/tiered_rate_limit_test.py"
+        ],
+        "solution": [
+            "tiered_rate_limit/tiered_rate_limit.py"
+        ],
+        "example": [
+            "tiered_rate_limit/.meta//tiered_rate_limit.py"
+        ]
+    }
+}

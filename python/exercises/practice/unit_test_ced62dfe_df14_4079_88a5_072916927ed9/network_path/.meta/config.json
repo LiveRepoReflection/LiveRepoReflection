@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_path.py"
+        ],
+        "example": [
+            ".meta//network_path.py"
+        ],
+        "test": [
+            "network_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_path/network_path_test.py"
+        ],
+        "solution": [
+            "network_path/network_path.py"
+        ],
+        "example": [
+            "network_path/.meta//network_path.py"
+        ]
+    }
+}

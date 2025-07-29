@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_commit_opt.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_commit_opt.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_commit_opt_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_commit_opt/txn_commit_opt_test.py"
+        ],
+        "solution": [
+            "txn_commit_opt/txn_commit_opt.py",
+            "txn_commit_opt/__init__.py"
+        ],
+        "example": [
+            "txn_commit_opt/.meta//txn_commit_opt.py",
+            "txn_commit_opt/.meta//__init__.py"
+        ]
+    }
+}

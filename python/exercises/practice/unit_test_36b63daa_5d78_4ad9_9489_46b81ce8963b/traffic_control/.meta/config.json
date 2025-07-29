@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_control.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//traffic_control.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "traffic_control_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_control/traffic_control_test.py"
+        ],
+        "solution": [
+            "traffic_control/traffic_control.py",
+            "traffic_control/__init__.py"
+        ],
+        "example": [
+            "traffic_control/.meta//traffic_control.py",
+            "traffic_control/.meta//__init__.py"
+        ]
+    }
+}

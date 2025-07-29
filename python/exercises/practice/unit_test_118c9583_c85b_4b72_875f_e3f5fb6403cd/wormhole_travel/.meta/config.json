@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "find_minimum_time.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//find_minimum_time.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "wormhole_travel_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "wormhole_travel/wormhole_travel_test.py"
+        ],
+        "solution": [
+            "wormhole_travel/find_minimum_time.py",
+            "wormhole_travel/__init__.py"
+        ],
+        "example": [
+            "wormhole_travel/.meta//find_minimum_time.py",
+            "wormhole_travel/.meta//__init__.py"
+        ]
+    }
+}

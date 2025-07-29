@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "skyline_towers.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//skyline_towers.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_skyline_towers.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "skyline_towers/test_skyline_towers.py"
+        ],
+        "solution": [
+            "skyline_towers/skyline_towers.py",
+            "skyline_towers/__init__.py"
+        ],
+        "example": [
+            "skyline_towers/.meta//skyline_towers.py",
+            "skyline_towers/.meta//__init__.py"
+        ]
+    }
+}

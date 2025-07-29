@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Edge.java",
+            "src/main/java/Coordinate.java",
+            "src/main/java/RouteResult.java",
+            "src/main/java/TrafficRouter.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Edge.java",
+            ".meta//src/main/java/Coordinate.java",
+            ".meta//src/main/java/RouteResult.java",
+            ".meta//src/main/java/TrafficRouter.java"
+        ],
+        "test": [
+            "src/test/java/TrafficRouterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_router/src/test/java/TrafficRouterTest.java"
+        ],
+        "solution": [
+            "traffic_router/build.gradle",
+            "traffic_router/src/main/java/Edge.java",
+            "traffic_router/src/main/java/Coordinate.java",
+            "traffic_router/src/main/java/RouteResult.java",
+            "traffic_router/src/main/java/TrafficRouter.java"
+        ],
+        "example": [
+            "traffic_router/.meta//build.gradle",
+            "traffic_router/.meta//src/main/java/Edge.java",
+            "traffic_router/.meta//src/main/java/Coordinate.java",
+            "traffic_router/.meta//src/main/java/RouteResult.java",
+            "traffic_router/.meta//src/main/java/TrafficRouter.java"
+        ]
+    }
+}

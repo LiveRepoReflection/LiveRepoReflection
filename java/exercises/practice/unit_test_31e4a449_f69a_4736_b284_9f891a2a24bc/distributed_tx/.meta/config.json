@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DistributedTransactionManagerImpl.java",
+            "src/main/java/TransactionLog.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DistributedTransactionManagerImpl.java",
+            ".meta//src/main/java/TransactionLog.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTransactionManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/ServiceUnavailableException.java",
+            "distributed_tx/src/main/java/InventoryService.java",
+            "distributed_tx/src/main/java/OrderService.java",
+            "distributed_tx/src/main/java/OrderDetails.java",
+            "distributed_tx/src/main/java/DistributedTransactionManager.java",
+            "distributed_tx/src/test/java/DistributedTransactionManagerTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/DistributedTransactionManagerImpl.java",
+            "distributed_tx/src/main/java/TransactionLog.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/DistributedTransactionManagerImpl.java",
+            "distributed_tx/.meta//src/main/java/TransactionLog.java"
+        ]
+    }
+}

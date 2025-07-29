@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_optimization.py"
+        ],
+        "example": [
+            ".meta//traffic_optimization.py"
+        ],
+        "test": [
+            "traffic_optimization_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_optimization/traffic_optimization_test.py"
+        ],
+        "solution": [
+            "traffic_optimization/traffic_optimization.py"
+        ],
+        "example": [
+            "traffic_optimization/.meta//traffic_optimization.py"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "network_optimizer.py"
+        ],
+        "example": [
+            ".meta//network_optimizer.py"
+        ],
+        "test": [
+            "network_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_optimizer/network_optimizer_test.py",
+            "network_optimizer/__init__.py"
+        ],
+        "solution": [
+            "network_optimizer/network_optimizer.py"
+        ],
+        "example": [
+            "network_optimizer/.meta//network_optimizer.py"
+        ]
+    }
+}

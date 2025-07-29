@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "scalable_network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//scalable_network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "scalable_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "scalable_network/scalable_network_test.go"
+        ],
+        "solution": [
+            "scalable_network/scalable_network.go",
+            "scalable_network/go.mod"
+        ],
+        "example": [
+            "scalable_network/.meta//scalable_network.go",
+            "scalable_network/.meta//go.mod"
+        ]
+    }
+}

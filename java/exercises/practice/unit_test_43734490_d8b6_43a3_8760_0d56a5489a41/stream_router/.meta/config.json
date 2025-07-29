@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Stream.java",
+            "src/main/java/StreamRouter.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Stream.java",
+            ".meta//src/main/java/StreamRouter.java"
+        ],
+        "test": [
+            "src/test/java/StreamRouterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_router/src/test/java/StreamRouterTest.java"
+        ],
+        "solution": [
+            "stream_router/build.gradle",
+            "stream_router/src/main/java/Stream.java",
+            "stream_router/src/main/java/StreamRouter.java"
+        ],
+        "example": [
+            "stream_router/.meta//build.gradle",
+            "stream_router/.meta//src/main/java/Stream.java",
+            "stream_router/.meta//src/main/java/StreamRouter.java"
+        ]
+    }
+}

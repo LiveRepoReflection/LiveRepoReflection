@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_center_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//data_center_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "data_center_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_center_placement/data_center_placement_test.py"
+        ],
+        "solution": [
+            "data_center_placement/data_center_placement.py",
+            "data_center_placement/__init__.py"
+        ],
+        "example": [
+            "data_center_placement/.meta//data_center_placement.py",
+            "data_center_placement/.meta//__init__.py"
+        ]
+    }
+}

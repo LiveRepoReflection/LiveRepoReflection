@@ -1,0 +1,28 @@
+
+## Implementation Details
+
+The implementation uses a combination of data structures to efficiently maintain and query the k-th smallest value within a sliding time window:
+
+1. A dictionary of events for each metric, sorted by timestamp
+2. A dictionary of sorted values for each metric for efficient k-th smallest calculation
+3. Thread-safe operations using locks to handle concurrent event processing
+
+The solution efficiently handles:
+- Events arriving in non-deterministic order
+- Sliding time window
+- Thread-safety for concurrent processing
+- Memory management by removing expired events
+
+## Time and Space Complexity
+
+- `process_event`: O(log n) time complexity where n is the number of events for a given metric
+- `get_kth_smallest`: O(n) in worst case for cleanup + O(1) for retrieval
+- Space complexity: O(N) where N is the total number of events across all metrics within the window
+
+## Dependencies
+
+The implementation uses only standard Python libraries:
+- `heapq` for priority queue operations
+- `threading` for concurrency control
+- `collections` for defaultdict and deque
+- `bisect` for binary search and insertion

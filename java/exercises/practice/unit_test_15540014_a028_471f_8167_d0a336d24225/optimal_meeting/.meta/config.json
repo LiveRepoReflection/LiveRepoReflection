@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/OptimalMeeting.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/OptimalMeeting.java"
+        ],
+        "test": [
+            "src/test/java/OptimalMeetingTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_meeting/src/test/java/OptimalMeetingTest.java"
+        ],
+        "solution": [
+            "optimal_meeting/build.gradle",
+            "optimal_meeting/src/main/java/OptimalMeeting.java"
+        ],
+        "example": [
+            "optimal_meeting/.meta//build.gradle",
+            "optimal_meeting/.meta//src/main/java/OptimalMeeting.java"
+        ]
+    }
+}

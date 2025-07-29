@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_pathfinder.py"
+        ],
+        "example": [
+            ".meta//optimal_pathfinder.py"
+        ],
+        "test": [
+            "test_optimal_pathfinder.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_pathfinder/test_optimal_pathfinder.py"
+        ],
+        "solution": [
+            "optimal_pathfinder/optimal_pathfinder.py"
+        ],
+        "example": [
+            "optimal_pathfinder/.meta//optimal_pathfinder.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "quantum_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//quantum_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "quantum_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_routing/quantum_routing_test.py"
+        ],
+        "solution": [
+            "quantum_routing/quantum_routing.py",
+            "quantum_routing/__init__.py"
+        ],
+        "example": [
+            "quantum_routing/.meta//quantum_routing.py",
+            "quantum_routing/.meta//__init__.py"
+        ]
+    }
+}

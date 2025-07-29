@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resource_allocation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//resource_allocation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "resource_allocation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_allocation/resource_allocation_test.py"
+        ],
+        "solution": [
+            "resource_allocation/resource_allocation.py",
+            "resource_allocation/__init__.py"
+        ],
+        "example": [
+            "resource_allocation/.meta//resource_allocation.py",
+            "resource_allocation/.meta//__init__.py"
+        ]
+    }
+}

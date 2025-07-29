@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "rate_limiter.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//rate_limiter.js"
+        ],
+        "test": [
+            "rate_limiter.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limiter/rate_limiter.spec.js"
+        ],
+        "solution": [
+            "rate_limiter/package.json",
+            "rate_limiter/rate_limiter.js"
+        ],
+        "example": [
+            "rate_limiter/.meta//package.json",
+            "rate_limiter/.meta//rate_limiter.js"
+        ]
+    }
+}

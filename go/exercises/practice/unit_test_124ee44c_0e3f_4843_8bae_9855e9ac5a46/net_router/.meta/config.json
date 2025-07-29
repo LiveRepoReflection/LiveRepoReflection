@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_router.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//net_router.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "net_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_router/net_router_test.go"
+        ],
+        "solution": [
+            "net_router/net_router.go",
+            "net_router/go.mod"
+        ],
+        "example": [
+            "net_router/.meta//net_router.go",
+            "net_router/.meta//go.mod"
+        ]
+    }
+}

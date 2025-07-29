@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "edge_route.py"
+        ],
+        "example": [
+            ".meta//edge_route.py"
+        ],
+        "test": [
+            "edge_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "edge_route/edge_route_test.py"
+        ],
+        "solution": [
+            "edge_route/edge_route.py"
+        ],
+        "example": [
+            "edge_route/.meta//edge_route.py"
+        ]
+    }
+}

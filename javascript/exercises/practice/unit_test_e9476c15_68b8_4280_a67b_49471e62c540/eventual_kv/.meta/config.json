@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "eventual_kv.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//eventual_kv.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "eventual_kv.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "eventual_kv/eventual_kv.spec.js"
+        ],
+        "solution": [
+            "eventual_kv/eventual_kv.js",
+            "eventual_kv/package.json"
+        ],
+        "example": [
+            "eventual_kv/.meta//eventual_kv.js",
+            "eventual_kv/.meta//package.json"
+        ]
+    }
+}

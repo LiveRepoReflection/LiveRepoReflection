@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "airport_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//airport_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_airport_placement.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "airport_placement/test_airport_placement.py"
+        ],
+        "solution": [
+            "airport_placement/airport_placement.py",
+            "airport_placement/__init__.py"
+        ],
+        "example": [
+            "airport_placement/.meta//airport_placement.py",
+            "airport_placement/.meta//__init__.py"
+        ]
+    }
+}

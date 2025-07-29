@@ -1,0 +1,12 @@
+{
+  "name": "rate_limit",
+  "version": "1.0.0",
+  "description": "Distributed Rate Limiter using token bucket algorithm with a simulated Redis backend",
+  "main": "rate_limit.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

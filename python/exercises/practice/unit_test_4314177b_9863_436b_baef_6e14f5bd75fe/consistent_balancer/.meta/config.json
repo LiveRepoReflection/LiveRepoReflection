@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consistent_balancer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//consistent_balancer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_consistent_balancer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_balancer/test_consistent_balancer.py"
+        ],
+        "solution": [
+            "consistent_balancer/consistent_balancer.py",
+            "consistent_balancer/__init__.py"
+        ],
+        "example": [
+            "consistent_balancer/.meta//consistent_balancer.py",
+            "consistent_balancer/.meta//__init__.py"
+        ]
+    }
+}

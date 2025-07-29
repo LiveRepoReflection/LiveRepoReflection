@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs",
+            "src/main.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs",
+            ".meta//src/main.rs"
+        ],
+        "test": [
+            "tests/paxos_sim_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "paxos_sim/Cargo.toml",
+            "paxos_sim/src/lib.rs",
+            "paxos_sim/tests/paxos_sim_test.rs"
+        ],
+        "solution": [
+            "paxos_sim/Cargo.toml",
+            "paxos_sim/src/lib.rs",
+            "paxos_sim/src/main.rs"
+        ],
+        "example": [
+            "paxos_sim/.meta//Cargo.toml",
+            "paxos_sim/.meta//src/lib.rs",
+            "paxos_sim/.meta//src/main.rs"
+        ]
+    }
+}

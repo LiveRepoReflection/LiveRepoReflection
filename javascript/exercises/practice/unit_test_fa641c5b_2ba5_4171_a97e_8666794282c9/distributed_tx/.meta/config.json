@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "distributed_tx.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//distributed_tx.js"
+        ],
+        "test": [
+            "distributed_tx.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/distributed_tx.spec.js"
+        ],
+        "solution": [
+            "distributed_tx/package.json",
+            "distributed_tx/distributed_tx.js"
+        ],
+        "example": [
+            "distributed_tx/.meta//package.json",
+            "distributed_tx/.meta//distributed_tx.js"
+        ]
+    }
+}

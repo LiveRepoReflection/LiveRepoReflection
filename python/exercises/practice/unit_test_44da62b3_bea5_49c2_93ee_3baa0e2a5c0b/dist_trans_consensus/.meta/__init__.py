@@ -1,0 +1,1 @@
+from .dist_trans_consensus import process_transaction

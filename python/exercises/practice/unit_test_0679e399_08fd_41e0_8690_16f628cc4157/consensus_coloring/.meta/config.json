@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "consensus_coloring.py"
+        ],
+        "example": [
+            ".meta//consensus_coloring.py"
+        ],
+        "test": [
+            "consensus_coloring_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consensus_coloring/consensus_coloring_test.py"
+        ],
+        "solution": [
+            "consensus_coloring/consensus_coloring.py"
+        ],
+        "example": [
+            "consensus_coloring/.meta//consensus_coloring.py"
+        ]
+    }
+}

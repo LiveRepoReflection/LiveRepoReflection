@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "tx_ordering.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//tx_ordering.go",
+            ".meta//tx_ordering_test.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "tx_ordering_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_ordering/tx_ordering_test.go",
+            "tx_ordering/tx_ordering.go",
+            "tx_ordering/go.mod"
+        ],
+        "solution": [
+            "tx_ordering/tx_ordering.go",
+            "tx_ordering/tx_ordering_test.go",
+            "tx_ordering/go.mod"
+        ],
+        "example": [
+            "tx_ordering/.meta//tx_ordering.go",
+            "tx_ordering/.meta//tx_ordering_test.go",
+            "tx_ordering/.meta//go.mod"
+        ]
+    }
+}

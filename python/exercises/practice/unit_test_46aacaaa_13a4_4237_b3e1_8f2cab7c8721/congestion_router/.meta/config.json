@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "congestion_router.py"
+        ],
+        "example": [
+            ".meta//congestion_router.py"
+        ],
+        "test": [
+            "congestion_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "congestion_router/congestion_router_test.py"
+        ],
+        "solution": [
+            "congestion_router/congestion_router.py"
+        ],
+        "example": [
+            "congestion_router/.meta//congestion_router.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "compile_circuit.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//compile_circuit.py"
+        ],
+        "test": [
+            "quantum_compile_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_compile/quantum_compile_test.py"
+        ],
+        "solution": [
+            "quantum_compile/__init__.py",
+            "quantum_compile/compile_circuit.py"
+        ],
+        "example": [
+            "quantum_compile/.meta//__init__.py",
+            "quantum_compile/.meta//compile_circuit.py"
+        ]
+    }
+}

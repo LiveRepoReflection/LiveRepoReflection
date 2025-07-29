@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "partition.go"
+        ],
+        "example": [
+            ".meta//partition.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "partition_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_partition/cases_test.go",
+            "net_partition/partition_test.go",
+            "net_partition/go.mod"
+        ],
+        "solution": [
+            "net_partition/partition.go"
+        ],
+        "example": [
+            "net_partition/.meta//partition.go"
+        ]
+    }
+}

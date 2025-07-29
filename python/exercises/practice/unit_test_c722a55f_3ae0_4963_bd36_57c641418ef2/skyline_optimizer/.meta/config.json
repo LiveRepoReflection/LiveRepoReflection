@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "skyline_optimizer.py"
+        ],
+        "example": [
+            ".meta//skyline_optimizer.py"
+        ],
+        "test": [
+            "skyline_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "skyline_optimizer/skyline_optimizer_test.py"
+        ],
+        "solution": [
+            "skyline_optimizer/skyline_optimizer.py"
+        ],
+        "example": [
+            "skyline_optimizer/.meta//skyline_optimizer.py"
+        ]
+    }
+}

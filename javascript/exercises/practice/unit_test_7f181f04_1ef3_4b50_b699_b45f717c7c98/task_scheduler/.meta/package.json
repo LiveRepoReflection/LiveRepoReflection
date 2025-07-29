@@ -1,0 +1,11 @@
+{
+  "name": "task_scheduler",
+  "version": "1.0.0",
+  "description": "Task scheduler for optimizing tasks with dependencies and deadlines",
+  "main": "task_scheduler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT"
+}

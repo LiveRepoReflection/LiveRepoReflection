@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "parallel_process.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//parallel_process.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "parallel_process_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "parallel_process/parallel_process_test.py"
+        ],
+        "solution": [
+            "parallel_process/parallel_process.py",
+            "parallel_process/__init__.py"
+        ],
+        "example": [
+            "parallel_process/.meta//parallel_process.py",
+            "parallel_process/.meta//__init__.py"
+        ]
+    }
+}

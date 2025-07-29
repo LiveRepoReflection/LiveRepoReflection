@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_sim.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_sim.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_sim_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_sim/network_sim_test.go"
+        ],
+        "solution": [
+            "network_sim/network_sim.go",
+            "network_sim/go.mod"
+        ],
+        "example": [
+            "network_sim/.meta//network_sim.go",
+            "network_sim/.meta//go.mod"
+        ]
+    }
+}

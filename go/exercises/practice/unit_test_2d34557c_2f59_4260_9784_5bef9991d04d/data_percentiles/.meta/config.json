@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "analytics_platform.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//analytics_platform.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "data_percentiles_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_percentiles/data_percentiles_test.go"
+        ],
+        "solution": [
+            "data_percentiles/analytics_platform.go",
+            "data_percentiles/go.mod"
+        ],
+        "example": [
+            "data_percentiles/.meta//analytics_platform.go",
+            "data_percentiles/.meta//go.mod"
+        ]
+    }
+}

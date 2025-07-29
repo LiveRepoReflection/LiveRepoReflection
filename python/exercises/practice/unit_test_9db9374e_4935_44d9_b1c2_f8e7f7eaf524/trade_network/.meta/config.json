@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "trade_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//trade_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_trade_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "trade_network/test_trade_network.py"
+        ],
+        "solution": [
+            "trade_network/trade_network.py",
+            "trade_network/__init__.py"
+        ],
+        "example": [
+            "trade_network/.meta//trade_network.py",
+            "trade_network/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consistent_balancer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//consistent_balancer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "consistent_balancer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_balancer/consistent_balancer_test.go"
+        ],
+        "solution": [
+            "consistent_balancer/consistent_balancer.go",
+            "consistent_balancer/go.mod"
+        ],
+        "example": [
+            "consistent_balancer/.meta//consistent_balancer.go",
+            "consistent_balancer/.meta//go.mod"
+        ]
+    }
+}

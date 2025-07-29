@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_relief.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//net_relief.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "net_relief_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_relief/net_relief_test.py"
+        ],
+        "solution": [
+            "net_relief/net_relief.py",
+            "net_relief/__init__.py"
+        ],
+        "example": [
+            "net_relief/.meta//net_relief.py",
+            "net_relief/.meta//__init__.py"
+        ]
+    }
+}

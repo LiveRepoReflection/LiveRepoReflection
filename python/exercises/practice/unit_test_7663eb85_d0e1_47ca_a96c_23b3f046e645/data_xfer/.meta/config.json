@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "data_xfer.py"
+        ],
+        "example": [
+            ".meta//data_xfer.py"
+        ],
+        "test": [
+            "data_xfer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_xfer/data_xfer_test.py"
+        ],
+        "solution": [
+            "data_xfer/data_xfer.py"
+        ],
+        "example": [
+            "data_xfer/.meta//data_xfer.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_ratelimit.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//distributed_ratelimit.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "distributed_ratelimit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_ratelimit/distributed_ratelimit_test.go"
+        ],
+        "solution": [
+            "distributed_ratelimit/distributed_ratelimit.go",
+            "distributed_ratelimit/go.mod"
+        ],
+        "example": [
+            "distributed_ratelimit/.meta//distributed_ratelimit.go",
+            "distributed_ratelimit/.meta//go.mod"
+        ]
+    }
+}

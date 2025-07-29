@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "task_orchestrator.go"
+        ],
+        "example": [
+            ".meta//task_orchestrator.go"
+        ],
+        "test": [
+            "task_orchestrator_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_orchestrator/task_orchestrator_test.go",
+            "task_orchestrator/cases_test.go",
+            "task_orchestrator/go.mod"
+        ],
+        "solution": [
+            "task_orchestrator/task_orchestrator.go"
+        ],
+        "example": [
+            "task_orchestrator/.meta//task_orchestrator.go"
+        ]
+    }
+}

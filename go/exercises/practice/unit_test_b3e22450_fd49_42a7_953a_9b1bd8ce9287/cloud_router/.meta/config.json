@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "cloud_router.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//cloud_router.go"
+        ],
+        "test": [
+            "cloud_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "cloud_router/cloud_router_test.go"
+        ],
+        "solution": [
+            "cloud_router/go.mod",
+            "cloud_router/cloud_router.go"
+        ],
+        "example": [
+            "cloud_router/.meta//go.mod",
+            "cloud_router/.meta//cloud_router.go"
+        ]
+    }
+}

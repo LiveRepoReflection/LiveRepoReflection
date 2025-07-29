@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "path_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//path_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_path_optimizer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "path_optimizer/test_path_optimizer.py"
+        ],
+        "solution": [
+            "path_optimizer/path_optimizer.py",
+            "path_optimizer/__init__.py"
+        ],
+        "example": [
+            "path_optimizer/.meta//path_optimizer.py",
+            "path_optimizer/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "orderbook_backtest.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//orderbook_backtest.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "orderbook_backtest_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "orderbook_backtest/orderbook_backtest_test.py"
+        ],
+        "solution": [
+            "orderbook_backtest/orderbook_backtest.py",
+            "orderbook_backtest/__init__.py"
+        ],
+        "example": [
+            "orderbook_backtest/.meta//orderbook_backtest.py",
+            "orderbook_backtest/.meta//__init__.py"
+        ]
+    }
+}

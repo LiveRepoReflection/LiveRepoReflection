@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "minimize_max_latency.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//minimize_max_latency.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_reconfigure_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reconfigure/network_reconfigure_test.py"
+        ],
+        "solution": [
+            "network_reconfigure/minimize_max_latency.py",
+            "network_reconfigure/__init__.py"
+        ],
+        "example": [
+            "network_reconfigure/.meta//minimize_max_latency.py",
+            "network_reconfigure/.meta//__init__.py"
+        ]
+    }
+}

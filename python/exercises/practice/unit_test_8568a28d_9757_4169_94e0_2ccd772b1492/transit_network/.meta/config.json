@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transit_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transit_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transit_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transit_network/transit_network_test.py"
+        ],
+        "solution": [
+            "transit_network/transit_network.py",
+            "transit_network/__init__.py"
+        ],
+        "example": [
+            "transit_network/.meta//transit_network.py",
+            "transit_network/.meta//__init__.py"
+        ]
+    }
+}

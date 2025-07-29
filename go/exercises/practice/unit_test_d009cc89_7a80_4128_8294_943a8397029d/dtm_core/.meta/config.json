@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtm_core.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dtm_core.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dtm_core_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_core/dtm_core_test.go"
+        ],
+        "solution": [
+            "dtm_core/dtm_core.go",
+            "dtm_core/go.mod"
+        ],
+        "example": [
+            "dtm_core/.meta//dtm_core.go",
+            "dtm_core/.meta//go.mod"
+        ]
+    }
+}

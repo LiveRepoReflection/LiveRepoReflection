@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "city_logistics.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//city_logistics.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "city_logistics_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_logistics/city_logistics_test.py"
+        ],
+        "solution": [
+            "city_logistics/city_logistics.py",
+            "city_logistics/__init__.py"
+        ],
+        "example": [
+            "city_logistics/.meta//city_logistics.py",
+            "city_logistics/.meta//__init__.py"
+        ]
+    }
+}

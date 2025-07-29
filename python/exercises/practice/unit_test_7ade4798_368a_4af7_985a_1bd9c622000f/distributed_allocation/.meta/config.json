@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_allocation.py"
+        ],
+        "example": [
+            ".meta//distributed_allocation.py"
+        ],
+        "test": [
+            "distributed_allocation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_allocation/distributed_allocation_test.py"
+        ],
+        "solution": [
+            "distributed_allocation/distributed_allocation.py"
+        ],
+        "example": [
+            "distributed_allocation/.meta//distributed_allocation.py"
+        ]
+    }
+}

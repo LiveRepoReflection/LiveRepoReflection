@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_coordinator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_coordinator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_tx_orchestrator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_orchestrator/test_tx_orchestrator.py"
+        ],
+        "solution": [
+            "tx_orchestrator/transaction_coordinator.py",
+            "tx_orchestrator/__init__.py"
+        ],
+        "example": [
+            "tx_orchestrator/.meta//transaction_coordinator.py",
+            "tx_orchestrator/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "cdn_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//cdn_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_cdn_optimizer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "cdn_optimizer/test_cdn_optimizer.py"
+        ],
+        "solution": [
+            "cdn_optimizer/cdn_optimizer.py",
+            "cdn_optimizer/__init__.py"
+        ],
+        "example": [
+            "cdn_optimizer/.meta//cdn_optimizer.py",
+            "cdn_optimizer/.meta//__init__.py"
+        ]
+    }
+}

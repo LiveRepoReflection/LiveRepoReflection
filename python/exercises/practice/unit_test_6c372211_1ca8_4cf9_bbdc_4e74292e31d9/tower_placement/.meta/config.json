@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "tower_placement.py"
+        ],
+        "example": [
+            ".meta//tower_placement.py"
+        ],
+        "test": [
+            "tower_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tower_placement/tower_placement_test.py"
+        ],
+        "solution": [
+            "tower_placement/tower_placement.py"
+        ],
+        "example": [
+            "tower_placement/.meta//tower_placement.py"
+        ]
+    }
+}

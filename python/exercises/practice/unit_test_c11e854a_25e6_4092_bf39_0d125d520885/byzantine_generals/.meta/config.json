@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_generals.py"
+        ],
+        "example": [
+            ".meta//byzantine_generals.py"
+        ],
+        "test": [
+            "test_byzantine_generals.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_generals/test_byzantine_generals.py"
+        ],
+        "solution": [
+            "byzantine_generals/byzantine_generals.py"
+        ],
+        "example": [
+            "byzantine_generals/.meta//byzantine_generals.py"
+        ]
+    }
+}

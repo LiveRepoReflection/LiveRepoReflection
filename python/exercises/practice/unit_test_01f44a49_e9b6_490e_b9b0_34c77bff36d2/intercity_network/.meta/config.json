@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "intercity_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//intercity_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_intercity_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "intercity_network/test_intercity_network.py"
+        ],
+        "solution": [
+            "intercity_network/intercity_network.py",
+            "intercity_network/__init__.py"
+        ],
+        "example": [
+            "intercity_network/.meta//intercity_network.py",
+            "intercity_network/.meta//__init__.py"
+        ]
+    }
+}

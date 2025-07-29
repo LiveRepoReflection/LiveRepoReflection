@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_validator.h",
+            "txn_validator.cpp"
+        ],
+        "example": [
+            ".meta//txn_validator.h",
+            ".meta//txn_validator.cpp"
+        ],
+        "test": [
+            "txn_validator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_validator/txn_validator_test.cpp"
+        ],
+        "solution": [
+            "txn_validator/txn_validator.h",
+            "txn_validator/txn_validator.cpp"
+        ],
+        "example": [
+            "txn_validator/.meta//txn_validator.h",
+            "txn_validator/.meta//txn_validator.cpp"
+        ]
+    }
+}

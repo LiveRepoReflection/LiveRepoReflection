@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_validator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_validator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_validator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_validator/txn_validator_test.py"
+        ],
+        "solution": [
+            "txn_validator/txn_validator.py",
+            "txn_validator/__init__.py"
+        ],
+        "example": [
+            "txn_validator/.meta//txn_validator.py",
+            "txn_validator/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_scan.py"
+        ],
+        "example": [
+            ".meta//network_scan.py"
+        ],
+        "test": [
+            "network_scan_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_scan/network_scan_test.py"
+        ],
+        "solution": [
+            "network_scan/network_scan.py"
+        ],
+        "example": [
+            "network_scan/.meta//network_scan.py"
+        ]
+    }
+}

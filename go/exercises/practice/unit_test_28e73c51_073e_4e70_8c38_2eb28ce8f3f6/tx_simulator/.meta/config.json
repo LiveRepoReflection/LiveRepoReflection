@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "tx_simulator.go",
+            "go.mod",
+            "concurrent_simulator.go"
+        ],
+        "example": [
+            ".meta//tx_simulator.go",
+            ".meta//tx_simulator_test.go",
+            ".meta//go.mod",
+            ".meta//concurrent_simulator.go"
+        ],
+        "test": [
+            "tx_simulator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_simulator/tx_simulator_test.go",
+            "tx_simulator/go.mod"
+        ],
+        "solution": [
+            "tx_simulator/tx_simulator.go",
+            "tx_simulator/tx_simulator_test.go",
+            "tx_simulator/go.mod",
+            "tx_simulator/concurrent_simulator.go"
+        ],
+        "example": [
+            "tx_simulator/.meta//tx_simulator.go",
+            "tx_simulator/.meta//tx_simulator_test.go",
+            "tx_simulator/.meta//go.mod",
+            "tx_simulator/.meta//concurrent_simulator.go"
+        ]
+    }
+}

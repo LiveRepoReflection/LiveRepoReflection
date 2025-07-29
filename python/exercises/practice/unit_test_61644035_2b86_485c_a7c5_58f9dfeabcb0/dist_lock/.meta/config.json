@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_lock.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dist_lock.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dist_lock.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_lock/test_dist_lock.py"
+        ],
+        "solution": [
+            "dist_lock/dist_lock.py",
+            "dist_lock/__init__.py"
+        ],
+        "example": [
+            "dist_lock/.meta//dist_lock.py",
+            "dist_lock/.meta//__init__.py"
+        ]
+    }
+}

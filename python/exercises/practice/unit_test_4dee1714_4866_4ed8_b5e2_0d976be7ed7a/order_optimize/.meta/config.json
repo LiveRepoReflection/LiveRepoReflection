@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_optimize.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//order_optimize.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_order_optimize.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_optimize/test_order_optimize.py"
+        ],
+        "solution": [
+            "order_optimize/order_optimize.py",
+            "order_optimize/__init__.py"
+        ],
+        "example": [
+            "order_optimize/.meta//order_optimize.py",
+            "order_optimize/.meta//__init__.py"
+        ]
+    }
+}

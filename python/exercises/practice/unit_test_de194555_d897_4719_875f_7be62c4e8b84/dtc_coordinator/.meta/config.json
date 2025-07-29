@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtc_coordinator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dtc_coordinator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dtc_coordinator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_coordinator/dtc_coordinator_test.py"
+        ],
+        "solution": [
+            "dtc_coordinator/dtc_coordinator.py",
+            "dtc_coordinator/__init__.py"
+        ],
+        "example": [
+            "dtc_coordinator/.meta//dtc_coordinator.py",
+            "dtc_coordinator/.meta//__init__.py"
+        ]
+    }
+}

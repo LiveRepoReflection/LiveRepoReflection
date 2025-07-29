@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "critical_nodes.py"
+        ],
+        "example": [
+            ".meta//critical_nodes.py"
+        ],
+        "test": [
+            "critical_nodes_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "critical_nodes/critical_nodes_test.py"
+        ],
+        "solution": [
+            "critical_nodes/critical_nodes.py"
+        ],
+        "example": [
+            "critical_nodes/.meta//critical_nodes.py"
+        ]
+    }
+}

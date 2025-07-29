@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_reach.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_reach.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_reach_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_reach/social_reach_test.go"
+        ],
+        "solution": [
+            "social_reach/social_reach.go",
+            "social_reach/go.mod"
+        ],
+        "example": [
+            "social_reach/.meta//social_reach.go",
+            "social_reach/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_weaver.py"
+        ],
+        "example": [
+            ".meta//task_weaver.py"
+        ],
+        "test": [
+            "task_weaver_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_weaver/task_weaver_test.py"
+        ],
+        "solution": [
+            "task_weaver/task_weaver.py"
+        ],
+        "example": [
+            "task_weaver/.meta//task_weaver.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "congestion_sim.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//congestion_sim.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "congestion_sim_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "congestion_sim/congestion_sim_test.py"
+        ],
+        "solution": [
+            "congestion_sim/congestion_sim.py",
+            "congestion_sim/__init__.py"
+        ],
+        "example": [
+            "congestion_sim/.meta//congestion_sim.py",
+            "congestion_sim/.meta//__init__.py"
+        ]
+    }
+}

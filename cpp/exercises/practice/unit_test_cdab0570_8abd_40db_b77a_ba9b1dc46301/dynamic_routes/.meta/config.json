@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_routes.h",
+            "dynamic_routes.cpp"
+        ],
+        "example": [
+            ".meta//dynamic_routes.h",
+            ".meta//dynamic_routes.cpp"
+        ],
+        "test": [
+            "dynamic_routes_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_routes/dynamic_routes_test.cpp"
+        ],
+        "solution": [
+            "dynamic_routes/dynamic_routes.h",
+            "dynamic_routes/dynamic_routes.cpp"
+        ],
+        "example": [
+            "dynamic_routes/.meta//dynamic_routes.h",
+            "dynamic_routes/.meta//dynamic_routes.cpp"
+        ]
+    }
+}

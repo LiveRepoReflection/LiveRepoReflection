@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_recommender.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_recommender.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_recommender_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_recommender/social_recommender_test.go"
+        ],
+        "solution": [
+            "social_recommender/social_recommender.go",
+            "social_recommender/go.mod"
+        ],
+        "example": [
+            "social_recommender/.meta//social_recommender.go",
+            "social_recommender/.meta//go.mod"
+        ]
+    }
+}

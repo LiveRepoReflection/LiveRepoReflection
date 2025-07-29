@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "bottleneck_paths.h",
+            "bottleneck_paths.cpp"
+        ],
+        "example": [
+            ".meta//bottleneck_paths.h",
+            ".meta//bottleneck_paths.cpp"
+        ],
+        "test": [
+            "bottleneck_paths_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "bottleneck_paths/bottleneck_paths_test.cpp"
+        ],
+        "solution": [
+            "bottleneck_paths/bottleneck_paths.h",
+            "bottleneck_paths/bottleneck_paths.cpp"
+        ],
+        "example": [
+            "bottleneck_paths/.meta//bottleneck_paths.h",
+            "bottleneck_paths/.meta//bottleneck_paths.cpp"
+        ]
+    }
+}

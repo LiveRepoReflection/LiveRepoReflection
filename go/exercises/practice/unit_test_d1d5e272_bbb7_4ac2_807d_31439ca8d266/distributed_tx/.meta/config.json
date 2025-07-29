@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "distributed_tx.go",
+            "errors.go"
+        ],
+        "example": [
+            ".meta//distributed_tx.go",
+            ".meta//errors.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "distributed_tx_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/cases_test.go",
+            "distributed_tx/distributed_tx_test.go",
+            "distributed_tx/go.mod"
+        ],
+        "solution": [
+            "distributed_tx/distributed_tx.go",
+            "distributed_tx/errors.go"
+        ],
+        "example": [
+            "distributed_tx/.meta//distributed_tx.go",
+            "distributed_tx/.meta//errors.go"
+        ]
+    }
+}

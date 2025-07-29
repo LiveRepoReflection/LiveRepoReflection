@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dist_tx_consensus.py"
+        ],
+        "example": [
+            ".meta//dist_tx_consensus.py"
+        ],
+        "test": [
+            "dist_tx_consensus_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_consensus/dist_tx_consensus_test.py"
+        ],
+        "solution": [
+            "dist_tx_consensus/dist_tx_consensus.py"
+        ],
+        "example": [
+            "dist_tx_consensus/.meta//dist_tx_consensus.py"
+        ]
+    }
+}

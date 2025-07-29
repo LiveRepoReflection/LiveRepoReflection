@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/MultiShortestPath.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/MultiShortestPath.java"
+        ],
+        "test": [
+            "src/test/java/MultiShortestPathTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_shortest_path/src/test/java/MultiShortestPathTest.java"
+        ],
+        "solution": [
+            "multi_shortest_path/build.gradle",
+            "multi_shortest_path/src/main/java/MultiShortestPath.java"
+        ],
+        "example": [
+            "multi_shortest_path/.meta//build.gradle",
+            "multi_shortest_path/.meta//src/main/java/MultiShortestPath.java"
+        ]
+    }
+}

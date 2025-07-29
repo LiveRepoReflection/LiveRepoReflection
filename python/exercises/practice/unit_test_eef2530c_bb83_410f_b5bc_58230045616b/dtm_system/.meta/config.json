@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtm_system.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dtm_system.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dtm_system_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_system/dtm_system_test.py"
+        ],
+        "solution": [
+            "dtm_system/dtm_system.py",
+            "dtm_system/__init__.py"
+        ],
+        "example": [
+            "dtm_system/.meta//dtm_system.py",
+            "dtm_system/.meta//__init__.py"
+        ]
+    }
+}

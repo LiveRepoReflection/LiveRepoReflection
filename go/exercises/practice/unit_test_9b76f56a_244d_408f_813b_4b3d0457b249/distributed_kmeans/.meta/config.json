@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "distributed_kmeans.go",
+            "go.mod",
+            "worker.go"
+        ],
+        "example": [
+            ".meta//distributed_kmeans.go",
+            ".meta//go.mod",
+            ".meta//worker.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "distributed_kmeans_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_kmeans/cases_test.go",
+            "distributed_kmeans/distributed_kmeans_test.go",
+            "distributed_kmeans/go.mod"
+        ],
+        "solution": [
+            "distributed_kmeans/distributed_kmeans.go",
+            "distributed_kmeans/go.mod",
+            "distributed_kmeans/worker.go"
+        ],
+        "example": [
+            "distributed_kmeans/.meta//distributed_kmeans.go",
+            "distributed_kmeans/.meta//go.mod",
+            "distributed_kmeans/.meta//worker.go"
+        ]
+    }
+}

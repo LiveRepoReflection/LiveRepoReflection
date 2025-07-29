@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_graph.go"
+        ],
+        "example": [
+            ".meta//dynamic_graph.go"
+        ],
+        "test": [
+            "dynamic_graph_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_graph/dynamic_graph_test.go",
+            "dynamic_graph/go.mod"
+        ],
+        "solution": [
+            "dynamic_graph/dynamic_graph.go"
+        ],
+        "example": [
+            "dynamic_graph/.meta//dynamic_graph.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_sync.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//traffic_sync.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "traffic_sync_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_sync/traffic_sync_test.go"
+        ],
+        "solution": [
+            "traffic_sync/traffic_sync.go",
+            "traffic_sync/go.mod"
+        ],
+        "example": [
+            "traffic_sync/.meta//traffic_sync.go",
+            "traffic_sync/.meta//go.mod"
+        ]
+    }
+}

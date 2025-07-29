@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "realtime_analytics.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//realtime_analytics.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "realtime_analytics_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "realtime_analytics/realtime_analytics_test.py"
+        ],
+        "solution": [
+            "realtime_analytics/realtime_analytics.py",
+            "realtime_analytics/__init__.py"
+        ],
+        "example": [
+            "realtime_analytics/.meta//realtime_analytics.py",
+            "realtime_analytics/.meta//__init__.py"
+        ]
+    }
+}

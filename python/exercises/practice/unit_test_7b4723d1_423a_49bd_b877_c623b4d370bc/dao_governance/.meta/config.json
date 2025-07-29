@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dao_governance.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dao_governance.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dao_governance_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_governance/dao_governance_test.py"
+        ],
+        "solution": [
+            "dao_governance/dao_governance.py",
+            "dao_governance/__init__.py"
+        ],
+        "example": [
+            "dao_governance/.meta//dao_governance.py",
+            "dao_governance/.meta//__init__.py"
+        ]
+    }
+}

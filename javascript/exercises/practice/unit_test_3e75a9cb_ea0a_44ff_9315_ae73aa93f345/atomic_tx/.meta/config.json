@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "atomic_tx.js",
+            "package.json",
+            "jest.config.js"
+        ],
+        "example": [
+            ".meta//atomic_tx.js",
+            ".meta//package.json",
+            ".meta//jest.config.js"
+        ],
+        "test": [
+            "test/atomic_tx.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "atomic_tx/test/atomic_tx.spec.js"
+        ],
+        "solution": [
+            "atomic_tx/atomic_tx.js",
+            "atomic_tx/package.json",
+            "atomic_tx/jest.config.js"
+        ],
+        "example": [
+            "atomic_tx/.meta//atomic_tx.js",
+            "atomic_tx/.meta//package.json",
+            "atomic_tx/.meta//jest.config.js"
+        ]
+    }
+}

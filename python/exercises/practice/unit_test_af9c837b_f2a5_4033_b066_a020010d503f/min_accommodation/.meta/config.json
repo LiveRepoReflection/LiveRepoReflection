@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "min_accommodation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//min_accommodation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_min_accommodation.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "min_accommodation/test_min_accommodation.py"
+        ],
+        "solution": [
+            "min_accommodation/min_accommodation.py",
+            "min_accommodation/__init__.py"
+        ],
+        "example": [
+            "min_accommodation/.meta//min_accommodation.py",
+            "min_accommodation/.meta//__init__.py"
+        ]
+    }
+}

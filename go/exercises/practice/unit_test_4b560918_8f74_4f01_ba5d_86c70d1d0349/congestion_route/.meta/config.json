@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "congestion_route.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//congestion_route.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "congestion_route_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "congestion_route/congestion_route_test.go"
+        ],
+        "solution": [
+            "congestion_route/congestion_route.go",
+            "congestion_route/go.mod"
+        ],
+        "example": [
+            "congestion_route/.meta//congestion_route.go",
+            "congestion_route/.meta//go.mod"
+        ]
+    }
+}

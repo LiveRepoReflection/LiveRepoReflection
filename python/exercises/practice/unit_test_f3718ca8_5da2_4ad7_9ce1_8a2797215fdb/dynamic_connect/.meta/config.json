@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_connect.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dynamic_connect.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dynamic_connect_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_connect/dynamic_connect_test.py"
+        ],
+        "solution": [
+            "dynamic_connect/dynamic_connect.py",
+            "dynamic_connect/__init__.py"
+        ],
+        "example": [
+            "dynamic_connect/.meta//dynamic_connect.py",
+            "dynamic_connect/.meta//__init__.py"
+        ]
+    }
+}

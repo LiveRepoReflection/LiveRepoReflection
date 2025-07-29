@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "txn_orch.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//txn_orch.py"
+        ],
+        "test": [
+            "txn_orch_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_orch/txn_orch_test.py"
+        ],
+        "solution": [
+            "txn_orch/__init__.py",
+            "txn_orch/txn_orch.py"
+        ],
+        "example": [
+            "txn_orch/.meta//__init__.py",
+            "txn_orch/.meta//txn_orch.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "emergency_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//emergency_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_emergency_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "emergency_routing/test_emergency_routing.py"
+        ],
+        "solution": [
+            "emergency_routing/emergency_routing.py",
+            "emergency_routing/__init__.py"
+        ],
+        "example": [
+            "emergency_routing/.meta//emergency_routing.py",
+            "emergency_routing/.meta//__init__.py"
+        ]
+    }
+}

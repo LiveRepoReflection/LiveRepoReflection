@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TrafficSync.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TrafficSync.java"
+        ],
+        "test": [
+            "src/test/java/TrafficSyncTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_sync/src/test/java/TrafficSyncTest.java"
+        ],
+        "solution": [
+            "traffic_sync/build.gradle",
+            "traffic_sync/src/main/java/TrafficSync.java"
+        ],
+        "example": [
+            "traffic_sync/.meta//build.gradle",
+            "traffic_sync/.meta//src/main/java/TrafficSync.java"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_control.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//net_control.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "net_control_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_control/net_control_test.py"
+        ],
+        "solution": [
+            "net_control/net_control.py",
+            "net_control/__init__.py"
+        ],
+        "example": [
+            "net_control/.meta//net_control.py",
+            "net_control/.meta//__init__.py"
+        ]
+    }
+}

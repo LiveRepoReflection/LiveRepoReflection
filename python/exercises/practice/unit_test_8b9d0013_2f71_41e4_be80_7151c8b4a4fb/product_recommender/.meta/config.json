@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "product_recommender.py"
+        ],
+        "example": [
+            ".meta//product_recommender.py"
+        ],
+        "test": [
+            "product_recommender_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "product_recommender/product_recommender_test.py"
+        ],
+        "solution": [
+            "product_recommender/product_recommender.py"
+        ],
+        "example": [
+            "product_recommender/.meta//product_recommender.py"
+        ]
+    }
+}

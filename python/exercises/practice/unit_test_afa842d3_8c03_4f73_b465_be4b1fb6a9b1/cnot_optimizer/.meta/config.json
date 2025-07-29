@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "cnot_optimizer.py"
+        ],
+        "example": [
+            ".meta//cnot_optimizer.py"
+        ],
+        "test": [
+            "cnot_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "cnot_optimizer/cnot_optimizer_test.py"
+        ],
+        "solution": [
+            "cnot_optimizer/cnot_optimizer.py"
+        ],
+        "example": [
+            "cnot_optimizer/.meta//cnot_optimizer.py"
+        ]
+    }
+}

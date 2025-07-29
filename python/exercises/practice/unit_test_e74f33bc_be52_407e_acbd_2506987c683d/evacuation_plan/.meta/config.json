@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "evacuation_plan.py"
+        ],
+        "example": [
+            ".meta//evacuation_plan.py"
+        ],
+        "test": [
+            "evacuation_plan_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "evacuation_plan/evacuation_plan_test.py"
+        ],
+        "solution": [
+            "evacuation_plan/evacuation_plan.py"
+        ],
+        "example": [
+            "evacuation_plan/.meta//evacuation_plan.py"
+        ]
+    }
+}

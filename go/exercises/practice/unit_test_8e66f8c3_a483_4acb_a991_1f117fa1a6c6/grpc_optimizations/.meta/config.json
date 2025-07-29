@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "grpc_optimizations.go",
+            "grpc_optimizations_mock.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//grpc_optimizations.go",
+            ".meta//grpc_optimizations_mock.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "grpc_optimizations_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "grpc_optimizations/grpc_optimizations_test.go",
+            "grpc_optimizations/go.mod"
+        ],
+        "solution": [
+            "grpc_optimizations/grpc_optimizations.go",
+            "grpc_optimizations/grpc_optimizations_mock.go",
+            "grpc_optimizations/go.mod"
+        ],
+        "example": [
+            "grpc_optimizations/.meta//grpc_optimizations.go",
+            "grpc_optimizations/.meta//grpc_optimizations_mock.go",
+            "grpc_optimizations/.meta//go.mod"
+        ]
+    }
+}

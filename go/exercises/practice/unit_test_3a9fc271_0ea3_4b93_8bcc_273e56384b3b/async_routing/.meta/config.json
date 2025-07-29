@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "async_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//async_routing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "async_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "async_routing/async_routing_test.go"
+        ],
+        "solution": [
+            "async_routing/async_routing.go",
+            "async_routing/go.mod"
+        ],
+        "example": [
+            "async_routing/.meta//async_routing.go",
+            "async_routing/.meta//go.mod"
+        ]
+    }
+}

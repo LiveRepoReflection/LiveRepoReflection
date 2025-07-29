@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "city_rescue.py"
+        ],
+        "example": [
+            ".meta//city_rescue.py"
+        ],
+        "test": [
+            "city_rescue_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_rescue/city_rescue_test.py"
+        ],
+        "solution": [
+            "city_rescue/city_rescue.py"
+        ],
+        "example": [
+            "city_rescue/.meta//city_rescue.py"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "distributed_limiter",
+  "version": "1.0.0",
+  "main": "distributed_limiter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {}
+}

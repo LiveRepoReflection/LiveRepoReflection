@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resilient_deploy.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//resilient_deploy.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "resilient_deploy_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "resilient_deploy/resilient_deploy_test.go"
+        ],
+        "solution": [
+            "resilient_deploy/resilient_deploy.go",
+            "resilient_deploy/go.mod"
+        ],
+        "example": [
+            "resilient_deploy/.meta//resilient_deploy.go",
+            "resilient_deploy/.meta//go.mod"
+        ]
+    }
+}

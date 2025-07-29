@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_router.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//task_router.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "task_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_router/task_router_test.py"
+        ],
+        "solution": [
+            "task_router/task_router.py",
+            "task_router/__init__.py"
+        ],
+        "example": [
+            "task_router/.meta//task_router.py",
+            "task_router/.meta//__init__.py"
+        ]
+    }
+}

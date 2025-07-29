@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "social_feed.go"
+        ],
+        "example": [
+            ".meta//social_feed.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "social_feed_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_feed/cases_test.go",
+            "social_feed/social_feed_test.go",
+            "social_feed/go.mod"
+        ],
+        "solution": [
+            "social_feed/social_feed.go"
+        ],
+        "example": [
+            "social_feed/.meta//social_feed.go"
+        ]
+    }
+}

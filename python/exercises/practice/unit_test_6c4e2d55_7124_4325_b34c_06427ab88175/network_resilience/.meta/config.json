@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_resilience.py"
+        ],
+        "example": [
+            ".meta//network_resilience.py"
+        ],
+        "test": [
+            "network_resilience_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_resilience/network_resilience_test.py"
+        ],
+        "solution": [
+            "network_resilience/network_resilience.py"
+        ],
+        "example": [
+            "network_resilience/.meta//network_resilience.py"
+        ]
+    }
+}

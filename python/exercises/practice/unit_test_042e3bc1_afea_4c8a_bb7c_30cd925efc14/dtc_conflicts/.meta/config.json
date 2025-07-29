@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "dtc.py",
+            "main.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//dtc.py",
+            ".meta//main.py"
+        ],
+        "test": [
+            "test_dtc.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_conflicts/test_dtc.py"
+        ],
+        "solution": [
+            "dtc_conflicts/__init__.py",
+            "dtc_conflicts/dtc.py",
+            "dtc_conflicts/main.py"
+        ],
+        "example": [
+            "dtc_conflicts/.meta//__init__.py",
+            "dtc_conflicts/.meta//dtc.py",
+            "dtc_conflicts/.meta//main.py"
+        ]
+    }
+}

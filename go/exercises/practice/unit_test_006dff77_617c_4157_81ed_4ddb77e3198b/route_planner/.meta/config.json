@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_planner.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//route_planner.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "route_planner_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_planner/route_planner_test.go"
+        ],
+        "solution": [
+            "route_planner/route_planner.go",
+            "route_planner/go.mod"
+        ],
+        "example": [
+            "route_planner/.meta//route_planner.go",
+            "route_planner/.meta//go.mod"
+        ]
+    }
+}

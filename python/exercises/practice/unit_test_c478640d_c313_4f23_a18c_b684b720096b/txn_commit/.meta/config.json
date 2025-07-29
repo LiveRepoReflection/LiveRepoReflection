@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "txn_commit.py"
+        ],
+        "example": [
+            ".meta//txn_commit.py"
+        ],
+        "test": [
+            "txn_commit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_commit/txn_commit_test.py"
+        ],
+        "solution": [
+            "txn_commit/txn_commit.py"
+        ],
+        "example": [
+            "txn_commit/.meta//txn_commit.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "bft_transactions.py"
+        ],
+        "example": [
+            ".meta//bft_transactions.py"
+        ],
+        "test": [
+            "bft_transactions_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "bft_transactions/bft_transactions_test.py"
+        ],
+        "solution": [
+            "bft_transactions/bft_transactions.py"
+        ],
+        "example": [
+            "bft_transactions/.meta//bft_transactions.py"
+        ]
+    }
+}

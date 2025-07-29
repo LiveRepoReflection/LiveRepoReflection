@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "smart_ride.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//smart_ride.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "smart_ride_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "smart_ride/smart_ride_test.py",
+            "smart_ride/__init__.py"
+        ],
+        "solution": [
+            "smart_ride/smart_ride.py",
+            "smart_ride/__init__.py"
+        ],
+        "example": [
+            "smart_ride/.meta//smart_ride.py",
+            "smart_ride/.meta//__init__.py"
+        ]
+    }
+}

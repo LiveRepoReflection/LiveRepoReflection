@@ -1,0 +1,9 @@
+{
+  "name": "stream_analytics",
+  "version": "1.0.0",
+  "main": "stream_analytics.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "wireless_routing.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//wireless_routing.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "wireless_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "wireless_routing/wireless_routing_test.py",
+            "wireless_routing/__init__.py"
+        ],
+        "solution": [
+            "wireless_routing/wireless_routing.py",
+            "wireless_routing/README.md"
+        ],
+        "example": [
+            "wireless_routing/.meta//wireless_routing.py",
+            "wireless_routing/.meta//README.md"
+        ]
+    }
+}

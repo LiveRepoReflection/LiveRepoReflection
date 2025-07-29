@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_huffman.py"
+        ],
+        "example": [
+            ".meta//adaptive_huffman.py"
+        ],
+        "test": [
+            "adaptive_huffman_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_huffman/adaptive_huffman_test.py"
+        ],
+        "solution": [
+            "adaptive_huffman/adaptive_huffman.py"
+        ],
+        "example": [
+            "adaptive_huffman/.meta//adaptive_huffman.py"
+        ]
+    }
+}

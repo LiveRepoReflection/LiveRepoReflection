@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_sync.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//traffic_sync.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "traffic_sync_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_sync/traffic_sync_test.py"
+        ],
+        "solution": [
+            "traffic_sync/traffic_sync.py",
+            "traffic_sync/__init__.py"
+        ],
+        "example": [
+            "traffic_sync/.meta//traffic_sync.py",
+            "traffic_sync/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "navi_network.py"
+        ],
+        "example": [
+            ".meta//navi_network.py"
+        ],
+        "test": [
+            "navi_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "navi_network/navi_network_test.py"
+        ],
+        "solution": [
+            "navi_network/navi_network.py"
+        ],
+        "example": [
+            "navi_network/.meta//navi_network.py"
+        ]
+    }
+}

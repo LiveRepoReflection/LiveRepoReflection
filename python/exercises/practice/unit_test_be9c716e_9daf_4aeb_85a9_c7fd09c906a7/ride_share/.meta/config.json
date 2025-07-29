@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "ride_share.py"
+        ],
+        "example": [
+            ".meta//ride_share.py"
+        ],
+        "test": [
+            "ride_share_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "ride_share/ride_share_test.py"
+        ],
+        "solution": [
+            "ride_share/ride_share.py"
+        ],
+        "example": [
+            "ride_share/.meta//ride_share.py"
+        ]
+    }
+}

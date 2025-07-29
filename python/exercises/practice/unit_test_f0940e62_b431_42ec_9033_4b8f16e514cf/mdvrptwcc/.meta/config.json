@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "mdvrptwcc.py"
+        ],
+        "example": [
+            ".meta//mdvrptwcc.py"
+        ],
+        "test": [
+            "mdvrptwcc_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "mdvrptwcc/mdvrptwcc_test.py"
+        ],
+        "solution": [
+            "mdvrptwcc/mdvrptwcc.py"
+        ],
+        "example": [
+            "mdvrptwcc/.meta//mdvrptwcc.py"
+        ]
+    }
+}

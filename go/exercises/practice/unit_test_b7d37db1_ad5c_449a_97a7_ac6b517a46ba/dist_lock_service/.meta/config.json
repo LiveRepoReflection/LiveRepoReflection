@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "dist_lock_service.go",
+            "go.mod",
+            "cleanup.go"
+        ],
+        "example": [
+            ".meta//dist_lock_service.go",
+            ".meta//go.mod",
+            ".meta//cleanup.go"
+        ],
+        "test": [
+            "dist_lock_service_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_lock_service/dist_lock_service_test.go"
+        ],
+        "solution": [
+            "dist_lock_service/dist_lock_service.go",
+            "dist_lock_service/go.mod",
+            "dist_lock_service/cleanup.go"
+        ],
+        "example": [
+            "dist_lock_service/.meta//dist_lock_service.go",
+            "dist_lock_service/.meta//go.mod",
+            "dist_lock_service/.meta//cleanup.go"
+        ]
+    }
+}

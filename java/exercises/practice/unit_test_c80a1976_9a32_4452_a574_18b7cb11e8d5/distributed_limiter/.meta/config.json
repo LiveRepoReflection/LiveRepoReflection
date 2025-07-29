@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/DistributedKVStore.java",
+            "src/main/java/SimpleDistributedKVStore.java",
+            "src/main/java/DistributedRateLimiter.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/DistributedKVStore.java",
+            ".meta//src/main/java/SimpleDistributedKVStore.java",
+            ".meta//src/main/java/DistributedRateLimiter.java"
+        ],
+        "test": [
+            "src/test/java/DistributedLimiterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_limiter/src/test/java/DistributedLimiterTest.java"
+        ],
+        "solution": [
+            "distributed_limiter/build.gradle",
+            "distributed_limiter/src/main/java/DistributedKVStore.java",
+            "distributed_limiter/src/main/java/SimpleDistributedKVStore.java",
+            "distributed_limiter/src/main/java/DistributedRateLimiter.java"
+        ],
+        "example": [
+            "distributed_limiter/.meta//build.gradle",
+            "distributed_limiter/.meta//src/main/java/DistributedKVStore.java",
+            "distributed_limiter/.meta//src/main/java/SimpleDistributedKVStore.java",
+            "distributed_limiter/.meta//src/main/java/DistributedRateLimiter.java"
+        ]
+    }
+}

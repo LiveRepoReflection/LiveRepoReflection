@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_opt.py"
+        ],
+        "example": [
+            ".meta//network_opt.py"
+        ],
+        "test": [
+            "network_opt_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_opt/network_opt_test.py"
+        ],
+        "solution": [
+            "network_opt/network_opt.py"
+        ],
+        "example": [
+            "network_opt/.meta//network_opt.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "city_traffic.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//city_traffic.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "city_traffic_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_traffic/city_traffic_test.go"
+        ],
+        "solution": [
+            "city_traffic/city_traffic.go",
+            "city_traffic/go.mod"
+        ],
+        "example": [
+            "city_traffic/.meta//city_traffic.go",
+            "city_traffic/.meta//go.mod"
+        ]
+    }
+}

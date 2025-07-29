@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "flow_scheduler.py"
+        ],
+        "example": [
+            ".meta//flow_scheduler.py"
+        ],
+        "test": [
+            "flow_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_scheduler/flow_scheduler_test.py"
+        ],
+        "solution": [
+            "flow_scheduler/flow_scheduler.py"
+        ],
+        "example": [
+            "flow_scheduler/.meta//flow_scheduler.py"
+        ]
+    }
+}

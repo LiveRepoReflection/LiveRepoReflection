@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_optimizer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_optimizer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_optimizer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_optimizer/network_optimizer_test.go",
+            "network_optimizer/go.mod"
+        ],
+        "solution": [
+            "network_optimizer/network_optimizer.go",
+            "network_optimizer/go.mod"
+        ],
+        "example": [
+            "network_optimizer/.meta//network_optimizer.go",
+            "network_optimizer/.meta//go.mod"
+        ]
+    }
+}

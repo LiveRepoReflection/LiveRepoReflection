@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_saga.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_saga.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_saga_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_saga/transaction_saga_test.py"
+        ],
+        "solution": [
+            "transaction_saga/transaction_saga.py",
+            "transaction_saga/__init__.py"
+        ],
+        "example": [
+            "transaction_saga/.meta//transaction_saga.py",
+            "transaction_saga/.meta//__init__.py"
+        ]
+    }
+}

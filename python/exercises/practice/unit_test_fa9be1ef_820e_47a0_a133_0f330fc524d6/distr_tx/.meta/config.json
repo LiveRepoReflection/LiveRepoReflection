@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "distr_tx_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distr_tx/distr_tx_test.py"
+        ],
+        "solution": [
+            "distr_tx/__init__.py"
+        ],
+        "example": [
+            "distr_tx/.meta//__init__.py"
+        ]
+    }
+}

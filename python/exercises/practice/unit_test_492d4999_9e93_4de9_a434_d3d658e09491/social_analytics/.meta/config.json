@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_analytics.py"
+        ],
+        "example": [
+            ".meta//social_analytics.py"
+        ],
+        "test": [
+            "social_analytics_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_analytics/social_analytics_test.py"
+        ],
+        "solution": [
+            "social_analytics/social_analytics.py"
+        ],
+        "example": [
+            "social_analytics/.meta//social_analytics.py"
+        ]
+    }
+}

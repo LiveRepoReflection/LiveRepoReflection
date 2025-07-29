@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/congestion_route.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "congestion_route/tests/congestion_route.rs"
+        ],
+        "solution": [
+            "congestion_route/Cargo.toml",
+            "congestion_route/src/lib.rs"
+        ],
+        "example": [
+            "congestion_route/.meta//Cargo.toml",
+            "congestion_route/.meta//src/lib.rs"
+        ]
+    }
+}

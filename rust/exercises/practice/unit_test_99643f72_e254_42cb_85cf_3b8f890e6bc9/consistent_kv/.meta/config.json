@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/integration_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_kv/tests/integration_test.rs"
+        ],
+        "solution": [
+            "consistent_kv/Cargo.toml",
+            "consistent_kv/src/lib.rs"
+        ],
+        "example": [
+            "consistent_kv/.meta//Cargo.toml",
+            "consistent_kv/.meta//src/lib.rs"
+        ]
+    }
+}

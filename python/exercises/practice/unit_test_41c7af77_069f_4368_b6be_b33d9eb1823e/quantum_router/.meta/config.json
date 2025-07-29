@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "quantum_router.py"
+        ],
+        "example": [
+            ".meta//quantum_router.py"
+        ],
+        "test": [
+            "test_quantum_router.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_router/test_quantum_router.py"
+        ],
+        "solution": [
+            "quantum_router/quantum_router.py"
+        ],
+        "example": [
+            "quantum_router/.meta//quantum_router.py"
+        ]
+    }
+}

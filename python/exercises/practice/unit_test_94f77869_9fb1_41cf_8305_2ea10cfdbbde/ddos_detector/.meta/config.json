@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "ddos_detector.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//ddos_detector.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "ddos_detector_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "ddos_detector/ddos_detector_test.py"
+        ],
+        "solution": [
+            "ddos_detector/ddos_detector.py",
+            "ddos_detector/__init__.py",
+            "ddos_detector/README.md"
+        ],
+        "example": [
+            "ddos_detector/.meta//ddos_detector.py",
+            "ddos_detector/.meta//__init__.py",
+            "ddos_detector/.meta//README.md"
+        ]
+    }
+}

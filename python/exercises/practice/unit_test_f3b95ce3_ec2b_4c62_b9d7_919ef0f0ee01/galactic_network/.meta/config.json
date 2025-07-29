@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "galactic_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//galactic_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "galactic_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "galactic_network/galactic_network_test.py"
+        ],
+        "solution": [
+            "galactic_network/galactic_network.py",
+            "galactic_network/__init__.py"
+        ],
+        "example": [
+            "galactic_network/.meta//galactic_network.py",
+            "galactic_network/.meta//__init__.py"
+        ]
+    }
+}

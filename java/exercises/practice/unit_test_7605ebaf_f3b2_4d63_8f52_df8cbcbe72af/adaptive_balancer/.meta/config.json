@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/com/adaptivebalancer/AdaptiveBalancer.java",
+            "src/main/java/com/adaptivebalancer/BackendServer.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/com/adaptivebalancer/AdaptiveBalancer.java",
+            ".meta//src/main/java/com/adaptivebalancer/BackendServer.java"
+        ],
+        "test": [
+            "src/test/java/AdaptiveBalancerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_balancer/src/test/java/AdaptiveBalancerTest.java"
+        ],
+        "solution": [
+            "adaptive_balancer/build.gradle",
+            "adaptive_balancer/src/main/java/com/adaptivebalancer/AdaptiveBalancer.java",
+            "adaptive_balancer/src/main/java/com/adaptivebalancer/BackendServer.java"
+        ],
+        "example": [
+            "adaptive_balancer/.meta//build.gradle",
+            "adaptive_balancer/.meta//src/main/java/com/adaptivebalancer/AdaptiveBalancer.java",
+            "adaptive_balancer/.meta//src/main/java/com/adaptivebalancer/BackendServer.java"
+        ]
+    }
+}

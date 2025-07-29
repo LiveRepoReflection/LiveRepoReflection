@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs",
+            "README.md"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs",
+            ".meta//README.md"
+        ],
+        "test": [
+            "tests/hypergraph_oracle.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "hypergraph_oracle/Cargo.toml",
+            "hypergraph_oracle/src/lib.rs",
+            "hypergraph_oracle/tests/hypergraph_oracle.rs"
+        ],
+        "solution": [
+            "hypergraph_oracle/Cargo.toml",
+            "hypergraph_oracle/src/lib.rs",
+            "hypergraph_oracle/README.md"
+        ],
+        "example": [
+            "hypergraph_oracle/.meta//Cargo.toml",
+            "hypergraph_oracle/.meta//src/lib.rs",
+            "hypergraph_oracle/.meta//README.md"
+        ]
+    }
+}

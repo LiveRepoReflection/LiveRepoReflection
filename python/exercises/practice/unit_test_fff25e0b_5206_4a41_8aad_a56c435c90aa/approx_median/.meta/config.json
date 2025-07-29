@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "approx_median.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//approx_median.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "approx_median_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "approx_median/approx_median_test.py"
+        ],
+        "solution": [
+            "approx_median/approx_median.py",
+            "approx_median/__init__.py"
+        ],
+        "example": [
+            "approx_median/.meta//approx_median.py",
+            "approx_median/.meta//__init__.py"
+        ]
+    }
+}

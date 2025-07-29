@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_rate_limiter.py"
+        ],
+        "example": [
+            ".meta//distributed_rate_limiter.py"
+        ],
+        "test": [
+            "distributed_rate_limiter_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_rate_limiter/distributed_rate_limiter_test.py"
+        ],
+        "solution": [
+            "distributed_rate_limiter/distributed_rate_limiter.py"
+        ],
+        "example": [
+            "distributed_rate_limiter/.meta//distributed_rate_limiter.py"
+        ]
+    }
+}

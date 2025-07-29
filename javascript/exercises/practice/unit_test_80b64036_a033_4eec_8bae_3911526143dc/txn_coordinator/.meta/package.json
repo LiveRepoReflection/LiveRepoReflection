@@ -1,0 +1,12 @@
+{
+  "name": "txn_coordinator",
+  "version": "1.0.0",
+  "description": "Distributed Transaction Coordinator using 2PC protocol",
+  "main": "txn_coordinator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

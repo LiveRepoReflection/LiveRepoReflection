@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_scheduler.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_scheduler.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "distributed_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_scheduler/distributed_scheduler_test.py"
+        ],
+        "solution": [
+            "distributed_scheduler/distributed_scheduler.py",
+            "distributed_scheduler/__init__.py"
+        ],
+        "example": [
+            "distributed_scheduler/.meta//distributed_scheduler.py",
+            "distributed_scheduler/.meta//__init__.py"
+        ]
+    }
+}

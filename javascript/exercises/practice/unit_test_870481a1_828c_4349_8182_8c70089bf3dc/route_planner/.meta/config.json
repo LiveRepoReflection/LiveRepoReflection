@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "route_planner.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//route_planner.js"
+        ],
+        "test": [
+            "route_planner.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_planner/route_planner.spec.js"
+        ],
+        "solution": [
+            "route_planner/package.json",
+            "route_planner/route_planner.js"
+        ],
+        "example": [
+            "route_planner/.meta//package.json",
+            "route_planner/.meta//route_planner.js"
+        ]
+    }
+}

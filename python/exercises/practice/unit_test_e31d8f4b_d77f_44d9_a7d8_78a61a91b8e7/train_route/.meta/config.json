@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "train_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//train_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "train_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "train_route/train_route_test.py"
+        ],
+        "solution": [
+            "train_route/train_route.py",
+            "train_route/__init__.py"
+        ],
+        "example": [
+            "train_route/.meta//train_route.py",
+            "train_route/.meta//__init__.py"
+        ]
+    }
+}

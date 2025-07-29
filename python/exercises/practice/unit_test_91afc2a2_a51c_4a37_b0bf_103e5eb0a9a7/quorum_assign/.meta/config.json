@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "quorum_assign.py"
+        ],
+        "example": [
+            ".meta//quorum_assign.py"
+        ],
+        "test": [
+            "quorum_assign_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "quorum_assign/quorum_assign_test.py"
+        ],
+        "solution": [
+            "quorum_assign/quorum_assign.py"
+        ],
+        "example": [
+            "quorum_assign/.meta//quorum_assign.py"
+        ]
+    }
+}

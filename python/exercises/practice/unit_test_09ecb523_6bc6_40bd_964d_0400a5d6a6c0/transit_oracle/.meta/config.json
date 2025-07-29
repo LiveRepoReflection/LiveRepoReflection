@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transit_oracle.py"
+        ],
+        "example": [
+            ".meta//transit_oracle.py"
+        ],
+        "test": [
+            "transit_oracle_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transit_oracle/transit_oracle_test.py"
+        ],
+        "solution": [
+            "transit_oracle/transit_oracle.py"
+        ],
+        "example": [
+            "transit_oracle/.meta//transit_oracle.py"
+        ]
+    }
+}

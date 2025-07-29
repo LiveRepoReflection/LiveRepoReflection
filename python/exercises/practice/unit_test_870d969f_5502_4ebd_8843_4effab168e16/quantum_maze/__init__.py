@@ -1,0 +1,1 @@
+from .quantum_maze import most_probable_path

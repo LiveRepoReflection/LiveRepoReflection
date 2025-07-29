@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "meeting_point.py"
+        ],
+        "example": [
+            ".meta//meeting_point.py"
+        ],
+        "test": [
+            "meeting_point_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_point/meeting_point_test.py"
+        ],
+        "solution": [
+            "meeting_point/meeting_point.py"
+        ],
+        "example": [
+            "meeting_point/.meta//meeting_point.py"
+        ]
+    }
+}

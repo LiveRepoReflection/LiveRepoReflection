@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/bft_kv.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "bft_kv/tests/bft_kv.rs"
+        ],
+        "solution": [
+            "bft_kv/Cargo.toml",
+            "bft_kv/src/lib.rs"
+        ],
+        "example": [
+            "bft_kv/.meta//Cargo.toml",
+            "bft_kv/.meta//src/lib.rs"
+        ]
+    }
+}

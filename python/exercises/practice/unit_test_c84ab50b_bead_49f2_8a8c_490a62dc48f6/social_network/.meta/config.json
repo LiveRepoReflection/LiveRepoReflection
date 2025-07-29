@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//social_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "social_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_network/social_network_test.py"
+        ],
+        "solution": [
+            "social_network/social_network.py",
+            "social_network/__init__.py"
+        ],
+        "example": [
+            "social_network/.meta//social_network.py",
+            "social_network/.meta//__init__.py"
+        ]
+    }
+}

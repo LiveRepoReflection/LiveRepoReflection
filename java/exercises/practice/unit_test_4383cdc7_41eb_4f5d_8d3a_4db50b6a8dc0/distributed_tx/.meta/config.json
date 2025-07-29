@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/distributed_tx/Branch.java",
+            "src/main/java/distributed_tx/Operation.java",
+            "src/main/java/distributed_tx/Transaction.java",
+            "src/main/java/distributed_tx/DistributedTransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/distributed_tx/Branch.java",
+            ".meta//src/main/java/distributed_tx/Operation.java",
+            ".meta//src/main/java/distributed_tx/Transaction.java",
+            ".meta//src/main/java/distributed_tx/DistributedTransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTxTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxTest.java"
+        ],
+        "solution": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/distributed_tx/Branch.java",
+            "distributed_tx/src/main/java/distributed_tx/Operation.java",
+            "distributed_tx/src/main/java/distributed_tx/Transaction.java",
+            "distributed_tx/src/main/java/distributed_tx/DistributedTransactionCoordinator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/distributed_tx/Branch.java",
+            "distributed_tx/.meta//src/main/java/distributed_tx/Operation.java",
+            "distributed_tx/.meta//src/main/java/distributed_tx/Transaction.java",
+            "distributed_tx/.meta//src/main/java/distributed_tx/DistributedTransactionCoordinator.java"
+        ]
+    }
+}

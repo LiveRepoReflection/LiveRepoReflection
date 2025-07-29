@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_events.py"
+        ],
+        "example": [
+            ".meta//decentralized_events.py"
+        ],
+        "test": [
+            "decentralized_events_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_events/decentralized_events_test.py"
+        ],
+        "solution": [
+            "decentralized_events/decentralized_events.py"
+        ],
+        "example": [
+            "decentralized_events/.meta//decentralized_events.py"
+        ]
+    }
+}

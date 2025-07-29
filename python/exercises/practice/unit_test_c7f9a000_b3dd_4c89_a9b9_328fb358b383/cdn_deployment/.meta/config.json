@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "cdn_deployment.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//cdn_deployment.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "cdn_deployment_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "cdn_deployment/cdn_deployment_test.py"
+        ],
+        "solution": [
+            "cdn_deployment/cdn_deployment.py",
+            "cdn_deployment/__init__.py"
+        ],
+        "example": [
+            "cdn_deployment/.meta//cdn_deployment.py",
+            "cdn_deployment/.meta//__init__.py"
+        ]
+    }
+}

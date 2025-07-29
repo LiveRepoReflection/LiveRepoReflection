@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "sensor_anomaly.py"
+        ],
+        "example": [
+            ".meta//sensor_anomaly.py"
+        ],
+        "test": [
+            "sensor_anomaly_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "sensor_anomaly/sensor_anomaly_test.py"
+        ],
+        "solution": [
+            "sensor_anomaly/sensor_anomaly.py"
+        ],
+        "example": [
+            "sensor_anomaly/.meta//sensor_anomaly.py"
+        ]
+    }
+}

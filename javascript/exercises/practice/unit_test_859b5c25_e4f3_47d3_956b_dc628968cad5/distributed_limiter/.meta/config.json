@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_limiter.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//distributed_limiter.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "test/distributed_limiter.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_limiter/test/distributed_limiter.spec.js"
+        ],
+        "solution": [
+            "distributed_limiter/distributed_limiter.js",
+            "distributed_limiter/package.json"
+        ],
+        "example": [
+            "distributed_limiter/.meta//distributed_limiter.js",
+            "distributed_limiter/.meta//package.json"
+        ]
+    }
+}

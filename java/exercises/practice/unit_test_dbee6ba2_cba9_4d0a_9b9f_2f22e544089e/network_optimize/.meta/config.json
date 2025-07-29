@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/NetworkOptimize.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/NetworkOptimize.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/NetworkOptimizeTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_optimize/src/test/java/NetworkOptimizeTest.java"
+        ],
+        "solution": [
+            "network_optimize/src/main/java/NetworkOptimize.java",
+            "network_optimize/build.gradle"
+        ],
+        "example": [
+            "network_optimize/.meta//src/main/java/NetworkOptimize.java",
+            "network_optimize/.meta//build.gradle"
+        ]
+    }
+}

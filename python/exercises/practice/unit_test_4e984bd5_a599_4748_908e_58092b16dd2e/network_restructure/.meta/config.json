@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_restructure.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_restructure.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_network_restructure.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_restructure/test_network_restructure.py"
+        ],
+        "solution": [
+            "network_restructure/network_restructure.py",
+            "network_restructure/__init__.py"
+        ],
+        "example": [
+            "network_restructure/.meta//network_restructure.py",
+            "network_restructure/.meta//__init__.py"
+        ]
+    }
+}

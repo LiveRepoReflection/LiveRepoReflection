@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "distro_limiter.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//distro_limiter.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "distro_limiter_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distro_limiter/distro_limiter_test.go",
+            "distro_limiter/cases_test.go"
+        ],
+        "solution": [
+            "distro_limiter/distro_limiter.go",
+            "distro_limiter/go.mod"
+        ],
+        "example": [
+            "distro_limiter/.meta//distro_limiter.go",
+            "distro_limiter/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TransactionStatus.java",
+            "src/main/java/Shard.java",
+            "src/main/java/Coordinator.java",
+            "src/main/java/SuccessfulShard.java",
+            "src/main/java/FailingShard.java",
+            "src/main/java/SlowShard.java",
+            "src/main/java/TransactionCoordinatorMain.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TransactionStatus.java",
+            ".meta//src/main/java/Shard.java",
+            ".meta//src/main/java/Coordinator.java",
+            ".meta//src/main/java/SuccessfulShard.java",
+            ".meta//src/main/java/FailingShard.java",
+            ".meta//src/main/java/SlowShard.java",
+            ".meta//src/main/java/TransactionCoordinatorMain.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/TransactionStatus.java",
+            "distributed_tx/src/main/java/Shard.java",
+            "distributed_tx/src/main/java/Coordinator.java",
+            "distributed_tx/src/main/java/SuccessfulShard.java",
+            "distributed_tx/src/main/java/FailingShard.java",
+            "distributed_tx/src/main/java/SlowShard.java",
+            "distributed_tx/src/main/java/TransactionCoordinatorMain.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/TransactionStatus.java",
+            "distributed_tx/.meta//src/main/java/Shard.java",
+            "distributed_tx/.meta//src/main/java/Coordinator.java",
+            "distributed_tx/.meta//src/main/java/SuccessfulShard.java",
+            "distributed_tx/.meta//src/main/java/FailingShard.java",
+            "distributed_tx/.meta//src/main/java/SlowShard.java",
+            "distributed_tx/.meta//src/main/java/TransactionCoordinatorMain.java"
+        ]
+    }
+}

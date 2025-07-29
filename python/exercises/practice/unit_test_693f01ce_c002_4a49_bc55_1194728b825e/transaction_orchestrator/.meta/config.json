@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transaction_orchestrator.py"
+        ],
+        "example": [
+            ".meta//transaction_orchestrator.py"
+        ],
+        "test": [
+            "transaction_orchestrator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_orchestrator/transaction_orchestrator_test.py"
+        ],
+        "solution": [
+            "transaction_orchestrator/transaction_orchestrator.py"
+        ],
+        "example": [
+            "transaction_orchestrator/.meta//transaction_orchestrator.py"
+        ]
+    }
+}

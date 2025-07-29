@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "eventScheduler.js",
+            "package.json",
+            "jest.config.js"
+        ],
+        "example": [
+            ".meta//eventScheduler.js",
+            ".meta//package.json",
+            ".meta//jest.config.js"
+        ],
+        "test": [
+            "eventScheduler.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_horizon/eventScheduler.spec.js"
+        ],
+        "solution": [
+            "event_horizon/eventScheduler.js",
+            "event_horizon/package.json",
+            "event_horizon/jest.config.js"
+        ],
+        "example": [
+            "event_horizon/.meta//eventScheduler.js",
+            "event_horizon/.meta//package.json",
+            "event_horizon/.meta//jest.config.js"
+        ]
+    }
+}

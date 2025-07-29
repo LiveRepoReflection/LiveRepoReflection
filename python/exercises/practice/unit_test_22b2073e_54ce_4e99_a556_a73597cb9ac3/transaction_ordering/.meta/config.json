@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_ordering.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_ordering.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_ordering_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_ordering/transaction_ordering_test.py"
+        ],
+        "solution": [
+            "transaction_ordering/transaction_ordering.py",
+            "transaction_ordering/__init__.py"
+        ],
+        "example": [
+            "transaction_ordering/.meta//transaction_ordering.py",
+            "transaction_ordering/.meta//__init__.py"
+        ]
+    }
+}

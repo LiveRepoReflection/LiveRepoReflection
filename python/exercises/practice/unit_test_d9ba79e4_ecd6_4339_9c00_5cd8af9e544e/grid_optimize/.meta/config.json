@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "grid_optimize.py"
+        ],
+        "example": [
+            ".meta//grid_optimize.py"
+        ],
+        "test": [
+            "grid_optimize_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "grid_optimize/grid_optimize_test.py"
+        ],
+        "solution": [
+            "grid_optimize/grid_optimize.py"
+        ],
+        "example": [
+            "grid_optimize/.meta//grid_optimize.py"
+        ]
+    }
+}

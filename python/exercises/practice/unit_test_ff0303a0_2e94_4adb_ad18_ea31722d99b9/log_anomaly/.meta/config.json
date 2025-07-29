@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "log_anomaly.py"
+        ],
+        "example": [
+            ".meta//log_anomaly.py"
+        ],
+        "test": [
+            "test_log_anomaly.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_anomaly/test_log_anomaly.py"
+        ],
+        "solution": [
+            "log_anomaly/log_anomaly.py"
+        ],
+        "example": [
+            "log_anomaly/.meta//log_anomaly.py"
+        ]
+    }
+}

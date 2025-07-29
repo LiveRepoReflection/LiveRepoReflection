@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_counter.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//distributed_counter.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "distributed_counter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_counter/distributed_counter_test.go"
+        ],
+        "solution": [
+            "distributed_counter/distributed_counter.go",
+            "distributed_counter/go.mod"
+        ],
+        "example": [
+            "distributed_counter/.meta//distributed_counter.go",
+            "distributed_counter/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "region_align.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//region_align.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "region_align_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "region_align/region_align_test.py"
+        ],
+        "solution": [
+            "region_align/region_align.py",
+            "region_align/__init__.py"
+        ],
+        "example": [
+            "region_align/.meta//region_align.py",
+            "region_align/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_schedule.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//task_schedule.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "task_schedule_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_schedule/task_schedule_test.py"
+        ],
+        "solution": [
+            "task_schedule/task_schedule.py",
+            "task_schedule/__init__.py"
+        ],
+        "example": [
+            "task_schedule/.meta//task_schedule.py",
+            "task_schedule/.meta//__init__.py"
+        ]
+    }
+}

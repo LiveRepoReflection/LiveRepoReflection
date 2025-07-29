@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "city_routing.py"
+        ],
+        "example": [
+            ".meta//city_routing.py"
+        ],
+        "test": [
+            "city_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_routing/city_routing_test.py"
+        ],
+        "solution": [
+            "city_routing/city_routing.py"
+        ],
+        "example": [
+            "city_routing/.meta//city_routing.py"
+        ]
+    }
+}

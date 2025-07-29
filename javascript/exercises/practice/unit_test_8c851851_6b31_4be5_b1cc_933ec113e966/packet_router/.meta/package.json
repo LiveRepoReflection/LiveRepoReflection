@@ -1,0 +1,11 @@
+{
+  "name": "packet_router",
+  "version": "1.0.0",
+  "description": "Efficient Network Packet Routing",
+  "main": "src/packet_router.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

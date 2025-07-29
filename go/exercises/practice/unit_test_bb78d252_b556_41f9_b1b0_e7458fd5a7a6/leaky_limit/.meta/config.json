@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "leaky_limit.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//leaky_limit.go"
+        ],
+        "test": [
+            "leaky_limit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "leaky_limit/leaky_limit_test.go"
+        ],
+        "solution": [
+            "leaky_limit/go.mod",
+            "leaky_limit/leaky_limit.go"
+        ],
+        "example": [
+            "leaky_limit/.meta//go.mod",
+            "leaky_limit/.meta//leaky_limit.go"
+        ]
+    }
+}

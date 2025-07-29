@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "flow_scheduler.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//flow_scheduler.go"
+        ],
+        "test": [
+            "flow_scheduler_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_scheduler/flow_scheduler_test.go"
+        ],
+        "solution": [
+            "flow_scheduler/go.mod",
+            "flow_scheduler/flow_scheduler.go"
+        ],
+        "example": [
+            "flow_scheduler/.meta//go.mod",
+            "flow_scheduler/.meta//flow_scheduler.go"
+        ]
+    }
+}

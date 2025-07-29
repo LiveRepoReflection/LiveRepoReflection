@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dsn_analytics.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dsn_analytics.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dsn_analytics_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dsn_analytics/dsn_analytics_test.go"
+        ],
+        "solution": [
+            "dsn_analytics/dsn_analytics.go",
+            "dsn_analytics/go.mod"
+        ],
+        "example": [
+            "dsn_analytics/.meta//dsn_analytics.go",
+            "dsn_analytics/.meta//go.mod"
+        ]
+    }
+}

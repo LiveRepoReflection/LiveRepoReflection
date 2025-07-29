@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/dex_engine.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_engine/tests/dex_engine.rs"
+        ],
+        "solution": [
+            "dex_engine/Cargo.toml",
+            "dex_engine/src/lib.rs"
+        ],
+        "example": [
+            "dex_engine/.meta//Cargo.toml",
+            "dex_engine/.meta//src/lib.rs"
+        ]
+    }
+}

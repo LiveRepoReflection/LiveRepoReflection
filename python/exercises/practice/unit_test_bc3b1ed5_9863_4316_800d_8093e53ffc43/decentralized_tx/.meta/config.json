@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_tx.py"
+        ],
+        "example": [
+            ".meta//decentralized_tx.py"
+        ],
+        "test": [
+            "decentralized_tx_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_tx/decentralized_tx_test.py"
+        ],
+        "solution": [
+            "decentralized_tx/decentralized_tx.py"
+        ],
+        "example": [
+            "decentralized_tx/.meta//decentralized_tx.py"
+        ]
+    }
+}

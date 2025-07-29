@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/network_dominance.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_dominance/tests/network_dominance.rs"
+        ],
+        "solution": [
+            "network_dominance/Cargo.toml",
+            "network_dominance/src/lib.rs"
+        ],
+        "example": [
+            "network_dominance/.meta//Cargo.toml",
+            "network_dominance/.meta//src/lib.rs"
+        ]
+    }
+}

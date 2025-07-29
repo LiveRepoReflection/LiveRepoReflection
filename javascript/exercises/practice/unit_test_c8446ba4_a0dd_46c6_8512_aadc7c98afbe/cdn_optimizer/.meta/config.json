@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "cdn_optimizer.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//cdn_optimizer.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "cdn_optimizer.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "cdn_optimizer/cdn_optimizer.spec.js"
+        ],
+        "solution": [
+            "cdn_optimizer/cdn_optimizer.js",
+            "cdn_optimizer/package.json"
+        ],
+        "example": [
+            "cdn_optimizer/.meta//cdn_optimizer.js",
+            "cdn_optimizer/.meta//package.json"
+        ]
+    }
+}

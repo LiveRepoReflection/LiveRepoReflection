@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "optimal_travel_time.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//optimal_travel_time.py"
+        ],
+        "test": [
+            "smart_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "smart_routing/smart_routing_test.py"
+        ],
+        "solution": [
+            "smart_routing/__init__.py",
+            "smart_routing/optimal_travel_time.py"
+        ],
+        "example": [
+            "smart_routing/.meta//__init__.py",
+            "smart_routing/.meta//optimal_travel_time.py"
+        ]
+    }
+}

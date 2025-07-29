@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "stock_trader.py"
+        ],
+        "example": [
+            ".meta//stock_trader.py"
+        ],
+        "test": [
+            "stock_trader_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stock_trader/stock_trader_test.py"
+        ],
+        "solution": [
+            "stock_trader/stock_trader.py"
+        ],
+        "example": [
+            "stock_trader/.meta//stock_trader.py"
+        ]
+    }
+}

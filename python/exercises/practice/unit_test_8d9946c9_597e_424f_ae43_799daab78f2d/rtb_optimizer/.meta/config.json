@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "rtb_optimizer.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//rtb_optimizer.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_rtb_optimizer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "rtb_optimizer/test_rtb_optimizer.py"
+        ],
+        "solution": [
+            "rtb_optimizer/__init__.py",
+            "rtb_optimizer/rtb_optimizer.py",
+            "rtb_optimizer/README.md"
+        ],
+        "example": [
+            "rtb_optimizer/.meta//__init__.py",
+            "rtb_optimizer/.meta//rtb_optimizer.py",
+            "rtb_optimizer/.meta//README.md"
+        ]
+    }
+}

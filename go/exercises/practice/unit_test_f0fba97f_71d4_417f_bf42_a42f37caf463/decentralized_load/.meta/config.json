@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "simulate_load_balancing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//simulate_load_balancing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "decentralized_load_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_load/decentralized_load_test.go"
+        ],
+        "solution": [
+            "decentralized_load/simulate_load_balancing.go",
+            "decentralized_load/go.mod"
+        ],
+        "example": [
+            "decentralized_load/.meta//simulate_load_balancing.go",
+            "decentralized_load/.meta//go.mod"
+        ]
+    }
+}

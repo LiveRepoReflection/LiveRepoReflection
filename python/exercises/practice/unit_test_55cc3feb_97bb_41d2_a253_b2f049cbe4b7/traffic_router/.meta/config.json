@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_router.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//traffic_router.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "traffic_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_router/traffic_router_test.py"
+        ],
+        "solution": [
+            "traffic_router/traffic_router.py",
+            "traffic_router/__init__.py"
+        ],
+        "example": [
+            "traffic_router/.meta//traffic_router.py",
+            "traffic_router/.meta//__init__.py"
+        ]
+    }
+}

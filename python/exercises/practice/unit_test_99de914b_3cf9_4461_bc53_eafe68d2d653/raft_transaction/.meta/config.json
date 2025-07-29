@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "raft_transaction.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//raft_transaction.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "raft_transaction_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "raft_transaction/raft_transaction_test.py"
+        ],
+        "solution": [
+            "raft_transaction/raft_transaction.py",
+            "raft_transaction/__init__.py"
+        ],
+        "example": [
+            "raft_transaction/.meta//raft_transaction.py",
+            "raft_transaction/.meta//__init__.py"
+        ]
+    }
+}

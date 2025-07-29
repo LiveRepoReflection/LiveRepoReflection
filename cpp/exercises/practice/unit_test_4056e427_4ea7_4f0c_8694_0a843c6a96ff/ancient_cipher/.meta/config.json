@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "ancient_cipher.h",
+            "ancient_cipher.cpp"
+        ],
+        "example": [
+            ".meta//ancient_cipher.h",
+            ".meta//ancient_cipher.cpp"
+        ],
+        "test": [
+            "ancient_cipher_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "ancient_cipher/ancient_cipher_test.cpp"
+        ],
+        "solution": [
+            "ancient_cipher/ancient_cipher.h",
+            "ancient_cipher/ancient_cipher.cpp"
+        ],
+        "example": [
+            "ancient_cipher/.meta//ancient_cipher.h",
+            "ancient_cipher/.meta//ancient_cipher.cpp"
+        ]
+    }
+}

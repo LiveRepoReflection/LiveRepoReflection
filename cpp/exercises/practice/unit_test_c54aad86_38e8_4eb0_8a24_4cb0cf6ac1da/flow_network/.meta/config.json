@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "flow_network.h",
+            "flow_network.cpp"
+        ],
+        "example": [
+            ".meta//flow_network.h",
+            ".meta//flow_network.cpp"
+        ],
+        "test": [
+            "flow_network_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_network/flow_network_test.cpp"
+        ],
+        "solution": [
+            "flow_network/flow_network.h",
+            "flow_network/flow_network.cpp"
+        ],
+        "example": [
+            "flow_network/.meta//flow_network.h",
+            "flow_network/.meta//flow_network.cpp"
+        ]
+    }
+}

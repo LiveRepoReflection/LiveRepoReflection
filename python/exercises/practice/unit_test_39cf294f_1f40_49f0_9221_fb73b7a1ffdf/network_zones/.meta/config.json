@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_zones.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_zones.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_network_zones.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_zones/test_network_zones.py"
+        ],
+        "solution": [
+            "network_zones/network_zones.py",
+            "network_zones/__init__.py"
+        ],
+        "example": [
+            "network_zones/.meta//network_zones.py",
+            "network_zones/.meta//__init__.py"
+        ]
+    }
+}

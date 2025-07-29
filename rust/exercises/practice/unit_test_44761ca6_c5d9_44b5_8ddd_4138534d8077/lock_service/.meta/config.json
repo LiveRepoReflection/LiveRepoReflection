@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/lock_service.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "lock_service/tests/lock_service.rs",
+            "lock_service/Cargo.toml"
+        ],
+        "solution": [
+            "lock_service/src/lib.rs",
+            "lock_service/Cargo.toml"
+        ],
+        "example": [
+            "lock_service/.meta//src/lib.rs",
+            "lock_service/.meta//Cargo.toml"
+        ]
+    }
+}

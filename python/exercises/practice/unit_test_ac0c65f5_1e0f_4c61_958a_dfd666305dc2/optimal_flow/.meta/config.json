@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_flow.py"
+        ],
+        "example": [
+            ".meta//optimal_flow.py"
+        ],
+        "test": [
+            "optimal_flow_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_flow/optimal_flow_test.py"
+        ],
+        "solution": [
+            "optimal_flow/optimal_flow.py"
+        ],
+        "example": [
+            "optimal_flow/.meta//optimal_flow.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "fractal_explorer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//fractal_explorer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "fractal_explorer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "fractal_explorer/fractal_explorer_test.py"
+        ],
+        "solution": [
+            "fractal_explorer/fractal_explorer.py",
+            "fractal_explorer/__init__.py"
+        ],
+        "example": [
+            "fractal_explorer/.meta//fractal_explorer.py",
+            "fractal_explorer/.meta//__init__.py"
+        ]
+    }
+}

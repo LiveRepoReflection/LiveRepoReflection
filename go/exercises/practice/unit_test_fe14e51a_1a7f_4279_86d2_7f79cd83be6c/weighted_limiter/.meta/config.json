@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "weighted_limiter.go",
+            "errors.go",
+            "tier.go"
+        ],
+        "example": [
+            ".meta//weighted_limiter.go",
+            ".meta//errors.go",
+            ".meta//tier.go"
+        ],
+        "test": [
+            "weighted_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "weighted_limiter/weighted_limiter_test.go",
+            "weighted_limiter/go.mod"
+        ],
+        "solution": [
+            "weighted_limiter/weighted_limiter.go",
+            "weighted_limiter/errors.go",
+            "weighted_limiter/tier.go"
+        ],
+        "example": [
+            "weighted_limiter/.meta//weighted_limiter.go",
+            "weighted_limiter/.meta//errors.go",
+            "weighted_limiter/.meta//tier.go"
+        ]
+    }
+}

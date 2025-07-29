@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//task_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "task_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_optimizer/task_optimizer_test.py"
+        ],
+        "solution": [
+            "task_optimizer/task_optimizer.py",
+            "task_optimizer/__init__.py"
+        ],
+        "example": [
+            "task_optimizer/.meta//task_optimizer.py",
+            "task_optimizer/.meta//__init__.py"
+        ]
+    }
+}

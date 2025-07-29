@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/traffic_sync_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_sync/Cargo.toml",
+            "traffic_sync/src/lib.rs",
+            "traffic_sync/tests/traffic_sync_test.rs"
+        ],
+        "solution": [
+            "traffic_sync/Cargo.toml",
+            "traffic_sync/src/lib.rs"
+        ],
+        "example": [
+            "traffic_sync/.meta//Cargo.toml",
+            "traffic_sync/.meta//src/lib.rs"
+        ]
+    }
+}

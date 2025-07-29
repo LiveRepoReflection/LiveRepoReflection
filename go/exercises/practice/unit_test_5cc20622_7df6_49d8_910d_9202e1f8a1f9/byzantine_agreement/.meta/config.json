@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_agreement.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//byzantine_agreement.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "byzantine_agreement_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_agreement/byzantine_agreement_test.go"
+        ],
+        "solution": [
+            "byzantine_agreement/byzantine_agreement.go",
+            "byzantine_agreement/go.mod"
+        ],
+        "example": [
+            "byzantine_agreement/.meta//byzantine_agreement.go",
+            "byzantine_agreement/.meta//go.mod"
+        ]
+    }
+}

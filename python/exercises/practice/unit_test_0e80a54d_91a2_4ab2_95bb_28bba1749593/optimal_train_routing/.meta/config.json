@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_train_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_train_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_train_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_train_routing/optimal_train_routing_test.py"
+        ],
+        "solution": [
+            "optimal_train_routing/optimal_train_routing.py",
+            "optimal_train_routing/__init__.py"
+        ],
+        "example": [
+            "optimal_train_routing/.meta//optimal_train_routing.py",
+            "optimal_train_routing/.meta//__init__.py"
+        ]
+    }
+}

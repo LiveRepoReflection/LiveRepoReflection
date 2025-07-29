@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_booking.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_booking.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_distributed_booking.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_booking/test_distributed_booking.py"
+        ],
+        "solution": [
+            "distributed_booking/distributed_booking.py",
+            "distributed_booking/__init__.py"
+        ],
+        "example": [
+            "distributed_booking/.meta//distributed_booking.py",
+            "distributed_booking/.meta//__init__.py"
+        ]
+    }
+}

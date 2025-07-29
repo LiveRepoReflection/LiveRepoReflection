@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "network_optimize.h",
+            "network_optimize.cpp",
+            "main.cpp"
+        ],
+        "example": [
+            ".meta//network_optimize.h",
+            ".meta//network_optimize.cpp",
+            ".meta//main.cpp"
+        ],
+        "test": [
+            "network_optimize_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_optimize/network_optimize_test.cpp"
+        ],
+        "solution": [
+            "network_optimize/network_optimize.h",
+            "network_optimize/network_optimize.cpp",
+            "network_optimize/main.cpp"
+        ],
+        "example": [
+            "network_optimize/.meta//network_optimize.h",
+            "network_optimize/.meta//network_optimize.cpp",
+            "network_optimize/.meta//main.cpp"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "packet_analyzer.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//packet_analyzer.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "packet_analyzer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_analyzer/packet_analyzer_test.py"
+        ],
+        "solution": [
+            "packet_analyzer/packet_analyzer.py",
+            "packet_analyzer/__init__.py",
+            "packet_analyzer/README.md"
+        ],
+        "example": [
+            "packet_analyzer/.meta//packet_analyzer.py",
+            "packet_analyzer/.meta//__init__.py",
+            "packet_analyzer/.meta//README.md"
+        ]
+    }
+}

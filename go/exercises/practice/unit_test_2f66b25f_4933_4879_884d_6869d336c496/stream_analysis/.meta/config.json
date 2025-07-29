@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "stream_analyzer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//stream_analyzer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "stream_analysis_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_analysis/stream_analysis_test.go"
+        ],
+        "solution": [
+            "stream_analysis/stream_analyzer.go",
+            "stream_analysis/go.mod"
+        ],
+        "example": [
+            "stream_analysis/.meta//stream_analyzer.go",
+            "stream_analysis/.meta//go.mod"
+        ]
+    }
+}

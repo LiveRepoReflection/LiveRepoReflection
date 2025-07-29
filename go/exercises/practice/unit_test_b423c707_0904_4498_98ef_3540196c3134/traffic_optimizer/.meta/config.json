@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_optimizer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//traffic_optimizer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "traffic_optimizer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_optimizer/traffic_optimizer_test.go"
+        ],
+        "solution": [
+            "traffic_optimizer/traffic_optimizer.go",
+            "traffic_optimizer/go.mod"
+        ],
+        "example": [
+            "traffic_optimizer/.meta//traffic_optimizer.go",
+            "traffic_optimizer/.meta//go.mod"
+        ]
+    }
+}

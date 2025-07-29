@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "network_router.go"
+        ],
+        "example": [
+            ".meta//network_router.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "network_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_router/cases_test.go",
+            "network_router/network_router_test.go",
+            "network_router/go.mod"
+        ],
+        "solution": [
+            "network_router/network_router.go"
+        ],
+        "example": [
+            "network_router/.meta//network_router.go"
+        ]
+    }
+}

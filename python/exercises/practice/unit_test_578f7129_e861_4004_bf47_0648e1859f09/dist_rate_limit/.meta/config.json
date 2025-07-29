@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dist_rate_limit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_rate_limit/dist_rate_limit_test.py"
+        ],
+        "solution": [
+            "dist_rate_limit/__init__.py"
+        ],
+        "example": [
+            "dist_rate_limit/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "paxos.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//paxos.go"
+        ],
+        "test": [
+            "paxos_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "paxos_sim/paxos_test.go"
+        ],
+        "solution": [
+            "paxos_sim/go.mod",
+            "paxos_sim/paxos.go"
+        ],
+        "example": [
+            "paxos_sim/.meta//go.mod",
+            "paxos_sim/.meta//paxos.go"
+        ]
+    }
+}

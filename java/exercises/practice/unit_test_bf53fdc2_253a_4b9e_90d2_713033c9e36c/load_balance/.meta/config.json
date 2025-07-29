@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/LoadBalancer.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/LoadBalancer.java"
+        ],
+        "test": [
+            "src/test/java/LoadBalancerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "load_balance/src/test/java/LoadBalancerTest.java"
+        ],
+        "solution": [
+            "load_balance/build.gradle",
+            "load_balance/src/main/java/LoadBalancer.java"
+        ],
+        "example": [
+            "load_balance/.meta//build.gradle",
+            "load_balance/.meta//src/main/java/LoadBalancer.java"
+        ]
+    }
+}

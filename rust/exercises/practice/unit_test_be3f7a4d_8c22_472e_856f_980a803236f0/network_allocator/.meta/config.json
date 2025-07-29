@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/network_allocator.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_allocator/tests/network_allocator.rs"
+        ],
+        "solution": [
+            "network_allocator/Cargo.toml",
+            "network_allocator/src/lib.rs"
+        ],
+        "example": [
+            "network_allocator/.meta//Cargo.toml",
+            "network_allocator/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+from .service_routing import min_total_cost

@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "token_bucket.go"
+        ],
+        "example": [
+            ".meta//token_bucket.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "token_bucket_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "token_bucket/cases_test.go",
+            "token_bucket/token_bucket_test.go",
+            "token_bucket/go.mod"
+        ],
+        "solution": [
+            "token_bucket/token_bucket.go"
+        ],
+        "example": [
+            "token_bucket/.meta//token_bucket.go"
+        ]
+    }
+}

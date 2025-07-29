@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "tx_store.py"
+        ],
+        "example": [
+            ".meta//tx_store.py"
+        ],
+        "test": [
+            "tx_store_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_store/tx_store_test.py"
+        ],
+        "solution": [
+            "tx_store/tx_store.py"
+        ],
+        "example": [
+            "tx_store/.meta//tx_store.py"
+        ]
+    }
+}

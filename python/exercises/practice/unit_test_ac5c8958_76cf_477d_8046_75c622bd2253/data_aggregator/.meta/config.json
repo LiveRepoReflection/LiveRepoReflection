@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "data_aggregator.py"
+        ],
+        "example": [
+            ".meta//data_aggregator.py"
+        ],
+        "test": [
+            "data_aggregator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_aggregator/data_aggregator_test.py"
+        ],
+        "solution": [
+            "data_aggregator/data_aggregator.py"
+        ],
+        "example": [
+            "data_aggregator/.meta//data_aggregator.py"
+        ]
+    }
+}

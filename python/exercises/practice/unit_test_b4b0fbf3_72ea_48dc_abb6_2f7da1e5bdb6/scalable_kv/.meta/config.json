@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "scalable_kv.py"
+        ],
+        "example": [
+            ".meta//scalable_kv.py"
+        ],
+        "test": [
+            "test_scalable_kv.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "scalable_kv/test_scalable_kv.py"
+        ],
+        "solution": [
+            "scalable_kv/scalable_kv.py"
+        ],
+        "example": [
+            "scalable_kv/.meta//scalable_kv.py"
+        ]
+    }
+}

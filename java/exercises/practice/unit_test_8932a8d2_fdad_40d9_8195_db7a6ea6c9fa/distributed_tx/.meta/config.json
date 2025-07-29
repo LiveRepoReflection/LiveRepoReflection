@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Transaction.java",
+            "src/main/java/BankServer.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/BankServer.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/Transaction.java",
+            "distributed_tx/src/main/java/BankServer.java",
+            "distributed_tx/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/Transaction.java",
+            "distributed_tx/.meta//src/main/java/BankServer.java",
+            "distributed_tx/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

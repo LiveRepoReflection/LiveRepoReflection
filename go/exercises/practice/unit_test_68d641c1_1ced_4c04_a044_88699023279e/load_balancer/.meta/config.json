@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "load_balancer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//load_balancer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "load_balancer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "load_balancer/load_balancer_test.go"
+        ],
+        "solution": [
+            "load_balancer/load_balancer.go",
+            "load_balancer/go.mod"
+        ],
+        "example": [
+            "load_balancer/.meta//load_balancer.go",
+            "load_balancer/.meta//go.mod"
+        ]
+    }
+}

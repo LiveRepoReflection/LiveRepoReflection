@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transit_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transit_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transit_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transit_optimizer/transit_optimizer_test.py"
+        ],
+        "solution": [
+            "transit_optimizer/transit_optimizer.py",
+            "transit_optimizer/__init__.py"
+        ],
+        "example": [
+            "transit_optimizer/.meta//transit_optimizer.py",
+            "transit_optimizer/.meta//__init__.py"
+        ]
+    }
+}

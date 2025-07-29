@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "resource_scheduler.py"
+        ],
+        "example": [
+            ".meta//resource_scheduler.py"
+        ],
+        "test": [
+            "resource_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_scheduler/resource_scheduler_test.py"
+        ],
+        "solution": [
+            "resource_scheduler/resource_scheduler.py"
+        ],
+        "example": [
+            "resource_scheduler/.meta//resource_scheduler.py"
+        ]
+    }
+}

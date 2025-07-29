@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "order_matching.py"
+        ],
+        "example": [
+            ".meta//order_matching.py"
+        ],
+        "test": [
+            "order_matching_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_matching/order_matching_test.py"
+        ],
+        "solution": [
+            "order_matching/order_matching.py"
+        ],
+        "example": [
+            "order_matching/.meta//order_matching.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "galactic_resources.py"
+        ],
+        "example": [
+            ".meta//galactic_resources.py"
+        ],
+        "test": [
+            "galactic_resources_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "galactic_resources/galactic_resources_test.py"
+        ],
+        "solution": [
+            "galactic_resources/galactic_resources.py"
+        ],
+        "example": [
+            "galactic_resources/.meta//galactic_resources.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "min_flight_cost.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//min_flight_cost.go"
+        ],
+        "test": [
+            "min_flight_cost_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "min_flight_cost/min_flight_cost_test.go"
+        ],
+        "solution": [
+            "min_flight_cost/go.mod",
+            "min_flight_cost/min_flight_cost.go"
+        ],
+        "example": [
+            "min_flight_cost/.meta//go.mod",
+            "min_flight_cost/.meta//min_flight_cost.go"
+        ]
+    }
+}

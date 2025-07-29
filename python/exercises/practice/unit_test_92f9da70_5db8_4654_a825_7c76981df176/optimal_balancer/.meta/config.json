@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_balancer.py"
+        ],
+        "example": [
+            ".meta//optimal_balancer.py"
+        ],
+        "test": [
+            "optimal_balancer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_balancer/optimal_balancer_test.py"
+        ],
+        "solution": [
+            "optimal_balancer/optimal_balancer.py"
+        ],
+        "example": [
+            "optimal_balancer/.meta//optimal_balancer.py"
+        ]
+    }
+}

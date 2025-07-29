@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "aev_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//aev_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "aev_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "aev_routing/aev_routing_test.py"
+        ],
+        "solution": [
+            "aev_routing/aev_routing.py",
+            "aev_routing/__init__.py"
+        ],
+        "example": [
+            "aev_routing/.meta//aev_routing.py",
+            "aev_routing/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_limiter.py",
+            "README.md",
+            "# Include result.retry_after in headers",
+            "design_document.md"
+        ],
+        "example": [
+            ".meta//adaptive_limiter.py",
+            ".meta//README.md",
+            ".meta/# Include result.retry_after in headers",
+            ".meta//design_document.md"
+        ],
+        "test": [
+            "adaptive_limiter_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_limiter/adaptive_limiter_test.py",
+            "adaptive_limiter/__init__.py"
+        ],
+        "solution": [
+            "adaptive_limiter/adaptive_limiter.py",
+            "adaptive_limiter/README.md",
+            "# Include result.retry_after in headers",
+            "adaptive_limiter/design_document.md"
+        ],
+        "example": [
+            "adaptive_limiter/.meta//adaptive_limiter.py",
+            "adaptive_limiter/.meta//README.md",
+            ".meta/# Include result.retry_after in headers",
+            "adaptive_limiter/.meta//design_document.md"
+        ]
+    }
+}

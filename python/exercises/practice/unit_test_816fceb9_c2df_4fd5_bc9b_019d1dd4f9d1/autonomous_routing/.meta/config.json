@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "autonomous_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "autonomous_routing/autonomous_routing_test.py"
+        ],
+        "solution": [
+            "autonomous_routing/routing.py",
+            "autonomous_routing/__init__.py"
+        ],
+        "example": [
+            "autonomous_routing/.meta//routing.py",
+            "autonomous_routing/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_reconstruction.h",
+            "network_reconstruction.cpp"
+        ],
+        "example": [
+            ".meta//network_reconstruction.h",
+            ".meta//network_reconstruction.cpp"
+        ],
+        "test": [
+            "network_reconstruction_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reconstruction/network_reconstruction_test.cpp"
+        ],
+        "solution": [
+            "network_reconstruction/network_reconstruction.h",
+            "network_reconstruction/network_reconstruction.cpp"
+        ],
+        "example": [
+            "network_reconstruction/.meta//network_reconstruction.h",
+            "network_reconstruction/.meta//network_reconstruction.cpp"
+        ]
+    }
+}

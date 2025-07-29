@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_optimize.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//task_optimize.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "task_optimize.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_optimize/task_optimize.spec.js"
+        ],
+        "solution": [
+            "task_optimize/task_optimize.js",
+            "task_optimize/package.json"
+        ],
+        "example": [
+            "task_optimize/.meta//task_optimize.js",
+            "task_optimize/.meta//package.json"
+        ]
+    }
+}

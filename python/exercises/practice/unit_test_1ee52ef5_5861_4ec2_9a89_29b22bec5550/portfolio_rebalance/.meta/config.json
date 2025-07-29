@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "portfolio_rebalance.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//portfolio_rebalance.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "portfolio_rebalance_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "portfolio_rebalance/portfolio_rebalance_test.py"
+        ],
+        "solution": [
+            "portfolio_rebalance/portfolio_rebalance.py",
+            "portfolio_rebalance/__init__.py"
+        ],
+        "example": [
+            "portfolio_rebalance/.meta//portfolio_rebalance.py",
+            "portfolio_rebalance/.meta//__init__.py"
+        ]
+    }
+}

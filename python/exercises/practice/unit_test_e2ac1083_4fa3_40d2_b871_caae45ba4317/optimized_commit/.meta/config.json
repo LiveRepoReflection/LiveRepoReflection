@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "optimized_commit.py",
+            "__init__.py",
+            "utils.py"
+        ],
+        "example": [
+            ".meta//optimized_commit.py",
+            ".meta//__init__.py",
+            ".meta//utils.py"
+        ],
+        "test": [
+            "test_optimized_commit.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimized_commit/test_optimized_commit.py"
+        ],
+        "solution": [
+            "optimized_commit/optimized_commit.py",
+            "optimized_commit/__init__.py",
+            "optimized_commit/utils.py"
+        ],
+        "example": [
+            "optimized_commit/.meta//optimized_commit.py",
+            "optimized_commit/.meta//__init__.py",
+            "optimized_commit/.meta//utils.py"
+        ]
+    }
+}

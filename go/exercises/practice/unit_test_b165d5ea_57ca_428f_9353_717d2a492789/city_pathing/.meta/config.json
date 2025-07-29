@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "city_pathing.go",
+            "common.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//city_pathing.go",
+            ".meta//common.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "city_pathing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_pathing/city_pathing_test.go",
+            "city_pathing/common.go",
+            "city_pathing/go.mod"
+        ],
+        "solution": [
+            "city_pathing/city_pathing.go",
+            "city_pathing/common.go",
+            "city_pathing/go.mod"
+        ],
+        "example": [
+            "city_pathing/.meta//city_pathing.go",
+            "city_pathing/.meta//common.go",
+            "city_pathing/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "supply_resilience.py"
+        ],
+        "example": [
+            ".meta//supply_resilience.py"
+        ],
+        "test": [
+            "supply_resilience_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_resilience/supply_resilience_test.py"
+        ],
+        "solution": [
+            "supply_resilience/supply_resilience.py"
+        ],
+        "example": [
+            "supply_resilience/.meta//supply_resilience.py"
+        ]
+    }
+}

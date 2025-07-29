@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_game.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_game.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_game_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_game/network_game_test.py"
+        ],
+        "solution": [
+            "network_game/network_game.py",
+            "network_game/__init__.py"
+        ],
+        "example": [
+            "network_game/.meta//network_game.py",
+            "network_game/.meta//__init__.py"
+        ]
+    }
+}

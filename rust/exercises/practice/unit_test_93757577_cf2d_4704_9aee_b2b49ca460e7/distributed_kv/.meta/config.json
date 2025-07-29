@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "Cargo.toml",
+            "tests/distributed_kv.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_kv/Cargo.toml",
+            "distributed_kv/tests/distributed_kv.rs"
+        ],
+        "solution": [
+            "distributed_kv/src/lib.rs"
+        ],
+        "example": [
+            "distributed_kv/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Operation.java",
+            "src/main/java/OperationType.java",
+            "src/main/java/Shard.java",
+            "src/main/java/DistributedTransactionManager.java",
+            "build.gradle",
+            "settings.gradle",
+            "README.md"
+        ],
+        "example": [
+            ".meta//src/main/java/Operation.java",
+            ".meta//src/main/java/OperationType.java",
+            ".meta//src/main/java/Shard.java",
+            ".meta//src/main/java/DistributedTransactionManager.java",
+            ".meta//build.gradle",
+            ".meta//settings.gradle",
+            ".meta//README.md"
+        ],
+        "test": [
+            "src/test/java/DistributedTransactionManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_manager/src/test/java/DistributedTransactionManagerTest.java",
+            "dist_tx_manager/src/main/java/Shard.java"
+        ],
+        "solution": [
+            "dist_tx_manager/src/main/java/Operation.java",
+            "dist_tx_manager/src/main/java/OperationType.java",
+            "dist_tx_manager/src/main/java/Shard.java",
+            "dist_tx_manager/src/main/java/DistributedTransactionManager.java",
+            "dist_tx_manager/build.gradle",
+            "dist_tx_manager/settings.gradle",
+            "dist_tx_manager/README.md"
+        ],
+        "example": [
+            "dist_tx_manager/.meta//src/main/java/Operation.java",
+            "dist_tx_manager/.meta//src/main/java/OperationType.java",
+            "dist_tx_manager/.meta//src/main/java/Shard.java",
+            "dist_tx_manager/.meta//src/main/java/DistributedTransactionManager.java",
+            "dist_tx_manager/.meta//build.gradle",
+            "dist_tx_manager/.meta//settings.gradle",
+            "dist_tx_manager/.meta//README.md"
+        ]
+    }
+}

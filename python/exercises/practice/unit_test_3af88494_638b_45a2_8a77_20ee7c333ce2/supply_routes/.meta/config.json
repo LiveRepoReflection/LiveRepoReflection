@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "supply_routes.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//supply_routes.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "supply_routes_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_routes/supply_routes_test.py"
+        ],
+        "solution": [
+            "supply_routes/supply_routes.py",
+            "supply_routes/__init__.py"
+        ],
+        "example": [
+            "supply_routes/.meta//supply_routes.py",
+            "supply_routes/.meta//__init__.py"
+        ]
+    }
+}

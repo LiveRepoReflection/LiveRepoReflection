@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "train_scheduling.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//train_scheduling.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "train_scheduling_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "train_scheduling/train_scheduling_test.py"
+        ],
+        "solution": [
+            "train_scheduling/train_scheduling.py",
+            "train_scheduling/__init__.py"
+        ],
+        "example": [
+            "train_scheduling/.meta//train_scheduling.py",
+            "train_scheduling/.meta//__init__.py"
+        ]
+    }
+}

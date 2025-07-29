@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "pipeline_time.py"
+        ],
+        "example": [
+            ".meta//pipeline_time.py"
+        ],
+        "test": [
+            "pipeline_time_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "pipeline_time/pipeline_time_test.py"
+        ],
+        "solution": [
+            "pipeline_time/pipeline_time.py"
+        ],
+        "example": [
+            "pipeline_time/.meta//pipeline_time.py"
+        ]
+    }
+}

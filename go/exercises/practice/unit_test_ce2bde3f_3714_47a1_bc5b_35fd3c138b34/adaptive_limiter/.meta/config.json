@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_limiter.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//adaptive_limiter.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "adaptive_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_limiter/adaptive_limiter_test.go"
+        ],
+        "solution": [
+            "adaptive_limiter/adaptive_limiter.go",
+            "adaptive_limiter/go.mod"
+        ],
+        "example": [
+            "adaptive_limiter/.meta//adaptive_limiter.go",
+            "adaptive_limiter/.meta//go.mod"
+        ]
+    }
+}

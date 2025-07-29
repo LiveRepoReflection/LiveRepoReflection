@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//data_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "data_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_placement/data_placement_test.py"
+        ],
+        "solution": [
+            "data_placement/data_placement.py",
+            "data_placement/__init__.py"
+        ],
+        "example": [
+            "data_placement/.meta//data_placement.py",
+            "data_placement/.meta//__init__.py"
+        ]
+    }
+}

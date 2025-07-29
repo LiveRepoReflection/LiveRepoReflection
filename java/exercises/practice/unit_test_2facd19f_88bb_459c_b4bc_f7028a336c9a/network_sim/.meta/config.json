@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkSimulation.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkSimulation.java"
+        ],
+        "test": [
+            "src/test/java/NetworkSimTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_sim/src/test/java/NetworkSimTest.java"
+        ],
+        "solution": [
+            "network_sim/build.gradle",
+            "network_sim/src/main/java/NetworkSimulation.java"
+        ],
+        "example": [
+            "network_sim/.meta//build.gradle",
+            "network_sim/.meta//src/main/java/NetworkSimulation.java"
+        ]
+    }
+}

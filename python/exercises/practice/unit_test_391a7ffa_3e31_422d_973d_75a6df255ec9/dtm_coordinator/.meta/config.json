@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dtm_coordinator.py"
+        ],
+        "example": [
+            ".meta//dtm_coordinator.py"
+        ],
+        "test": [
+            "dtm_coordinator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_coordinator/dtm_coordinator_test.py"
+        ],
+        "solution": [
+            "dtm_coordinator/dtm_coordinator.py"
+        ],
+        "example": [
+            "dtm_coordinator/.meta//dtm_coordinator.py"
+        ]
+    }
+}

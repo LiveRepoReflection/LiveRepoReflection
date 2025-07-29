@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "router_config.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//router_config.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "router_config_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "router_config/router_config_test.py"
+        ],
+        "solution": [
+            "router_config/router_config.py",
+            "router_config/__init__.py"
+        ],
+        "example": [
+            "router_config/.meta//router_config.py",
+            "router_config/.meta//__init__.py"
+        ]
+    }
+}

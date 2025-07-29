@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "quantum_simulator.py"
+        ],
+        "example": [
+            ".meta//quantum_simulator.py"
+        ],
+        "test": [
+            "quantum_simulator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_simulator/quantum_simulator_test.py"
+        ],
+        "solution": [
+            "quantum_simulator/quantum_simulator.py"
+        ],
+        "example": [
+            "quantum_simulator/.meta//quantum_simulator.py"
+        ]
+    }
+}

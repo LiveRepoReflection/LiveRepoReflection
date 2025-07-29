@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtm_transaction.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//dtm_transaction.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "test_dtm_transaction.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_transaction/test_dtm_transaction.py"
+        ],
+        "solution": [
+            "dtm_transaction/dtm_transaction.py",
+            "dtm_transaction/requirements.txt"
+        ],
+        "example": [
+            "dtm_transaction/.meta//dtm_transaction.py",
+            "dtm_transaction/.meta//requirements.txt"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transaction_order.py"
+        ],
+        "example": [
+            ".meta//transaction_order.py"
+        ],
+        "test": [
+            "transaction_order_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_order/transaction_order_test.py"
+        ],
+        "solution": [
+            "transaction_order/transaction_order.py"
+        ],
+        "example": [
+            "transaction_order/.meta//transaction_order.py"
+        ]
+    }
+}

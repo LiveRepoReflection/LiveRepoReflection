@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//byzantine_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "byzantine_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_network/byzantine_network_test.py",
+            "byzantine_network/__init__.py"
+        ],
+        "solution": [
+            "byzantine_network/byzantine_network.py",
+            "byzantine_network/__init__.py"
+        ],
+        "example": [
+            "byzantine_network/.meta//byzantine_network.py",
+            "byzantine_network/.meta//__init__.py"
+        ]
+    }
+}

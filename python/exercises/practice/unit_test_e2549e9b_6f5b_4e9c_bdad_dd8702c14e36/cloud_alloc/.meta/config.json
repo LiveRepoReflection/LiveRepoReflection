@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "cloud_alloc.py"
+        ],
+        "example": [
+            ".meta//cloud_alloc.py"
+        ],
+        "test": [
+            "cloud_alloc_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "cloud_alloc/cloud_alloc_test.py"
+        ],
+        "solution": [
+            "cloud_alloc/cloud_alloc.py"
+        ],
+        "example": [
+            "cloud_alloc/.meta//cloud_alloc.py"
+        ]
+    }
+}

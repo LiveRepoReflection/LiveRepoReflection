@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "intergalactic_exchange.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//intergalactic_exchange.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "intergalactic_exchange_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "intergalactic_exchange/intergalactic_exchange_test.go"
+        ],
+        "solution": [
+            "intergalactic_exchange/intergalactic_exchange.go",
+            "intergalactic_exchange/go.mod"
+        ],
+        "example": [
+            "intergalactic_exchange/.meta//intergalactic_exchange.go",
+            "intergalactic_exchange/.meta//go.mod"
+        ]
+    }
+}

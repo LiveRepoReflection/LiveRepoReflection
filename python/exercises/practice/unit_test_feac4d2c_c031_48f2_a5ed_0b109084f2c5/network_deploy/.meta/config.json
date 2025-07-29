@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_deploy.py"
+        ],
+        "example": [
+            ".meta//network_deploy.py"
+        ],
+        "test": [
+            "network_deploy_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_deploy/network_deploy_test.py"
+        ],
+        "solution": [
+            "network_deploy/network_deploy.py"
+        ],
+        "example": [
+            "network_deploy/.meta//network_deploy.py"
+        ]
+    }
+}

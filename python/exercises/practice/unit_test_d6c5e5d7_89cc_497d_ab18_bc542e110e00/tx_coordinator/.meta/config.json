@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_coordinator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//tx_coordinator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_coordinator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/test_coordinator.py"
+        ],
+        "solution": [
+            "tx_coordinator/tx_coordinator.py",
+            "tx_coordinator/__init__.py"
+        ],
+        "example": [
+            "tx_coordinator/.meta//tx_coordinator.py",
+            "tx_coordinator/.meta//__init__.py"
+        ]
+    }
+}

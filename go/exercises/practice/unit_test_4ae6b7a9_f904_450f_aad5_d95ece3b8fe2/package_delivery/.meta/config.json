@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "package_delivery.go",
+            "go.mod",
+            "README.md",
+            "cost := packagedelivery.OptimalDeliveryCost(hubs, routes, packages)"
+        ],
+        "example": [
+            ".meta//package_delivery.go",
+            ".meta//go.mod",
+            ".meta//README.md",
+            ".meta/cost := packagedelivery.OptimalDeliveryCost(hubs, routes, packages)"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "package_delivery/cases_test.go"
+        ],
+        "solution": [
+            "package_delivery/package_delivery.go",
+            "package_delivery/go.mod",
+            "package_delivery/README.md",
+            "cost := packagedelivery.OptimalDeliveryCost(hubs, routes, packages)"
+        ],
+        "example": [
+            "package_delivery/.meta//package_delivery.go",
+            "package_delivery/.meta//go.mod",
+            "package_delivery/.meta//README.md",
+            ".meta/cost := packagedelivery.OptimalDeliveryCost(hubs, routes, packages)"
+        ]
+    }
+}

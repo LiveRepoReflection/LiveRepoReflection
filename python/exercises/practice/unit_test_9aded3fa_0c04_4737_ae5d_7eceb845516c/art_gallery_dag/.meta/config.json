@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "art_gallery_dag.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//art_gallery_dag.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_art_gallery_dag.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "art_gallery_dag/test_art_gallery_dag.py",
+            "art_gallery_dag/__init__.py"
+        ],
+        "solution": [
+            "art_gallery_dag/art_gallery_dag.py",
+            "art_gallery_dag/__init__.py"
+        ],
+        "example": [
+            "art_gallery_dag/.meta//art_gallery_dag.py",
+            "art_gallery_dag/.meta//__init__.py"
+        ]
+    }
+}

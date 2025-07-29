@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_graph.go"
+        ],
+        "example": [
+            ".meta//optimal_graph.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "optimal_graph_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_graph/cases_test.go",
+            "optimal_graph/optimal_graph_test.go",
+            "optimal_graph/go.mod",
+            "optimal_graph/optimal_graph.go"
+        ],
+        "solution": [
+            "optimal_graph/optimal_graph.go"
+        ],
+        "example": [
+            "optimal_graph/.meta//optimal_graph.go"
+        ]
+    }
+}

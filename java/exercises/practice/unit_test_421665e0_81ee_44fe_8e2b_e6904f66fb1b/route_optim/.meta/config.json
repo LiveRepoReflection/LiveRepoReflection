@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/RouteOptim.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/RouteOptim.java"
+        ],
+        "test": [
+            "src/test/java/RouteOptimTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optim/src/test/java/RouteOptimTest.java"
+        ],
+        "solution": [
+            "route_optim/build.gradle",
+            "route_optim/src/main/java/RouteOptim.java"
+        ],
+        "example": [
+            "route_optim/.meta//build.gradle",
+            "route_optim/.meta//src/main/java/RouteOptim.java"
+        ]
+    }
+}

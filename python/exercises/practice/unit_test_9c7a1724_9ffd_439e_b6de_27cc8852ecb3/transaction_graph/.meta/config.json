@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_system.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_system.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_transaction_graph.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_graph/test_transaction_graph.py"
+        ],
+        "solution": [
+            "transaction_graph/transaction_system.py",
+            "transaction_graph/__init__.py"
+        ],
+        "example": [
+            "transaction_graph/.meta//transaction_system.py",
+            "transaction_graph/.meta//__init__.py"
+        ]
+    }
+}

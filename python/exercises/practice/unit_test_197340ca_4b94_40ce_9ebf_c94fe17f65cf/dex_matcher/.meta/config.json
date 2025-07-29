@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dex_matcher.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dex_matcher.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dex_matcher.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_matcher/test_dex_matcher.py"
+        ],
+        "solution": [
+            "dex_matcher/dex_matcher.py",
+            "dex_matcher/__init__.py"
+        ],
+        "example": [
+            "dex_matcher/.meta//dex_matcher.py",
+            "dex_matcher/.meta//__init__.py"
+        ]
+    }
+}

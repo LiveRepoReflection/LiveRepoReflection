@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "stream_analytics.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//stream_analytics.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "stream_analytics.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_analytics/stream_analytics.spec.js"
+        ],
+        "solution": [
+            "stream_analytics/stream_analytics.js",
+            "stream_analytics/package.json"
+        ],
+        "example": [
+            "stream_analytics/.meta//stream_analytics.js",
+            "stream_analytics/.meta//package.json"
+        ]
+    }
+}

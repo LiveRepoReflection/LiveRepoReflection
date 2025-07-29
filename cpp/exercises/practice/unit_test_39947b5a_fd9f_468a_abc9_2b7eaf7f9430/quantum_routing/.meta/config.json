@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "quantum_routing.cpp"
+        ],
+        "example": [
+            ".meta//quantum_routing.cpp"
+        ],
+        "test": [
+            "quantum_routing_test.cpp",
+            "quantum_routing.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_routing/quantum_routing_test.cpp",
+            "quantum_routing/quantum_routing.h"
+        ],
+        "solution": [
+            "quantum_routing/quantum_routing.cpp"
+        ],
+        "example": [
+            "quantum_routing/.meta//quantum_routing.cpp"
+        ]
+    }
+}

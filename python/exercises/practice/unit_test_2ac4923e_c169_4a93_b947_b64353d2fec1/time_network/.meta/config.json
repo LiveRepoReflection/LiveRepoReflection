@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_time_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_network/test_time_network.py"
+        ],
+        "solution": [
+            "time_network/__init__.py"
+        ],
+        "example": [
+            "time_network/.meta//__init__.py"
+        ]
+    }
+}

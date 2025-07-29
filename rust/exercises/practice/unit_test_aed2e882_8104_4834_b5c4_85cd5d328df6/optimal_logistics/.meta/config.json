@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/optimal_logistics.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_logistics/tests/optimal_logistics.rs"
+        ],
+        "solution": [
+            "optimal_logistics/Cargo.toml",
+            "optimal_logistics/src/lib.rs"
+        ],
+        "example": [
+            "optimal_logistics/.meta//Cargo.toml",
+            "optimal_logistics/.meta//src/lib.rs"
+        ]
+    }
+}

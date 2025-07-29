@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "sliding_rate_limiter.py",
+            "__init__.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//sliding_rate_limiter.py",
+            ".meta//__init__.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "sliding_rate_limiter_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "sliding_rate_limiter/sliding_rate_limiter_test.py"
+        ],
+        "solution": [
+            "sliding_rate_limiter/sliding_rate_limiter.py",
+            "sliding_rate_limiter/__init__.py",
+            "sliding_rate_limiter/requirements.txt"
+        ],
+        "example": [
+            "sliding_rate_limiter/.meta//sliding_rate_limiter.py",
+            "sliding_rate_limiter/.meta//__init__.py",
+            "sliding_rate_limiter/.meta//requirements.txt"
+        ]
+    }
+}

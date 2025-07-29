@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "trust_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//trust_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "trust_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "trust_route/trust_route_test.py"
+        ],
+        "solution": [
+            "trust_route/trust_route.py",
+            "trust_route/__init__.py"
+        ],
+        "example": [
+            "trust_route/.meta//trust_route.py",
+            "trust_route/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consistent_store.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//consistent_store.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_consistent_store.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_store/test_consistent_store.py"
+        ],
+        "solution": [
+            "consistent_store/consistent_store.py",
+            "consistent_store/__init__.py"
+        ],
+        "example": [
+            "consistent_store/.meta//consistent_store.py",
+            "consistent_store/.meta//__init__.py"
+        ]
+    }
+}

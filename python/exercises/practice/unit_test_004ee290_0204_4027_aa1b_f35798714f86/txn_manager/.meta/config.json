@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_manager.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_manager.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_manager_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_manager/txn_manager_test.py"
+        ],
+        "solution": [
+            "txn_manager/txn_manager.py",
+            "txn_manager/__init__.py"
+        ],
+        "example": [
+            "txn_manager/.meta//txn_manager.py",
+            "txn_manager/.meta//__init__.py"
+        ]
+    }
+}

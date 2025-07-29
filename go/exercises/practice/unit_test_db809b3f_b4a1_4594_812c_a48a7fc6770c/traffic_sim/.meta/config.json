@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "traffic_sim.go"
+        ],
+        "example": [
+            ".meta//traffic_sim.go"
+        ],
+        "test": [
+            "traffic_sim_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_sim/traffic_sim_test.go",
+            "traffic_sim/cases_test.go",
+            "traffic_sim/go.mod"
+        ],
+        "solution": [
+            "traffic_sim/traffic_sim.go"
+        ],
+        "example": [
+            "traffic_sim/.meta//traffic_sim.go"
+        ]
+    }
+}

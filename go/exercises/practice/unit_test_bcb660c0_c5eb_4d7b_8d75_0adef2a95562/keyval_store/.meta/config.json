@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "keyval_store.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//keyval_store.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "keyval_store_test.go",
+            "cases_test.go",
+            "bench_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "keyval_store/keyval_store_test.go",
+            "keyval_store/cases_test.go",
+            "keyval_store/bench_test.go"
+        ],
+        "solution": [
+            "keyval_store/keyval_store.go",
+            "keyval_store/go.mod"
+        ],
+        "example": [
+            "keyval_store/.meta//keyval_store.go",
+            "keyval_store/.meta//go.mod"
+        ]
+    }
+}

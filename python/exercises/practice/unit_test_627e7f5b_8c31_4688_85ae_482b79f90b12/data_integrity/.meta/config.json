@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_integrity.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//data_integrity.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "data_integrity_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_integrity/data_integrity_test.py"
+        ],
+        "solution": [
+            "data_integrity/data_integrity.py",
+            "data_integrity/__init__.py"
+        ],
+        "example": [
+            "data_integrity/.meta//data_integrity.py",
+            "data_integrity/.meta//__init__.py"
+        ]
+    }
+}

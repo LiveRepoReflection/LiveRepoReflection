@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_influence.py"
+        ],
+        "example": [
+            ".meta//network_influence.py"
+        ],
+        "test": [
+            "network_influence_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_influence/network_influence_test.py"
+        ],
+        "solution": [
+            "network_influence/network_influence.py"
+        ],
+        "example": [
+            "network_influence/.meta//network_influence.py"
+        ]
+    }
+}

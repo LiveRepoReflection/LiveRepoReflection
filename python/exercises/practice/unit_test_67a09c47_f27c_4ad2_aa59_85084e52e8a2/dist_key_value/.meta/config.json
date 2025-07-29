@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dist_key_value.py"
+        ],
+        "example": [
+            ".meta//dist_key_value.py"
+        ],
+        "test": [
+            "dist_key_value_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_key_value/dist_key_value_test.py"
+        ],
+        "solution": [
+            "dist_key_value/dist_key_value.py"
+        ],
+        "example": [
+            "dist_key_value/.meta//dist_key_value.py"
+        ]
+    }
+}

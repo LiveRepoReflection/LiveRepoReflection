@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "delivery_routes.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//delivery_routes.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "delivery_routes_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "delivery_routes/delivery_routes_test.py"
+        ],
+        "solution": [
+            "delivery_routes/delivery_routes.py",
+            "delivery_routes/__init__.py"
+        ],
+        "example": [
+            "delivery_routes/.meta//delivery_routes.py",
+            "delivery_routes/.meta//__init__.py"
+        ]
+    }
+}

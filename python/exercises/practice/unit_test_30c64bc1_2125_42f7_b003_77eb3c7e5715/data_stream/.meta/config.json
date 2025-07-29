@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "data_stream.py"
+        ],
+        "example": [
+            ".meta//data_stream.py"
+        ],
+        "test": [
+            "data_stream_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_stream/data_stream_test.py"
+        ],
+        "solution": [
+            "data_stream/data_stream.py"
+        ],
+        "example": [
+            "data_stream/.meta//data_stream.py"
+        ]
+    }
+}

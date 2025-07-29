@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_towers.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_towers.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_towers_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_towers/network_towers_test.py"
+        ],
+        "solution": [
+            "network_towers/network_towers.py",
+            "network_towers/__init__.py"
+        ],
+        "example": [
+            "network_towers/.meta//network_towers.py",
+            "network_towers/.meta//__init__.py"
+        ]
+    }
+}

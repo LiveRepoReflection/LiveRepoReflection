@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Graph.java",
+            "src/main/java/Edge.java",
+            "src/main/java/Route.java",
+            "src/main/java/OptimalRoutePlanner.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Graph.java",
+            ".meta//src/main/java/Edge.java",
+            ".meta//src/main/java/Route.java",
+            ".meta//src/main/java/OptimalRoutePlanner.java"
+        ],
+        "test": [
+            "src/test/java/OptimalRoutePlannerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optimizer/src/test/java/OptimalRoutePlannerTest.java"
+        ],
+        "solution": [
+            "route_optimizer/src/main/java/Graph.java",
+            "route_optimizer/src/main/java/Edge.java",
+            "route_optimizer/src/main/java/Route.java",
+            "route_optimizer/src/main/java/OptimalRoutePlanner.java"
+        ],
+        "example": [
+            "route_optimizer/.meta//src/main/java/Graph.java",
+            "route_optimizer/.meta//src/main/java/Edge.java",
+            "route_optimizer/.meta//src/main/java/Route.java",
+            "route_optimizer/.meta//src/main/java/OptimalRoutePlanner.java"
+        ]
+    }
+}

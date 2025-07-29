@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_tx.h",
+            "distributed_tx.cpp"
+        ],
+        "example": [
+            ".meta//distributed_tx.h",
+            ".meta//distributed_tx.cpp"
+        ],
+        "test": [
+            "distributed_tx_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/distributed_tx_test.cpp"
+        ],
+        "solution": [
+            "distributed_tx/distributed_tx.h",
+            "distributed_tx/distributed_tx.cpp"
+        ],
+        "example": [
+            "distributed_tx/.meta//distributed_tx.h",
+            "distributed_tx/.meta//distributed_tx.cpp"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transaction_coordinator.py"
+        ],
+        "example": [
+            ".meta//transaction_coordinator.py"
+        ],
+        "test": [
+            "transaction_coordinator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_coordinator/transaction_coordinator_test.py"
+        ],
+        "solution": [
+            "transaction_coordinator/transaction_coordinator.py"
+        ],
+        "example": [
+            "transaction_coordinator/.meta//transaction_coordinator.py"
+        ]
+    }
+}

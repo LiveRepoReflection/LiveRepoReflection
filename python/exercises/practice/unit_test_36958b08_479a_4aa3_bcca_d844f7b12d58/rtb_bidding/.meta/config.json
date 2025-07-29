@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "rtb_bidding.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//rtb_bidding.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_rtb_bidding.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "rtb_bidding/test_rtb_bidding.py"
+        ],
+        "solution": [
+            "rtb_bidding/rtb_bidding.py",
+            "rtb_bidding/__init__.py"
+        ],
+        "example": [
+            "rtb_bidding/.meta//rtb_bidding.py",
+            "rtb_bidding/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "data_stream.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//data_stream.go"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_stream/cases_test.go"
+        ],
+        "solution": [
+            "data_stream/go.mod",
+            "data_stream/data_stream.go"
+        ],
+        "example": [
+            "data_stream/.meta//go.mod",
+            "data_stream/.meta//data_stream.go"
+        ]
+    }
+}

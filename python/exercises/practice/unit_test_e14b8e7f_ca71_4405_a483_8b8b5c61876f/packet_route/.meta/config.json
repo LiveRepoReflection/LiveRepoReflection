@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "packet_route.py"
+        ],
+        "example": [
+            ".meta//packet_route.py"
+        ],
+        "test": [
+            "packet_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_route/packet_route_test.py"
+        ],
+        "solution": [
+            "packet_route/packet_route.py"
+        ],
+        "example": [
+            "packet_route/.meta//packet_route.py"
+        ]
+    }
+}

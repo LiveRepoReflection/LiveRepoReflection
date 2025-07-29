@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "algo_arb.py",
+            "README.md",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//algo_arb.py",
+            ".meta//README.md",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "algo_arb_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "algo_arb/algo_arb_test.py"
+        ],
+        "solution": [
+            "algo_arb/algo_arb.py",
+            "algo_arb/README.md",
+            "algo_arb/__init__.py"
+        ],
+        "example": [
+            "algo_arb/.meta//algo_arb.py",
+            "algo_arb/.meta//README.md",
+            "algo_arb/.meta//__init__.py"
+        ]
+    }
+}

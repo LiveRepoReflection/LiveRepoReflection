@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "network.go",
+            "types.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network.go",
+            ".meta//types.go",
+            ".meta//net_interconnect_test.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "net_interconnect_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_interconnect/net_interconnect_test.go",
+            "net_interconnect/types.go",
+            "net_interconnect/go.mod"
+        ],
+        "solution": [
+            "net_interconnect/network.go",
+            "net_interconnect/types.go",
+            "net_interconnect/net_interconnect_test.go",
+            "net_interconnect/go.mod"
+        ],
+        "example": [
+            "net_interconnect/.meta//network.go",
+            "net_interconnect/.meta//types.go",
+            "net_interconnect/.meta//net_interconnect_test.go",
+            "net_interconnect/.meta//go.mod"
+        ]
+    }
+}

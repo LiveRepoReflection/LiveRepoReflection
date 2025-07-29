@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "flow_network.py"
+        ],
+        "example": [
+            ".meta//flow_network.py"
+        ],
+        "test": [
+            "flow_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_network/flow_network_test.py",
+            "flow_network/__init__.py"
+        ],
+        "solution": [
+            "flow_network/flow_network.py"
+        ],
+        "example": [
+            "flow_network/.meta//flow_network.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/network_coverage.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_coverage/tests/network_coverage.rs"
+        ],
+        "solution": [
+            "network_coverage/Cargo.toml",
+            "network_coverage/src/lib.rs"
+        ],
+        "example": [
+            "network_coverage/.meta//Cargo.toml",
+            "network_coverage/.meta//src/lib.rs"
+        ]
+    }
+}

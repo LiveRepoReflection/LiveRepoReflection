@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_vrp.py"
+        ],
+        "example": [
+            ".meta//dynamic_vrp.py"
+        ],
+        "test": [
+            "dynamic_vrp_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_vrp/dynamic_vrp_test.py"
+        ],
+        "solution": [
+            "dynamic_vrp/dynamic_vrp.py"
+        ],
+        "example": [
+            "dynamic_vrp/.meta//dynamic_vrp.py"
+        ]
+    }
+}

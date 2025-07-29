@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "graph_compress.py"
+        ],
+        "example": [
+            ".meta//graph_compress.py"
+        ],
+        "test": [
+            "graph_compress_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "graph_compress/graph_compress_test.py"
+        ],
+        "solution": [
+            "graph_compress/graph_compress.py"
+        ],
+        "example": [
+            "graph_compress/.meta//graph_compress.py"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "bank.go",
+            "go.mod",
+            "transaction_log.go"
+        ],
+        "example": [
+            ".meta//bank.go",
+            ".meta//go.mod",
+            ".meta//transaction_log.go"
+        ],
+        "test": [
+            "bank_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "concurrent_bank/bank_test.go"
+        ],
+        "solution": [
+            "concurrent_bank/bank.go",
+            "concurrent_bank/go.mod",
+            "concurrent_bank/transaction_log.go"
+        ],
+        "example": [
+            "concurrent_bank/.meta//bank.go",
+            "concurrent_bank/.meta//go.mod",
+            "concurrent_bank/.meta//transaction_log.go"
+        ]
+    }
+}

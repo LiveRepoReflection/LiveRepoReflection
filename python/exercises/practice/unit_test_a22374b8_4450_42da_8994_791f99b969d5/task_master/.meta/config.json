@@ -1,0 +1,44 @@
+{
+    "files": {
+        "solution": [
+            "task_master.py",
+            "__init__.py",
+            "visualization.py",
+            "example.py",
+            "README.md",
+            "schedule = schedule_tasks(tasks, num_workers, failure_probability=0.05)"
+        ],
+        "example": [
+            ".meta//task_master.py",
+            ".meta//__init__.py",
+            ".meta//visualization.py",
+            ".meta//example.py",
+            ".meta//README.md",
+            ".meta/schedule = schedule_tasks(tasks, num_workers, failure_probability=0.05)"
+        ],
+        "test": [
+            "task_master_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_master/task_master_test.py"
+        ],
+        "solution": [
+            "task_master/task_master.py",
+            "task_master/__init__.py",
+            "task_master/visualization.py",
+            "task_master/example.py",
+            "task_master/README.md",
+            "schedule = schedule_tasks(tasks, num_workers, failure_probability=0.05)"
+        ],
+        "example": [
+            "task_master/.meta//task_master.py",
+            "task_master/.meta//__init__.py",
+            "task_master/.meta//visualization.py",
+            "task_master/.meta//example.py",
+            "task_master/.meta//README.md",
+            ".meta/schedule = schedule_tasks(tasks, num_workers, failure_probability=0.05)"
+        ]
+    }
+}

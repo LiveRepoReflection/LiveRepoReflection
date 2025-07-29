@@ -1,0 +1,41 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DistributedRateLimiter.java",
+            "src/main/java/RateLimitRule.java",
+            "src/main/java/RateLimiterConfig.java",
+            "src/main/java/DistributedCache.java",
+            "src/main/java/RedisDistributedCache.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DistributedRateLimiter.java",
+            ".meta//src/main/java/RateLimitRule.java",
+            ".meta//src/main/java/RateLimiterConfig.java",
+            ".meta//src/main/java/DistributedCache.java",
+            ".meta//src/main/java/RedisDistributedCache.java"
+        ],
+        "test": [
+            "src/test/java/RateLimitTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limit/src/test/java/RateLimitTest.java",
+            "rate_limit/build.gradle"
+        ],
+        "solution": [
+            "rate_limit/src/main/java/DistributedRateLimiter.java",
+            "rate_limit/src/main/java/RateLimitRule.java",
+            "rate_limit/src/main/java/RateLimiterConfig.java",
+            "rate_limit/src/main/java/DistributedCache.java",
+            "rate_limit/src/main/java/RedisDistributedCache.java"
+        ],
+        "example": [
+            "rate_limit/.meta//src/main/java/DistributedRateLimiter.java",
+            "rate_limit/.meta//src/main/java/RateLimitRule.java",
+            "rate_limit/.meta//src/main/java/RateLimiterConfig.java",
+            "rate_limit/.meta//src/main/java/DistributedCache.java",
+            "rate_limit/.meta//src/main/java/RedisDistributedCache.java"
+        ]
+    }
+}

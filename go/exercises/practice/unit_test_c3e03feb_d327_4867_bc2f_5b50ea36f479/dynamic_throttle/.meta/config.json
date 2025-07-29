@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_throttle.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dynamic_throttle.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dynamic_throttle_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_throttle/dynamic_throttle_test.go"
+        ],
+        "solution": [
+            "dynamic_throttle/dynamic_throttle.go",
+            "dynamic_throttle/go.mod"
+        ],
+        "example": [
+            "dynamic_throttle/.meta//dynamic_throttle.go",
+            "dynamic_throttle/.meta//go.mod"
+        ]
+    }
+}

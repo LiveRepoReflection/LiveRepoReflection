@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs",
+            "src/coordinator.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs",
+            ".meta//src/coordinator.rs"
+        ],
+        "test": [
+            "tests/transaction_coordinator_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_coordinator/tests/transaction_coordinator_tests.rs"
+        ],
+        "solution": [
+            "dtc_coordinator/Cargo.toml",
+            "dtc_coordinator/src/lib.rs",
+            "dtc_coordinator/src/coordinator.rs"
+        ],
+        "example": [
+            "dtc_coordinator/.meta//Cargo.toml",
+            "dtc_coordinator/.meta//src/lib.rs",
+            "dtc_coordinator/.meta//src/coordinator.rs"
+        ]
+    }
+}

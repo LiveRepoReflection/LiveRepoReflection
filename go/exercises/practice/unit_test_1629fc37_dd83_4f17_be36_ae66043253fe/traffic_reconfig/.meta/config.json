@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "traffic_reconfig.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//traffic_reconfig.go"
+        ],
+        "test": [
+            "traffic_reconfig_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_reconfig/traffic_reconfig_test.go"
+        ],
+        "solution": [
+            "traffic_reconfig/go.mod",
+            "traffic_reconfig/traffic_reconfig.go"
+        ],
+        "example": [
+            "traffic_reconfig/.meta//go.mod",
+            "traffic_reconfig/.meta//traffic_reconfig.go"
+        ]
+    }
+}

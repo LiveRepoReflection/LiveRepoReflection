@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "sensor_optimize.py",
+            "__init__.py",
+            "utils.py"
+        ],
+        "example": [
+            ".meta//sensor_optimize.py",
+            ".meta//__init__.py",
+            ".meta//utils.py"
+        ],
+        "test": [
+            "test_sensor_optimize.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "sensor_optimize/test_sensor_optimize.py"
+        ],
+        "solution": [
+            "sensor_optimize/sensor_optimize.py",
+            "sensor_optimize/__init__.py",
+            "sensor_optimize/utils.py"
+        ],
+        "example": [
+            "sensor_optimize/.meta//sensor_optimize.py",
+            "sensor_optimize/.meta//__init__.py",
+            "sensor_optimize/.meta//utils.py"
+        ]
+    }
+}

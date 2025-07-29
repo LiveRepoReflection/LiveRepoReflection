@@ -1,0 +1,1 @@
+from .island_sync import minimum_average_travel_time

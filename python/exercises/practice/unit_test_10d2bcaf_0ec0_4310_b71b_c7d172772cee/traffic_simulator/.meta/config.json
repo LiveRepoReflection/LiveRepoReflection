@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_simulator.py"
+        ],
+        "example": [
+            ".meta//traffic_simulator.py"
+        ],
+        "test": [
+            "traffic_simulator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_simulator/traffic_simulator_test.py"
+        ],
+        "solution": [
+            "traffic_simulator/traffic_simulator.py"
+        ],
+        "example": [
+            "traffic_simulator/.meta//traffic_simulator.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "op_transform.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//op_transform.py"
+        ],
+        "test": [
+            "op_transform_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "op_transform/op_transform_test.py"
+        ],
+        "solution": [
+            "op_transform/__init__.py",
+            "op_transform/op_transform.py"
+        ],
+        "example": [
+            "op_transform/.meta//__init__.py",
+            "op_transform/.meta//op_transform.py"
+        ]
+    }
+}

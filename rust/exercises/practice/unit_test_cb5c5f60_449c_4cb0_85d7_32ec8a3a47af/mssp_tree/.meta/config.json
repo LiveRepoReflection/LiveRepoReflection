@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/integration_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "mssp_tree/tests/integration_test.rs"
+        ],
+        "solution": [
+            "mssp_tree/Cargo.toml",
+            "mssp_tree/src/lib.rs"
+        ],
+        "example": [
+            "mssp_tree/.meta//Cargo.toml",
+            "mssp_tree/.meta//src/lib.rs"
+        ]
+    }
+}

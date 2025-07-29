@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "efficient_routing.py"
+        ],
+        "example": [
+            ".meta//efficient_routing.py"
+        ],
+        "test": [
+            "efficient_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "efficient_routing/efficient_routing_test.py"
+        ],
+        "solution": [
+            "efficient_routing/efficient_routing.py"
+        ],
+        "example": [
+            "efficient_routing/.meta//efficient_routing.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_optim.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//route_optim.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "test/route_optim.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optim/test/route_optim.spec.js"
+        ],
+        "solution": [
+            "route_optim/route_optim.js",
+            "route_optim/package.json"
+        ],
+        "example": [
+            "route_optim/.meta//route_optim.js",
+            "route_optim/.meta//package.json"
+        ]
+    }
+}

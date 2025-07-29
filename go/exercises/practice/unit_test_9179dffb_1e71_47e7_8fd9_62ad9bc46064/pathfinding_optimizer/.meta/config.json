@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "pathfinding_optimizer.go"
+        ],
+        "example": [
+            ".meta//pathfinding_optimizer.go"
+        ],
+        "test": [
+            "pathfinding_optimizer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "pathfinding_optimizer/pathfinding_optimizer_test.go",
+            "pathfinding_optimizer/go.mod"
+        ],
+        "solution": [
+            "pathfinding_optimizer/pathfinding_optimizer.go"
+        ],
+        "example": [
+            "pathfinding_optimizer/.meta//pathfinding_optimizer.go"
+        ]
+    }
+}

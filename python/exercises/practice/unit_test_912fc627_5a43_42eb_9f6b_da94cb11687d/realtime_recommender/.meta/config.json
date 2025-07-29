@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "realtime_recommender.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//realtime_recommender.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "realtime_recommender_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "realtime_recommender/realtime_recommender_test.py"
+        ],
+        "solution": [
+            "realtime_recommender/realtime_recommender.py",
+            "realtime_recommender/__init__.py",
+            "realtime_recommender/README.md"
+        ],
+        "example": [
+            "realtime_recommender/.meta//realtime_recommender.py",
+            "realtime_recommender/.meta//__init__.py",
+            "realtime_recommender/.meta//README.md"
+        ]
+    }
+}

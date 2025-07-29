@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "matching_engine.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//matching_engine.js"
+        ],
+        "test": [
+            "matching_engine.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_matcher/matching_engine.spec.js"
+        ],
+        "solution": [
+            "order_matcher/package.json",
+            "order_matcher/matching_engine.js"
+        ],
+        "example": [
+            "order_matcher/.meta//package.json",
+            "order_matcher/.meta//matching_engine.js"
+        ]
+    }
+}

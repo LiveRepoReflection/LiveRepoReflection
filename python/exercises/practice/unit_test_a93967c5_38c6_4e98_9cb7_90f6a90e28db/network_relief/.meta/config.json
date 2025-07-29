@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_relief.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_relief.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_relief_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_relief/network_relief_test.py"
+        ],
+        "solution": [
+            "network_relief/network_relief.py",
+            "network_relief/__init__.py"
+        ],
+        "example": [
+            "network_relief/.meta//network_relief.py",
+            "network_relief/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "quantum_optimize.py"
+        ],
+        "example": [
+            ".meta//quantum_optimize.py"
+        ],
+        "test": [
+            "quantum_optimize_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_optimize/quantum_optimize_test.py"
+        ],
+        "solution": [
+            "quantum_optimize/quantum_optimize.py"
+        ],
+        "example": [
+            "quantum_optimize/.meta//quantum_optimize.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "supply_chain.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//supply_chain.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "supply_chain_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_chain/supply_chain_test.py"
+        ],
+        "solution": [
+            "supply_chain/supply_chain.py",
+            "supply_chain/__init__.py"
+        ],
+        "example": [
+            "supply_chain/.meta//supply_chain.py",
+            "supply_chain/.meta//__init__.py"
+        ]
+    }
+}

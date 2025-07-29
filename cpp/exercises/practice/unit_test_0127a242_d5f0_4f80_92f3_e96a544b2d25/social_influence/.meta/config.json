@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_influence.h",
+            "social_influence.cpp"
+        ],
+        "example": [
+            ".meta//social_influence.h",
+            ".meta//social_influence.cpp"
+        ],
+        "test": [
+            "social_influence_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_influence/social_influence_test.cpp"
+        ],
+        "solution": [
+            "social_influence/social_influence.h",
+            "social_influence/social_influence.cpp"
+        ],
+        "example": [
+            "social_influence/.meta//social_influence.h",
+            "social_influence/.meta//social_influence.cpp"
+        ]
+    }
+}

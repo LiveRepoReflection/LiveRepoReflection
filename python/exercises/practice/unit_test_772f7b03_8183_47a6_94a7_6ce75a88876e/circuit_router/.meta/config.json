@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "circuit_router.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//circuit_router.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_circuit_router.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "circuit_router/test_circuit_router.py"
+        ],
+        "solution": [
+            "circuit_router/circuit_router.py",
+            "circuit_router/__init__.py"
+        ],
+        "example": [
+            "circuit_router/.meta//circuit_router.py",
+            "circuit_router/.meta//__init__.py"
+        ]
+    }
+}

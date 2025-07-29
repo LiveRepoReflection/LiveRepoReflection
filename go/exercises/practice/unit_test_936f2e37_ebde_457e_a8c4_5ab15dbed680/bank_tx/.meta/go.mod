@@ -1,0 +1,3 @@
+module bank_tx
+
+go 1.21

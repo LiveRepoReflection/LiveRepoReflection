@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_posts.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//decentralized_posts.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "decentralized_posts_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_posts/decentralized_posts_test.py"
+        ],
+        "solution": [
+            "decentralized_posts/decentralized_posts.py",
+            "decentralized_posts/__init__.py",
+            "decentralized_posts/README.md"
+        ],
+        "example": [
+            "decentralized_posts/.meta//decentralized_posts.py",
+            "decentralized_posts/.meta//__init__.py",
+            "decentralized_posts/.meta//README.md"
+        ]
+    }
+}

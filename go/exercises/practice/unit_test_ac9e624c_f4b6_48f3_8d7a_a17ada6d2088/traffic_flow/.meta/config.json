@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_flow.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//traffic_flow.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "traffic_flow_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_flow/traffic_flow_test.go"
+        ],
+        "solution": [
+            "traffic_flow/traffic_flow.go",
+            "traffic_flow/go.mod"
+        ],
+        "example": [
+            "traffic_flow/.meta//traffic_flow.go",
+            "traffic_flow/.meta//go.mod"
+        ]
+    }
+}

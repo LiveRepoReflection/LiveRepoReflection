@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml",
+            "src/main.rs"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml",
+            ".meta//src/main.rs"
+        ],
+        "test": [
+            "tests/rate_limiter_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limiter/tests/rate_limiter_test.rs",
+            "rate_limiter/Cargo.toml"
+        ],
+        "solution": [
+            "rate_limiter/src/lib.rs",
+            "rate_limiter/Cargo.toml",
+            "rate_limiter/src/main.rs"
+        ],
+        "example": [
+            "rate_limiter/.meta//src/lib.rs",
+            "rate_limiter/.meta//Cargo.toml",
+            "rate_limiter/.meta//src/main.rs"
+        ]
+    }
+}

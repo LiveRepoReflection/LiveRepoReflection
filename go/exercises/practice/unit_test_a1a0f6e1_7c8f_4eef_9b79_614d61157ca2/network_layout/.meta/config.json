@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "network_layout.go"
+        ],
+        "example": [
+            ".meta//network_layout.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "network_layout_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_layout/cases_test.go",
+            "network_layout/network_layout_test.go",
+            "network_layout/go.mod"
+        ],
+        "solution": [
+            "network_layout/network_layout.go"
+        ],
+        "example": [
+            "network_layout/.meta//network_layout.go"
+        ]
+    }
+}

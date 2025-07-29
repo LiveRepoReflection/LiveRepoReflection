@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "k_shortest_paths.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//k_shortest_paths.go"
+        ],
+        "test": [
+            "k_shortest_paths_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "k_shortest_paths/k_shortest_paths_test.go"
+        ],
+        "solution": [
+            "k_shortest_paths/go.mod",
+            "k_shortest_paths/k_shortest_paths.go"
+        ],
+        "example": [
+            "k_shortest_paths/.meta//go.mod",
+            "k_shortest_paths/.meta//k_shortest_paths.go"
+        ]
+    }
+}

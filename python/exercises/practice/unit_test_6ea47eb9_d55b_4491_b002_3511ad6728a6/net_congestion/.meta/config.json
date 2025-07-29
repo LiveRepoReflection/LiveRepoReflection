@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_congestion.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//net_congestion.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_net_congestion.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_congestion/test_net_congestion.py"
+        ],
+        "solution": [
+            "net_congestion/net_congestion.py",
+            "net_congestion/__init__.py"
+        ],
+        "example": [
+            "net_congestion/.meta//net_congestion.py",
+            "net_congestion/.meta//__init__.py"
+        ]
+    }
+}

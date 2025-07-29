@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "supply_chain_blockchain.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//supply_chain_blockchain.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "supply_chain_blockchain_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_chain_blockchain/supply_chain_blockchain_test.py"
+        ],
+        "solution": [
+            "supply_chain_blockchain/supply_chain_blockchain.py",
+            "supply_chain_blockchain/__init__.py"
+        ],
+        "example": [
+            "supply_chain_blockchain/.meta//supply_chain_blockchain.py",
+            "supply_chain_blockchain/.meta//__init__.py"
+        ]
+    }
+}

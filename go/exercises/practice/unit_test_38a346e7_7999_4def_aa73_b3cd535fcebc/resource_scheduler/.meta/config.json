@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resource_scheduler.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//resource_scheduler.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "resource_scheduler_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_scheduler/resource_scheduler_test.go"
+        ],
+        "solution": [
+            "resource_scheduler/resource_scheduler.go",
+            "resource_scheduler/go.mod"
+        ],
+        "example": [
+            "resource_scheduler/.meta//resource_scheduler.go",
+            "resource_scheduler/.meta//go.mod"
+        ]
+    }
+}

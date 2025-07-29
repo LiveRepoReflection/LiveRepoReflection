@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/dfs_consistency.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dfs_consistency/tests/dfs_consistency.rs"
+        ],
+        "solution": [
+            "dfs_consistency/Cargo.toml",
+            "dfs_consistency/src/lib.rs"
+        ],
+        "example": [
+            "dfs_consistency/.meta//Cargo.toml",
+            "dfs_consistency/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "raft_log.go",
+            "go.mod",
+            "go.sum"
+        ],
+        "example": [
+            ".meta//raft_log.go",
+            ".meta//go.mod",
+            ".meta//go.sum"
+        ],
+        "test": [
+            "raft_log_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "raft_log/raft_log_test.go",
+            "raft_log/cases_test.go",
+            "raft_log/go.mod"
+        ],
+        "solution": [
+            "raft_log/raft_log.go",
+            "raft_log/go.mod",
+            "raft_log/go.sum"
+        ],
+        "example": [
+            "raft_log/.meta//raft_log.go",
+            "raft_log/.meta//go.mod",
+            "raft_log/.meta//go.sum"
+        ]
+    }
+}

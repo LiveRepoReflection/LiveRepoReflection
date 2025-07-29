@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "network_paths.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//network_paths.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "network_paths_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_paths/cases_test.go",
+            "network_paths/network_paths_test.go"
+        ],
+        "solution": [
+            "network_paths/go.mod",
+            "network_paths/network_paths.go"
+        ],
+        "example": [
+            "network_paths/.meta//go.mod",
+            "network_paths/.meta//network_paths.go"
+        ]
+    }
+}

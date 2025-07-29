@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "data_sync.py"
+        ],
+        "example": [
+            ".meta//data_sync.py"
+        ],
+        "test": [
+            "data_sync_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_sync/data_sync_test.py"
+        ],
+        "solution": [
+            "data_sync/data_sync.py"
+        ],
+        "example": [
+            "data_sync/.meta//data_sync.py"
+        ]
+    }
+}

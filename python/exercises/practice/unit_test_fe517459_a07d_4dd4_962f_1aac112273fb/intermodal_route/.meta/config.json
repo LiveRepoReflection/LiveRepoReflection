@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_planner.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//route_planner.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "intermodal_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "intermodal_route/intermodal_route_test.py"
+        ],
+        "solution": [
+            "intermodal_route/route_planner.py",
+            "intermodal_route/__init__.py"
+        ],
+        "example": [
+            "intermodal_route/.meta//route_planner.py",
+            "intermodal_route/.meta//__init__.py"
+        ]
+    }
+}

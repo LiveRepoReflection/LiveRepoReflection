@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "auto_navigate.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//auto_navigate.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "auto_navigate_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "auto_navigate/auto_navigate_test.go"
+        ],
+        "solution": [
+            "auto_navigate/auto_navigate.go",
+            "auto_navigate/go.mod"
+        ],
+        "example": [
+            "auto_navigate/.meta//auto_navigate.go",
+            "auto_navigate/.meta//go.mod"
+        ]
+    }
+}

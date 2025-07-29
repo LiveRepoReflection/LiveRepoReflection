@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "txn_shard.py"
+        ],
+        "example": [
+            ".meta//txn_shard.py"
+        ],
+        "test": [
+            "txn_shard_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_shard/txn_shard_test.py"
+        ],
+        "solution": [
+            "txn_shard/txn_shard.py"
+        ],
+        "example": [
+            "txn_shard/.meta//txn_shard.py"
+        ]
+    }
+}

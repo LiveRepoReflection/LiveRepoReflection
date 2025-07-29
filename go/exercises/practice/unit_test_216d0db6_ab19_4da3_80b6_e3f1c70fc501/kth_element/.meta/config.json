@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "kth_element.go"
+        ],
+        "example": [
+            ".meta//kth_element.go"
+        ],
+        "test": [
+            "kth_element_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "kth_element/kth_element_test.go",
+            "kth_element/go.mod"
+        ],
+        "solution": [
+            "kth_element/kth_element.go"
+        ],
+        "example": [
+            "kth_element/.meta//kth_element.go"
+        ]
+    }
+}

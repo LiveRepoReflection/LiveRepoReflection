@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_orderbook.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//decentralized_orderbook.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_orderbook.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_orderbook/test_orderbook.py"
+        ],
+        "solution": [
+            "decentralized_orderbook/decentralized_orderbook.py",
+            "decentralized_orderbook/__init__.py"
+        ],
+        "example": [
+            "decentralized_orderbook/.meta//decentralized_orderbook.py",
+            "decentralized_orderbook/.meta//__init__.py"
+        ]
+    }
+}

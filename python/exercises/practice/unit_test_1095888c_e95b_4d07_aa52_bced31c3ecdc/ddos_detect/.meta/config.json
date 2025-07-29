@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "ddos_detect.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//ddos_detect.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "ddos_detect_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "ddos_detect/ddos_detect_test.py"
+        ],
+        "solution": [
+            "ddos_detect/ddos_detect.py",
+            "ddos_detect/__init__.py"
+        ],
+        "example": [
+            "ddos_detect/.meta//ddos_detect.py",
+            "ddos_detect/.meta//__init__.py"
+        ]
+    }
+}

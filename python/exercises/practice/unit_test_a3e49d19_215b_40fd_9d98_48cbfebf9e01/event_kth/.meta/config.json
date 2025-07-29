@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "event_kth.py",
+            "README.md",
+            "kth_smallest = aggregator.get_kth_smallest(\"CPU_Usage\")"
+        ],
+        "example": [
+            ".meta//event_kth.py",
+            ".meta//README.md",
+            ".meta/kth_smallest = aggregator.get_kth_smallest(\"CPU_Usage\")"
+        ],
+        "test": [
+            "test_event_kth.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_kth/test_event_kth.py",
+            "event_kth/__init__.py"
+        ],
+        "solution": [
+            "event_kth/event_kth.py",
+            "event_kth/README.md",
+            "kth_smallest = aggregator.get_kth_smallest(\"CPU_Usage\")"
+        ],
+        "example": [
+            "event_kth/.meta//event_kth.py",
+            "event_kth/.meta//README.md",
+            ".meta/kth_smallest = aggregator.get_kth_smallest(\"CPU_Usage\")"
+        ]
+    }
+}

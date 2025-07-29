@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_analyzer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_analyzer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_analyzer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_analyzer/transaction_analyzer_test.py"
+        ],
+        "solution": [
+            "transaction_analyzer/transaction_analyzer.py",
+            "transaction_analyzer/__init__.py"
+        ],
+        "example": [
+            "transaction_analyzer/.meta//transaction_analyzer.py",
+            "transaction_analyzer/.meta//__init__.py"
+        ]
+    }
+}

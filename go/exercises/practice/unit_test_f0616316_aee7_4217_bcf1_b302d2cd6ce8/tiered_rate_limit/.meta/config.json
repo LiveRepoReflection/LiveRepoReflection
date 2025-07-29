@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "tiered_rate_limit.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//tiered_rate_limit.go"
+        ],
+        "test": [
+            "tiered_rate_limit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tiered_rate_limit/tiered_rate_limit_test.go"
+        ],
+        "solution": [
+            "tiered_rate_limit/go.mod",
+            "tiered_rate_limit/tiered_rate_limit.go"
+        ],
+        "example": [
+            "tiered_rate_limit/.meta//go.mod",
+            "tiered_rate_limit/.meta//tiered_rate_limit.go"
+        ]
+    }
+}

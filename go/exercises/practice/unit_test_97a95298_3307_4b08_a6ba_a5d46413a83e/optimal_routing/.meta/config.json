@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_routing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "optimal_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_routing/optimal_routing_test.go"
+        ],
+        "solution": [
+            "optimal_routing/optimal_routing.go",
+            "optimal_routing/go.mod"
+        ],
+        "example": [
+            "optimal_routing/.meta//optimal_routing.go",
+            "optimal_routing/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/DistributedConsistentHashing.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/DistributedConsistentHashing.java"
+        ],
+        "test": [
+            "src/test/java/DistributedConsistentHashingTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_hash/src/test/java/DistributedConsistentHashingTest.java"
+        ],
+        "solution": [
+            "consistent_hash/build.gradle",
+            "consistent_hash/src/main/java/DistributedConsistentHashing.java"
+        ],
+        "example": [
+            "consistent_hash/.meta//build.gradle",
+            "consistent_hash/.meta//src/main/java/DistributedConsistentHashing.java"
+        ]
+    }
+}

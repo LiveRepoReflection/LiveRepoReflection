@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_latency.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_latency.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_latency_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_latency/network_latency_test.py"
+        ],
+        "solution": [
+            "network_latency/network_latency.py",
+            "network_latency/__init__.py"
+        ],
+        "example": [
+            "network_latency/.meta//network_latency.py",
+            "network_latency/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/integration_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "cache_invalidation/tests/integration_test.rs"
+        ],
+        "solution": [
+            "cache_invalidation/Cargo.toml",
+            "cache_invalidation/src/lib.rs"
+        ],
+        "example": [
+            "cache_invalidation/.meta//Cargo.toml",
+            "cache_invalidation/.meta//src/lib.rs"
+        ]
+    }
+}

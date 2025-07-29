@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TrafficUpdate.java",
+            "src/main/java/RoutePlanner.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TrafficUpdate.java",
+            ".meta//src/main/java/RoutePlanner.java"
+        ],
+        "test": [
+            "src/test/java/RoutePlannerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_planner/src/test/java/RoutePlannerTest.java"
+        ],
+        "solution": [
+            "route_planner/build.gradle",
+            "route_planner/src/main/java/TrafficUpdate.java",
+            "route_planner/src/main/java/RoutePlanner.java"
+        ],
+        "example": [
+            "route_planner/.meta//build.gradle",
+            "route_planner/.meta//src/main/java/TrafficUpdate.java",
+            "route_planner/.meta//src/main/java/RoutePlanner.java"
+        ]
+    }
+}

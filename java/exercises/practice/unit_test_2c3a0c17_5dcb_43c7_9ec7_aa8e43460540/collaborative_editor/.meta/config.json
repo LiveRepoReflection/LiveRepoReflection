@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/CollaborativeEditor.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/CollaborativeEditor.java"
+        ],
+        "test": [
+            "src/test/java/EditorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "collaborative_editor/src/test/java/EditorTest.java"
+        ],
+        "solution": [
+            "collaborative_editor/build.gradle",
+            "collaborative_editor/src/main/java/CollaborativeEditor.java"
+        ],
+        "example": [
+            "collaborative_editor/.meta//build.gradle",
+            "collaborative_editor/.meta//src/main/java/CollaborativeEditor.java"
+        ]
+    }
+}

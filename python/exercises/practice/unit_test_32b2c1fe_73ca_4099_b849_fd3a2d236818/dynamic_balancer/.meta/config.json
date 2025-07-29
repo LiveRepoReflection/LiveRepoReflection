@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_balancer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dynamic_balancer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dynamic_balancer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_balancer/dynamic_balancer_test.py"
+        ],
+        "solution": [
+            "dynamic_balancer/dynamic_balancer.py",
+            "dynamic_balancer/__init__.py"
+        ],
+        "example": [
+            "dynamic_balancer/.meta//dynamic_balancer.py",
+            "dynamic_balancer/.meta//__init__.py"
+        ]
+    }
+}

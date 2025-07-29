@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "order_atomicity.py"
+        ],
+        "example": [
+            ".meta//order_atomicity.py"
+        ],
+        "test": [
+            "order_atomicity_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_atomicity/order_atomicity_test.py"
+        ],
+        "solution": [
+            "order_atomicity/order_atomicity.py"
+        ],
+        "example": [
+            "order_atomicity/.meta//order_atomicity.py"
+        ]
+    }
+}

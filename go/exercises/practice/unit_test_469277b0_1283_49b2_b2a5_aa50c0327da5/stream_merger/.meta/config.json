@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "stream_merger.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//stream_merger.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "stream_merger_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_merger/stream_merger_test.go",
+            "stream_merger/go.mod"
+        ],
+        "solution": [
+            "stream_merger/stream_merger.go",
+            "stream_merger/go.mod"
+        ],
+        "example": [
+            "stream_merger/.meta//stream_merger.go",
+            "stream_merger/.meta//go.mod"
+        ]
+    }
+}

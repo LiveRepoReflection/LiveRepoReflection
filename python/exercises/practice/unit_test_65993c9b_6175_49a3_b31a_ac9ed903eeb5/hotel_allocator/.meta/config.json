@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "hotel_allocator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//hotel_allocator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_hotel_allocator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "hotel_allocator/test_hotel_allocator.py"
+        ],
+        "solution": [
+            "hotel_allocator/hotel_allocator.py",
+            "hotel_allocator/__init__.py"
+        ],
+        "example": [
+            "hotel_allocator/.meta//hotel_allocator.py",
+            "hotel_allocator/.meta//__init__.py"
+        ]
+    }
+}

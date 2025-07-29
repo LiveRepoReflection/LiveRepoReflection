@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "service.js",
+            "tx_coordinator.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//service.js",
+            ".meta//tx_coordinator.js"
+        ],
+        "test": [
+            "__tests__/tx_coordinator.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/__tests__/tx_coordinator.spec.js"
+        ],
+        "solution": [
+            "tx_coordinator/package.json",
+            "tx_coordinator/service.js",
+            "tx_coordinator/tx_coordinator.js"
+        ],
+        "example": [
+            "tx_coordinator/.meta//package.json",
+            "tx_coordinator/.meta//service.js",
+            "tx_coordinator/.meta//tx_coordinator.js"
+        ]
+    }
+}

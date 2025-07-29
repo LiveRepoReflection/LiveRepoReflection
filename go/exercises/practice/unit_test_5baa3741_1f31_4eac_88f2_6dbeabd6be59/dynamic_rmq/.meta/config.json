@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_rmq.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dynamic_rmq.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dynamic_rmq_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_rmq/dynamic_rmq_test.go"
+        ],
+        "solution": [
+            "dynamic_rmq/dynamic_rmq.go",
+            "dynamic_rmq/go.mod"
+        ],
+        "example": [
+            "dynamic_rmq/.meta//dynamic_rmq.go",
+            "dynamic_rmq/.meta//go.mod"
+        ]
+    }
+}

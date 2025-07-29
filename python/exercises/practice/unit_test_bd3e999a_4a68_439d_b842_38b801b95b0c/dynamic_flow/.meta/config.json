@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_flow.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dynamic_flow.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dynamic_flow_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_flow/dynamic_flow_test.py"
+        ],
+        "solution": [
+            "dynamic_flow/dynamic_flow.py",
+            "dynamic_flow/__init__.py"
+        ],
+        "example": [
+            "dynamic_flow/.meta//dynamic_flow.py",
+            "dynamic_flow/.meta//__init__.py"
+        ]
+    }
+}

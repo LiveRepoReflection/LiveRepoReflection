@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "budget_route.py"
+        ],
+        "example": [
+            ".meta//budget_route.py"
+        ],
+        "test": [
+            "budget_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "budget_route/budget_route_test.py"
+        ],
+        "solution": [
+            "budget_route/budget_route.py"
+        ],
+        "example": [
+            "budget_route/.meta//budget_route.py"
+        ]
+    }
+}

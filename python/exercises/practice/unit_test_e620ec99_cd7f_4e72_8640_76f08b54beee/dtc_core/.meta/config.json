@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtc_core.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dtc_core.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dtc_core.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_core/test_dtc_core.py"
+        ],
+        "solution": [
+            "dtc_core/dtc_core.py",
+            "dtc_core/__init__.py"
+        ],
+        "example": [
+            "dtc_core/.meta//dtc_core.py",
+            "dtc_core/.meta//__init__.py"
+        ]
+    }
+}

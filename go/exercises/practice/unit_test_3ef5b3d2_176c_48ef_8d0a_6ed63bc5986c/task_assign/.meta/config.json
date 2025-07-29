@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_assign.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//task_assign.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "task_assign_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_assign/task_assign_test.go"
+        ],
+        "solution": [
+            "task_assign/task_assign.go",
+            "task_assign/go.mod"
+        ],
+        "example": [
+            "task_assign/.meta//task_assign.go",
+            "task_assign/.meta//go.mod"
+        ]
+    }
+}

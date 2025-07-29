@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "consistent_cdn.go"
+        ],
+        "example": [
+            ".meta//consistent_cdn.go"
+        ],
+        "test": [
+            "consistent_cdn_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_cdn/consistent_cdn_test.go",
+            "consistent_cdn/go.mod"
+        ],
+        "solution": [
+            "consistent_cdn/consistent_cdn.go"
+        ],
+        "example": [
+            "consistent_cdn/.meta//consistent_cdn.go"
+        ]
+    }
+}

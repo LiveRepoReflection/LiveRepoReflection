@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "vehicle_routing.py"
+        ],
+        "example": [
+            ".meta//vehicle_routing.py"
+        ],
+        "test": [
+            "vehicle_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "vehicle_routing/vehicle_routing_test.py"
+        ],
+        "solution": [
+            "vehicle_routing/vehicle_routing.py"
+        ],
+        "example": [
+            "vehicle_routing/.meta//vehicle_routing.py"
+        ]
+    }
+}

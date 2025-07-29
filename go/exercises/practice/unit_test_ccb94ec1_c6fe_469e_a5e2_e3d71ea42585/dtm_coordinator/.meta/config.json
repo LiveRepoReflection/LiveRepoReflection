@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtm_coordinator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dtm_coordinator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dtm_coordinator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_coordinator/dtm_coordinator_test.go"
+        ],
+        "solution": [
+            "dtm_coordinator/dtm_coordinator.go",
+            "dtm_coordinator/go.mod"
+        ],
+        "example": [
+            "dtm_coordinator/.meta//dtm_coordinator.go",
+            "dtm_coordinator/.meta//go.mod"
+        ]
+    }
+}

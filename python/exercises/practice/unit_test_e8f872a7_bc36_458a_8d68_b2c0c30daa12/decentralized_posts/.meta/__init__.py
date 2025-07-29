@@ -1,0 +1,1 @@
+from .decentralized_posts import store_post, retrieve_posts

@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "conflict_resolution.go"
+        ],
+        "example": [
+            ".meta//conflict_resolution.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "conflict_resolution_test.go",
+            "types.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "conflict_resolution/cases_test.go",
+            "conflict_resolution/conflict_resolution_test.go",
+            "conflict_resolution/go.mod",
+            "conflict_resolution/types.go"
+        ],
+        "solution": [
+            "conflict_resolution/conflict_resolution.go"
+        ],
+        "example": [
+            "conflict_resolution/.meta//conflict_resolution.go"
+        ]
+    }
+}

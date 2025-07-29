@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "meeting_optimal.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//meeting_optimal.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "meeting_optimal_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_optimal/meeting_optimal_test.go"
+        ],
+        "solution": [
+            "meeting_optimal/meeting_optimal.go",
+            "meeting_optimal/go.mod"
+        ],
+        "example": [
+            "meeting_optimal/.meta//meeting_optimal.go",
+            "meeting_optimal/.meta//go.mod"
+        ]
+    }
+}

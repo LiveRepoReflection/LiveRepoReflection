@@ -1,0 +1,13 @@
+{
+  "name": "tx_coordinator",
+  "version": "1.0.0",
+  "description": "Distributed Transaction Coordinator in JavaScript",
+  "main": "tx_coordinator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/OptimalRouteSolver.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/OptimalRouteSolver.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/OptimalRouteTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_route/src/test/java/OptimalRouteTest.java"
+        ],
+        "solution": [
+            "optimal_route/src/main/java/OptimalRouteSolver.java",
+            "optimal_route/build.gradle"
+        ],
+        "example": [
+            "optimal_route/.meta//src/main/java/OptimalRouteSolver.java",
+            "optimal_route/.meta//build.gradle"
+        ]
+    }
+}

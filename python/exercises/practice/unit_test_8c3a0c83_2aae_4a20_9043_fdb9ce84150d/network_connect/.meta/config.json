@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_connect.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_connect.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_connect_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_connect/network_connect_test.py",
+            "network_connect/__init__.py"
+        ],
+        "solution": [
+            "network_connect/network_connect.py",
+            "network_connect/__init__.py"
+        ],
+        "example": [
+            "network_connect/.meta//network_connect.py",
+            "network_connect/.meta//__init__.py"
+        ]
+    }
+}

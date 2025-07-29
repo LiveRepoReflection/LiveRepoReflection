@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/AlgoStockTrader.java"
+        ],
+        "example": [
+            ".meta//src/main/java/AlgoStockTrader.java"
+        ],
+        "test": [
+            "src/test/java/AlgoStockTraderTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "algo_stock_trader/build.gradle",
+            "algo_stock_trader/src/test/java/AlgoStockTraderTest.java"
+        ],
+        "solution": [
+            "algo_stock_trader/src/main/java/AlgoStockTrader.java"
+        ],
+        "example": [
+            "algo_stock_trader/.meta//src/main/java/AlgoStockTrader.java"
+        ]
+    }
+}

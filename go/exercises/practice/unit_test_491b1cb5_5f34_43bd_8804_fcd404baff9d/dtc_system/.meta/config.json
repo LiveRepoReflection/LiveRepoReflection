@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "coordinator.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//coordinator.go"
+        ],
+        "test": [
+            "dtc_system_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_system/dtc_system_test.go"
+        ],
+        "solution": [
+            "dtc_system/go.mod",
+            "dtc_system/coordinator.go"
+        ],
+        "example": [
+            "dtc_system/.meta//go.mod",
+            "dtc_system/.meta//coordinator.go"
+        ]
+    }
+}

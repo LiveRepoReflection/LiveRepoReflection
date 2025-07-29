@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "market_arb_detect.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//market_arb_detect.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_market_arb_detect.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "market_arb_detect/test_market_arb_detect.py"
+        ],
+        "solution": [
+            "market_arb_detect/market_arb_detect.py",
+            "market_arb_detect/__init__.py"
+        ],
+        "example": [
+            "market_arb_detect/.meta//market_arb_detect.py",
+            "market_arb_detect/.meta//__init__.py"
+        ]
+    }
+}

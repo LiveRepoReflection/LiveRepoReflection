@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/RouteOptimiser.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/RouteOptimiser.java"
+        ],
+        "test": [
+            "src/test/java/RouteOptimiserTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optimiser/src/test/java/RouteOptimiserTest.java"
+        ],
+        "solution": [
+            "route_optimiser/build.gradle",
+            "route_optimiser/src/main/java/RouteOptimiser.java"
+        ],
+        "example": [
+            "route_optimiser/.meta//build.gradle",
+            "route_optimiser/.meta//src/main/java/RouteOptimiser.java"
+        ]
+    }
+}

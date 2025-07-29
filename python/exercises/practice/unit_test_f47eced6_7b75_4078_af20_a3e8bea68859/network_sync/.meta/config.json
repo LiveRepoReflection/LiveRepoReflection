@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_sync.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_sync.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_sync_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_sync/network_sync_test.py"
+        ],
+        "solution": [
+            "network_sync/network_sync.py",
+            "network_sync/__init__.py"
+        ],
+        "example": [
+            "network_sync/.meta//network_sync.py",
+            "network_sync/.meta//__init__.py"
+        ]
+    }
+}

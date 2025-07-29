@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_rescue.py"
+        ],
+        "example": [
+            ".meta//network_rescue.py"
+        ],
+        "test": [
+            "network_rescue_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_rescue/network_rescue_test.py"
+        ],
+        "solution": [
+            "network_rescue/network_rescue.py"
+        ],
+        "example": [
+            "network_rescue/.meta//network_rescue.py"
+        ]
+    }
+}

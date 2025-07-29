@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resilient_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//resilient_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "resilient_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resilient_network/resilient_network_test.py"
+        ],
+        "solution": [
+            "resilient_network/resilient_network.py",
+            "resilient_network/__init__.py"
+        ],
+        "example": [
+            "resilient_network/.meta//resilient_network.py",
+            "resilient_network/.meta//__init__.py"
+        ]
+    }
+}

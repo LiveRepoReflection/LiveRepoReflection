@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "constrained_path.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//constrained_path.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "constrained_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "constrained_path/cases_test.go",
+            "constrained_path/constrained_path_test.go"
+        ],
+        "solution": [
+            "constrained_path/go.mod",
+            "constrained_path/constrained_path.go"
+        ],
+        "example": [
+            "constrained_path/.meta//go.mod",
+            "constrained_path/.meta//constrained_path.go"
+        ]
+    }
+}

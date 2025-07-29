@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "stock_exchange.py"
+        ],
+        "example": [
+            ".meta//stock_exchange.py"
+        ],
+        "test": [
+            "stock_exchange_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stock_exchange/stock_exchange_test.py"
+        ],
+        "solution": [
+            "stock_exchange/stock_exchange.py"
+        ],
+        "example": [
+            "stock_exchange/.meta//stock_exchange.py"
+        ]
+    }
+}

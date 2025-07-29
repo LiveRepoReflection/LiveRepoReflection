@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consistent_cache.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//consistent_cache.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_consistent_cache.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_cache/test_consistent_cache.py"
+        ],
+        "solution": [
+            "consistent_cache/consistent_cache.py",
+            "consistent_cache/__init__.py"
+        ],
+        "example": [
+            "consistent_cache/.meta//consistent_cache.py",
+            "consistent_cache/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_traffic.py"
+        ],
+        "example": [
+            ".meta//adaptive_traffic.py"
+        ],
+        "test": [
+            "adaptive_traffic_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_traffic/adaptive_traffic_test.py"
+        ],
+        "solution": [
+            "adaptive_traffic/adaptive_traffic.py"
+        ],
+        "example": [
+            "adaptive_traffic/.meta//adaptive_traffic.py"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "smart_city.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//smart_city.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "smart_city_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "smart_city/smart_city_test.go",
+            "smart_city/go.mod",
+            "smart_city/cases_test.go"
+        ],
+        "solution": [
+            "smart_city/smart_city.go",
+            "smart_city/go.mod"
+        ],
+        "example": [
+            "smart_city/.meta//smart_city.go",
+            "smart_city/.meta//go.mod"
+        ]
+    }
+}

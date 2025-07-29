@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "rtb_profit.py"
+        ],
+        "example": [
+            ".meta//rtb_profit.py"
+        ],
+        "test": [
+            "rtb_profit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "rtb_profit/rtb_profit_test.py"
+        ],
+        "solution": [
+            "rtb_profit/rtb_profit.py"
+        ],
+        "example": [
+            "rtb_profit/.meta//rtb_profit.py"
+        ]
+    }
+}

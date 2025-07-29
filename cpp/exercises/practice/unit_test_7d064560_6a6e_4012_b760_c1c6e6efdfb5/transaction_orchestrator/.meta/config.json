@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_orchestrator.h",
+            "transaction_orchestrator.cpp"
+        ],
+        "example": [
+            ".meta//transaction_orchestrator.h",
+            ".meta//transaction_orchestrator.cpp"
+        ],
+        "test": [
+            "transaction_orchestrator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_orchestrator/transaction_orchestrator_test.cpp"
+        ],
+        "solution": [
+            "transaction_orchestrator/transaction_orchestrator.h",
+            "transaction_orchestrator/transaction_orchestrator.cpp"
+        ],
+        "example": [
+            "transaction_orchestrator/.meta//transaction_orchestrator.h",
+            "transaction_orchestrator/.meta//transaction_orchestrator.cpp"
+        ]
+    }
+}

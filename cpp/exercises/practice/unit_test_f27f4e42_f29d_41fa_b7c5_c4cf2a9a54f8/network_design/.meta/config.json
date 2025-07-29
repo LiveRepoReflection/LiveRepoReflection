@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_design.h",
+            "network_design.cpp"
+        ],
+        "example": [
+            ".meta//network_design.h",
+            ".meta//network_design.cpp"
+        ],
+        "test": [
+            "network_design_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_design/network_design_test.cpp"
+        ],
+        "solution": [
+            "network_design/network_design.h",
+            "network_design/network_design.cpp"
+        ],
+        "example": [
+            "network_design/.meta//network_design.h",
+            "network_design/.meta//network_design.cpp"
+        ]
+    }
+}

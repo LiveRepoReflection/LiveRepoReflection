@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/event_stream.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_stream/tests/event_stream.rs"
+        ],
+        "solution": [
+            "event_stream/Cargo.toml",
+            "event_stream/src/lib.rs"
+        ],
+        "example": [
+            "event_stream/.meta//Cargo.toml",
+            "event_stream/.meta//src/lib.rs"
+        ]
+    }
+}

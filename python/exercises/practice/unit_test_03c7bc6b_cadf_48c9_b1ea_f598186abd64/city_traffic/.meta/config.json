@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "city_traffic.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//city_traffic.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_city_traffic.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_traffic/test_city_traffic.py"
+        ],
+        "solution": [
+            "city_traffic/city_traffic.py",
+            "city_traffic/__init__.py"
+        ],
+        "example": [
+            "city_traffic/.meta//city_traffic.py",
+            "city_traffic/.meta//__init__.py"
+        ]
+    }
+}

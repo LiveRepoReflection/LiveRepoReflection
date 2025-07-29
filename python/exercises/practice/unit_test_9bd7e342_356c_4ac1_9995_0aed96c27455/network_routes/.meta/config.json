@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_routes.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_routes.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_routes_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_routes/network_routes_test.py"
+        ],
+        "solution": [
+            "network_routes/network_routes.py",
+            "network_routes/__init__.py"
+        ],
+        "example": [
+            "network_routes/.meta//network_routes.py",
+            "network_routes/.meta//__init__.py"
+        ]
+    }
+}

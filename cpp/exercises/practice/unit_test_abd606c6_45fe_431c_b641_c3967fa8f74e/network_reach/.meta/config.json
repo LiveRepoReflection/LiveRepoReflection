@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "network_reach.cpp"
+        ],
+        "example": [
+            ".meta//network_reach.cpp"
+        ],
+        "test": [
+            "network_reach_test.cpp",
+            "network_reach.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reach/network_reach_test.cpp",
+            "network_reach/network_reach.h"
+        ],
+        "solution": [
+            "network_reach/network_reach.cpp"
+        ],
+        "example": [
+            "network_reach/.meta//network_reach.cpp"
+        ]
+    }
+}

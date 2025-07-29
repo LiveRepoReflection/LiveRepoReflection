@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TrafficSync.java",
+            "src/main/java/Pair.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/TrafficSync.java",
+            ".meta//src/main/java/Pair.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/TrafficSyncTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_sync/src/test/java/TrafficSyncTest.java",
+            "traffic_sync/src/main/java/Pair.java",
+            "traffic_sync/build.gradle",
+            "traffic_sync/src/main/java/TrafficSync.java"
+        ],
+        "solution": [
+            "traffic_sync/src/main/java/TrafficSync.java",
+            "traffic_sync/src/main/java/Pair.java",
+            "traffic_sync/build.gradle"
+        ],
+        "example": [
+            "traffic_sync/.meta//src/main/java/TrafficSync.java",
+            "traffic_sync/.meta//src/main/java/Pair.java",
+            "traffic_sync/.meta//build.gradle"
+        ]
+    }
+}

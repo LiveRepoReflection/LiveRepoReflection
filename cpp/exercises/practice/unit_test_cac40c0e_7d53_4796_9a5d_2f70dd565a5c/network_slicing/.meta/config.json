@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "network_slicing.cpp"
+        ],
+        "example": [
+            ".meta//network_slicing.cpp"
+        ],
+        "test": [
+            "network_slicing_test.cpp",
+            "network_slicing.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_slicing/network_slicing_test.cpp",
+            "network_slicing/network_slicing.h"
+        ],
+        "solution": [
+            "network_slicing/network_slicing.cpp"
+        ],
+        "example": [
+            "network_slicing/.meta//network_slicing.cpp"
+        ]
+    }
+}

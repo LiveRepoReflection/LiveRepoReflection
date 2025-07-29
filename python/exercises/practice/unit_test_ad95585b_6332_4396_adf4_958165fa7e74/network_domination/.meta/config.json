@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_domination.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_domination.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_domination_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_domination/network_domination_test.py"
+        ],
+        "solution": [
+            "network_domination/network_domination.py",
+            "network_domination/__init__.py"
+        ],
+        "example": [
+            "network_domination/.meta//network_domination.py",
+            "network_domination/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_rail.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_rail.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_rail_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_rail/optimal_rail_test.py"
+        ],
+        "solution": [
+            "optimal_rail/optimal_rail.py",
+            "optimal_rail/__init__.py"
+        ],
+        "example": [
+            "optimal_rail/.meta//optimal_rail.py",
+            "optimal_rail/.meta//__init__.py"
+        ]
+    }
+}

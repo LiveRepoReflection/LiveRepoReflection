@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "net_flow.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//net_flow.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "net_flow_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_flow/net_flow_test.go",
+            "net_flow/go.mod"
+        ],
+        "solution": [
+            "net_flow/net_flow.go",
+            "net_flow/go.mod"
+        ],
+        "example": [
+            "net_flow/.meta//net_flow.go",
+            "net_flow/.meta//go.mod"
+        ]
+    }
+}

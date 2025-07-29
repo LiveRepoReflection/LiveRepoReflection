@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_saga.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//order_saga.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_order_saga.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_saga/test_order_saga.py"
+        ],
+        "solution": [
+            "order_saga/order_saga.py",
+            "order_saga/__init__.py"
+        ],
+        "example": [
+            "order_saga/.meta//order_saga.py",
+            "order_saga/.meta//__init__.py"
+        ]
+    }
+}

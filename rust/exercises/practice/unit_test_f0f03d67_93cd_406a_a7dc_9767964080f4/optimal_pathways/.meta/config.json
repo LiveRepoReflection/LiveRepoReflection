@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/optimal_pathways.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_pathways/tests/optimal_pathways.rs",
+            "optimal_pathways/Cargo.toml"
+        ],
+        "solution": [
+            "optimal_pathways/src/lib.rs",
+            "optimal_pathways/Cargo.toml"
+        ],
+        "example": [
+            "optimal_pathways/.meta//src/lib.rs",
+            "optimal_pathways/.meta//Cargo.toml"
+        ]
+    }
+}

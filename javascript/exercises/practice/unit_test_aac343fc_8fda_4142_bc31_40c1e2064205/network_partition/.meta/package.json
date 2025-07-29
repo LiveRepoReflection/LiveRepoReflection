@@ -1,0 +1,10 @@
+{
+  "name": "network_partition",
+  "version": "1.0.0",
+  "main": "network_partition.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {}
+}

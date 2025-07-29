@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/k_anon_graph.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "k_anon_graph/tests/k_anon_graph.rs"
+        ],
+        "solution": [
+            "k_anon_graph/Cargo.toml",
+            "k_anon_graph/src/lib.rs"
+        ],
+        "example": [
+            "k_anon_graph/.meta//Cargo.toml",
+            "k_anon_graph/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "scalable_mq.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//scalable_mq.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "scalable_mq_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "scalable_mq/scalable_mq_test.go"
+        ],
+        "solution": [
+            "scalable_mq/scalable_mq.go",
+            "scalable_mq/go.mod"
+        ],
+        "example": [
+            "scalable_mq/.meta//scalable_mq.go",
+            "scalable_mq/.meta//go.mod"
+        ]
+    }
+}

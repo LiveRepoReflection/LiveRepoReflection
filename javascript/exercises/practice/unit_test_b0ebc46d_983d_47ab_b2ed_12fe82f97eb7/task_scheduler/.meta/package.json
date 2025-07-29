@@ -1,0 +1,12 @@
+{
+  "name": "task_scheduler",
+  "version": "1.0.0",
+  "description": "Distributed Task Scheduler with Resource Constraints",
+  "main": "task_scheduler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

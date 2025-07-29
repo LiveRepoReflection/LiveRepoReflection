@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "doc_collab.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//doc_collab.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "doc_collab_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "doc_collab/doc_collab_test.go"
+        ],
+        "solution": [
+            "doc_collab/doc_collab.go",
+            "doc_collab/go.mod"
+        ],
+        "example": [
+            "doc_collab/.meta//doc_collab.go",
+            "doc_collab/.meta//go.mod"
+        ]
+    }
+}

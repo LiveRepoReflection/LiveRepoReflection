@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/dna_assembly.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dna_assembly/tests/dna_assembly.rs"
+        ],
+        "solution": [
+            "dna_assembly/Cargo.toml",
+            "dna_assembly/src/lib.rs"
+        ],
+        "example": [
+            "dna_assembly/.meta//Cargo.toml",
+            "dna_assembly/.meta//src/lib.rs"
+        ]
+    }
+}

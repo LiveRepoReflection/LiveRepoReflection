@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkOptSolver.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkOptSolver.java"
+        ],
+        "test": [
+            "src/test/java/NetworkOptTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_opt/src/test/java/NetworkOptTest.java"
+        ],
+        "solution": [
+            "network_opt/build.gradle",
+            "network_opt/src/main/java/NetworkOptSolver.java"
+        ],
+        "example": [
+            "network_opt/.meta//build.gradle",
+            "network_opt/.meta//src/main/java/NetworkOptSolver.java"
+        ]
+    }
+}

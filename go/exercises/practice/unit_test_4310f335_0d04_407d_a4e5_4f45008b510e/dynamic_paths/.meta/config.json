@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "graph.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//graph.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dynamic_paths_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_paths/dynamic_paths_test.go"
+        ],
+        "solution": [
+            "dynamic_paths/graph.go",
+            "dynamic_paths/go.mod"
+        ],
+        "example": [
+            "dynamic_paths/.meta//graph.go",
+            "dynamic_paths/.meta//go.mod"
+        ]
+    }
+}

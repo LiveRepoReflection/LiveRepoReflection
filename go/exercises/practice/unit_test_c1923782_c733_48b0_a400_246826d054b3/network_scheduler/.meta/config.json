@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_scheduler.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_scheduler.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_scheduler_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_scheduler/network_scheduler_test.go"
+        ],
+        "solution": [
+            "network_scheduler/network_scheduler.go",
+            "network_scheduler/go.mod"
+        ],
+        "example": [
+            "network_scheduler/.meta//network_scheduler.go",
+            "network_scheduler/.meta//go.mod"
+        ]
+    }
+}

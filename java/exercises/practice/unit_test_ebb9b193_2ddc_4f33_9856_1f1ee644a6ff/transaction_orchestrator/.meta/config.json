@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Service.java",
+            "src/main/java/TransactionOrchestrator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Service.java",
+            ".meta//src/main/java/TransactionOrchestrator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionOrchestratorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_orchestrator/src/test/java/TransactionOrchestratorTest.java"
+        ],
+        "solution": [
+            "transaction_orchestrator/build.gradle",
+            "transaction_orchestrator/src/main/java/Service.java",
+            "transaction_orchestrator/src/main/java/TransactionOrchestrator.java"
+        ],
+        "example": [
+            "transaction_orchestrator/.meta//build.gradle",
+            "transaction_orchestrator/.meta//src/main/java/Service.java",
+            "transaction_orchestrator/.meta//src/main/java/TransactionOrchestrator.java"
+        ]
+    }
+}

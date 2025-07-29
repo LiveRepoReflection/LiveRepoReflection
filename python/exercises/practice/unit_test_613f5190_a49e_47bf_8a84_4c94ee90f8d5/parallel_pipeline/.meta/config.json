@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "parallel_pipeline.py"
+        ],
+        "example": [
+            ".meta//parallel_pipeline.py"
+        ],
+        "test": [
+            "parallel_pipeline_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "parallel_pipeline/parallel_pipeline_test.py"
+        ],
+        "solution": [
+            "parallel_pipeline/parallel_pipeline.py"
+        ],
+        "example": [
+            "parallel_pipeline/.meta//parallel_pipeline.py"
+        ]
+    }
+}

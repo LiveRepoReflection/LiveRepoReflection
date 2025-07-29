@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "txn_validate.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_validate.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_validate_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_validate/txn_validate_test.py",
+            "txn_validate/__init__.py"
+        ],
+        "solution": [
+            "txn_validate/txn_validate.py",
+            "txn_validate/__init__.py"
+        ],
+        "example": [
+            "txn_validate/.meta//txn_validate.py",
+            "txn_validate/.meta//__init__.py"
+        ]
+    }
+}

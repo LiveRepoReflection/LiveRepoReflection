@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/txn_coord.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_coord/tests/txn_coord.rs"
+        ],
+        "solution": [
+            "txn_coord/Cargo.toml",
+            "txn_coord/src/lib.rs"
+        ],
+        "example": [
+            "txn_coord/.meta//Cargo.toml",
+            "txn_coord/.meta//src/lib.rs"
+        ]
+    }
+}

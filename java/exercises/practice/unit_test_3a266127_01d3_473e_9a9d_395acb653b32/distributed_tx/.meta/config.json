@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TransactionManager.java",
+            "src/main/java/ServiceInterface.java",
+            "src/main/java/Service.java"
+        ],
+        "example": [
+            ".meta//src/main/java/TransactionManager.java",
+            ".meta//src/main/java/ServiceInterface.java",
+            ".meta//src/main/java/Service.java"
+        ],
+        "test": [
+            "src/test/java/TransactionManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionManagerTest.java",
+            "distributed_tx/build.gradle"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/TransactionManager.java",
+            "distributed_tx/src/main/java/ServiceInterface.java",
+            "distributed_tx/src/main/java/Service.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/TransactionManager.java",
+            "distributed_tx/.meta//src/main/java/ServiceInterface.java",
+            "distributed_tx/.meta//src/main/java/Service.java"
+        ]
+    }
+}

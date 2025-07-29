@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "vector_store.go"
+        ],
+        "example": [
+            ".meta//vector_store.go",
+            ".meta//vector_store_bench_test.go"
+        ],
+        "test": [
+            "vector_store_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "vector_store/vector_store_test.go",
+            "vector_store/go.mod"
+        ],
+        "solution": [
+            "vector_store/vector_store.go",
+            "vector_store/vector_store_bench_test.go"
+        ],
+        "example": [
+            "vector_store/.meta//vector_store.go",
+            "vector_store/.meta//vector_store_bench_test.go"
+        ]
+    }
+}

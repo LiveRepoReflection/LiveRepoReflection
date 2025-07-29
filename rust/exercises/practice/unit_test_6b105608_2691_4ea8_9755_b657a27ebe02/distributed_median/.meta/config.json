@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/distributed_median.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_median/tests/distributed_median.rs",
+            "distributed_median/Cargo.toml"
+        ],
+        "solution": [
+            "distributed_median/src/lib.rs",
+            "distributed_median/Cargo.toml"
+        ],
+        "example": [
+            "distributed_median/.meta//src/lib.rs",
+            "distributed_median/.meta//Cargo.toml"
+        ]
+    }
+}

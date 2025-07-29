@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_coordinator.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//transaction_coordinator.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "transaction_coordinator.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_coordinator/transaction_coordinator.spec.js"
+        ],
+        "solution": [
+            "transaction_coordinator/transaction_coordinator.js",
+            "transaction_coordinator/package.json"
+        ],
+        "example": [
+            "transaction_coordinator/.meta//transaction_coordinator.js",
+            "transaction_coordinator/.meta//package.json"
+        ]
+    }
+}

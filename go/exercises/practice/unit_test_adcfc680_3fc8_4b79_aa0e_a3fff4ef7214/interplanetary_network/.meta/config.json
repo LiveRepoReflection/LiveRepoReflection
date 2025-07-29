@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "interplanetary_network.go"
+        ],
+        "example": [
+            ".meta//interplanetary_network.go"
+        ],
+        "test": [
+            "interplanetary_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "interplanetary_network/interplanetary_network_test.go",
+            "interplanetary_network/go.mod"
+        ],
+        "solution": [
+            "interplanetary_network/interplanetary_network.go"
+        ],
+        "example": [
+            "interplanetary_network/.meta//interplanetary_network.go"
+        ]
+    }
+}

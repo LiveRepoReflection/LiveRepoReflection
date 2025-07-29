@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/decentralized_validator.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_validator/tests/decentralized_validator.rs"
+        ],
+        "solution": [
+            "decentralized_validator/Cargo.toml",
+            "decentralized_validator/src/lib.rs"
+        ],
+        "example": [
+            "decentralized_validator/.meta//Cargo.toml",
+            "decentralized_validator/.meta//src/lib.rs"
+        ]
+    }
+}

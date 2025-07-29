@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "circuit_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//circuit_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_circuit_placement.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "circuit_placement/test_circuit_placement.py"
+        ],
+        "solution": [
+            "circuit_placement/circuit_placement.py",
+            "circuit_placement/__init__.py"
+        ],
+        "example": [
+            "circuit_placement/.meta//circuit_placement.py",
+            "circuit_placement/.meta//__init__.py"
+        ]
+    }
+}

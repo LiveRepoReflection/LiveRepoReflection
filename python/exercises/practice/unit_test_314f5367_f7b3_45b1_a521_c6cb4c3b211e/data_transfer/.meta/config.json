@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_transfer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//data_transfer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "data_transfer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_transfer/data_transfer_test.py"
+        ],
+        "solution": [
+            "data_transfer/data_transfer.py",
+            "data_transfer/__init__.py"
+        ],
+        "example": [
+            "data_transfer/.meta//data_transfer.py",
+            "data_transfer/.meta//__init__.py"
+        ]
+    }
+}

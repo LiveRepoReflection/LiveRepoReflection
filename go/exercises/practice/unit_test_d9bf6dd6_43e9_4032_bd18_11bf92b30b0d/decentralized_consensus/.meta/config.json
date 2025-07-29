@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_consensus.go",
+            "efficient_median.go"
+        ],
+        "example": [
+            ".meta//decentralized_consensus.go",
+            ".meta//efficient_median.go",
+            ".meta//benchmark_test.go",
+            ".meta//decentralized_consensus_examples_test.go"
+        ],
+        "test": [
+            "decentralized_consensus_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_consensus/decentralized_consensus_test.go",
+            "decentralized_consensus/go.mod"
+        ],
+        "solution": [
+            "decentralized_consensus/decentralized_consensus.go",
+            "decentralized_consensus/efficient_median.go",
+            "decentralized_consensus/benchmark_test.go",
+            "decentralized_consensus/decentralized_consensus_examples_test.go"
+        ],
+        "example": [
+            "decentralized_consensus/.meta//decentralized_consensus.go",
+            "decentralized_consensus/.meta//efficient_median.go",
+            "decentralized_consensus/.meta//benchmark_test.go",
+            "decentralized_consensus/.meta//decentralized_consensus_examples_test.go"
+        ]
+    }
+}

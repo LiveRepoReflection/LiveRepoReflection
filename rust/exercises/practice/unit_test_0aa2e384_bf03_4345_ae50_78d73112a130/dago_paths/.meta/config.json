@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs",
+            ".meta//tests/dago_paths.rs"
+        ],
+        "test": [
+            "tests/dago_paths.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dago_paths/tests/dago_paths.rs",
+            "dago_paths/Cargo.toml",
+            "dago_paths/src/lib.rs"
+        ],
+        "solution": [
+            "dago_paths/Cargo.toml",
+            "dago_paths/src/lib.rs",
+            "dago_paths/tests/dago_paths.rs"
+        ],
+        "example": [
+            "dago_paths/.meta//Cargo.toml",
+            "dago_paths/.meta//src/lib.rs",
+            "dago_paths/.meta//tests/dago_paths.rs"
+        ]
+    }
+}

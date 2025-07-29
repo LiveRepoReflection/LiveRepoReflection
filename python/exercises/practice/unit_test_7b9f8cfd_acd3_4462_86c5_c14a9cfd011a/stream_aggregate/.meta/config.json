@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "event_aggregator.py",
+            "__init__.py",
+            "advanced_aggregator.py"
+        ],
+        "example": [
+            ".meta//event_aggregator.py",
+            ".meta//__init__.py",
+            ".meta//advanced_aggregator.py"
+        ],
+        "test": [
+            "test_stream_aggregate.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_aggregate/test_stream_aggregate.py"
+        ],
+        "solution": [
+            "stream_aggregate/event_aggregator.py",
+            "stream_aggregate/__init__.py",
+            "stream_aggregate/advanced_aggregator.py"
+        ],
+        "example": [
+            "stream_aggregate/.meta//event_aggregator.py",
+            "stream_aggregate/.meta//__init__.py",
+            "stream_aggregate/.meta//advanced_aggregator.py"
+        ]
+    }
+}

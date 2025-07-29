@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_auction.py"
+        ],
+        "example": [
+            ".meta//decentralized_auction.py"
+        ],
+        "test": [
+            "decentralized_auction_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_auction/decentralized_auction_test.py"
+        ],
+        "solution": [
+            "decentralized_auction/decentralized_auction.py"
+        ],
+        "example": [
+            "decentralized_auction/.meta//decentralized_auction.py"
+        ]
+    }
+}

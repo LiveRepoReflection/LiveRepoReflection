@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "influencer_path.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//influencer_path.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "influencer_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "influencer_path/influencer_path_test.py"
+        ],
+        "solution": [
+            "influencer_path/influencer_path.py",
+            "influencer_path/__init__.py"
+        ],
+        "example": [
+            "influencer_path/.meta//influencer_path.py",
+            "influencer_path/.meta//__init__.py"
+        ]
+    }
+}

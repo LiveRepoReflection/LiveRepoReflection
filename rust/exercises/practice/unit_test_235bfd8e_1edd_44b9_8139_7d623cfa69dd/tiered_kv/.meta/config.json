@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/tiered_kv_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "tiered_kv/tests/tiered_kv_tests.rs"
+        ],
+        "solution": [
+            "tiered_kv/Cargo.toml",
+            "tiered_kv/src/lib.rs"
+        ],
+        "example": [
+            "tiered_kv/.meta//Cargo.toml",
+            "tiered_kv/.meta//src/lib.rs"
+        ]
+    }
+}

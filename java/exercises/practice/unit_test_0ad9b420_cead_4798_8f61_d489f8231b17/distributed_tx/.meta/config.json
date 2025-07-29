@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TransactionalService.java",
+            "src/main/java/TransactionState.java",
+            "src/main/java/TransactionResult.java",
+            "src/main/java/DistributedTransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TransactionalService.java",
+            ".meta//src/main/java/TransactionState.java",
+            ".meta//src/main/java/TransactionResult.java",
+            ".meta//src/main/java/DistributedTransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTxCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxCoordinatorTest.java"
+        ],
+        "solution": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/TransactionalService.java",
+            "distributed_tx/src/main/java/TransactionState.java",
+            "distributed_tx/src/main/java/TransactionResult.java",
+            "distributed_tx/src/main/java/DistributedTransactionCoordinator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/TransactionalService.java",
+            "distributed_tx/.meta//src/main/java/TransactionState.java",
+            "distributed_tx/.meta//src/main/java/TransactionResult.java",
+            "distributed_tx/.meta//src/main/java/DistributedTransactionCoordinator.java"
+        ]
+    }
+}

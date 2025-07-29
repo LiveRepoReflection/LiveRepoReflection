@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "datacenter_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//datacenter_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_datacenter_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "datacenter_routing/test_datacenter_routing.py"
+        ],
+        "solution": [
+            "datacenter_routing/datacenter_routing.py",
+            "datacenter_routing/__init__.py"
+        ],
+        "example": [
+            "datacenter_routing/.meta//datacenter_routing.py",
+            "datacenter_routing/.meta//__init__.py"
+        ]
+    }
+}

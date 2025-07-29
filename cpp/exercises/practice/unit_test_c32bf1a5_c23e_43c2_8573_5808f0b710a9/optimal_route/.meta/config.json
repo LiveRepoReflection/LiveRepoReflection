@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "optimal_route.cpp",
+            "optimal_route.h"
+        ],
+        "example": [
+            ".meta//optimal_route.cpp",
+            ".meta//optimal_route.h"
+        ],
+        "test": [
+            "optimal_route_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_route/optimal_route_test.cpp",
+            "optimal_route/optimal_route.h"
+        ],
+        "solution": [
+            "optimal_route/optimal_route.cpp",
+            "optimal_route/optimal_route.h"
+        ],
+        "example": [
+            "optimal_route/.meta//optimal_route.cpp",
+            "optimal_route/.meta//optimal_route.h"
+        ]
+    }
+}

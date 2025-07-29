@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "saga_coordinator.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//saga_coordinator.go"
+        ],
+        "test": [
+            "saga_coordinator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_coordinator/saga_coordinator_test.go"
+        ],
+        "solution": [
+            "saga_coordinator/go.mod",
+            "saga_coordinator/saga_coordinator.go"
+        ],
+        "example": [
+            "saga_coordinator/.meta//go.mod",
+            "saga_coordinator/.meta//saga_coordinator.go"
+        ]
+    }
+}

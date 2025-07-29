@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "optimal_cdn.go",
+            "go.mod",
+            "example.go"
+        ],
+        "example": [
+            ".meta//optimal_cdn.go",
+            ".meta//go.mod",
+            ".meta//example.go"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_cdn/cases_test.go"
+        ],
+        "solution": [
+            "optimal_cdn/optimal_cdn.go",
+            "optimal_cdn/go.mod",
+            "optimal_cdn/example.go"
+        ],
+        "example": [
+            "optimal_cdn/.meta//optimal_cdn.go",
+            "optimal_cdn/.meta//go.mod",
+            "optimal_cdn/.meta//example.go"
+        ]
+    }
+}

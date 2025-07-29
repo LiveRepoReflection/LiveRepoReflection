@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "multi_hop_route.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//multi_hop_route.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "multi_hop_route_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_hop_route/cases_test.go",
+            "multi_hop_route/multi_hop_route_test.go"
+        ],
+        "solution": [
+            "multi_hop_route/go.mod",
+            "multi_hop_route/multi_hop_route.go"
+        ],
+        "example": [
+            "multi_hop_route/.meta//go.mod",
+            "multi_hop_route/.meta//multi_hop_route.go"
+        ]
+    }
+}

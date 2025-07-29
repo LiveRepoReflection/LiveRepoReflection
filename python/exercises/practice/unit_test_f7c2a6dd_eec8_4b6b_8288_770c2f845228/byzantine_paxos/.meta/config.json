@@ -1,0 +1,44 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "constants.py",
+            "message.py",
+            "node.py",
+            "byzantine_paxos.py",
+            "run_simulation.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//constants.py",
+            ".meta//message.py",
+            ".meta//node.py",
+            ".meta//byzantine_paxos.py",
+            ".meta//run_simulation.py"
+        ],
+        "test": [
+            "test_byzantine_paxos.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_paxos/test_byzantine_paxos.py"
+        ],
+        "solution": [
+            "byzantine_paxos/__init__.py",
+            "byzantine_paxos/constants.py",
+            "byzantine_paxos/message.py",
+            "byzantine_paxos/node.py",
+            "byzantine_paxos/byzantine_paxos.py",
+            "byzantine_paxos/run_simulation.py"
+        ],
+        "example": [
+            "byzantine_paxos/.meta//__init__.py",
+            "byzantine_paxos/.meta//constants.py",
+            "byzantine_paxos/.meta//message.py",
+            "byzantine_paxos/.meta//node.py",
+            "byzantine_paxos/.meta//byzantine_paxos.py",
+            "byzantine_paxos/.meta//run_simulation.py"
+        ]
+    }
+}

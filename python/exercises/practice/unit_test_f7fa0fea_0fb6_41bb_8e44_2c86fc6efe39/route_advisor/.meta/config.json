@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "route_advisor.py"
+        ],
+        "example": [
+            ".meta//route_advisor.py"
+        ],
+        "test": [
+            "route_advisor_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_advisor/route_advisor_test.py"
+        ],
+        "solution": [
+            "route_advisor/route_advisor.py"
+        ],
+        "example": [
+            "route_advisor/.meta//route_advisor.py"
+        ]
+    }
+}

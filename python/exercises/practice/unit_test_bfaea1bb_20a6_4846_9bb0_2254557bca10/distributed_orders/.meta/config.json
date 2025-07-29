@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_orders.py"
+        ],
+        "example": [
+            ".meta//distributed_orders.py"
+        ],
+        "test": [
+            "distributed_orders_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_orders/distributed_orders_test.py"
+        ],
+        "solution": [
+            "distributed_orders/distributed_orders.py"
+        ],
+        "example": [
+            "distributed_orders/.meta//distributed_orders.py"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DeliveryLocation.java",
+            "src/main/java/RoadSegment.java",
+            "src/main/java/Vehicle.java",
+            "src/main/java/Graph.java",
+            "src/main/java/Route.java",
+            "src/main/java/RoutePlan.java",
+            "src/main/java/RouteOptimizer.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DeliveryLocation.java",
+            ".meta//src/main/java/RoadSegment.java",
+            ".meta//src/main/java/Vehicle.java",
+            ".meta//src/main/java/Graph.java",
+            ".meta//src/main/java/Route.java",
+            ".meta//src/main/java/RoutePlan.java",
+            ".meta//src/main/java/RouteOptimizer.java"
+        ],
+        "test": [
+            "src/test/java/RouteOptimizerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optimizer/src/test/java/RouteOptimizerTest.java"
+        ],
+        "solution": [
+            "route_optimizer/src/main/java/DeliveryLocation.java",
+            "route_optimizer/src/main/java/RoadSegment.java",
+            "route_optimizer/src/main/java/Vehicle.java",
+            "route_optimizer/src/main/java/Graph.java",
+            "route_optimizer/src/main/java/Route.java",
+            "route_optimizer/src/main/java/RoutePlan.java",
+            "route_optimizer/src/main/java/RouteOptimizer.java"
+        ],
+        "example": [
+            "route_optimizer/.meta//src/main/java/DeliveryLocation.java",
+            "route_optimizer/.meta//src/main/java/RoadSegment.java",
+            "route_optimizer/.meta//src/main/java/Vehicle.java",
+            "route_optimizer/.meta//src/main/java/Graph.java",
+            "route_optimizer/.meta//src/main/java/Route.java",
+            "route_optimizer/.meta//src/main/java/RoutePlan.java",
+            "route_optimizer/.meta//src/main/java/RouteOptimizer.java"
+        ]
+    }
+}

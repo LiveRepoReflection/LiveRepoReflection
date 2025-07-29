@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "depot_router.py"
+        ],
+        "example": [
+            ".meta//depot_router.py"
+        ],
+        "test": [
+            "depot_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "depot_router/depot_router_test.py"
+        ],
+        "solution": [
+            "depot_router/depot_router.py"
+        ],
+        "example": [
+            "depot_router/.meta//depot_router.py"
+        ]
+    }
+}

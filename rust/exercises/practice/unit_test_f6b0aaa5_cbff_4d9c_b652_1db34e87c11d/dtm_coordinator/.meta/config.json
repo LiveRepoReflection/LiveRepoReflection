@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/dtm_coordinator.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_coordinator/tests/dtm_coordinator.rs"
+        ],
+        "solution": [
+            "dtm_coordinator/Cargo.toml",
+            "dtm_coordinator/src/lib.rs"
+        ],
+        "example": [
+            "dtm_coordinator/.meta//Cargo.toml",
+            "dtm_coordinator/.meta//src/lib.rs"
+        ]
+    }
+}

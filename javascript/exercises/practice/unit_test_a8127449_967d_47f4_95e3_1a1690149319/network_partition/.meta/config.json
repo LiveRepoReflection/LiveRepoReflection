@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_partition.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//network_partition.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "__tests__/network_partition.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_partition/__tests__/network_partition.spec.js"
+        ],
+        "solution": [
+            "network_partition/network_partition.js",
+            "network_partition/package.json"
+        ],
+        "example": [
+            "network_partition/.meta//network_partition.js",
+            "network_partition/.meta//package.json"
+        ]
+    }
+}

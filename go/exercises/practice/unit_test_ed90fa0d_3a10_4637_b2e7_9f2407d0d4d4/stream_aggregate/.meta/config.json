@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "stream_aggregate.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//stream_aggregate.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "stream_aggregate_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_aggregate/stream_aggregate_test.go"
+        ],
+        "solution": [
+            "stream_aggregate/stream_aggregate.go",
+            "stream_aggregate/go.mod"
+        ],
+        "example": [
+            "stream_aggregate/.meta//stream_aggregate.go",
+            "stream_aggregate/.meta//go.mod"
+        ]
+    }
+}

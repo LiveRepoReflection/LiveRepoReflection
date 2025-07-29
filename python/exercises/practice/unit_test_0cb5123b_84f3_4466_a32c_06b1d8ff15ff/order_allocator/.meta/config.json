@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_allocator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//order_allocator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "order_allocator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_allocator/order_allocator_test.py"
+        ],
+        "solution": [
+            "order_allocator/order_allocator.py",
+            "order_allocator/__init__.py"
+        ],
+        "example": [
+            "order_allocator/.meta//order_allocator.py",
+            "order_allocator/.meta//__init__.py"
+        ]
+    }
+}

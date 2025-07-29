@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_scheduler.py"
+        ],
+        "example": [
+            ".meta//traffic_scheduler.py"
+        ],
+        "test": [
+            "traffic_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_scheduler/traffic_scheduler_test.py"
+        ],
+        "solution": [
+            "traffic_scheduler/traffic_scheduler.py"
+        ],
+        "example": [
+            "traffic_scheduler/.meta//traffic_scheduler.py"
+        ]
+    }
+}

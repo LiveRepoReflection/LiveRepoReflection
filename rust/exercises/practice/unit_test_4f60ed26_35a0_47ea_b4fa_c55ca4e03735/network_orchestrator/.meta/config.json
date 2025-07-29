@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/network_orchestrator.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_orchestrator/tests/network_orchestrator.rs",
+            "network_orchestrator/Cargo.toml"
+        ],
+        "solution": [
+            "network_orchestrator/src/lib.rs",
+            "network_orchestrator/Cargo.toml"
+        ],
+        "example": [
+            "network_orchestrator/.meta//src/lib.rs",
+            "network_orchestrator/.meta//Cargo.toml"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_atomicity.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//transaction_atomicity.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "test_transaction_atomicity.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_atomicity/test_transaction_atomicity.py"
+        ],
+        "solution": [
+            "transaction_atomicity/transaction_atomicity.py",
+            "transaction_atomicity/requirements.txt"
+        ],
+        "example": [
+            "transaction_atomicity/.meta//transaction_atomicity.py",
+            "transaction_atomicity/.meta//requirements.txt"
+        ]
+    }
+}

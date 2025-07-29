@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "max_network_flow.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//max_network_flow.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "max_network_flow_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "max_network_flow/max_network_flow_test.go",
+            "max_network_flow/go.mod"
+        ],
+        "solution": [
+            "max_network_flow/max_network_flow.go",
+            "max_network_flow/go.mod"
+        ],
+        "example": [
+            "max_network_flow/.meta//max_network_flow.go",
+            "max_network_flow/.meta//go.mod"
+        ]
+    }
+}

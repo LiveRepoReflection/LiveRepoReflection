@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "concurrent_median.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//concurrent_median.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go",
+            "concurrent_median_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "concurrent_median/cases_test.go",
+            "concurrent_median/concurrent_median_test.go",
+            "concurrent_median/go.mod"
+        ],
+        "solution": [
+            "concurrent_median/concurrent_median.go",
+            "concurrent_median/go.mod"
+        ],
+        "example": [
+            "concurrent_median/.meta//concurrent_median.go",
+            "concurrent_median/.meta//go.mod"
+        ]
+    }
+}

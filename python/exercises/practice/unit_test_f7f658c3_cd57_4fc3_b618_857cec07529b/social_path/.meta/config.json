@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_path.py"
+        ],
+        "example": [
+            ".meta//social_path.py"
+        ],
+        "test": [
+            "social_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_path/social_path_test.py"
+        ],
+        "solution": [
+            "social_path/social_path.py"
+        ],
+        "example": [
+            "social_path/.meta//social_path.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "island_sync.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//island_sync.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "island_sync_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "island_sync/island_sync_test.py"
+        ],
+        "solution": [
+            "island_sync/island_sync.py",
+            "island_sync/__init__.py"
+        ],
+        "example": [
+            "island_sync/.meta//island_sync.py",
+            "island_sync/.meta//__init__.py"
+        ]
+    }
+}

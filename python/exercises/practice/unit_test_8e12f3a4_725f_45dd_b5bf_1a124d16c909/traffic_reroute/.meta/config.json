@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_reroute.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//traffic_reroute.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "traffic_reroute_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_reroute/traffic_reroute_test.py"
+        ],
+        "solution": [
+            "traffic_reroute/traffic_reroute.py",
+            "traffic_reroute/requirements.txt"
+        ],
+        "example": [
+            "traffic_reroute/.meta//traffic_reroute.py",
+            "traffic_reroute/.meta//requirements.txt"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_learning.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//decentralized_learning.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_decentralized_learning.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_learning/test_decentralized_learning.py"
+        ],
+        "solution": [
+            "decentralized_learning/decentralized_learning.py",
+            "decentralized_learning/__init__.py"
+        ],
+        "example": [
+            "decentralized_learning/.meta//decentralized_learning.py",
+            "decentralized_learning/.meta//__init__.py"
+        ]
+    }
+}

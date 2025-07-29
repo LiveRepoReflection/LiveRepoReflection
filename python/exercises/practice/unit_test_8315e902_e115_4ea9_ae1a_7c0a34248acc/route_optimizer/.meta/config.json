@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//route_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "route_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optimizer/route_optimizer_test.py"
+        ],
+        "solution": [
+            "route_optimizer/route_optimizer.py",
+            "route_optimizer/__init__.py"
+        ],
+        "example": [
+            "route_optimizer/.meta//route_optimizer.py",
+            "route_optimizer/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "wireless_deploy.py"
+        ],
+        "example": [
+            ".meta//wireless_deploy.py"
+        ],
+        "test": [
+            "wireless_deploy_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "wireless_deploy/wireless_deploy_test.py"
+        ],
+        "solution": [
+            "wireless_deploy/wireless_deploy.py"
+        ],
+        "example": [
+            "wireless_deploy/.meta//wireless_deploy.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "multi_source_tree.py"
+        ],
+        "example": [
+            ".meta//multi_source_tree.py"
+        ],
+        "test": [
+            "multi_source_tree_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_source_tree/multi_source_tree_test.py"
+        ],
+        "solution": [
+            "multi_source_tree/multi_source_tree.py"
+        ],
+        "example": [
+            "multi_source_tree/.meta//multi_source_tree.py"
+        ]
+    }
+}

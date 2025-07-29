@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "smart_traffic.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//smart_traffic.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_smart_traffic.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "smart_traffic/test_smart_traffic.py"
+        ],
+        "solution": [
+            "smart_traffic/smart_traffic.py",
+            "smart_traffic/__init__.py"
+        ],
+        "example": [
+            "smart_traffic/.meta//smart_traffic.py",
+            "smart_traffic/.meta//__init__.py"
+        ]
+    }
+}

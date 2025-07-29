@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "event_aggregator.py"
+        ],
+        "example": [
+            ".meta//event_aggregator.py"
+        ],
+        "test": [
+            "event_aggregator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_aggregator/event_aggregator_test.py"
+        ],
+        "solution": [
+            "event_aggregator/event_aggregator.py"
+        ],
+        "example": [
+            "event_aggregator/.meta//event_aggregator.py"
+        ]
+    }
+}

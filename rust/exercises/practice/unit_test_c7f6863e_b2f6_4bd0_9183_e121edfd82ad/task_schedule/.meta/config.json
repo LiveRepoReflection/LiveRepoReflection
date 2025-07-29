@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/task_schedule.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_schedule/tests/task_schedule.rs"
+        ],
+        "solution": [
+            "task_schedule/Cargo.toml",
+            "task_schedule/src/lib.rs"
+        ],
+        "example": [
+            "task_schedule/.meta//Cargo.toml",
+            "task_schedule/.meta//src/lib.rs"
+        ]
+    }
+}

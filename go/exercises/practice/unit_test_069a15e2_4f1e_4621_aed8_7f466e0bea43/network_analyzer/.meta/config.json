@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "network_analyzer.go"
+        ],
+        "example": [
+            ".meta//network_analyzer.go"
+        ],
+        "test": [
+            "network_analyzer_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_analyzer/network_analyzer_test.go",
+            "network_analyzer/go.mod",
+            "network_analyzer/cases_test.go"
+        ],
+        "solution": [
+            "network_analyzer/network_analyzer.go"
+        ],
+        "example": [
+            "network_analyzer/.meta//network_analyzer.go"
+        ]
+    }
+}

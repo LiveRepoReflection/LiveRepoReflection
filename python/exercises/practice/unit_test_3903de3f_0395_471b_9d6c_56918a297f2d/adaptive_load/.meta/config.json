@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_load.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//adaptive_load.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "adaptive_load_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_load/adaptive_load_test.py"
+        ],
+        "solution": [
+            "adaptive_load/adaptive_load.py",
+            "adaptive_load/__init__.py"
+        ],
+        "example": [
+            "adaptive_load/.meta//adaptive_load.py",
+            "adaptive_load/.meta//__init__.py"
+        ]
+    }
+}

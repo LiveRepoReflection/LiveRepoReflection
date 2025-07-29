@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "graph_partitioning.py"
+        ],
+        "example": [
+            ".meta//graph_partitioning.py"
+        ],
+        "test": [
+            "graph_partitioning_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "graph_partitioning/graph_partitioning_test.py"
+        ],
+        "solution": [
+            "graph_partitioning/graph_partitioning.py"
+        ],
+        "example": [
+            "graph_partitioning/.meta//graph_partitioning.py"
+        ]
+    }
+}

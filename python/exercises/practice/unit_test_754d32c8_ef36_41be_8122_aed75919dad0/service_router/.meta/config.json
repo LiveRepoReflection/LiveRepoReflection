@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "service_router.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//service_router.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "service_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_router/service_router_test.py"
+        ],
+        "solution": [
+            "service_router/service_router.py",
+            "service_router/__init__.py"
+        ],
+        "example": [
+            "service_router/.meta//service_router.py",
+            "service_router/.meta//__init__.py"
+        ]
+    }
+}

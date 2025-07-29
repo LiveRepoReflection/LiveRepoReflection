@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_cut.py"
+        ],
+        "example": [
+            ".meta//network_cut.py"
+        ],
+        "test": [
+            "network_cut_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_cut/network_cut_test.py"
+        ],
+        "solution": [
+            "network_cut/network_cut.py"
+        ],
+        "example": [
+            "network_cut/.meta//network_cut.py"
+        ]
+    }
+}

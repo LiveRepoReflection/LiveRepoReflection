@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/byzantine_dao.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_dao/tests/byzantine_dao.rs"
+        ],
+        "solution": [
+            "byzantine_dao/Cargo.toml",
+            "byzantine_dao/src/lib.rs"
+        ],
+        "example": [
+            "byzantine_dao/.meta//Cargo.toml",
+            "byzantine_dao/.meta//src/lib.rs"
+        ]
+    }
+}

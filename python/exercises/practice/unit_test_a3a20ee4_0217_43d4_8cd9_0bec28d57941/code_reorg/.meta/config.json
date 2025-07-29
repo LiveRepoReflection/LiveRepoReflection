@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "code_reorg.py"
+        ],
+        "example": [
+            ".meta//code_reorg.py"
+        ],
+        "test": [
+            "code_reorg_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "code_reorg/code_reorg_test.py"
+        ],
+        "solution": [
+            "code_reorg/code_reorg.py"
+        ],
+        "example": [
+            "code_reorg/.meta//code_reorg.py"
+        ]
+    }
+}

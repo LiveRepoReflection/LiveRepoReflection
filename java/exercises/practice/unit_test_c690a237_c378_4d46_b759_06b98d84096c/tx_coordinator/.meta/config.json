@@ -1,0 +1,44 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Coordinator.java",
+            "src/main/java/Transaction.java",
+            "src/main/java/Operation.java",
+            "src/main/java/BankServer.java",
+            "src/main/java/TransactionStatus.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Coordinator.java",
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/Operation.java",
+            ".meta//src/main/java/BankServer.java",
+            ".meta//src/main/java/TransactionStatus.java"
+        ],
+        "test": [
+            "src/test/java/TxCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/src/test/java/TxCoordinatorTest.java"
+        ],
+        "solution": [
+            "tx_coordinator/build.gradle",
+            "tx_coordinator/src/main/java/Coordinator.java",
+            "tx_coordinator/src/main/java/Transaction.java",
+            "tx_coordinator/src/main/java/Operation.java",
+            "tx_coordinator/src/main/java/BankServer.java",
+            "tx_coordinator/src/main/java/TransactionStatus.java"
+        ],
+        "example": [
+            "tx_coordinator/.meta//build.gradle",
+            "tx_coordinator/.meta//src/main/java/Coordinator.java",
+            "tx_coordinator/.meta//src/main/java/Transaction.java",
+            "tx_coordinator/.meta//src/main/java/Operation.java",
+            "tx_coordinator/.meta//src/main/java/BankServer.java",
+            "tx_coordinator/.meta//src/main/java/TransactionStatus.java"
+        ]
+    }
+}

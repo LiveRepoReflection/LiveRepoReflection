@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_flow_allocation.py"
+        ],
+        "example": [
+            ".meta//network_flow_allocation.py"
+        ],
+        "test": [
+            "network_flow_allocation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_flow_allocation/network_flow_allocation_test.py"
+        ],
+        "solution": [
+            "network_flow_allocation/network_flow_allocation.py"
+        ],
+        "example": [
+            "network_flow_allocation/.meta//network_flow_allocation.py"
+        ]
+    }
+}

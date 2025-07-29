@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_replication.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//data_replication.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "data_replication_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_replication/data_replication_test.py"
+        ],
+        "solution": [
+            "data_replication/data_replication.py",
+            "data_replication/__init__.py"
+        ],
+        "example": [
+            "data_replication/.meta//data_replication.py",
+            "data_replication/.meta//__init__.py"
+        ]
+    }
+}

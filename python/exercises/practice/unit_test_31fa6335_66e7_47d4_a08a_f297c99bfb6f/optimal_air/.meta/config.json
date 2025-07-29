@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_air.py"
+        ],
+        "example": [
+            ".meta//optimal_air.py"
+        ],
+        "test": [
+            "optimal_air_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_air/optimal_air_test.py"
+        ],
+        "solution": [
+            "optimal_air/optimal_air.py"
+        ],
+        "example": [
+            "optimal_air/.meta//optimal_air.py"
+        ]
+    }
+}

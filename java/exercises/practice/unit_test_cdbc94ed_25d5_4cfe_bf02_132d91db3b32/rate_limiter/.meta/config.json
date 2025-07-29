@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/RateLimiter.java",
+            "src/main/java/ConfigurationService.java",
+            "src/main/java/RateLimitConfiguration.java",
+            "src/main/java/DefaultConfigurationService.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/RateLimiter.java",
+            ".meta//src/main/java/ConfigurationService.java",
+            ".meta//src/main/java/RateLimitConfiguration.java",
+            ".meta//src/main/java/DefaultConfigurationService.java"
+        ],
+        "test": [
+            "src/test/java/RateLimiterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limiter/src/test/java/RateLimiterTest.java"
+        ],
+        "solution": [
+            "rate_limiter/build.gradle",
+            "rate_limiter/src/main/java/RateLimiter.java",
+            "rate_limiter/src/main/java/ConfigurationService.java",
+            "rate_limiter/src/main/java/RateLimitConfiguration.java",
+            "rate_limiter/src/main/java/DefaultConfigurationService.java"
+        ],
+        "example": [
+            "rate_limiter/.meta//build.gradle",
+            "rate_limiter/.meta//src/main/java/RateLimiter.java",
+            "rate_limiter/.meta//src/main/java/ConfigurationService.java",
+            "rate_limiter/.meta//src/main/java/RateLimitConfiguration.java",
+            "rate_limiter/.meta//src/main/java/DefaultConfigurationService.java"
+        ]
+    }
+}

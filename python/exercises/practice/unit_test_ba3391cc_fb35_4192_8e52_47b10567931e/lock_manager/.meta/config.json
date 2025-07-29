@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "lock_manager.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//lock_manager.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "lock_manager_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "lock_manager/lock_manager_test.py"
+        ],
+        "solution": [
+            "lock_manager/lock_manager.py",
+            "lock_manager/__init__.py"
+        ],
+        "example": [
+            "lock_manager/.meta//lock_manager.py",
+            "lock_manager/.meta//__init__.py"
+        ]
+    }
+}

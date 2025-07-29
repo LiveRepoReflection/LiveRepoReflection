@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "packet_scheduler.py"
+        ],
+        "example": [
+            ".meta//packet_scheduler.py"
+        ],
+        "test": [
+            "packet_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_scheduler/packet_scheduler_test.py"
+        ],
+        "solution": [
+            "packet_scheduler/packet_scheduler.py"
+        ],
+        "example": [
+            "packet_scheduler/.meta//packet_scheduler.py"
+        ]
+    }
+}

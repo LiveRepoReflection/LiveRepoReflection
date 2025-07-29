@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "graph.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//graph.go",
+            ".meta//uncertain_route_test.go"
+        ],
+        "test": [
+            "uncertain_route_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "uncertain_route/uncertain_route_test.go"
+        ],
+        "solution": [
+            "uncertain_route/go.mod",
+            "uncertain_route/graph.go",
+            "uncertain_route/uncertain_route_test.go"
+        ],
+        "example": [
+            "uncertain_route/.meta//go.mod",
+            "uncertain_route/.meta//graph.go",
+            "uncertain_route/.meta//uncertain_route_test.go"
+        ]
+    }
+}

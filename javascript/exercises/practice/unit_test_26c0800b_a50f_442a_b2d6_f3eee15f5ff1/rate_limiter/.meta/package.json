@@ -1,0 +1,13 @@
+{
+  "name": "rate_limiter",
+  "version": "1.0.0",
+  "description": "Distributed Rate Limiter implementation using an in-memory store for demonstration purposes",
+  "main": "rate_limiter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

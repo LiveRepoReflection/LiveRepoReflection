@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_tasks.py"
+        ],
+        "example": [
+            ".meta//optimal_tasks.py"
+        ],
+        "test": [
+            "optimal_tasks_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_tasks/optimal_tasks_test.py"
+        ],
+        "solution": [
+            "optimal_tasks/optimal_tasks.py"
+        ],
+        "example": [
+            "optimal_tasks/.meta//optimal_tasks.py"
+        ]
+    }
+}

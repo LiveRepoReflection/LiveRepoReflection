@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "dist_cache.go"
+        ],
+        "example": [
+            ".meta//dist_cache.go"
+        ],
+        "test": [
+            "dist_cache_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_cache/dist_cache_test.go",
+            "dist_cache/cases_test.go",
+            "dist_cache/go.mod"
+        ],
+        "solution": [
+            "dist_cache/dist_cache.go"
+        ],
+        "example": [
+            "dist_cache/.meta//dist_cache.go"
+        ]
+    }
+}

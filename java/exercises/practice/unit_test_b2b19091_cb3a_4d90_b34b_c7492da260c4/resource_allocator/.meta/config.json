@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/ResourceAllocator.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/ResourceAllocator.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/ResourceAllocatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_allocator/src/test/java/ResourceAllocatorTest.java",
+            "resource_allocator/build.gradle"
+        ],
+        "solution": [
+            "resource_allocator/src/main/java/ResourceAllocator.java",
+            "resource_allocator/build.gradle"
+        ],
+        "example": [
+            "resource_allocator/.meta//src/main/java/ResourceAllocator.java",
+            "resource_allocator/.meta//build.gradle"
+        ]
+    }
+}

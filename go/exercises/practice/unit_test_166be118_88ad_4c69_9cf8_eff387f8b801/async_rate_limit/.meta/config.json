@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "async_rate_limit.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//async_rate_limit.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "async_rate_limit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "async_rate_limit/async_rate_limit_test.go"
+        ],
+        "solution": [
+            "async_rate_limit/async_rate_limit.go",
+            "async_rate_limit/go.mod"
+        ],
+        "example": [
+            "async_rate_limit/.meta//async_rate_limit.go",
+            "async_rate_limit/.meta//go.mod"
+        ]
+    }
+}

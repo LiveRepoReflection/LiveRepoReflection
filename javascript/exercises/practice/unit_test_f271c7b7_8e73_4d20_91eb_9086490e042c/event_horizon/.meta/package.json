@@ -1,0 +1,13 @@
+{
+  "name": "event_horizon",
+  "version": "1.0.0",
+  "description": "Decentralized event scheduler with fault-tolerance and real-time notifications",
+  "main": "eventScheduler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,41 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Operation.java",
+            "src/main/java/TxOrchestrator.java",
+            "src/main/java/ServiceExecutor.java",
+            "build.gradle",
+            "src/main/java/Main.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Operation.java",
+            ".meta//src/main/java/TxOrchestrator.java",
+            ".meta//src/main/java/ServiceExecutor.java",
+            ".meta//build.gradle",
+            ".meta//src/main/java/Main.java"
+        ],
+        "test": [
+            "src/test/java/TxOrchestratorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_orchestrator/src/test/java/TxOrchestratorTest.java",
+            "tx_orchestrator/build.gradle"
+        ],
+        "solution": [
+            "tx_orchestrator/src/main/java/Operation.java",
+            "tx_orchestrator/src/main/java/TxOrchestrator.java",
+            "tx_orchestrator/src/main/java/ServiceExecutor.java",
+            "tx_orchestrator/build.gradle",
+            "tx_orchestrator/src/main/java/Main.java"
+        ],
+        "example": [
+            "tx_orchestrator/.meta//src/main/java/Operation.java",
+            "tx_orchestrator/.meta//src/main/java/TxOrchestrator.java",
+            "tx_orchestrator/.meta//src/main/java/ServiceExecutor.java",
+            "tx_orchestrator/.meta//build.gradle",
+            "tx_orchestrator/.meta//src/main/java/Main.java"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_allocator.py"
+        ],
+        "example": [
+            ".meta//network_allocator.py"
+        ],
+        "test": [
+            "network_allocator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_allocator/network_allocator_test.py"
+        ],
+        "solution": [
+            "network_allocator/network_allocator.py"
+        ],
+        "example": [
+            "network_allocator/.meta//network_allocator.py"
+        ]
+    }
+}

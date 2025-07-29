@@ -1,0 +1,17 @@
+{
+  "name": "rate_limiter",
+  "version": "1.0.0",
+  "description": "Distributed rate limiter implementation",
+  "main": "rate_limiter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "rate-limiter",
+    "distributed",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

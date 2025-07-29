@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "kv_snapshot.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//kv_snapshot.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_kv_snapshot.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "kv_snapshot/test_kv_snapshot.py"
+        ],
+        "solution": [
+            "kv_snapshot/kv_snapshot.py",
+            "kv_snapshot/__init__.py"
+        ],
+        "example": [
+            "kv_snapshot/.meta//kv_snapshot.py",
+            "kv_snapshot/.meta//__init__.py"
+        ]
+    }
+}

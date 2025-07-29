@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "bft_coordinator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//bft_coordinator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "bft_coordinator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "bft_coordinator/bft_coordinator_test.go"
+        ],
+        "solution": [
+            "bft_coordinator/bft_coordinator.go",
+            "bft_coordinator/go.mod"
+        ],
+        "example": [
+            "bft_coordinator/.meta//bft_coordinator.go",
+            "bft_coordinator/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_processor.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//transaction_processor.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "transaction_processor_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_processor/transaction_processor_test.go"
+        ],
+        "solution": [
+            "transaction_processor/transaction_processor.go",
+            "transaction_processor/go.mod"
+        ],
+        "example": [
+            "transaction_processor/.meta//transaction_processor.go",
+            "transaction_processor/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_alloc.py"
+        ],
+        "example": [
+            ".meta//network_alloc.py"
+        ],
+        "test": [
+            "network_alloc_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_alloc/network_alloc_test.py"
+        ],
+        "solution": [
+            "network_alloc/network_alloc.py"
+        ],
+        "example": [
+            "network_alloc/.meta//network_alloc.py"
+        ]
+    }
+}

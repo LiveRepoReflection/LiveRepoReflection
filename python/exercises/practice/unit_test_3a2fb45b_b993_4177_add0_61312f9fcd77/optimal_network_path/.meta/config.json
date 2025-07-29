@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_network_path.py"
+        ],
+        "example": [
+            ".meta//optimal_network_path.py"
+        ],
+        "test": [
+            "optimal_network_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_network_path/optimal_network_path_test.py"
+        ],
+        "solution": [
+            "optimal_network_path/optimal_network_path.py"
+        ],
+        "example": [
+            "optimal_network_path/.meta//optimal_network_path.py"
+        ]
+    }
+}

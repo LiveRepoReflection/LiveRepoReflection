@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "allocate_resources.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//allocate_resources.py"
+        ],
+        "test": [
+            "microgrid_opt_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microgrid_opt/microgrid_opt_test.py"
+        ],
+        "solution": [
+            "microgrid_opt/__init__.py",
+            "microgrid_opt/allocate_resources.py"
+        ],
+        "example": [
+            "microgrid_opt/.meta//__init__.py",
+            "microgrid_opt/.meta//allocate_resources.py"
+        ]
+    }
+}

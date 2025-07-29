@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "influence_max.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//influence_max.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_influence_max.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "influence_max/test_influence_max.py"
+        ],
+        "solution": [
+            "influence_max/influence_max.py",
+            "influence_max/__init__.py"
+        ],
+        "example": [
+            "influence_max/.meta//influence_max.py",
+            "influence_max/.meta//__init__.py"
+        ]
+    }
+}

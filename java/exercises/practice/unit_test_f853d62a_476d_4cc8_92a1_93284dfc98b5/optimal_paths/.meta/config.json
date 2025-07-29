@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/OptimalPaths.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/OptimalPaths.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/OptimalPathsTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_paths/build.gradle",
+            "optimal_paths/src/test/java/OptimalPathsTest.java",
+            "optimal_paths/src/main/java/OptimalPaths.java"
+        ],
+        "solution": [
+            "optimal_paths/src/main/java/OptimalPaths.java",
+            "optimal_paths/build.gradle"
+        ],
+        "example": [
+            "optimal_paths/.meta//src/main/java/OptimalPaths.java",
+            "optimal_paths/.meta//build.gradle"
+        ]
+    }
+}

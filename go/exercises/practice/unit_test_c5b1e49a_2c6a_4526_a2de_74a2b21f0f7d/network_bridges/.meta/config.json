@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_bridges.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_bridges.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_bridges_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_bridges/network_bridges_test.go",
+            "network_bridges/go.mod"
+        ],
+        "solution": [
+            "network_bridges/network_bridges.go",
+            "network_bridges/go.mod"
+        ],
+        "example": [
+            "network_bridges/.meta//network_bridges.go",
+            "network_bridges/.meta//go.mod"
+        ]
+    }
+}

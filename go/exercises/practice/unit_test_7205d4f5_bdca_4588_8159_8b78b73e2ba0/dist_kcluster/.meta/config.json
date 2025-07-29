@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_kcluster.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dist_kcluster.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_kcluster_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_kcluster/dist_kcluster_test.go"
+        ],
+        "solution": [
+            "dist_kcluster/dist_kcluster.go",
+            "dist_kcluster/go.mod"
+        ],
+        "example": [
+            "dist_kcluster/.meta//dist_kcluster.go",
+            "dist_kcluster/.meta//go.mod"
+        ]
+    }
+}

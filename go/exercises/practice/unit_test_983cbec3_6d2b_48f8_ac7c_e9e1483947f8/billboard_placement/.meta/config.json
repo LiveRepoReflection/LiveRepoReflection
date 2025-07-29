@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "billboard_placement.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//billboard_placement.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "billboard_placement_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "billboard_placement/billboard_placement_test.go"
+        ],
+        "solution": [
+            "billboard_placement/billboard_placement.go",
+            "billboard_placement/go.mod"
+        ],
+        "example": [
+            "billboard_placement/.meta//billboard_placement.go",
+            "billboard_placement/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Transaction.java",
+            "src/main/java/Participant.java",
+            "src/main/java/DistTxCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/Participant.java",
+            ".meta//src/main/java/DistTxCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/DistTxCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_coordinator/src/test/java/DistTxCoordinatorTest.java"
+        ],
+        "solution": [
+            "dist_tx_coordinator/build.gradle",
+            "dist_tx_coordinator/src/main/java/Transaction.java",
+            "dist_tx_coordinator/src/main/java/Participant.java",
+            "dist_tx_coordinator/src/main/java/DistTxCoordinator.java"
+        ],
+        "example": [
+            "dist_tx_coordinator/.meta//build.gradle",
+            "dist_tx_coordinator/.meta//src/main/java/Transaction.java",
+            "dist_tx_coordinator/.meta//src/main/java/Participant.java",
+            "dist_tx_coordinator/.meta//src/main/java/DistTxCoordinator.java"
+        ]
+    }
+}

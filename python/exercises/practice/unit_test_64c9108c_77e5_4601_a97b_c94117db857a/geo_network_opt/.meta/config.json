@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "geo_network_opt.py"
+        ],
+        "example": [
+            ".meta//geo_network_opt.py"
+        ],
+        "test": [
+            "geo_network_opt_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "geo_network_opt/geo_network_opt_test.py"
+        ],
+        "solution": [
+            "geo_network_opt/geo_network_opt.py"
+        ],
+        "example": [
+            "geo_network_opt/.meta//geo_network_opt.py"
+        ]
+    }
+}

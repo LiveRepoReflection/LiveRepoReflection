@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/dao_simulator.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_simulator/tests/dao_simulator.rs",
+            "dao_simulator/Cargo.toml"
+        ],
+        "solution": [
+            "dao_simulator/src/lib.rs",
+            "dao_simulator/Cargo.toml"
+        ],
+        "example": [
+            "dao_simulator/.meta//src/lib.rs",
+            "dao_simulator/.meta//Cargo.toml"
+        ]
+    }
+}

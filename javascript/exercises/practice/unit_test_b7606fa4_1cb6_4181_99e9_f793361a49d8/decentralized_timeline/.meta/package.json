@@ -1,0 +1,13 @@
+{
+  "name": "decentralized_timeline",
+  "version": "1.0.0",
+  "description": "Aggregator for decentralized social network timeline",
+  "main": "generateTimeline.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

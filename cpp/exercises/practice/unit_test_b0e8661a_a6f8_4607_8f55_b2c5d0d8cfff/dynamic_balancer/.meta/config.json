@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_balancer.h",
+            "dynamic_balancer.cpp"
+        ],
+        "example": [
+            ".meta//dynamic_balancer.h",
+            ".meta//dynamic_balancer.cpp"
+        ],
+        "test": [
+            "dynamic_balancer_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_balancer/dynamic_balancer_test.cpp"
+        ],
+        "solution": [
+            "dynamic_balancer/dynamic_balancer.h",
+            "dynamic_balancer/dynamic_balancer.cpp"
+        ],
+        "example": [
+            "dynamic_balancer/.meta//dynamic_balancer.h",
+            "dynamic_balancer/.meta//dynamic_balancer.cpp"
+        ]
+    }
+}

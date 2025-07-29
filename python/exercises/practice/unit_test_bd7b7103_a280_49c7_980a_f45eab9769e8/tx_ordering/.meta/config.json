@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_ordering.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//tx_ordering.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "tx_ordering_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_ordering/tx_ordering_test.py"
+        ],
+        "solution": [
+            "tx_ordering/tx_ordering.py",
+            "tx_ordering/__init__.py"
+        ],
+        "example": [
+            "tx_ordering/.meta//tx_ordering.py",
+            "tx_ordering/.meta//__init__.py"
+        ]
+    }
+}

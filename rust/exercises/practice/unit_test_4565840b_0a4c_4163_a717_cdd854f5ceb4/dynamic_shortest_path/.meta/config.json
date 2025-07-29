@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/dynamic_shortest_path.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_shortest_path/tests/dynamic_shortest_path.rs"
+        ],
+        "solution": [
+            "dynamic_shortest_path/Cargo.toml",
+            "dynamic_shortest_path/src/lib.rs"
+        ],
+        "example": [
+            "dynamic_shortest_path/.meta//Cargo.toml",
+            "dynamic_shortest_path/.meta//src/lib.rs"
+        ]
+    }
+}

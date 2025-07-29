@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "congestion_control.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//congestion_control.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_congestion_control.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "congestion_control/test_congestion_control.py"
+        ],
+        "solution": [
+            "congestion_control/congestion_control.py",
+            "congestion_control/__init__.py"
+        ],
+        "example": [
+            "congestion_control/.meta//congestion_control.py",
+            "congestion_control/.meta//__init__.py"
+        ]
+    }
+}

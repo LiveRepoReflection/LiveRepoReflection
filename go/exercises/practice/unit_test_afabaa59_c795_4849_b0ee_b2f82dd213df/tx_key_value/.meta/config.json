@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "tx_key_value.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//tx_key_value.go"
+        ],
+        "test": [
+            "tx_key_value_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_key_value/tx_key_value_test.go"
+        ],
+        "solution": [
+            "tx_key_value/go.mod",
+            "tx_key_value/tx_key_value.go"
+        ],
+        "example": [
+            "tx_key_value/.meta//go.mod",
+            "tx_key_value/.meta//tx_key_value.go"
+        ]
+    }
+}

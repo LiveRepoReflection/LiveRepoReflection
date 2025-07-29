@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "load_balance.py"
+        ],
+        "example": [
+            ".meta//load_balance.py"
+        ],
+        "test": [
+            "load_balance_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "load_balance/load_balance_test.py"
+        ],
+        "solution": [
+            "load_balance/load_balance.py"
+        ],
+        "example": [
+            "load_balance/.meta//load_balance.py"
+        ]
+    }
+}

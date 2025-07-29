@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "conf_scheduler.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//conf_scheduler.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "conf_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "conf_scheduler/conf_scheduler_test.py"
+        ],
+        "solution": [
+            "conf_scheduler/conf_scheduler.py",
+            "conf_scheduler/__init__.py"
+        ],
+        "example": [
+            "conf_scheduler/.meta//conf_scheduler.py",
+            "conf_scheduler/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "order_aggregator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//order_aggregator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go",
+            "order_aggregator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_aggregator/cases_test.go",
+            "order_aggregator/order_aggregator_test.go",
+            "order_aggregator/go.mod"
+        ],
+        "solution": [
+            "order_aggregator/order_aggregator.go",
+            "order_aggregator/go.mod"
+        ],
+        "example": [
+            "order_aggregator/.meta//order_aggregator.go",
+            "order_aggregator/.meta//go.mod"
+        ]
+    }
+}

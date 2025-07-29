@@ -1,0 +1,11 @@
+{
+  "name": "rate_limit",
+  "version": "1.0.0",
+  "description": "A distributed sliding window rate limiter implementation.",
+  "main": "rate_limit.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT"
+}

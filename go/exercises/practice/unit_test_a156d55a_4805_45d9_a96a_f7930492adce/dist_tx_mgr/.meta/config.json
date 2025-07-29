@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtm.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dtm.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dtm_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_mgr/dtm_test.go"
+        ],
+        "solution": [
+            "dist_tx_mgr/dtm.go",
+            "dist_tx_mgr/go.mod"
+        ],
+        "example": [
+            "dist_tx_mgr/.meta//dtm.go",
+            "dist_tx_mgr/.meta//go.mod"
+        ]
+    }
+}

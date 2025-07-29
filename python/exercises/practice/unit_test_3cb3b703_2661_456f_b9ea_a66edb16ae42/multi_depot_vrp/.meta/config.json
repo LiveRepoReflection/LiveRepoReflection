@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_multi_depot_vrp.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_depot_vrp/test_multi_depot_vrp.py"
+        ],
+        "solution": [
+            "multi_depot_vrp/__init__.py"
+        ],
+        "example": [
+            "multi_depot_vrp/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "galactic_logistics.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//galactic_logistics.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_galactic_logistics.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "galactic_logistics/test_galactic_logistics.py"
+        ],
+        "solution": [
+            "galactic_logistics/galactic_logistics.py",
+            "galactic_logistics/__init__.py"
+        ],
+        "example": [
+            "galactic_logistics/.meta//galactic_logistics.py",
+            "galactic_logistics/.meta//__init__.py"
+        ]
+    }
+}

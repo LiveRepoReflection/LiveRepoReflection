@@ -1,0 +1,39 @@
+{
+    "files": {
+        "solution": [
+            "social_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_routing.go",
+            ".meta//social_routing_test.go",
+            ".meta//cases_test.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go",
+            "social_routing_test.go",
+            "README.md"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_routing/cases_test.go",
+            "social_routing/social_routing_test.go",
+            "social_routing/go.mod",
+            "social_routing/README.md"
+        ],
+        "solution": [
+            "social_routing/social_routing.go",
+            "social_routing/social_routing_test.go",
+            "social_routing/cases_test.go",
+            "social_routing/go.mod"
+        ],
+        "example": [
+            "social_routing/.meta//social_routing.go",
+            "social_routing/.meta//social_routing_test.go",
+            "social_routing/.meta//cases_test.go",
+            "social_routing/.meta//go.mod"
+        ]
+    }
+}

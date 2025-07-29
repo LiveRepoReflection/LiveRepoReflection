@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dist_kv_consistency.py"
+        ],
+        "example": [
+            ".meta//dist_kv_consistency.py"
+        ],
+        "test": [
+            "dist_kv_consistency_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_kv_consistency/dist_kv_consistency_test.py"
+        ],
+        "solution": [
+            "dist_kv_consistency/dist_kv_consistency.py"
+        ],
+        "example": [
+            "dist_kv_consistency/.meta//dist_kv_consistency.py"
+        ]
+    }
+}

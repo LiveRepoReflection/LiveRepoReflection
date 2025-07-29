@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_dag.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_dag.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_dag_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_dag/transaction_dag_test.py"
+        ],
+        "solution": [
+            "transaction_dag/transaction_dag.py",
+            "transaction_dag/__init__.py"
+        ],
+        "example": [
+            "transaction_dag/.meta//transaction_dag.py",
+            "transaction_dag/.meta//__init__.py"
+        ]
+    }
+}

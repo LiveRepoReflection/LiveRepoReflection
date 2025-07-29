@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "transaction_coordinator.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//transaction_coordinator.py"
+        ],
+        "test": [
+            "saga_limited_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_limited/saga_limited_test.py"
+        ],
+        "solution": [
+            "saga_limited/__init__.py",
+            "saga_limited/transaction_coordinator.py"
+        ],
+        "example": [
+            "saga_limited/.meta//__init__.py",
+            "saga_limited/.meta//transaction_coordinator.py"
+        ]
+    }
+}

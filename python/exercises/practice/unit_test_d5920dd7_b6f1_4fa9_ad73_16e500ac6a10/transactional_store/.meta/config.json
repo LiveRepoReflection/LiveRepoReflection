@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "transactional_store.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//transactional_store.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_transactional_store.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transactional_store/test_transactional_store.py"
+        ],
+        "solution": [
+            "transactional_store/__init__.py",
+            "transactional_store/transactional_store.py",
+            "transactional_store/README.md"
+        ],
+        "example": [
+            "transactional_store/.meta//__init__.py",
+            "transactional_store/.meta//transactional_store.py",
+            "transactional_store/.meta//README.md"
+        ]
+    }
+}

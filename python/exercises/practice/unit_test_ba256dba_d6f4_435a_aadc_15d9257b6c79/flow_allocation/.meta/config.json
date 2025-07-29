@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "flow_allocation.py"
+        ],
+        "example": [
+            ".meta//flow_allocation.py"
+        ],
+        "test": [
+            "flow_allocation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_allocation/flow_allocation_test.py"
+        ],
+        "solution": [
+            "flow_allocation/flow_allocation.py"
+        ],
+        "example": [
+            "flow_allocation/.meta//flow_allocation.py"
+        ]
+    }
+}

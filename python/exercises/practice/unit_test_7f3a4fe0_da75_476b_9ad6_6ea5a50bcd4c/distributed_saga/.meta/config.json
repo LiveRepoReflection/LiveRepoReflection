@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "services.py",
+            "distributed_saga.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//services.py",
+            ".meta//distributed_saga.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_distributed_saga.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_saga/test_distributed_saga.py"
+        ],
+        "solution": [
+            "distributed_saga/services.py",
+            "distributed_saga/distributed_saga.py",
+            "distributed_saga/__init__.py"
+        ],
+        "example": [
+            "distributed_saga/.meta//services.py",
+            "distributed_saga/.meta//distributed_saga.py",
+            "distributed_saga/.meta//__init__.py"
+        ]
+    }
+}

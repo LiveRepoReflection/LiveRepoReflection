@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_router.go"
+        ],
+        "example": [
+            ".meta//dynamic_router.go"
+        ],
+        "test": [
+            "dynamic_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_router/dynamic_router_test.go",
+            "dynamic_router/go.mod"
+        ],
+        "solution": [
+            "dynamic_router/dynamic_router.go"
+        ],
+        "example": [
+            "dynamic_router/.meta//dynamic_router.go"
+        ]
+    }
+}

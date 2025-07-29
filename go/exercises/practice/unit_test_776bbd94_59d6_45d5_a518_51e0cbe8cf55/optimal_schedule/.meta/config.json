@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_schedule.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_schedule.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "optimal_schedule_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_schedule/optimal_schedule_test.go"
+        ],
+        "solution": [
+            "optimal_schedule/optimal_schedule.go",
+            "optimal_schedule/go.mod"
+        ],
+        "example": [
+            "optimal_schedule/.meta//optimal_schedule.go",
+            "optimal_schedule/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "order_matcher.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//order_matcher.js"
+        ],
+        "test": [
+            "test/order_matcher.spec.js"
+        ]
+    },
+    "other": {
+        "solution": [
+            "order_matcher/package.json",
+            "order_matcher/order_matcher.js"
+        ],
+        "example": [
+            "order_matcher/.meta//package.json",
+            "order_matcher/.meta//order_matcher.js"
+        ],
+        "test": [
+            "order_matcher/test/order_matcher.spec.js"
+        ]
+    }
+}

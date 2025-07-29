@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/CacheNode.java",
+            "src/main/java/LoadBalancer.java",
+            "src/main/java/CacheNetwork.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/CacheNode.java",
+            ".meta//src/main/java/LoadBalancer.java",
+            ".meta//src/main/java/CacheNetwork.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/CacheNetworkTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "cache_network/src/test/java/CacheNetworkTest.java",
+            "cache_network/build.gradle"
+        ],
+        "solution": [
+            "cache_network/src/main/java/CacheNode.java",
+            "cache_network/src/main/java/LoadBalancer.java",
+            "cache_network/src/main/java/CacheNetwork.java",
+            "cache_network/build.gradle"
+        ],
+        "example": [
+            "cache_network/.meta//src/main/java/CacheNode.java",
+            "cache_network/.meta//src/main/java/LoadBalancer.java",
+            "cache_network/.meta//src/main/java/CacheNetwork.java",
+            "cache_network/.meta//build.gradle"
+        ]
+    }
+}

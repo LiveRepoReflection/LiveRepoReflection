@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DistributedTransactionManager.java",
+            "src/main/java/TransactionLog.java",
+            "src/main/java/ServiceRegistry.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DistributedTransactionManager.java",
+            ".meta//src/main/java/TransactionLog.java",
+            ".meta//src/main/java/ServiceRegistry.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTransactionManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTransactionManagerTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/DistributedTransactionManager.java",
+            "distributed_tx/src/main/java/TransactionLog.java",
+            "distributed_tx/src/main/java/ServiceRegistry.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/DistributedTransactionManager.java",
+            "distributed_tx/.meta//src/main/java/TransactionLog.java",
+            "distributed_tx/.meta//src/main/java/ServiceRegistry.java"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "interdimensional_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//interdimensional_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "interdimensional_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "interdimensional_routing/interdimensional_routing_test.py"
+        ],
+        "solution": [
+            "interdimensional_routing/interdimensional_routing.py",
+            "interdimensional_routing/__init__.py"
+        ],
+        "example": [
+            "interdimensional_routing/.meta//interdimensional_routing.py",
+            "interdimensional_routing/.meta//__init__.py"
+        ]
+    }
+}

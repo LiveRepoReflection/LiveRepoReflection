@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "median_stream.go",
+            "README.md"
+        ],
+        "example": [
+            ".meta//median_stream.go",
+            ".meta//median_stream_benchmark_test.go",
+            ".meta//example_test.go",
+            ".meta//README.md"
+        ],
+        "test": [
+            "median_stream_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "median_stream/median_stream_test.go",
+            "median_stream/go.mod"
+        ],
+        "solution": [
+            "median_stream/median_stream.go",
+            "median_stream/median_stream_benchmark_test.go",
+            "median_stream/example_test.go",
+            "median_stream/README.md"
+        ],
+        "example": [
+            "median_stream/.meta//median_stream.go",
+            "median_stream/.meta//median_stream_benchmark_test.go",
+            "median_stream/.meta//example_test.go",
+            "median_stream/.meta//README.md"
+        ]
+    }
+}

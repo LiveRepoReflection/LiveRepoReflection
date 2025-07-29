@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_skyline.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dynamic_skyline.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dynamic_skyline_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_skyline/dynamic_skyline_test.py"
+        ],
+        "solution": [
+            "dynamic_skyline/dynamic_skyline.py",
+            "dynamic_skyline/__init__.py"
+        ],
+        "example": [
+            "dynamic_skyline/.meta//dynamic_skyline.py",
+            "dynamic_skyline/.meta//__init__.py"
+        ]
+    }
+}

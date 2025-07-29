@@ -1,0 +1,12 @@
+{
+  "name": "tx_orchestrator",
+  "version": "1.0.0",
+  "description": "Distributed Transaction Orchestrator",
+  "main": "tx_orchestrator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

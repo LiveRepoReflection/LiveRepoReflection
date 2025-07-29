@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "supply_chain_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//supply_chain_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_supply_chain_optimizer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_chain_optimizer/test_supply_chain_optimizer.py"
+        ],
+        "solution": [
+            "supply_chain_optimizer/supply_chain_optimizer.py",
+            "supply_chain_optimizer/__init__.py"
+        ],
+        "example": [
+            "supply_chain_optimizer/.meta//supply_chain_optimizer.py",
+            "supply_chain_optimizer/.meta//__init__.py"
+        ]
+    }
+}

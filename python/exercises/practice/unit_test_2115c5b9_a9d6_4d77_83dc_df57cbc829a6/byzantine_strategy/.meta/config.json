@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_strategy.py"
+        ],
+        "example": [
+            ".meta//byzantine_strategy.py"
+        ],
+        "test": [
+            "byzantine_strategy_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_strategy/byzantine_strategy_test.py"
+        ],
+        "solution": [
+            "byzantine_strategy/byzantine_strategy.py"
+        ],
+        "example": [
+            "byzantine_strategy/.meta//byzantine_strategy.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "byzantine_aggregate.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//byzantine_aggregate.py"
+        ],
+        "test": [
+            "test_byzantine_aggregate.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_aggregate/test_byzantine_aggregate.py"
+        ],
+        "solution": [
+            "byzantine_aggregate/__init__.py",
+            "byzantine_aggregate/byzantine_aggregate.py"
+        ],
+        "example": [
+            "byzantine_aggregate/.meta//__init__.py",
+            "byzantine_aggregate/.meta//byzantine_aggregate.py"
+        ]
+    }
+}

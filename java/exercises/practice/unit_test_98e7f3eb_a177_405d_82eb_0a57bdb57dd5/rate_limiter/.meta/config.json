@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/DistributedRateLimiter.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/DistributedRateLimiter.java"
+        ],
+        "test": [
+            "src/test/java/DistributedRateLimiterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limiter/src/test/java/DistributedRateLimiterTest.java"
+        ],
+        "solution": [
+            "rate_limiter/build.gradle",
+            "rate_limiter/src/main/java/DistributedRateLimiter.java"
+        ],
+        "example": [
+            "rate_limiter/.meta//build.gradle",
+            "rate_limiter/.meta//src/main/java/DistributedRateLimiter.java"
+        ]
+    }
+}

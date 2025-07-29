@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/dtm/DTM.java",
+            "src/main/java/dtm/Service.java",
+            "src/main/java/dtm/TransactionException.java"
+        ],
+        "example": [
+            ".meta//src/main/java/dtm/DTM.java",
+            ".meta//src/main/java/dtm/Service.java",
+            ".meta//src/main/java/dtm/TransactionException.java"
+        ],
+        "test": [
+            "src/test/java/DTMTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DTMTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/dtm/DTM.java",
+            "distributed_tx/src/main/java/dtm/Service.java",
+            "distributed_tx/src/main/java/dtm/TransactionException.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/dtm/DTM.java",
+            "distributed_tx/.meta//src/main/java/dtm/Service.java",
+            "distributed_tx/.meta//src/main/java/dtm/TransactionException.java"
+        ]
+    }
+}

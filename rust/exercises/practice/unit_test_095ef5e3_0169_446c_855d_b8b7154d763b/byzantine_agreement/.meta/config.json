@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/byzantine_agreement.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_agreement/tests/byzantine_agreement.rs"
+        ],
+        "solution": [
+            "byzantine_agreement/Cargo.toml",
+            "byzantine_agreement/src/lib.rs"
+        ],
+        "example": [
+            "byzantine_agreement/.meta//Cargo.toml",
+            "byzantine_agreement/.meta//src/lib.rs"
+        ]
+    }
+}

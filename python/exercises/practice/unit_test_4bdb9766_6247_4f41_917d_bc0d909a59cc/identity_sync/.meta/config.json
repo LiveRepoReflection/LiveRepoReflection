@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "identity_sync.py"
+        ],
+        "example": [
+            ".meta//identity_sync.py"
+        ],
+        "test": [
+            "test_identity_sync.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "identity_sync/test_identity_sync.py"
+        ],
+        "solution": [
+            "identity_sync/identity_sync.py"
+        ],
+        "example": [
+            "identity_sync/.meta//identity_sync.py"
+        ]
+    }
+}

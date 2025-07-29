@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_orchestration.py"
+        ],
+        "example": [
+            ".meta//task_orchestration.py"
+        ],
+        "test": [
+            "task_orchestration_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_orchestration/task_orchestration_test.py"
+        ],
+        "solution": [
+            "task_orchestration/task_orchestration.py"
+        ],
+        "example": [
+            "task_orchestration/.meta//task_orchestration.py"
+        ]
+    }
+}

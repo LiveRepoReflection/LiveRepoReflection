@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "path_planning.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//path_planning.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "test_path_planning.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "path_planning/test_path_planning.py"
+        ],
+        "solution": [
+            "path_planning/path_planning.py",
+            "path_planning/requirements.txt"
+        ],
+        "example": [
+            "path_planning/.meta//path_planning.py",
+            "path_planning/.meta//requirements.txt"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "meet_opt.py"
+        ],
+        "example": [
+            ".meta//meet_opt.py"
+        ],
+        "test": [
+            "meet_opt_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "meet_opt/meet_opt_test.py"
+        ],
+        "solution": [
+            "meet_opt/meet_opt.py"
+        ],
+        "example": [
+            "meet_opt/.meta//meet_opt.py"
+        ]
+    }
+}

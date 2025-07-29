@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_events.py"
+        ],
+        "example": [
+            ".meta//traffic_events.py"
+        ],
+        "test": [
+            "traffic_events_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_events/traffic_events_test.py"
+        ],
+        "solution": [
+            "traffic_events/traffic_events.py"
+        ],
+        "example": [
+            "traffic_events/.meta//traffic_events.py"
+        ]
+    }
+}

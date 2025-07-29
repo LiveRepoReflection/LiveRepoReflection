@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "txn_coordinator.go"
+        ],
+        "example": [
+            ".meta//txn_coordinator.go"
+        ],
+        "test": [
+            "txn_coordinator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_coordinator/txn_coordinator_test.go",
+            "txn_coordinator/go.mod"
+        ],
+        "solution": [
+            "txn_coordinator/txn_coordinator.go"
+        ],
+        "example": [
+            "txn_coordinator/.meta//txn_coordinator.go"
+        ]
+    }
+}

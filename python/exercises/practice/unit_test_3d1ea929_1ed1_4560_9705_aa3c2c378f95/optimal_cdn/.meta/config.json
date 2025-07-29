@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_cdn.py"
+        ],
+        "example": [
+            ".meta//optimal_cdn.py"
+        ],
+        "test": [
+            "optimal_cdn_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_cdn/optimal_cdn_test.py"
+        ],
+        "solution": [
+            "optimal_cdn/optimal_cdn.py"
+        ],
+        "example": [
+            "optimal_cdn/.meta//optimal_cdn.py"
+        ]
+    }
+}

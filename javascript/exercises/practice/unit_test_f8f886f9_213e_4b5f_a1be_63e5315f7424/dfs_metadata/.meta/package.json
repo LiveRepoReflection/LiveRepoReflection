@@ -1,0 +1,12 @@
+{
+  "name": "dfs_metadata",
+  "version": "1.0.0",
+  "description": "Distributed File System Metadata Management",
+  "main": "dfs_metadata.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

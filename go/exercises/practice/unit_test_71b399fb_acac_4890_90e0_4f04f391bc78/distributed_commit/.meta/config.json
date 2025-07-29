@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "distributed_commit.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//distributed_commit.go"
+        ],
+        "test": [
+            "distributed_commit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_commit/distributed_commit_test.go"
+        ],
+        "solution": [
+            "distributed_commit/go.mod",
+            "distributed_commit/distributed_commit.go"
+        ],
+        "example": [
+            "distributed_commit/.meta//go.mod",
+            "distributed_commit/.meta//distributed_commit.go"
+        ]
+    }
+}

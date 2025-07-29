@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "dax_engine.py",
+            "__init__.py",
+            "main.py"
+        ],
+        "example": [
+            ".meta//dax_engine.py",
+            ".meta//__init__.py",
+            ".meta//main.py"
+        ],
+        "test": [
+            "dax_engine_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dax_engine/dax_engine_test.py"
+        ],
+        "solution": [
+            "dax_engine/dax_engine.py",
+            "dax_engine/__init__.py",
+            "dax_engine/main.py"
+        ],
+        "example": [
+            "dax_engine/.meta//dax_engine.py",
+            "dax_engine/.meta//__init__.py",
+            "dax_engine/.meta//main.py"
+        ]
+    }
+}

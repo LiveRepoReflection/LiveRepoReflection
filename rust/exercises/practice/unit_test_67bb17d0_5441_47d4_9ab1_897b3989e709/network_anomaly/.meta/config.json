@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/network_anomaly.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_anomaly/tests/network_anomaly.rs"
+        ],
+        "solution": [
+            "network_anomaly/Cargo.toml",
+            "network_anomaly/src/lib.rs"
+        ],
+        "example": [
+            "network_anomaly/.meta//Cargo.toml",
+            "network_anomaly/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "src/packet_router.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//src/packet_router.js"
+        ],
+        "test": [
+            "test/packet_router.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_router/test/packet_router.spec.js"
+        ],
+        "solution": [
+            "packet_router/package.json",
+            "packet_router/src/packet_router.js"
+        ],
+        "example": [
+            "packet_router/.meta//package.json",
+            "packet_router/.meta//src/packet_router.js"
+        ]
+    }
+}

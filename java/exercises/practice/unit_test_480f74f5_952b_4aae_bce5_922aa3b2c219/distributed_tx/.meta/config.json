@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Microservice.java",
+            "src/main/java/Operation.java",
+            "src/main/java/TransactionManager.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/Microservice.java",
+            ".meta//src/main/java/Operation.java",
+            ".meta//src/main/java/TransactionManager.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/DistributedTxTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxTest.java",
+            "distributed_tx/build.gradle"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/Microservice.java",
+            "distributed_tx/src/main/java/Operation.java",
+            "distributed_tx/src/main/java/TransactionManager.java",
+            "distributed_tx/build.gradle"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/Microservice.java",
+            "distributed_tx/.meta//src/main/java/Operation.java",
+            "distributed_tx/.meta//src/main/java/TransactionManager.java",
+            "distributed_tx/.meta//build.gradle"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dao_delegation.py"
+        ],
+        "example": [
+            ".meta//dao_delegation.py"
+        ],
+        "test": [
+            "dao_delegation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_delegation/dao_delegation_test.py"
+        ],
+        "solution": [
+            "dao_delegation/dao_delegation.py"
+        ],
+        "example": [
+            "dao_delegation/.meta//dao_delegation.py"
+        ]
+    }
+}

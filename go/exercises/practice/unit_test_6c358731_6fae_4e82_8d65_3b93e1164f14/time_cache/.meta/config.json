@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "time_cache.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//time_cache.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "time_cache_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_cache/time_cache_test.go"
+        ],
+        "solution": [
+            "time_cache/time_cache.go",
+            "time_cache/go.mod"
+        ],
+        "example": [
+            "time_cache/.meta//time_cache.go",
+            "time_cache/.meta//go.mod"
+        ]
+    }
+}

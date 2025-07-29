@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "dist_kv_txn.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//dist_kv_txn.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_dist_kv_txn.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_kv_txn/test_dist_kv_txn.py"
+        ],
+        "solution": [
+            "dist_kv_txn/dist_kv_txn.py",
+            "dist_kv_txn/__init__.py",
+            "dist_kv_txn/README.md"
+        ],
+        "example": [
+            "dist_kv_txn/.meta//dist_kv_txn.py",
+            "dist_kv_txn/.meta//__init__.py",
+            "dist_kv_txn/.meta//README.md"
+        ]
+    }
+}

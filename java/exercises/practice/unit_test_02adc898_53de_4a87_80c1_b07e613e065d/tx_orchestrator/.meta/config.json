@@ -1,0 +1,41 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Transaction.java",
+            "src/main/java/TransactionStatus.java",
+            "src/main/java/TransactionResult.java",
+            "src/main/java/TransactionOrchestrator.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/TransactionStatus.java",
+            ".meta//src/main/java/TransactionResult.java",
+            ".meta//src/main/java/TransactionOrchestrator.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/TransactionOrchestratorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_orchestrator/src/test/java/TransactionOrchestratorTest.java",
+            "tx_orchestrator/build.gradle"
+        ],
+        "solution": [
+            "tx_orchestrator/src/main/java/Transaction.java",
+            "tx_orchestrator/src/main/java/TransactionStatus.java",
+            "tx_orchestrator/src/main/java/TransactionResult.java",
+            "tx_orchestrator/src/main/java/TransactionOrchestrator.java",
+            "tx_orchestrator/build.gradle"
+        ],
+        "example": [
+            "tx_orchestrator/.meta//src/main/java/Transaction.java",
+            "tx_orchestrator/.meta//src/main/java/TransactionStatus.java",
+            "tx_orchestrator/.meta//src/main/java/TransactionResult.java",
+            "tx_orchestrator/.meta//src/main/java/TransactionOrchestrator.java",
+            "tx_orchestrator/.meta//build.gradle"
+        ]
+    }
+}

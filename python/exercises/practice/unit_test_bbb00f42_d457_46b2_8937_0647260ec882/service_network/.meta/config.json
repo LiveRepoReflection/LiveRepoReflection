@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "service_network.py"
+        ],
+        "example": [
+            ".meta//service_network.py",
+            ".meta//service_network_test.py"
+        ],
+        "test": [
+            "service_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_network/service_network_test.py"
+        ],
+        "solution": [
+            "service_network/service_network.py",
+            "service_network/service_network_test.py"
+        ],
+        "example": [
+            "service_network/.meta//service_network.py",
+            "service_network/.meta//service_network_test.py"
+        ]
+    }
+}

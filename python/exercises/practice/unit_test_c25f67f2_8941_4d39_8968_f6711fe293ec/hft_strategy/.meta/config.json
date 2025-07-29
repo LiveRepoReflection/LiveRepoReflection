@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "hft_strategy.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//hft_strategy.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_hft_strategy.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "hft_strategy/test_hft_strategy.py"
+        ],
+        "solution": [
+            "hft_strategy/hft_strategy.py",
+            "hft_strategy/__init__.py"
+        ],
+        "example": [
+            "hft_strategy/.meta//hft_strategy.py",
+            "hft_strategy/.meta//__init__.py"
+        ]
+    }
+}

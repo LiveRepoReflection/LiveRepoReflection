@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "flow_optimizer.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//flow_optimizer.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_flow_optimizer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_optimizer/test_flow_optimizer.py",
+            "flow_optimizer/flow_optimizer.py"
+        ],
+        "solution": [
+            "flow_optimizer/flow_optimizer.py",
+            "flow_optimizer/__init__.py",
+            "flow_optimizer/README.md"
+        ],
+        "example": [
+            "flow_optimizer/.meta//flow_optimizer.py",
+            "flow_optimizer/.meta//__init__.py",
+            "flow_optimizer/.meta//README.md"
+        ]
+    }
+}

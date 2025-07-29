@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/network_cut.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_cut/tests/network_cut.rs"
+        ],
+        "solution": [
+            "network_cut/Cargo.toml",
+            "network_cut/src/lib.rs"
+        ],
+        "example": [
+            "network_cut/.meta//Cargo.toml",
+            "network_cut/.meta//src/lib.rs"
+        ]
+    }
+}

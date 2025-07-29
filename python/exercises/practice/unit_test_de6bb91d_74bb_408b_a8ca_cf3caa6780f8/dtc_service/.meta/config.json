@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dtc_service.py"
+        ],
+        "example": [
+            ".meta//dtc_service.py"
+        ],
+        "test": [
+            "dtc_service_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_service/dtc_service_test.py"
+        ],
+        "solution": [
+            "dtc_service/dtc_service.py"
+        ],
+        "example": [
+            "dtc_service/.meta//dtc_service.py"
+        ]
+    }
+}

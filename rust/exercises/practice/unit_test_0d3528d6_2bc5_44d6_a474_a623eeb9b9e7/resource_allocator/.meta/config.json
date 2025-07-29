@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/resource_allocator.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_allocator/tests/resource_allocator.rs",
+            "resource_allocator/Cargo.toml"
+        ],
+        "solution": [
+            "resource_allocator/src/lib.rs",
+            "resource_allocator/Cargo.toml"
+        ],
+        "example": [
+            "resource_allocator/.meta//src/lib.rs",
+            "resource_allocator/.meta//Cargo.toml"
+        ]
+    }
+}

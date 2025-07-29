@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "service_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//service_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_service_placement.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_placement/test_service_placement.py"
+        ],
+        "solution": [
+            "service_placement/service_placement.py",
+            "service_placement/__init__.py"
+        ],
+        "example": [
+            "service_placement/.meta//service_placement.py",
+            "service_placement/.meta//__init__.py"
+        ]
+    }
+}

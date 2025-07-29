@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "distributed_limiter.js",
+            "package.json",
+            "jest.config.js"
+        ],
+        "example": [
+            ".meta//distributed_limiter.js",
+            ".meta//package.json",
+            ".meta//jest.config.js"
+        ],
+        "test": [
+            "distributed_limiter.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_limiter/distributed_limiter.spec.js"
+        ],
+        "solution": [
+            "distributed_limiter/distributed_limiter.js",
+            "distributed_limiter/package.json",
+            "distributed_limiter/jest.config.js"
+        ],
+        "example": [
+            "distributed_limiter/.meta//distributed_limiter.js",
+            "distributed_limiter/.meta//package.json",
+            "distributed_limiter/.meta//jest.config.js"
+        ]
+    }
+}

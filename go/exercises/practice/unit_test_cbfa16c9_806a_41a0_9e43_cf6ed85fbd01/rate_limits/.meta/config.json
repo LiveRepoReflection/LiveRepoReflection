@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "rate_limits.go"
+        ],
+        "example": [
+            ".meta//rate_limits.go"
+        ],
+        "test": [
+            "rate_limits_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limits/rate_limits_test.go",
+            "rate_limits/go.mod"
+        ],
+        "solution": [
+            "rate_limits/rate_limits.go"
+        ],
+        "example": [
+            "rate_limits/.meta//rate_limits.go"
+        ]
+    }
+}

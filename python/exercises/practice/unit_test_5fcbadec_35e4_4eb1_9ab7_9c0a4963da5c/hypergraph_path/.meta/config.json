@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "hypergraph_path.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//hypergraph_path.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "hypergraph_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "hypergraph_path/hypergraph_path_test.py"
+        ],
+        "solution": [
+            "hypergraph_path/hypergraph_path.py",
+            "hypergraph_path/__init__.py"
+        ],
+        "example": [
+            "hypergraph_path/.meta//hypergraph_path.py",
+            "hypergraph_path/.meta//__init__.py"
+        ]
+    }
+}

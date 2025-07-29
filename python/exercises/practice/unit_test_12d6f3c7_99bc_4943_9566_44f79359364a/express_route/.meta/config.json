@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "express_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//express_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_express_route.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "express_route/test_express_route.py"
+        ],
+        "solution": [
+            "express_route/express_route.py",
+            "express_route/__init__.py"
+        ],
+        "example": [
+            "express_route/.meta//express_route.py",
+            "express_route/.meta//__init__.py"
+        ]
+    }
+}

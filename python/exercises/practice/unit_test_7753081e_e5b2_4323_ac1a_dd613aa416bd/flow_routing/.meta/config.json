@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "flow_routing.py"
+        ],
+        "example": [
+            ".meta//flow_routing.py"
+        ],
+        "test": [
+            "flow_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_routing/flow_routing_test.py"
+        ],
+        "solution": [
+            "flow_routing/flow_routing.py"
+        ],
+        "example": [
+            "flow_routing/.meta//flow_routing.py"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "coordinator.go",
+            "worker.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//coordinator.go",
+            ".meta//worker.go"
+        ],
+        "test": [
+            "dist_shortest_paths_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_shortest_paths/dist_shortest_paths_test.go"
+        ],
+        "solution": [
+            "dist_shortest_paths/go.mod",
+            "dist_shortest_paths/coordinator.go",
+            "dist_shortest_paths/worker.go"
+        ],
+        "example": [
+            "dist_shortest_paths/.meta//go.mod",
+            "dist_shortest_paths/.meta//coordinator.go",
+            "dist_shortest_paths/.meta//worker.go"
+        ]
+    }
+}

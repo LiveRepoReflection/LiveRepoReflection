@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "federated_orchestration.py"
+        ],
+        "example": [
+            ".meta//federated_orchestration.py"
+        ],
+        "test": [
+            "federated_orchestration_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "federated_orchestration/federated_orchestration_test.py"
+        ],
+        "solution": [
+            "federated_orchestration/federated_orchestration.py"
+        ],
+        "example": [
+            "federated_orchestration/.meta//federated_orchestration.py"
+        ]
+    }
+}

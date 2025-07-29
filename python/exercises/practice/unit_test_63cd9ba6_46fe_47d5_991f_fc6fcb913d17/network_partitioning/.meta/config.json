@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_partitioning.py"
+        ],
+        "example": [
+            ".meta//network_partitioning.py"
+        ],
+        "test": [
+            "network_partitioning_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_partitioning/network_partitioning_test.py"
+        ],
+        "solution": [
+            "network_partitioning/network_partitioning.py"
+        ],
+        "example": [
+            "network_partitioning/.meta//network_partitioning.py"
+        ]
+    }
+}

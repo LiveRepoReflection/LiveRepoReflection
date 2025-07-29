@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_reachability.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_reachability.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_network_reachability.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reachability/test_network_reachability.py"
+        ],
+        "solution": [
+            "network_reachability/network_reachability.py",
+            "network_reachability/__init__.py"
+        ],
+        "example": [
+            "network_reachability/.meta//network_reachability.py",
+            "network_reachability/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "time_cache.py"
+        ],
+        "example": [
+            ".meta//time_cache.py"
+        ],
+        "test": [
+            "time_cache_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_cache/time_cache_test.py"
+        ],
+        "solution": [
+            "time_cache/time_cache.py"
+        ],
+        "example": [
+            "time_cache/.meta//time_cache.py"
+        ]
+    }
+}

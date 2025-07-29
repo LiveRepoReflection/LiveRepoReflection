@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "ratelimit.go",
+            "consensus.go",
+            "window.go"
+        ],
+        "example": [
+            ".meta//ratelimit.go",
+            ".meta//consensus.go",
+            ".meta//window.go"
+        ],
+        "test": [
+            "ratelimit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_ratelimit/go.mod",
+            "adaptive_ratelimit/ratelimit_test.go"
+        ],
+        "solution": [
+            "adaptive_ratelimit/ratelimit.go",
+            "adaptive_ratelimit/consensus.go",
+            "adaptive_ratelimit/window.go"
+        ],
+        "example": [
+            "adaptive_ratelimit/.meta//ratelimit.go",
+            "adaptive_ratelimit/.meta//consensus.go",
+            "adaptive_ratelimit/.meta//window.go"
+        ]
+    }
+}

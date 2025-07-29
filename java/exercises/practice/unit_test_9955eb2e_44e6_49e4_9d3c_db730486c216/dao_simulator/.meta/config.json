@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/ActionType.java",
+            "src/main/java/Proposal.java",
+            "src/main/java/DAO.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/ActionType.java",
+            ".meta//src/main/java/Proposal.java",
+            ".meta//src/main/java/DAO.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/DAOSimulatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_simulator/src/test/java/DAOSimulatorTest.java",
+            "dao_simulator/build.gradle"
+        ],
+        "solution": [
+            "dao_simulator/src/main/java/ActionType.java",
+            "dao_simulator/src/main/java/Proposal.java",
+            "dao_simulator/src/main/java/DAO.java",
+            "dao_simulator/build.gradle"
+        ],
+        "example": [
+            "dao_simulator/.meta//src/main/java/ActionType.java",
+            "dao_simulator/.meta//src/main/java/Proposal.java",
+            "dao_simulator/.meta//src/main/java/DAO.java",
+            "dao_simulator/.meta//build.gradle"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "task_deadlock.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//task_deadlock.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "task_deadlock_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_deadlock/task_deadlock_test.go",
+            "task_deadlock/cases_test.go",
+            "task_deadlock/go.mod"
+        ],
+        "solution": [
+            "task_deadlock/task_deadlock.go",
+            "task_deadlock/go.mod"
+        ],
+        "example": [
+            "task_deadlock/.meta//task_deadlock.go",
+            "task_deadlock/.meta//go.mod"
+        ]
+    }
+}

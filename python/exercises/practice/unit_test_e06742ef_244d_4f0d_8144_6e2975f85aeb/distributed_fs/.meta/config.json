@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_fs.py"
+        ],
+        "example": [
+            ".meta//distributed_fs.py"
+        ],
+        "test": [
+            "distributed_fs_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_fs/distributed_fs_test.py"
+        ],
+        "solution": [
+            "distributed_fs/distributed_fs.py"
+        ],
+        "example": [
+            "distributed_fs/.meta//distributed_fs.py"
+        ]
+    }
+}

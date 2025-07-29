@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_slicing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_slicing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_slicing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_slicing/network_slicing_test.py"
+        ],
+        "solution": [
+            "network_slicing/network_slicing.py",
+            "network_slicing/__init__.py"
+        ],
+        "example": [
+            "network_slicing/.meta//network_slicing.py",
+            "network_slicing/.meta//__init__.py"
+        ]
+    }
+}

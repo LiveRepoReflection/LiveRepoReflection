@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "consistent_cache.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//consistent_cache.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "consistent_cache_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_cache/cases_test.go",
+            "consistent_cache/consistent_cache_test.go"
+        ],
+        "solution": [
+            "consistent_cache/go.mod",
+            "consistent_cache/consistent_cache.go"
+        ],
+        "example": [
+            "consistent_cache/.meta//go.mod",
+            "consistent_cache/.meta//consistent_cache.go"
+        ]
+    }
+}

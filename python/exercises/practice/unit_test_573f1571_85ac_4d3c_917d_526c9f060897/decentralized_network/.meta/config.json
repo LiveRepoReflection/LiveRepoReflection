@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_network.py"
+        ],
+        "example": [
+            ".meta//decentralized_network.py"
+        ],
+        "test": [
+            "decentralized_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_network/decentralized_network_test.py"
+        ],
+        "solution": [
+            "decentralized_network/decentralized_network.py"
+        ],
+        "example": [
+            "decentralized_network/.meta//decentralized_network.py"
+        ]
+    }
+}

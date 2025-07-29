@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "service_paths.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//service_paths.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "service_paths_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_paths/service_paths_test.go"
+        ],
+        "solution": [
+            "service_paths/service_paths.go",
+            "service_paths/go.mod"
+        ],
+        "example": [
+            "service_paths/.meta//service_paths.go",
+            "service_paths/.meta//go.mod"
+        ]
+    }
+}

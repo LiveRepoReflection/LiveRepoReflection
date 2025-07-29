@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "saga_orchestrator.py"
+        ],
+        "example": [
+            ".meta//saga_orchestrator.py"
+        ],
+        "test": [
+            "saga_orchestrator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_orchestrator/saga_orchestrator_test.py"
+        ],
+        "solution": [
+            "saga_orchestrator/saga_orchestrator.py"
+        ],
+        "example": [
+            "saga_orchestrator/.meta//saga_orchestrator.py"
+        ]
+    }
+}

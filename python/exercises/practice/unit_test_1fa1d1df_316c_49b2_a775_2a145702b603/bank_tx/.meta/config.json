@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "bank_tx.py"
+        ],
+        "example": [
+            ".meta//bank_tx.py"
+        ],
+        "test": [
+            "bank_tx_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "bank_tx/bank_tx_test.py"
+        ],
+        "solution": [
+            "bank_tx/bank_tx.py"
+        ],
+        "example": [
+            "bank_tx/.meta//bank_tx.py"
+        ]
+    }
+}

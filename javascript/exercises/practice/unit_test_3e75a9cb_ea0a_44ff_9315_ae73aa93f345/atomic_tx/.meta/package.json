@@ -1,0 +1,12 @@
+{
+  "name": "atomic_tx",
+  "version": "1.0.0",
+  "description": "Distributed Transaction Manager for atomic transactions",
+  "main": "atomic_tx.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

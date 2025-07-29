@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_rate_limit.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//adaptive_rate_limit.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "adaptive_rate_limit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_rate_limit/adaptive_rate_limit_test.go"
+        ],
+        "solution": [
+            "adaptive_rate_limit/adaptive_rate_limit.go",
+            "adaptive_rate_limit/go.mod"
+        ],
+        "example": [
+            "adaptive_rate_limit/.meta//adaptive_rate_limit.go",
+            "adaptive_rate_limit/.meta//go.mod"
+        ]
+    }
+}

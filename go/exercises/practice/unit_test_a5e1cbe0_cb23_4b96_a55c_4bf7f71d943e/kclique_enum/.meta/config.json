@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "kclique.go"
+        ],
+        "example": [
+            ".meta//kclique.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "kclique_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "kclique_enum/cases_test.go",
+            "kclique_enum/kclique_test.go",
+            "kclique_enum/go.mod"
+        ],
+        "solution": [
+            "kclique_enum/kclique.go"
+        ],
+        "example": [
+            "kclique_enum/.meta//kclique.go"
+        ]
+    }
+}

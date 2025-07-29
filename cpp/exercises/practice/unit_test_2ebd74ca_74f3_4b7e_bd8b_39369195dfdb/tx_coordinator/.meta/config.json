@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "tx_coordinator.h",
+            "tx_coordinator.cpp",
+            "main.cpp",
+            "README.md"
+        ],
+        "example": [
+            ".meta//tx_coordinator.h",
+            ".meta//tx_coordinator.cpp",
+            ".meta//main.cpp",
+            ".meta//README.md"
+        ],
+        "test": [
+            "tx_coordinator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/tx_coordinator_test.cpp"
+        ],
+        "solution": [
+            "tx_coordinator/tx_coordinator.h",
+            "tx_coordinator/tx_coordinator.cpp",
+            "tx_coordinator/main.cpp",
+            "tx_coordinator/README.md"
+        ],
+        "example": [
+            "tx_coordinator/.meta//tx_coordinator.h",
+            "tx_coordinator/.meta//tx_coordinator.cpp",
+            "tx_coordinator/.meta//main.cpp",
+            "tx_coordinator/.meta//README.md"
+        ]
+    }
+}

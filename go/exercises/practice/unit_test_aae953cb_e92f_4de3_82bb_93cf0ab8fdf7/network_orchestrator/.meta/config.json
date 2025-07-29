@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_orchestrator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_orchestrator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_orchestrator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_orchestrator/network_orchestrator_test.go",
+            "network_orchestrator/go.mod"
+        ],
+        "solution": [
+            "network_orchestrator/network_orchestrator.go",
+            "network_orchestrator/go.mod"
+        ],
+        "example": [
+            "network_orchestrator/.meta//network_orchestrator.go",
+            "network_orchestrator/.meta//go.mod"
+        ]
+    }
+}

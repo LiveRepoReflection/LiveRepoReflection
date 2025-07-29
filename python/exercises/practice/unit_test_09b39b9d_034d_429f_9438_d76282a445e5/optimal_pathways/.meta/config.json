@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "optimal_pathways.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_pathways.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_pathways_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_pathways/optimal_pathways_test.py",
+            "optimal_pathways/__init__.py"
+        ],
+        "solution": [
+            "optimal_pathways/optimal_pathways.py",
+            "optimal_pathways/__init__.py"
+        ],
+        "example": [
+            "optimal_pathways/.meta//optimal_pathways.py",
+            "optimal_pathways/.meta//__init__.py"
+        ]
+    }
+}

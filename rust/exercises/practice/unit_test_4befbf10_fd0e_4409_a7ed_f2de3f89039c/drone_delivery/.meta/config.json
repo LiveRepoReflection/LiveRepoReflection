@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/drone_delivery.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_delivery/tests/drone_delivery.rs"
+        ],
+        "solution": [
+            "drone_delivery/Cargo.toml",
+            "drone_delivery/src/lib.rs"
+        ],
+        "example": [
+            "drone_delivery/.meta//Cargo.toml",
+            "drone_delivery/.meta//src/lib.rs"
+        ]
+    }
+}

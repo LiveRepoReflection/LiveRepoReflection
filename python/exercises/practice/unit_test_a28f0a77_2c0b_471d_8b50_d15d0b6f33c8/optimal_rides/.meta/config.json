@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_rides.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_rides.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_rides_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_rides/optimal_rides_test.py"
+        ],
+        "solution": [
+            "optimal_rides/optimal_rides.py",
+            "optimal_rides/__init__.py"
+        ],
+        "example": [
+            "optimal_rides/.meta//optimal_rides.py",
+            "optimal_rides/.meta//__init__.py"
+        ]
+    }
+}

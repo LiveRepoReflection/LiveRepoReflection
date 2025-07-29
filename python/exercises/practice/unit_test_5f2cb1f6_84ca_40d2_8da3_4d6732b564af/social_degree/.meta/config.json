@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_degree.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//social_degree.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "social_degree_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_degree/social_degree_test.py"
+        ],
+        "solution": [
+            "social_degree/social_degree.py",
+            "social_degree/__init__.py"
+        ],
+        "example": [
+            "social_degree/.meta//social_degree.py",
+            "social_degree/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_cache.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_cache.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_cache_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_cache/network_cache_test.go",
+            "network_cache/go.mod"
+        ],
+        "solution": [
+            "network_cache/network_cache.go",
+            "network_cache/go.mod"
+        ],
+        "example": [
+            "network_cache/.meta//network_cache.go",
+            "network_cache/.meta//go.mod"
+        ]
+    }
+}

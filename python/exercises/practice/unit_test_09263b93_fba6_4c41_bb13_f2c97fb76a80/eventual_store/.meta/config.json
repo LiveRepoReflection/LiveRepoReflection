@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "eventual_store.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//eventual_store.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "eventual_store_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "eventual_store/eventual_store_test.py"
+        ],
+        "solution": [
+            "eventual_store/eventual_store.py",
+            "eventual_store/__init__.py"
+        ],
+        "example": [
+            "eventual_store/.meta//eventual_store.py",
+            "eventual_store/.meta//__init__.py"
+        ]
+    }
+}

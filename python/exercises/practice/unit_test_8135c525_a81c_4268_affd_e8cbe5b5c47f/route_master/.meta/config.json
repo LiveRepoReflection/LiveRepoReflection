@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "route_master.py"
+        ],
+        "example": [
+            ".meta//route_master.py"
+        ],
+        "test": [
+            "route_master_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_master/route_master_test.py"
+        ],
+        "solution": [
+            "route_master/route_master.py"
+        ],
+        "example": [
+            "route_master/.meta//route_master.py"
+        ]
+    }
+}

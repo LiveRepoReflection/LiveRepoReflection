@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "distributed_counter.h",
+            "distributed_counter.cpp"
+        ],
+        "example": [
+            ".meta//distributed_counter.h",
+            ".meta//distributed_counter.cpp",
+            ".meta//distributed_counter_test.cpp"
+        ],
+        "test": [
+            "distributed_counter_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_counter/distributed_counter_test.cpp"
+        ],
+        "solution": [
+            "distributed_counter/distributed_counter.h",
+            "distributed_counter/distributed_counter.cpp",
+            "distributed_counter/distributed_counter_test.cpp"
+        ],
+        "example": [
+            "distributed_counter/.meta//distributed_counter.h",
+            "distributed_counter/.meta//distributed_counter.cpp",
+            "distributed_counter/.meta//distributed_counter_test.cpp"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "data_relay.py"
+        ],
+        "example": [
+            ".meta//data_relay.py"
+        ],
+        "test": [
+            "data_relay_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_relay/data_relay_test.py"
+        ],
+        "solution": [
+            "data_relay/data_relay.py"
+        ],
+        "example": [
+            "data_relay/.meta//data_relay.py"
+        ]
+    }
+}

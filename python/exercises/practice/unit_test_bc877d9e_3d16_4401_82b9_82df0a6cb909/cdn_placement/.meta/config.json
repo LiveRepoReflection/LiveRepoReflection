@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "cdn_placement.py"
+        ],
+        "example": [
+            ".meta//cdn_placement.py"
+        ],
+        "test": [
+            "cdn_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "cdn_placement/cdn_placement_test.py"
+        ],
+        "solution": [
+            "cdn_placement/cdn_placement.py"
+        ],
+        "example": [
+            "cdn_placement/.meta//cdn_placement.py"
+        ]
+    }
+}

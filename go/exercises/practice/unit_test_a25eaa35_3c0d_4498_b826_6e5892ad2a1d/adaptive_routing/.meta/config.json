@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//adaptive_routing.go",
+            ".meta//go.mod",
+            ".meta//cases_test.go"
+        ],
+        "test": [
+            "adaptive_routing_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_routing/adaptive_routing_test.go",
+            "adaptive_routing/go.mod",
+            "adaptive_routing/adaptive_routing.go",
+            "adaptive_routing/cases_test.go"
+        ],
+        "solution": [
+            "adaptive_routing/adaptive_routing.go",
+            "adaptive_routing/go.mod",
+            "adaptive_routing/cases_test.go"
+        ],
+        "example": [
+            "adaptive_routing/.meta//adaptive_routing.go",
+            "adaptive_routing/.meta//go.mod",
+            "adaptive_routing/.meta//cases_test.go"
+        ]
+    }
+}

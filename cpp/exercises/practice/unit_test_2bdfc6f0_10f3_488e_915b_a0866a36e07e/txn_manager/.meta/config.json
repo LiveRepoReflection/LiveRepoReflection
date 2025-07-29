@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_manager.h",
+            "txn_manager.cpp"
+        ],
+        "example": [
+            ".meta//txn_manager.h",
+            ".meta//txn_manager.cpp"
+        ],
+        "test": [
+            "txn_manager_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_manager/txn_manager_test.cpp"
+        ],
+        "solution": [
+            "txn_manager/txn_manager.h",
+            "txn_manager/txn_manager.cpp"
+        ],
+        "example": [
+            "txn_manager/.meta//txn_manager.h",
+            "txn_manager/.meta//txn_manager.cpp"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/keyval_cluster_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "keyval_cluster/tests/keyval_cluster_tests.rs"
+        ],
+        "solution": [
+            "keyval_cluster/Cargo.toml",
+            "keyval_cluster/src/lib.rs"
+        ],
+        "example": [
+            "keyval_cluster/.meta//Cargo.toml",
+            "keyval_cluster/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "twap_stream.py"
+        ],
+        "example": [
+            ".meta//twap_stream.py"
+        ],
+        "test": [
+            "twap_stream_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "twap_stream/twap_stream_test.py"
+        ],
+        "solution": [
+            "twap_stream/twap_stream.py"
+        ],
+        "example": [
+            "twap_stream/.meta//twap_stream.py"
+        ]
+    }
+}

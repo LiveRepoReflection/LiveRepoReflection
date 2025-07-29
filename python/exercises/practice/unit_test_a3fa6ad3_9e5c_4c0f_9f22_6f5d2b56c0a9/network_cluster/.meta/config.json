@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_cluster.py"
+        ],
+        "example": [
+            ".meta//network_cluster.py"
+        ],
+        "test": [
+            "test_network_cluster.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_cluster/test_network_cluster.py"
+        ],
+        "solution": [
+            "network_cluster/network_cluster.py"
+        ],
+        "example": [
+            "network_cluster/.meta//network_cluster.py"
+        ]
+    }
+}

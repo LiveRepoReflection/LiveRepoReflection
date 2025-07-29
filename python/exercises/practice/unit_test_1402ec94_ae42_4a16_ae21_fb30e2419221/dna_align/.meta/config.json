@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dna_align.py"
+        ],
+        "example": [
+            ".meta//dna_align.py"
+        ],
+        "test": [
+            "dna_align_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dna_align/dna_align_test.py"
+        ],
+        "solution": [
+            "dna_align/dna_align.py"
+        ],
+        "example": [
+            "dna_align/.meta//dna_align.py"
+        ]
+    }
+}

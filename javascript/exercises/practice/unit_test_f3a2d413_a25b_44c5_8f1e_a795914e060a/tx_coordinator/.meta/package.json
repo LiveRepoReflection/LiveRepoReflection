@@ -1,0 +1,11 @@
+{
+  "name": "tx_coordinator",
+  "version": "1.0.0",
+  "description": "Distributed Transaction Coordinator for multiple microservices",
+  "main": "tx_coordinator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_median.h",
+            "distributed_median.cpp"
+        ],
+        "example": [
+            ".meta//distributed_median.h",
+            ".meta//distributed_median.cpp"
+        ],
+        "test": [
+            "distributed_median_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_median/distributed_median_test.cpp"
+        ],
+        "solution": [
+            "distributed_median/distributed_median.h",
+            "distributed_median/distributed_median.cpp"
+        ],
+        "example": [
+            "distributed_median/.meta//distributed_median.h",
+            "distributed_median/.meta//distributed_median.cpp"
+        ]
+    }
+}

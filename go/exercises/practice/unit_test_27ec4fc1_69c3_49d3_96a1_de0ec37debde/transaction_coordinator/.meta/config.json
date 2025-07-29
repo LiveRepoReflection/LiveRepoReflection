@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_coordinator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//transaction_coordinator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "transaction_coordinator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_coordinator/transaction_coordinator_test.go"
+        ],
+        "solution": [
+            "transaction_coordinator/transaction_coordinator.go",
+            "transaction_coordinator/go.mod"
+        ],
+        "example": [
+            "transaction_coordinator/.meta//transaction_coordinator.go",
+            "transaction_coordinator/.meta//go.mod"
+        ]
+    }
+}

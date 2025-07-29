@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "dfs_metadata.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//dfs_metadata.js"
+        ],
+        "test": [
+            "dfs_metadata.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "dfs_metadata/dfs_metadata.spec.js"
+        ],
+        "solution": [
+            "dfs_metadata/package.json",
+            "dfs_metadata/dfs_metadata.js"
+        ],
+        "example": [
+            "dfs_metadata/.meta//package.json",
+            "dfs_metadata/.meta//dfs_metadata.js"
+        ]
+    }
+}

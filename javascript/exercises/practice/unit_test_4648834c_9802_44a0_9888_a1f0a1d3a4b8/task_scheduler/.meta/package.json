@@ -1,0 +1,9 @@
+{
+  "name": "task_scheduler",
+  "version": "1.0.0",
+  "main": "task_scheduler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT"
+}

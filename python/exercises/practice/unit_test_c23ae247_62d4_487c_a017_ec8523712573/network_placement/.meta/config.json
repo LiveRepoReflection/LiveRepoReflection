@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_placement/network_placement_test.py"
+        ],
+        "solution": [
+            "network_placement/network_placement.py",
+            "network_placement/__init__.py"
+        ],
+        "example": [
+            "network_placement/.meta//network_placement.py",
+            "network_placement/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/BankingService.java",
+            "src/main/java/TransactionFailureException.java",
+            "src/main/java/TransactionTimeoutException.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//src/main/java/BankingService.java",
+            ".meta//src/main/java/TransactionFailureException.java",
+            ".meta//src/main/java/TransactionTimeoutException.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_coordinator/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "transaction_coordinator/src/main/java/BankingService.java",
+            "transaction_coordinator/src/main/java/TransactionFailureException.java",
+            "transaction_coordinator/src/main/java/TransactionTimeoutException.java",
+            "transaction_coordinator/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "transaction_coordinator/.meta//src/main/java/BankingService.java",
+            "transaction_coordinator/.meta//src/main/java/TransactionFailureException.java",
+            "transaction_coordinator/.meta//src/main/java/TransactionTimeoutException.java",
+            "transaction_coordinator/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

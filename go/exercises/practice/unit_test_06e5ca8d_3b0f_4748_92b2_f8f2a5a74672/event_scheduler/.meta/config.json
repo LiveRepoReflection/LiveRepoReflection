@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_scheduler.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//event_scheduler.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_scheduler/cases_test.go"
+        ],
+        "solution": [
+            "event_scheduler/event_scheduler.go",
+            "event_scheduler/go.mod"
+        ],
+        "example": [
+            "event_scheduler/.meta//event_scheduler.go",
+            "event_scheduler/.meta//go.mod"
+        ]
+    }
+}

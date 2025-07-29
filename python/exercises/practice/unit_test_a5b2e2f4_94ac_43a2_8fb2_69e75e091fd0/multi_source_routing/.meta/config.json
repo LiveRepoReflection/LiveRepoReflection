@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "multi_source_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//multi_source_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_multi_source_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_source_routing/test_multi_source_routing.py"
+        ],
+        "solution": [
+            "multi_source_routing/multi_source_routing.py",
+            "multi_source_routing/__init__.py"
+        ],
+        "example": [
+            "multi_source_routing/.meta//multi_source_routing.py",
+            "multi_source_routing/.meta//__init__.py"
+        ]
+    }
+}

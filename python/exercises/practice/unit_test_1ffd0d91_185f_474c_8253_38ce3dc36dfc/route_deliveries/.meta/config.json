@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "route_deliveries.py"
+        ],
+        "example": [
+            ".meta//route_deliveries.py"
+        ],
+        "test": [
+            "route_deliveries_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_deliveries/route_deliveries_test.py"
+        ],
+        "solution": [
+            "route_deliveries/route_deliveries.py"
+        ],
+        "example": [
+            "route_deliveries/.meta//route_deliveries.py"
+        ]
+    }
+}

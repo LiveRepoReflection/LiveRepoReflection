@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "railway_upgrade.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//railway_upgrade.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "railway_upgrade_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "railway_upgrade/railway_upgrade_test.py"
+        ],
+        "solution": [
+            "railway_upgrade/railway_upgrade.py",
+            "railway_upgrade/__init__.py"
+        ],
+        "example": [
+            "railway_upgrade/.meta//railway_upgrade.py",
+            "railway_upgrade/.meta//__init__.py"
+        ]
+    }
+}

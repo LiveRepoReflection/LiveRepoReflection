@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "dex_aggregator.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//dex_aggregator.go",
+            ".meta//dex_aggregator_test.go"
+        ],
+        "test": [
+            "dex_aggregator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_aggregator/dex_aggregator_test.go"
+        ],
+        "solution": [
+            "dex_aggregator/go.mod",
+            "dex_aggregator/dex_aggregator.go",
+            "dex_aggregator/dex_aggregator_test.go"
+        ],
+        "example": [
+            "dex_aggregator/.meta//go.mod",
+            "dex_aggregator/.meta//dex_aggregator.go",
+            "dex_aggregator/.meta//dex_aggregator_test.go"
+        ]
+    }
+}

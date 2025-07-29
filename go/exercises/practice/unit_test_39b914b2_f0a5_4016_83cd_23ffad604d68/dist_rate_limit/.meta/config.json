@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "dist_rate_limit.go"
+        ],
+        "example": [
+            ".meta//dist_rate_limit.go"
+        ],
+        "test": [
+            "dist_rate_limit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_rate_limit/dist_rate_limit_test.go",
+            "dist_rate_limit/go.mod"
+        ],
+        "solution": [
+            "dist_rate_limit/dist_rate_limit.go"
+        ],
+        "example": [
+            "dist_rate_limit/.meta//dist_rate_limit.go"
+        ]
+    }
+}

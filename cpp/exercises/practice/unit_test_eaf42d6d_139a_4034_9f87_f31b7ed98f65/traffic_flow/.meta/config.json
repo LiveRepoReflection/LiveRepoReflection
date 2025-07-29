@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_flow.h",
+            "traffic_flow.cpp"
+        ],
+        "example": [
+            ".meta//traffic_flow.h",
+            ".meta//traffic_flow.cpp"
+        ],
+        "test": [
+            "traffic_flow_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_flow/traffic_flow_test.cpp"
+        ],
+        "solution": [
+            "traffic_flow/traffic_flow.h",
+            "traffic_flow/traffic_flow.cpp"
+        ],
+        "example": [
+            "traffic_flow/.meta//traffic_flow.h",
+            "traffic_flow/.meta//traffic_flow.cpp"
+        ]
+    }
+}

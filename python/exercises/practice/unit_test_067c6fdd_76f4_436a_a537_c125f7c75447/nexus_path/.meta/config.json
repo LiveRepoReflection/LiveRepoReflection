@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "nexus_path.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//nexus_path.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_nexus_path.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "nexus_path/test_nexus_path.py"
+        ],
+        "solution": [
+            "nexus_path/nexus_path.py",
+            "nexus_path/__init__.py"
+        ],
+        "example": [
+            "nexus_path/.meta//nexus_path.py",
+            "nexus_path/.meta//__init__.py"
+        ]
+    }
+}

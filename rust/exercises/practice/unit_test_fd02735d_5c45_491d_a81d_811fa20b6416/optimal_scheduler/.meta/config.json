@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/optimal_scheduler.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_scheduler/tests/optimal_scheduler.rs"
+        ],
+        "solution": [
+            "optimal_scheduler/Cargo.toml",
+            "optimal_scheduler/src/lib.rs"
+        ],
+        "example": [
+            "optimal_scheduler/.meta//Cargo.toml",
+            "optimal_scheduler/.meta//src/lib.rs"
+        ]
+    }
+}

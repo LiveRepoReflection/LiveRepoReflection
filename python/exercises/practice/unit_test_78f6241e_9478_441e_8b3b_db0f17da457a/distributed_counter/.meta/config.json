@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_counter.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_counter.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_distributed_counter.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_counter/test_distributed_counter.py"
+        ],
+        "solution": [
+            "distributed_counter/distributed_counter.py",
+            "distributed_counter/__init__.py"
+        ],
+        "example": [
+            "distributed_counter/.meta//distributed_counter.py",
+            "distributed_counter/.meta//__init__.py"
+        ]
+    }
+}

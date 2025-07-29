@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/dist_consensus.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_consensus/tests/dist_consensus.rs"
+        ],
+        "solution": [
+            "dist_consensus/Cargo.toml",
+            "dist_consensus/src/lib.rs"
+        ],
+        "example": [
+            "dist_consensus/.meta//Cargo.toml",
+            "dist_consensus/.meta//src/lib.rs"
+        ]
+    }
+}

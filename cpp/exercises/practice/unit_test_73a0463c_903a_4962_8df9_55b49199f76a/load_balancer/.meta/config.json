@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "load_balancer.cpp",
+            "load_balancer.h"
+        ],
+        "example": [
+            ".meta//load_balancer.cpp",
+            ".meta//load_balancer.h"
+        ],
+        "test": [
+            "load_balancer_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "load_balancer/load_balancer_test.cpp",
+            "load_balancer/load_balancer.h"
+        ],
+        "solution": [
+            "load_balancer/load_balancer.cpp",
+            "load_balancer/load_balancer.h"
+        ],
+        "example": [
+            "load_balancer/.meta//load_balancer.cpp",
+            "load_balancer/.meta//load_balancer.h"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "store.go",
+            "in_memory_store.go",
+            "rate_limiter.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//store.go",
+            ".meta//in_memory_store.go",
+            ".meta//rate_limiter.go"
+        ],
+        "test": [
+            "rate_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limit_dist/rate_limiter_test.go"
+        ],
+        "solution": [
+            "rate_limit_dist/go.mod",
+            "rate_limit_dist/store.go",
+            "rate_limit_dist/in_memory_store.go",
+            "rate_limit_dist/rate_limiter.go"
+        ],
+        "example": [
+            "rate_limit_dist/.meta//go.mod",
+            "rate_limit_dist/.meta//store.go",
+            "rate_limit_dist/.meta//in_memory_store.go",
+            "rate_limit_dist/.meta//rate_limiter.go"
+        ]
+    }
+}

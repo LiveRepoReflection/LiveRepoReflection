@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "light_scheduler.py"
+        ],
+        "example": [
+            ".meta//light_scheduler.py"
+        ],
+        "test": [
+            "light_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "light_scheduler/light_scheduler_test.py"
+        ],
+        "solution": [
+            "light_scheduler/light_scheduler.py"
+        ],
+        "example": [
+            "light_scheduler/.meta//light_scheduler.py"
+        ]
+    }
+}

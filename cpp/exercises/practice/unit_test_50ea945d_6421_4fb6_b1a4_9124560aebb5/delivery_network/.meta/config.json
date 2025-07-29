@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "delivery_network.h",
+            "delivery_network.cpp"
+        ],
+        "example": [
+            ".meta//delivery_network.h",
+            ".meta//delivery_network.cpp"
+        ],
+        "test": [
+            "delivery_network_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "delivery_network/delivery_network_test.cpp"
+        ],
+        "solution": [
+            "delivery_network/delivery_network.h",
+            "delivery_network/delivery_network.cpp"
+        ],
+        "example": [
+            "delivery_network/.meta//delivery_network.h",
+            "delivery_network/.meta//delivery_network.cpp"
+        ]
+    }
+}

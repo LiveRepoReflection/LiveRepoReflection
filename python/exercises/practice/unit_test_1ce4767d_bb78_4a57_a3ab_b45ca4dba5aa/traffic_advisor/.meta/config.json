@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_advisor.py"
+        ],
+        "example": [
+            ".meta//traffic_advisor.py"
+        ],
+        "test": [
+            "traffic_advisor_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_advisor/traffic_advisor_test.py"
+        ],
+        "solution": [
+            "traffic_advisor/traffic_advisor.py"
+        ],
+        "example": [
+            "traffic_advisor/.meta//traffic_advisor.py"
+        ]
+    }
+}

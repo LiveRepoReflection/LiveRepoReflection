@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_aggregator.py"
+        ],
+        "example": [
+            ".meta//social_aggregator.py"
+        ],
+        "test": [
+            "test_social_aggregator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_aggregator/test_social_aggregator.py"
+        ],
+        "solution": [
+            "social_aggregator/social_aggregator.py"
+        ],
+        "example": [
+            "social_aggregator/.meta//social_aggregator.py"
+        ]
+    }
+}

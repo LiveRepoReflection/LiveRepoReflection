@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "dtm_atomicity.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//dtm_atomicity.go"
+        ],
+        "test": [
+            "dtm_atomicity_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_atomicity/dtm_atomicity_test.go"
+        ],
+        "solution": [
+            "dtm_atomicity/go.mod",
+            "dtm_atomicity/dtm_atomicity.go"
+        ],
+        "example": [
+            "dtm_atomicity/.meta//go.mod",
+            "dtm_atomicity/.meta//dtm_atomicity.go"
+        ]
+    }
+}

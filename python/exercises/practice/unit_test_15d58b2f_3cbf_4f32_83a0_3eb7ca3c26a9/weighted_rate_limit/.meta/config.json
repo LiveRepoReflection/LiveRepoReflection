@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "weighted_rate_limit.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//weighted_rate_limit.py"
+        ],
+        "test": [
+            "weighted_rate_limit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "weighted_rate_limit/weighted_rate_limit_test.py"
+        ],
+        "solution": [
+            "weighted_rate_limit/__init__.py",
+            "weighted_rate_limit/weighted_rate_limit.py"
+        ],
+        "example": [
+            "weighted_rate_limit/.meta//__init__.py",
+            "weighted_rate_limit/.meta//weighted_rate_limit.py"
+        ]
+    }
+}

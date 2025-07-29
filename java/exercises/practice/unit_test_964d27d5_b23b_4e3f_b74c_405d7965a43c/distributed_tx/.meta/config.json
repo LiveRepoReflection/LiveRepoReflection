@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Participant.java",
+            "src/main/java/Coordinator.java",
+            "src/main/java/TransactionLog.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/Participant.java",
+            ".meta//src/main/java/Coordinator.java",
+            ".meta//src/main/java/TransactionLog.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/DistributedTxTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxTest.java",
+            "distributed_tx/build.gradle"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/Participant.java",
+            "distributed_tx/src/main/java/Coordinator.java",
+            "distributed_tx/src/main/java/TransactionLog.java",
+            "distributed_tx/build.gradle"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/Participant.java",
+            "distributed_tx/.meta//src/main/java/Coordinator.java",
+            "distributed_tx/.meta//src/main/java/TransactionLog.java",
+            "distributed_tx/.meta//build.gradle"
+        ]
+    }
+}

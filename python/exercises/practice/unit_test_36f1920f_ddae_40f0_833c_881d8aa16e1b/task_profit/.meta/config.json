@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_profit.py"
+        ],
+        "example": [
+            ".meta//task_profit.py"
+        ],
+        "test": [
+            "task_profit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_profit/task_profit_test.py"
+        ],
+        "solution": [
+            "task_profit/task_profit.py"
+        ],
+        "example": [
+            "task_profit/.meta//task_profit.py"
+        ]
+    }
+}

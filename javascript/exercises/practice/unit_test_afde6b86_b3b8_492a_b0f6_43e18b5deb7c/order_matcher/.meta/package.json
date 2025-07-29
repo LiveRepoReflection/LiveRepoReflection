@@ -1,0 +1,13 @@
+{
+  "name": "order_matcher",
+  "version": "1.0.0",
+  "description": "Decentralized Order Matching Engine",
+  "main": "matching_engine.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

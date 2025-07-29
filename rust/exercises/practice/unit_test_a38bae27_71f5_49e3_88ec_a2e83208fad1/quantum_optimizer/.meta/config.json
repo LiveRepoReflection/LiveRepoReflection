@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/quantum_optimizer.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_optimizer/tests/quantum_optimizer.rs"
+        ],
+        "solution": [
+            "quantum_optimizer/Cargo.toml",
+            "quantum_optimizer/src/lib.rs"
+        ],
+        "example": [
+            "quantum_optimizer/.meta//Cargo.toml",
+            "quantum_optimizer/.meta//src/lib.rs"
+        ]
+    }
+}

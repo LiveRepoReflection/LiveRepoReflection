@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "meeting_scheduler.go"
+        ],
+        "example": [
+            ".meta//meeting_scheduler.go"
+        ],
+        "test": [
+            "meeting_scheduler_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_scheduler/meeting_scheduler_test.go",
+            "meeting_scheduler/go.mod"
+        ],
+        "solution": [
+            "meeting_scheduler/meeting_scheduler.go"
+        ],
+        "example": [
+            "meeting_scheduler/.meta//meeting_scheduler.go"
+        ]
+    }
+}

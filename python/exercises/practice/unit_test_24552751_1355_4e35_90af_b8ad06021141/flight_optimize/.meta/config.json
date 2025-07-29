@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "flight_optimize.py"
+        ],
+        "example": [
+            ".meta//flight_optimize.py"
+        ],
+        "test": [
+            "flight_optimize_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flight_optimize/flight_optimize_test.py"
+        ],
+        "solution": [
+            "flight_optimize/flight_optimize.py"
+        ],
+        "example": [
+            "flight_optimize/.meta//flight_optimize.py"
+        ]
+    }
+}

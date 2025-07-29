@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "service.h",
+            "tx_coordinator.h",
+            "tx_coordinator.cpp"
+        ],
+        "example": [
+            ".meta//service.h",
+            ".meta//tx_coordinator.h",
+            ".meta//tx_coordinator.cpp"
+        ],
+        "test": [
+            "tx_coordinator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/tx_coordinator_test.cpp"
+        ],
+        "solution": [
+            "tx_coordinator/service.h",
+            "tx_coordinator/tx_coordinator.h",
+            "tx_coordinator/tx_coordinator.cpp"
+        ],
+        "example": [
+            "tx_coordinator/.meta//service.h",
+            "tx_coordinator/.meta//tx_coordinator.h",
+            "tx_coordinator/.meta//tx_coordinator.cpp"
+        ]
+    }
+}

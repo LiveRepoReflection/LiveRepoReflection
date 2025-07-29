@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "rate_limiter.go",
+            "go.mod",
+            "go.sum"
+        ],
+        "example": [
+            ".meta//rate_limiter.go",
+            ".meta//go.mod",
+            ".meta//go.sum"
+        ],
+        "test": [
+            "rate_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_rate_limit/rate_limiter_test.go"
+        ],
+        "solution": [
+            "dynamic_rate_limit/rate_limiter.go",
+            "dynamic_rate_limit/go.mod",
+            "dynamic_rate_limit/go.sum"
+        ],
+        "example": [
+            "dynamic_rate_limit/.meta//rate_limiter.go",
+            "dynamic_rate_limit/.meta//go.mod",
+            "dynamic_rate_limit/.meta//go.sum"
+        ]
+    }
+}

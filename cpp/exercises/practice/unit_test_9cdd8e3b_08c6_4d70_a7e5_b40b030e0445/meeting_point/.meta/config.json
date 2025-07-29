@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "meeting_point.h",
+            "meeting_point.cpp"
+        ],
+        "example": [
+            ".meta//meeting_point.h",
+            ".meta//meeting_point.cpp"
+        ],
+        "test": [
+            "meeting_point_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_point/meeting_point_test.cpp"
+        ],
+        "solution": [
+            "meeting_point/meeting_point.h",
+            "meeting_point/meeting_point.cpp"
+        ],
+        "example": [
+            "meeting_point/.meta//meeting_point.h",
+            "meeting_point/.meta//meeting_point.cpp"
+        ]
+    }
+}

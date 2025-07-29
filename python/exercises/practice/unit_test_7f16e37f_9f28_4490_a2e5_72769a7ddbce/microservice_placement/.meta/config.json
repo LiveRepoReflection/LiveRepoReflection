@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "microservice_placement.py"
+        ],
+        "example": [
+            ".meta//microservice_placement.py"
+        ],
+        "test": [
+            "microservice_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microservice_placement/microservice_placement_test.py"
+        ],
+        "solution": [
+            "microservice_placement/microservice_placement.py"
+        ],
+        "example": [
+            "microservice_placement/.meta//microservice_placement.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "route_lookup.py"
+        ],
+        "example": [
+            ".meta//route_lookup.py"
+        ],
+        "test": [
+            "route_lookup_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_lookup/route_lookup_test.py"
+        ],
+        "solution": [
+            "route_lookup/route_lookup.py"
+        ],
+        "example": [
+            "route_lookup/.meta//route_lookup.py"
+        ]
+    }
+}

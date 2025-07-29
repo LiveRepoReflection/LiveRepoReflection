@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "drone_swarm.py"
+        ],
+        "example": [
+            ".meta//drone_swarm.py"
+        ],
+        "test": [
+            "drone_swarm_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_swarm/drone_swarm_test.py"
+        ],
+        "solution": [
+            "drone_swarm/drone_swarm.py"
+        ],
+        "example": [
+            "drone_swarm/.meta//drone_swarm.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_assign.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//task_assign.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_task_assign.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_assign/test_task_assign.py"
+        ],
+        "solution": [
+            "task_assign/task_assign.py",
+            "task_assign/__init__.py"
+        ],
+        "example": [
+            "task_assign/.meta//task_assign.py",
+            "task_assign/.meta//__init__.py"
+        ]
+    }
+}

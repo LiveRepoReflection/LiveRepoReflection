@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "time_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//time_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_time_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_routing/test_time_routing.py"
+        ],
+        "solution": [
+            "time_routing/time_routing.py",
+            "time_routing/__init__.py"
+        ],
+        "example": [
+            "time_routing/.meta//time_routing.py",
+            "time_routing/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "optimal_airtraffic.py",
+            "__init__.py",
+            "helpers.py"
+        ],
+        "example": [
+            ".meta//optimal_airtraffic.py",
+            ".meta//__init__.py",
+            ".meta//helpers.py"
+        ],
+        "test": [
+            "test_optimal_airtraffic.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_airtraffic/test_optimal_airtraffic.py"
+        ],
+        "solution": [
+            "optimal_airtraffic/optimal_airtraffic.py",
+            "optimal_airtraffic/__init__.py",
+            "optimal_airtraffic/helpers.py"
+        ],
+        "example": [
+            "optimal_airtraffic/.meta//optimal_airtraffic.py",
+            "optimal_airtraffic/.meta//__init__.py",
+            "optimal_airtraffic/.meta//helpers.py"
+        ]
+    }
+}

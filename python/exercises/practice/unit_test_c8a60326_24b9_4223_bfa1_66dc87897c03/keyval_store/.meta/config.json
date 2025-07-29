@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "store.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//store.py"
+        ],
+        "test": [
+            "keyval_store_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "keyval_store/keyval_store_test.py"
+        ],
+        "solution": [
+            "keyval_store/__init__.py",
+            "keyval_store/store.py"
+        ],
+        "example": [
+            "keyval_store/.meta//__init__.py",
+            "keyval_store/.meta//store.py"
+        ]
+    }
+}

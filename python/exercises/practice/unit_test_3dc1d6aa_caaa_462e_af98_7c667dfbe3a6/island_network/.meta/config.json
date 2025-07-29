@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "island_network.py"
+        ],
+        "example": [
+            ".meta//island_network.py"
+        ],
+        "test": [
+            "island_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "island_network/island_network_test.py"
+        ],
+        "solution": [
+            "island_network/island_network.py"
+        ],
+        "example": [
+            "island_network/.meta//island_network.py"
+        ]
+    }
+}

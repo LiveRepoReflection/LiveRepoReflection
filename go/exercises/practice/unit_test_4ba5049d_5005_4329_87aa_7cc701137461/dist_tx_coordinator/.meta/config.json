@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "dist_tx_coordinator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dist_tx_coordinator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_tx_coordinator_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_coordinator/dist_tx_coordinator_test.go",
+            "dist_tx_coordinator/cases_test.go"
+        ],
+        "solution": [
+            "dist_tx_coordinator/dist_tx_coordinator.go",
+            "dist_tx_coordinator/go.mod"
+        ],
+        "example": [
+            "dist_tx_coordinator/.meta//dist_tx_coordinator.go",
+            "dist_tx_coordinator/.meta//go.mod"
+        ]
+    }
+}

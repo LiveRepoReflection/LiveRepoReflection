@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dav_network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dav_network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dav_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dav_network/dav_network_test.go"
+        ],
+        "solution": [
+            "dav_network/dav_network.go",
+            "dav_network/go.mod"
+        ],
+        "example": [
+            "dav_network/.meta//dav_network.go",
+            "dav_network/.meta//go.mod"
+        ]
+    }
+}

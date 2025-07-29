@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "depot_delivery.py"
+        ],
+        "example": [
+            ".meta//depot_delivery.py"
+        ],
+        "test": [
+            "depot_delivery_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "depot_delivery/depot_delivery_test.py"
+        ],
+        "solution": [
+            "depot_delivery/depot_delivery.py"
+        ],
+        "example": [
+            "depot_delivery/.meta//depot_delivery.py"
+        ]
+    }
+}

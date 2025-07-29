@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtc_atomic.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dtc_atomic.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dtc_atomic_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_atomic/dtc_atomic_test.go"
+        ],
+        "solution": [
+            "dtc_atomic/dtc_atomic.go",
+            "dtc_atomic/go.mod"
+        ],
+        "example": [
+            "dtc_atomic/.meta//dtc_atomic.go",
+            "dtc_atomic/.meta//go.mod"
+        ]
+    }
+}

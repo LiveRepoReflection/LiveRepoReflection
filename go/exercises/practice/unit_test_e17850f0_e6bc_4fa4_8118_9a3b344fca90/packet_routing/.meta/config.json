@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "packet_routing.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//packet_routing.go"
+        ],
+        "test": [
+            "packet_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_routing/packet_routing_test.go"
+        ],
+        "solution": [
+            "packet_routing/go.mod",
+            "packet_routing/packet_routing.go"
+        ],
+        "example": [
+            "packet_routing/.meta//go.mod",
+            "packet_routing/.meta//packet_routing.go"
+        ]
+    }
+}

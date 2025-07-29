@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "edge_router.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//edge_router.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "edge_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "edge_router/edge_router_test.py"
+        ],
+        "solution": [
+            "edge_router/edge_router.py",
+            "edge_router/__init__.py"
+        ],
+        "example": [
+            "edge_router/.meta//edge_router.py",
+            "edge_router/.meta//__init__.py"
+        ]
+    }
+}

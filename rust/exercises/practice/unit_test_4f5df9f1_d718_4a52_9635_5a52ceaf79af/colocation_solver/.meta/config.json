@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/colocation_solver.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "colocation_solver/tests/colocation_solver.rs",
+            "colocation_solver/Cargo.toml"
+        ],
+        "solution": [
+            "colocation_solver/Cargo.toml",
+            "colocation_solver/src/lib.rs"
+        ],
+        "example": [
+            "colocation_solver/.meta//Cargo.toml",
+            "colocation_solver/.meta//src/lib.rs"
+        ]
+    }
+}

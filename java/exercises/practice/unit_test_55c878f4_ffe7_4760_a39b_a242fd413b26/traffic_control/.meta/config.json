@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TrafficControl.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TrafficControl.java"
+        ],
+        "test": [
+            "src/test/java/TrafficControlTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_control/src/test/java/TrafficControlTest.java"
+        ],
+        "solution": [
+            "traffic_control/build.gradle",
+            "traffic_control/src/main/java/TrafficControl.java"
+        ],
+        "example": [
+            "traffic_control/.meta//build.gradle",
+            "traffic_control/.meta//src/main/java/TrafficControl.java"
+        ]
+    }
+}

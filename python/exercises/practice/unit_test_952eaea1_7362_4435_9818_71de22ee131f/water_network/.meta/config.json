@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "water_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//water_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "water_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "water_network/water_network_test.py"
+        ],
+        "solution": [
+            "water_network/water_network.py",
+            "water_network/__init__.py"
+        ],
+        "example": [
+            "water_network/.meta//water_network.py",
+            "water_network/.meta//__init__.py"
+        ]
+    }
+}

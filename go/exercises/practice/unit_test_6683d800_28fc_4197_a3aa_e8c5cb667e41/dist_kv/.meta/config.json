@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_kv.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dist_kv.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_kv_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_kv/dist_kv_test.go"
+        ],
+        "solution": [
+            "dist_kv/dist_kv.go",
+            "dist_kv/go.mod"
+        ],
+        "example": [
+            "dist_kv/.meta//dist_kv.go",
+            "dist_kv/.meta//go.mod"
+        ]
+    }
+}

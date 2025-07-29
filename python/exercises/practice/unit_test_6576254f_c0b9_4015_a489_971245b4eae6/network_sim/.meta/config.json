@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_sim.py"
+        ],
+        "example": [
+            ".meta//network_sim.py"
+        ],
+        "test": [
+            "network_sim_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_sim/network_sim_test.py"
+        ],
+        "solution": [
+            "network_sim/network_sim.py"
+        ],
+        "example": [
+            "network_sim/.meta//network_sim.py"
+        ]
+    }
+}

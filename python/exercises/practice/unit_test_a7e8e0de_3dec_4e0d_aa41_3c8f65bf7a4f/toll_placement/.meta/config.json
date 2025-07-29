@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "toll_placement.py"
+        ],
+        "example": [
+            ".meta//toll_placement.py"
+        ],
+        "test": [
+            "toll_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "toll_placement/toll_placement_test.py"
+        ],
+        "solution": [
+            "toll_placement/toll_placement.py"
+        ],
+        "example": [
+            "toll_placement/.meta//toll_placement.py"
+        ]
+    }
+}

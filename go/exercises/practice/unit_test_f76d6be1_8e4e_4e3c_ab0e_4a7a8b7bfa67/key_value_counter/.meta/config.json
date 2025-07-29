@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "key_value_counter.go"
+        ],
+        "example": [
+            ".meta//key_value_counter.go"
+        ],
+        "test": [
+            "key_value_counter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "key_value_counter/key_value_counter_test.go",
+            "key_value_counter/go.mod"
+        ],
+        "solution": [
+            "key_value_counter/key_value_counter.go"
+        ],
+        "example": [
+            "key_value_counter/.meta//key_value_counter.go"
+        ]
+    }
+}

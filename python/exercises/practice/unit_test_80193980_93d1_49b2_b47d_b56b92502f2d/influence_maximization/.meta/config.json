@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "influence_maximization.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//influence_maximization.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "influence_maximization_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "influence_maximization/influence_maximization_test.py"
+        ],
+        "solution": [
+            "influence_maximization/influence_maximization.py",
+            "influence_maximization/__init__.py"
+        ],
+        "example": [
+            "influence_maximization/.meta//influence_maximization.py",
+            "influence_maximization/.meta//__init__.py"
+        ]
+    }
+}

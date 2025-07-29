@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtc_service.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dtc_service.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dtc_service_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_service/dtc_service_test.go"
+        ],
+        "solution": [
+            "dtc_service/dtc_service.go",
+            "dtc_service/go.mod"
+        ],
+        "example": [
+            "dtc_service/.meta//dtc_service.go",
+            "dtc_service/.meta//go.mod"
+        ]
+    }
+}

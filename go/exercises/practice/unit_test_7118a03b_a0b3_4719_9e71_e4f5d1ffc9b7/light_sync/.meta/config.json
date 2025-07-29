@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "light_sync.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//light_sync.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "light_sync_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "light_sync/light_sync_test.go"
+        ],
+        "solution": [
+            "light_sync/light_sync.go",
+            "light_sync/go.mod"
+        ],
+        "example": [
+            "light_sync/.meta//light_sync.go",
+            "light_sync/.meta//go.mod"
+        ]
+    }
+}

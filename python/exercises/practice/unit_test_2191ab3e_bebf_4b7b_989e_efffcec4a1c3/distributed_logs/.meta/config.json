@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_logs.py"
+        ],
+        "example": [
+            ".meta//distributed_logs.py"
+        ],
+        "test": [
+            "distributed_logs_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_logs/distributed_logs_test.py"
+        ],
+        "solution": [
+            "distributed_logs/distributed_logs.py"
+        ],
+        "example": [
+            "distributed_logs/.meta//distributed_logs.py"
+        ]
+    }
+}

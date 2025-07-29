@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_orchestrator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_orchestrator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_orchestrator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_orchestrator/network_orchestrator_test.py"
+        ],
+        "solution": [
+            "network_orchestrator/network_orchestrator.py",
+            "network_orchestrator/__init__.py"
+        ],
+        "example": [
+            "network_orchestrator/.meta//network_orchestrator.py",
+            "network_orchestrator/.meta//__init__.py"
+        ]
+    }
+}

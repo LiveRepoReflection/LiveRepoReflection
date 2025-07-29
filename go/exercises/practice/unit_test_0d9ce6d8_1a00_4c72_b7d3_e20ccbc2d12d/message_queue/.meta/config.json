@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "message_queue.go",
+            "metrics.go"
+        ],
+        "example": [
+            ".meta//message_queue.go",
+            ".meta//metrics.go"
+        ],
+        "test": [
+            "message_queue_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "message_queue/message_queue_test.go",
+            "message_queue/go.mod"
+        ],
+        "solution": [
+            "message_queue/message_queue.go",
+            "message_queue/metrics.go"
+        ],
+        "example": [
+            "message_queue/.meta//message_queue.go",
+            "message_queue/.meta//metrics.go"
+        ]
+    }
+}

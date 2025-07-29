@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_sla.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_sla.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_sla_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_sla/network_sla_test.py"
+        ],
+        "solution": [
+            "network_sla/network_sla.py",
+            "network_sla/__init__.py"
+        ],
+        "example": [
+            "network_sla/.meta//network_sla.py",
+            "network_sla/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_consistency.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//data_consistency.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "data_consistency_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_consistency/data_consistency_test.py"
+        ],
+        "solution": [
+            "data_consistency/data_consistency.py",
+            "data_consistency/__init__.py"
+        ],
+        "example": [
+            "data_consistency/.meta//data_consistency.py",
+            "data_consistency/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_shortest_path.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dynamic_shortest_path.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dynamic_shortest_path.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_shortest_path/test_dynamic_shortest_path.py"
+        ],
+        "solution": [
+            "dynamic_shortest_path/dynamic_shortest_path.py",
+            "dynamic_shortest_path/__init__.py"
+        ],
+        "example": [
+            "dynamic_shortest_path/.meta//dynamic_shortest_path.py",
+            "dynamic_shortest_path/.meta//__init__.py"
+        ]
+    }
+}

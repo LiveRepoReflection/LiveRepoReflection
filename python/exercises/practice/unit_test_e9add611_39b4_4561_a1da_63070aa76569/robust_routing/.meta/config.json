@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "robust_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//robust_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "robust_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "robust_routing/robust_routing_test.py"
+        ],
+        "solution": [
+            "robust_routing/robust_routing.py",
+            "robust_routing/__init__.py"
+        ],
+        "example": [
+            "robust_routing/.meta//robust_routing.py",
+            "robust_routing/.meta//__init__.py"
+        ]
+    }
+}

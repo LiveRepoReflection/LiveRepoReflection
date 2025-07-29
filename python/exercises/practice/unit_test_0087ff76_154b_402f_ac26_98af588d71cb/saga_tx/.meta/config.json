@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "saga_tx.py"
+        ],
+        "example": [
+            ".meta//saga_tx.py"
+        ],
+        "test": [
+            "saga_tx_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_tx/saga_tx_test.py"
+        ],
+        "solution": [
+            "saga_tx/saga_tx.py"
+        ],
+        "example": [
+            "saga_tx/.meta//saga_tx.py"
+        ]
+    }
+}

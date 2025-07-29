@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "supply_network.py"
+        ],
+        "example": [
+            ".meta//supply_network.py"
+        ],
+        "test": [
+            "supply_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_network/supply_network_test.py"
+        ],
+        "solution": [
+            "supply_network/supply_network.py"
+        ],
+        "example": [
+            "supply_network/.meta//supply_network.py"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "order_book",
+  "version": "1.0.0",
+  "description": "Real-Time Order Book Aggregator",
+  "main": "order_book.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

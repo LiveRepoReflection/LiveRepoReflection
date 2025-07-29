@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "tx_reconcile.py",
+            "__init__.py",
+            "stream_reconciliation.py"
+        ],
+        "example": [
+            ".meta//tx_reconcile.py",
+            ".meta//__init__.py",
+            ".meta//stream_reconciliation.py"
+        ],
+        "test": [
+            "tx_reconcile_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_reconcile/tx_reconcile_test.py"
+        ],
+        "solution": [
+            "tx_reconcile/tx_reconcile.py",
+            "tx_reconcile/__init__.py",
+            "tx_reconcile/stream_reconciliation.py"
+        ],
+        "example": [
+            "tx_reconcile/.meta//tx_reconcile.py",
+            "tx_reconcile/.meta//__init__.py",
+            "tx_reconcile/.meta//stream_reconciliation.py"
+        ]
+    }
+}

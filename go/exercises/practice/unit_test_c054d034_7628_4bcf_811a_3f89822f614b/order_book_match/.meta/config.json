@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "order_book.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//order_book.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "order_book_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_book_match/order_book_test.go",
+            "order_book_match/go.mod"
+        ],
+        "solution": [
+            "order_book_match/order_book.go",
+            "order_book_match/go.mod"
+        ],
+        "example": [
+            "order_book_match/.meta//order_book.go",
+            "order_book_match/.meta//go.mod"
+        ]
+    }
+}

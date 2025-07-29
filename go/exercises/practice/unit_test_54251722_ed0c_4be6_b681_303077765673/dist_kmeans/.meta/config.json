@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "dist_kmeans.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dist_kmeans.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_kmeans_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_kmeans/dist_kmeans_test.go",
+            "dist_kmeans/go.mod"
+        ],
+        "solution": [
+            "dist_kmeans/dist_kmeans.go",
+            "dist_kmeans/go.mod"
+        ],
+        "example": [
+            "dist_kmeans/.meta//dist_kmeans.go",
+            "dist_kmeans/.meta//go.mod"
+        ]
+    }
+}

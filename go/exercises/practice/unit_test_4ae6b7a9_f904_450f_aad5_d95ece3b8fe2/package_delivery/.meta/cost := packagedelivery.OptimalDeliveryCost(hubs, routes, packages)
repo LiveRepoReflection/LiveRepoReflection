@@ -1,0 +1,5 @@
+
+## Time and Space Complexity
+
+- Time Complexity: O(P * (E + V log V)) where P is the number of package groups, E is the number of routes, and V is the number of hubs. This represents running Dijkstra's algorithm for each unique source-destination pair.
+- Space Complexity: O(V + E) for storing the graph and algorithm data structures.

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "obj_store.py"
+        ],
+        "example": [
+            ".meta//obj_store.py"
+        ],
+        "test": [
+            "obj_store_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "obj_store_dist/obj_store_test.py"
+        ],
+        "solution": [
+            "obj_store_dist/obj_store.py"
+        ],
+        "example": [
+            "obj_store_dist/.meta//obj_store.py"
+        ]
+    }
+}

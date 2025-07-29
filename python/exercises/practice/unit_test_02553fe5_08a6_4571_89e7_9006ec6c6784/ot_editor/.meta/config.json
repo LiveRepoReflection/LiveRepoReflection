@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "ot_editor.py"
+        ],
+        "example": [
+            ".meta//ot_editor.py"
+        ],
+        "test": [
+            "ot_editor_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "ot_editor/ot_editor_test.py"
+        ],
+        "solution": [
+            "ot_editor/ot_editor.py"
+        ],
+        "example": [
+            "ot_editor/.meta//ot_editor.py"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "time_weighted_path.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//time_weighted_path.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "time_weighted_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_weighted_path/time_weighted_path_test.go",
+            "time_weighted_path/go.mod"
+        ],
+        "solution": [
+            "time_weighted_path/time_weighted_path.go",
+            "time_weighted_path/go.mod"
+        ],
+        "example": [
+            "time_weighted_path/.meta//time_weighted_path.go",
+            "time_weighted_path/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/galactic_logistics.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "galactic_logistics/tests/galactic_logistics.rs"
+        ],
+        "solution": [
+            "galactic_logistics/Cargo.toml",
+            "galactic_logistics/src/lib.rs"
+        ],
+        "example": [
+            "galactic_logistics/.meta//Cargo.toml",
+            "galactic_logistics/.meta//src/lib.rs"
+        ]
+    }
+}

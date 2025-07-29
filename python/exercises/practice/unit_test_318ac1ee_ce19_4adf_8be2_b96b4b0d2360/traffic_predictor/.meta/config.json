@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_predictor.py"
+        ],
+        "example": [
+            ".meta//traffic_predictor.py"
+        ],
+        "test": [
+            "traffic_predictor_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_predictor/traffic_predictor_test.py"
+        ],
+        "solution": [
+            "traffic_predictor/traffic_predictor.py"
+        ],
+        "example": [
+            "traffic_predictor/.meta//traffic_predictor.py"
+        ]
+    }
+}

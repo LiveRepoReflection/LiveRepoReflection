@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/NetworkPaths.java",
+            "src/main/java/Main.java",
+            "README.md"
+        ],
+        "example": [
+            ".meta//src/main/java/NetworkPaths.java",
+            ".meta//src/main/java/Main.java",
+            ".meta//README.md"
+        ],
+        "test": [
+            "src/test/java/NetworkPathsTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_paths/build.gradle",
+            "network_paths/src/test/java/NetworkPathsTest.java",
+            "network_paths/src/main/java/NetworkPathsInterface.java"
+        ],
+        "solution": [
+            "network_paths/src/main/java/NetworkPaths.java",
+            "network_paths/src/main/java/Main.java",
+            "network_paths/README.md"
+        ],
+        "example": [
+            "network_paths/.meta//src/main/java/NetworkPaths.java",
+            "network_paths/.meta//src/main/java/Main.java",
+            "network_paths/.meta//README.md"
+        ]
+    }
+}

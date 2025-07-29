@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "fleet_pathing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//fleet_pathing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "fleet_pathing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "fleet_pathing/fleet_pathing_test.py"
+        ],
+        "solution": [
+            "fleet_pathing/fleet_pathing.py",
+            "fleet_pathing/__init__.py"
+        ],
+        "example": [
+            "fleet_pathing/.meta//fleet_pathing.py",
+            "fleet_pathing/.meta//__init__.py"
+        ]
+    }
+}

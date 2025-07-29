@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "microservice_deploy.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//microservice_deploy.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "microservice_deploy_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microservice_deploy/microservice_deploy_test.py"
+        ],
+        "solution": [
+            "microservice_deploy/microservice_deploy.py",
+            "microservice_deploy/__init__.py"
+        ],
+        "example": [
+            "microservice_deploy/.meta//microservice_deploy.py",
+            "microservice_deploy/.meta//__init__.py"
+        ]
+    }
+}

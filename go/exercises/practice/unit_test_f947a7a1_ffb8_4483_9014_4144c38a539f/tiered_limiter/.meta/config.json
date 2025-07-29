@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "rate_limit_store.go",
+            "rate_limiter.go",
+            "mock_store.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//rate_limit_store.go",
+            ".meta//rate_limiter.go",
+            ".meta//mock_store.go"
+        ],
+        "test": [
+            "tiered_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tiered_limiter/tiered_limiter_test.go"
+        ],
+        "solution": [
+            "tiered_limiter/go.mod",
+            "tiered_limiter/rate_limit_store.go",
+            "tiered_limiter/rate_limiter.go",
+            "tiered_limiter/mock_store.go"
+        ],
+        "example": [
+            "tiered_limiter/.meta//go.mod",
+            "tiered_limiter/.meta//rate_limit_store.go",
+            "tiered_limiter/.meta//rate_limiter.go",
+            "tiered_limiter/.meta//mock_store.go"
+        ]
+    }
+}

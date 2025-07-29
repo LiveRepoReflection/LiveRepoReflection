@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "network_pathfinder.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//network_pathfinder.go"
+        ],
+        "test": [
+            "network_pathfinder_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_pathfinder/network_pathfinder_test.go"
+        ],
+        "solution": [
+            "network_pathfinder/go.mod",
+            "network_pathfinder/network_pathfinder.go"
+        ],
+        "example": [
+            "network_pathfinder/.meta//go.mod",
+            "network_pathfinder/.meta//network_pathfinder.go"
+        ]
+    }
+}

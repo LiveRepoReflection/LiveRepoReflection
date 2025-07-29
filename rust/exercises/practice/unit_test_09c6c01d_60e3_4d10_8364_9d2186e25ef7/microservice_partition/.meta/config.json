@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/microservice_partition.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "microservice_partition/tests/microservice_partition.rs"
+        ],
+        "solution": [
+            "microservice_partition/Cargo.toml",
+            "microservice_partition/src/lib.rs"
+        ],
+        "example": [
+            "microservice_partition/.meta//Cargo.toml",
+            "microservice_partition/.meta//src/lib.rs"
+        ]
+    }
+}

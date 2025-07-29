@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "martian_network.py"
+        ],
+        "example": [
+            ".meta//martian_network.py"
+        ],
+        "test": [
+            "martian_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "martian_network/martian_network_test.py"
+        ],
+        "solution": [
+            "martian_network/martian_network.py"
+        ],
+        "example": [
+            "martian_network/.meta//martian_network.py"
+        ]
+    }
+}

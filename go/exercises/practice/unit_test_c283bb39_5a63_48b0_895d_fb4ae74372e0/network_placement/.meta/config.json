@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "network_placement.go",
+            "go.mod",
+            "network_placement_helpers.go"
+        ],
+        "example": [
+            ".meta//network_placement.go",
+            ".meta//go.mod",
+            ".meta//network_placement_helpers.go"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_placement/cases_test.go"
+        ],
+        "solution": [
+            "network_placement/network_placement.go",
+            "network_placement/go.mod",
+            "network_placement/network_placement_helpers.go"
+        ],
+        "example": [
+            "network_placement/.meta//network_placement.go",
+            "network_placement/.meta//go.mod",
+            "network_placement/.meta//network_placement_helpers.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/EventScheduler.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/EventScheduler.java"
+        ],
+        "test": [
+            "src/test/java/EventSchedulerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_scheduler/src/test/java/EventSchedulerTest.java"
+        ],
+        "solution": [
+            "event_scheduler/build.gradle",
+            "event_scheduler/src/main/java/EventScheduler.java"
+        ],
+        "example": [
+            "event_scheduler/.meta//build.gradle",
+            "event_scheduler/.meta//src/main/java/EventScheduler.java"
+        ]
+    }
+}

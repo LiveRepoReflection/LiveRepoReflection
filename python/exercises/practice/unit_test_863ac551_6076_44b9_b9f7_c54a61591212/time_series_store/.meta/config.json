@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "time_series_store.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//time_series_store.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_time_series_store.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_series_store/test_time_series_store.py"
+        ],
+        "solution": [
+            "time_series_store/time_series_store.py",
+            "time_series_store/__init__.py"
+        ],
+        "example": [
+            "time_series_store/.meta//time_series_store.py",
+            "time_series_store/.meta//__init__.py"
+        ]
+    }
+}

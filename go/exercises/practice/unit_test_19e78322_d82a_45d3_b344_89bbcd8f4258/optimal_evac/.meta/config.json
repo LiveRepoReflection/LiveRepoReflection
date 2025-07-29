@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_evac.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_evac.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "optimal_evac_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_evac/optimal_evac_test.go"
+        ],
+        "solution": [
+            "optimal_evac/optimal_evac.go",
+            "optimal_evac/go.mod"
+        ],
+        "example": [
+            "optimal_evac/.meta//optimal_evac.go",
+            "optimal_evac/.meta//go.mod"
+        ]
+    }
+}

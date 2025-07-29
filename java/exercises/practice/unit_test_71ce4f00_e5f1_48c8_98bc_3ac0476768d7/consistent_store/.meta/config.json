@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/ConsistentStore.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/ConsistentStore.java"
+        ],
+        "test": [
+            "src/test/java/ConsistentStoreTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_store/src/test/java/ConsistentStoreTest.java"
+        ],
+        "solution": [
+            "consistent_store/build.gradle",
+            "consistent_store/src/main/java/ConsistentStore.java"
+        ],
+        "example": [
+            "consistent_store/.meta//build.gradle",
+            "consistent_store/.meta//src/main/java/ConsistentStore.java"
+        ]
+    }
+}

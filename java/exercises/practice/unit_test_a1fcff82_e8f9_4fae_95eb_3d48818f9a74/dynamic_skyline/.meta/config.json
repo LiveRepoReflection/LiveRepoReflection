@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DynamicSkyline.java",
+            "build.gradle",
+            "src/main/java/README.md",
+            "src/main/java/AlternativeSolution.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DynamicSkyline.java",
+            ".meta//build.gradle",
+            ".meta//src/main/java/README.md",
+            ".meta//src/main/java/AlternativeSolution.java"
+        ],
+        "test": [
+            "src/test/java/SkylineTest.java",
+            "src/test/java/SkylinePerformanceTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_skyline/build.gradle",
+            "dynamic_skyline/src/test/java/SkylineTest.java",
+            "dynamic_skyline/src/test/java/SkylinePerformanceTest.java",
+            "dynamic_skyline/src/main/java/DynamicSkyline.java"
+        ],
+        "solution": [
+            "dynamic_skyline/src/main/java/DynamicSkyline.java",
+            "dynamic_skyline/build.gradle",
+            "dynamic_skyline/src/main/java/README.md",
+            "dynamic_skyline/src/main/java/AlternativeSolution.java"
+        ],
+        "example": [
+            "dynamic_skyline/.meta//src/main/java/DynamicSkyline.java",
+            "dynamic_skyline/.meta//build.gradle",
+            "dynamic_skyline/.meta//src/main/java/README.md",
+            "dynamic_skyline/.meta//src/main/java/AlternativeSolution.java"
+        ]
+    }
+}

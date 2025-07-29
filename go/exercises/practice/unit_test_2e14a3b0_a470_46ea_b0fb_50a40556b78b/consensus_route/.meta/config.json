@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consensus_route.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//consensus_route.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "consensus_route_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consensus_route/consensus_route_test.go"
+        ],
+        "solution": [
+            "consensus_route/consensus_route.go",
+            "consensus_route/go.mod"
+        ],
+        "example": [
+            "consensus_route/.meta//consensus_route.go",
+            "consensus_route/.meta//go.mod"
+        ]
+    }
+}

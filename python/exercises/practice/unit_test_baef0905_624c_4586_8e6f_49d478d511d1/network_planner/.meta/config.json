@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_planner.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_planner.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_network_planner.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_planner/test_network_planner.py"
+        ],
+        "solution": [
+            "network_planner/network_planner.py",
+            "network_planner/__init__.py"
+        ],
+        "example": [
+            "network_planner/.meta//network_planner.py",
+            "network_planner/.meta//__init__.py"
+        ]
+    }
+}

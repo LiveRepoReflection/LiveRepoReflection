@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "txn_validator.cpp",
+            "txn_validator.h",
+            "README.md"
+        ],
+        "example": [
+            ".meta//txn_validator.cpp",
+            ".meta//txn_validator.h",
+            ".meta//README.md"
+        ],
+        "test": [
+            "txn_validator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_validator/txn_validator_test.cpp",
+            "txn_validator/txn_validator.h"
+        ],
+        "solution": [
+            "txn_validator/txn_validator.cpp",
+            "txn_validator/txn_validator.h",
+            "txn_validator/README.md"
+        ],
+        "example": [
+            "txn_validator/.meta//txn_validator.cpp",
+            "txn_validator/.meta//txn_validator.h",
+            "txn_validator/.meta//README.md"
+        ]
+    }
+}

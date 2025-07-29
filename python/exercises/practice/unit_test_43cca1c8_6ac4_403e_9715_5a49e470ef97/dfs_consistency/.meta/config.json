@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "dfs_consistency.py",
+            "mock_node.py",
+            "logging_config.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//dfs_consistency.py",
+            ".meta//mock_node.py",
+            ".meta//logging_config.py"
+        ],
+        "test": [
+            "test_dfs_consistency.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dfs_consistency/test_dfs_consistency.py"
+        ],
+        "solution": [
+            "dfs_consistency/__init__.py",
+            "dfs_consistency/dfs_consistency.py",
+            "dfs_consistency/mock_node.py",
+            "dfs_consistency/logging_config.py"
+        ],
+        "example": [
+            "dfs_consistency/.meta//__init__.py",
+            "dfs_consistency/.meta//dfs_consistency.py",
+            "dfs_consistency/.meta//mock_node.py",
+            "dfs_consistency/.meta//logging_config.py"
+        ]
+    }
+}

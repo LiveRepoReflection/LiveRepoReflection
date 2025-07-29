@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "flight_planner.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//flight_planner.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "flight_planner_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "flight_planner/flight_planner_test.go"
+        ],
+        "solution": [
+            "flight_planner/flight_planner.go",
+            "flight_planner/go.mod"
+        ],
+        "example": [
+            "flight_planner/.meta//flight_planner.go",
+            "flight_planner/.meta//go.mod"
+        ]
+    }
+}

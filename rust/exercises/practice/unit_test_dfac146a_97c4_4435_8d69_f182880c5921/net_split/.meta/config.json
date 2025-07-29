@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/net_split.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_split/tests/net_split.rs"
+        ],
+        "solution": [
+            "net_split/Cargo.toml",
+            "net_split/src/lib.rs"
+        ],
+        "example": [
+            "net_split/.meta//Cargo.toml",
+            "net_split/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "tx_key_value.py"
+        ],
+        "example": [
+            ".meta//tx_key_value.py"
+        ],
+        "test": [
+            "tx_key_value_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_key_value/tx_key_value_test.py"
+        ],
+        "solution": [
+            "tx_key_value/tx_key_value.py"
+        ],
+        "example": [
+            "tx_key_value/.meta//tx_key_value.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "mst_critical.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//mst_critical.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "mst_critical_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "mst_critical/mst_critical_test.go"
+        ],
+        "solution": [
+            "mst_critical/mst_critical.go",
+            "mst_critical/go.mod"
+        ],
+        "example": [
+            "mst_critical/.meta//mst_critical.go",
+            "mst_critical/.meta//go.mod"
+        ]
+    }
+}

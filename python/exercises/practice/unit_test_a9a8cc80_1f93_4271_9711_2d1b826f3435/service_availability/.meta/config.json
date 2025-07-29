@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "service_availability.py"
+        ],
+        "example": [
+            ".meta//service_availability.py"
+        ],
+        "test": [
+            "service_availability_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_availability/service_availability_test.py"
+        ],
+        "solution": [
+            "service_availability/service_availability.py"
+        ],
+        "example": [
+            "service_availability/.meta//service_availability.py"
+        ]
+    }
+}

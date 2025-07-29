@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "event_scheduler.py"
+        ],
+        "example": [
+            ".meta//event_scheduler.py"
+        ],
+        "test": [
+            "event_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_scheduler/event_scheduler_test.py"
+        ],
+        "solution": [
+            "event_scheduler/event_scheduler.py"
+        ],
+        "example": [
+            "event_scheduler/.meta//event_scheduler.py"
+        ]
+    }
+}

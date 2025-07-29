@@ -1,0 +1,11 @@
+{
+  "name": "transaction_orchestrator",
+  "version": "1.0.0",
+  "description": "Distributed Transaction Orchestrator for managing distributed transactions and rollbacks",
+  "main": "transaction_orchestrator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT"
+}

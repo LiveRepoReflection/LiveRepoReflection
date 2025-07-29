@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "as_routing.py"
+        ],
+        "example": [
+            ".meta//as_routing.py"
+        ],
+        "test": [
+            "as_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "as_routing/as_routing_test.py"
+        ],
+        "solution": [
+            "as_routing/as_routing.py"
+        ],
+        "example": [
+            "as_routing/.meta//as_routing.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_matching.py"
+        ],
+        "example": [
+            ".meta//decentralized_matching.py"
+        ],
+        "test": [
+            "decentralized_matching_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_matching/decentralized_matching_test.py"
+        ],
+        "solution": [
+            "decentralized_matching/decentralized_matching.py"
+        ],
+        "example": [
+            "decentralized_matching/.meta//decentralized_matching.py"
+        ]
+    }
+}

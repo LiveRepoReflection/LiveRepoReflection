@@ -1,0 +1,38 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "efficient_router.go",
+            "README.md",
+            "4. When routing, we traverse the trie as far as possible, keeping track of the best matching rule"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//efficient_router.go",
+            ".meta//README.md",
+            ".meta/4. When routing, we traverse the trie as far as possible, keeping track of the best matching rule"
+        ],
+        "test": [
+            "cases_test.go",
+            "efficient_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "efficient_router/cases_test.go",
+            "efficient_router/efficient_router_test.go"
+        ],
+        "solution": [
+            "efficient_router/go.mod",
+            "efficient_router/efficient_router.go",
+            "efficient_router/README.md",
+            "4. When routing, we traverse the trie as far as possible, keeping track of the best matching rule"
+        ],
+        "example": [
+            "efficient_router/.meta//go.mod",
+            "efficient_router/.meta//efficient_router.go",
+            "efficient_router/.meta//README.md",
+            ".meta/4. When routing, we traverse the trie as far as possible, keeping track of the best matching rule"
+        ]
+    }
+}

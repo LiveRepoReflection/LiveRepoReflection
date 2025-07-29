@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/MedianCalculator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/MedianCalculator.java"
+        ],
+        "test": [
+            "src/test/java/DistributedMedianTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_median/src/test/java/DistributedMedianTest.java"
+        ],
+        "solution": [
+            "distributed_median/build.gradle",
+            "distributed_median/src/main/java/MedianCalculator.java"
+        ],
+        "example": [
+            "distributed_median/.meta//build.gradle",
+            "distributed_median/.meta//src/main/java/MedianCalculator.java"
+        ]
+    }
+}

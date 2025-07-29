@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_router.h",
+            "traffic_router.cpp"
+        ],
+        "example": [
+            ".meta//traffic_router.h",
+            ".meta//traffic_router.cpp"
+        ],
+        "test": [
+            "traffic_router_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_router/traffic_router_test.cpp"
+        ],
+        "solution": [
+            "traffic_router/traffic_router.h",
+            "traffic_router/traffic_router.cpp"
+        ],
+        "example": [
+            "traffic_router/.meta//traffic_router.h",
+            "traffic_router/.meta//traffic_router.cpp"
+        ]
+    }
+}

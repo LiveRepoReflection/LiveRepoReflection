@@ -1,0 +1,12 @@
+{
+  "name": "route_optim",
+  "version": "1.0.0",
+  "description": "Route Optimization for Delivery System",
+  "main": "route_optim.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

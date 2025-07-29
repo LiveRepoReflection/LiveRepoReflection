@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "risk_network.py"
+        ],
+        "example": [
+            ".meta//risk_network.py"
+        ],
+        "test": [
+            "risk_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "risk_network/risk_network_test.py"
+        ],
+        "solution": [
+            "risk_network/risk_network.py"
+        ],
+        "example": [
+            "risk_network/.meta//risk_network.py"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "coordinator.go",
+            "worker.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//coordinator.go",
+            ".meta//worker.go"
+        ],
+        "test": [
+            "sensor_aggregate_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "sensor_aggregate/sensor_aggregate_test.go"
+        ],
+        "solution": [
+            "sensor_aggregate/go.mod",
+            "sensor_aggregate/coordinator.go",
+            "sensor_aggregate/worker.go"
+        ],
+        "example": [
+            "sensor_aggregate/.meta//go.mod",
+            "sensor_aggregate/.meta//coordinator.go",
+            "sensor_aggregate/.meta//worker.go"
+        ]
+    }
+}

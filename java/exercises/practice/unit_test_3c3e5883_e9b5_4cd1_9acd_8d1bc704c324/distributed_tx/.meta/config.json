@@ -1,0 +1,47 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TransactionManager.java",
+            "src/main/java/TransactionState.java",
+            "src/main/java/TransactionParticipant.java",
+            "src/main/java/OrderService.java",
+            "src/main/java/PaymentService.java",
+            "src/main/java/InventoryService.java"
+        ],
+        "example": [
+            ".meta//src/main/java/TransactionManager.java",
+            ".meta//src/main/java/TransactionState.java",
+            ".meta//src/main/java/TransactionParticipant.java",
+            ".meta//src/main/java/OrderService.java",
+            ".meta//src/main/java/PaymentService.java",
+            ".meta//src/main/java/InventoryService.java"
+        ],
+        "test": [
+            "src/test/java/TransactionManagerTest.java",
+            "src/test/java/TransactionParticipantTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/test/java/TransactionManagerTest.java",
+            "distributed_tx/src/test/java/TransactionParticipantTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/TransactionManager.java",
+            "distributed_tx/src/main/java/TransactionState.java",
+            "distributed_tx/src/main/java/TransactionParticipant.java",
+            "distributed_tx/src/main/java/OrderService.java",
+            "distributed_tx/src/main/java/PaymentService.java",
+            "distributed_tx/src/main/java/InventoryService.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/TransactionManager.java",
+            "distributed_tx/.meta//src/main/java/TransactionState.java",
+            "distributed_tx/.meta//src/main/java/TransactionParticipant.java",
+            "distributed_tx/.meta//src/main/java/OrderService.java",
+            "distributed_tx/.meta//src/main/java/PaymentService.java",
+            "distributed_tx/.meta//src/main/java/InventoryService.java"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "city_evac.py"
+        ],
+        "example": [
+            ".meta//city_evac.py"
+        ],
+        "test": [
+            "city_evac_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_evac/city_evac_test.py"
+        ],
+        "solution": [
+            "city_evac/city_evac.py"
+        ],
+        "example": [
+            "city_evac/.meta//city_evac.py"
+        ]
+    }
+}

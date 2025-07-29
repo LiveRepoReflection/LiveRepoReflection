@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_flow.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_flow.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_flow_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_flow/transaction_flow_test.py"
+        ],
+        "solution": [
+            "transaction_flow/transaction_flow.py",
+            "transaction_flow/__init__.py"
+        ],
+        "example": [
+            "transaction_flow/.meta//transaction_flow.py",
+            "transaction_flow/.meta//__init__.py"
+        ]
+    }
+}

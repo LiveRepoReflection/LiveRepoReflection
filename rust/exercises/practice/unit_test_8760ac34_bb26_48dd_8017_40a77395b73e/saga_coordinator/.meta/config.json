@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/saga_coordinator_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_coordinator/tests/saga_coordinator_tests.rs"
+        ],
+        "solution": [
+            "saga_coordinator/Cargo.toml",
+            "saga_coordinator/src/lib.rs"
+        ],
+        "example": [
+            "saga_coordinator/.meta//Cargo.toml",
+            "saga_coordinator/.meta//src/lib.rs"
+        ]
+    }
+}

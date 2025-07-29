@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "consistent_hashlb.go"
+        ],
+        "example": [
+            ".meta//consistent_hashlb.go"
+        ],
+        "test": [
+            "consistent_hashlb_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_hashlb/consistent_hashlb_test.go",
+            "consistent_hashlb/go.mod"
+        ],
+        "solution": [
+            "consistent_hashlb/consistent_hashlb.go"
+        ],
+        "example": [
+            "consistent_hashlb/.meta//consistent_hashlb.go"
+        ]
+    }
+}

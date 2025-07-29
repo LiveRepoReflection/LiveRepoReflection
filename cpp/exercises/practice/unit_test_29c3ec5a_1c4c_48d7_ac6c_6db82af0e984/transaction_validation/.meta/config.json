@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_validation.h",
+            "transaction_validation.cpp"
+        ],
+        "example": [
+            ".meta//transaction_validation.h",
+            ".meta//transaction_validation.cpp"
+        ],
+        "test": [
+            "transaction_validation_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_validation/transaction_validation_test.cpp"
+        ],
+        "solution": [
+            "transaction_validation/transaction_validation.h",
+            "transaction_validation/transaction_validation.cpp"
+        ],
+        "example": [
+            "transaction_validation/.meta//transaction_validation.h",
+            "transaction_validation/.meta//transaction_validation.cpp"
+        ]
+    }
+}

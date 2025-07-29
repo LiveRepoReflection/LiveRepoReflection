@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "optimal_air_network.py"
+        ],
+        "example": [
+            ".meta//optimal_air_network.py",
+            ".meta//optimal_air_network_test.py"
+        ],
+        "test": [
+            "optimal_air_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_air_network/optimal_air_network_test.py"
+        ],
+        "solution": [
+            "optimal_air_network/optimal_air_network.py",
+            "optimal_air_network/optimal_air_network_test.py"
+        ],
+        "example": [
+            "optimal_air_network/.meta//optimal_air_network.py",
+            "optimal_air_network/.meta//optimal_air_network_test.py"
+        ]
+    }
+}

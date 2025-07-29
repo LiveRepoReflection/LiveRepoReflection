@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/auction_house_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "auction_house/tests/auction_house_tests.rs"
+        ],
+        "solution": [
+            "auction_house/Cargo.toml",
+            "auction_house/src/lib.rs"
+        ],
+        "example": [
+            "auction_house/.meta//Cargo.toml",
+            "auction_house/.meta//src/lib.rs"
+        ]
+    }
+}

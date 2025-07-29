@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "truck_deliveries.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//truck_deliveries.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "truck_deliveries_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "truck_deliveries/truck_deliveries_test.py"
+        ],
+        "solution": [
+            "truck_deliveries/truck_deliveries.py",
+            "truck_deliveries/__init__.py"
+        ],
+        "example": [
+            "truck_deliveries/.meta//truck_deliveries.py",
+            "truck_deliveries/.meta//__init__.py"
+        ]
+    }
+}

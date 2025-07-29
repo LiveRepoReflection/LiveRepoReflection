@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "citygrid_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//citygrid_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "citygrid_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "citygrid_routing/citygrid_routing_test.py"
+        ],
+        "solution": [
+            "citygrid_routing/citygrid_routing.py",
+            "citygrid_routing/__init__.py"
+        ],
+        "example": [
+            "citygrid_routing/.meta//citygrid_routing.py",
+            "citygrid_routing/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "rate_limiter.go",
+            "token_bucket.go",
+            "store.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//rate_limiter.go",
+            ".meta//token_bucket.go",
+            ".meta//store.go"
+        ],
+        "test": [
+            "rate_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_limit/rate_limiter_test.go",
+            "distributed_limit/rate_limiter.go"
+        ],
+        "solution": [
+            "distributed_limit/go.mod",
+            "distributed_limit/rate_limiter.go",
+            "distributed_limit/token_bucket.go",
+            "distributed_limit/store.go"
+        ],
+        "example": [
+            "distributed_limit/.meta//go.mod",
+            "distributed_limit/.meta//rate_limiter.go",
+            "distributed_limit/.meta//token_bucket.go",
+            "distributed_limit/.meta//store.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "efficient_pathfinder.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//efficient_pathfinder.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "efficient_pathfinder_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "efficient_pathfinder/efficient_pathfinder_test.go"
+        ],
+        "solution": [
+            "efficient_pathfinder/efficient_pathfinder.go",
+            "efficient_pathfinder/go.mod"
+        ],
+        "example": [
+            "efficient_pathfinder/.meta//efficient_pathfinder.go",
+            "efficient_pathfinder/.meta//go.mod"
+        ]
+    }
+}

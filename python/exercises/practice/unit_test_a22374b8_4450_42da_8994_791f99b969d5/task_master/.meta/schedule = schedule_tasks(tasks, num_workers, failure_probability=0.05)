@@ -1,0 +1,19 @@
+
+## Visualization
+
+The visualization module provides two types of visualizations:
+
+1. **Task Schedule**: A Gantt chart showing the execution of tasks on each worker over time
+2. **Dependency Graph**: A directed graph showing the dependencies between tasks
+
+## Implementation Details
+
+The scheduler uses a priority-based algorithm that:
+
+1. Keeps track of ready tasks in a priority queue
+2. Assigns tasks to available workers based on their priorities
+3. Updates task dependencies when tasks complete
+4. Reschedules tasks when workers fail
+5. Advances time efficiently to minimize makespan
+
+The visualization uses Matplotlib for rendering charts and NetworkX for graph visualization.

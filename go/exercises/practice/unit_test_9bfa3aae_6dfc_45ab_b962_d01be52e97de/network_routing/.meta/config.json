@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_routing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_routing/network_routing_test.go",
+            "network_routing/go.mod"
+        ],
+        "solution": [
+            "network_routing/network_routing.go",
+            "network_routing/go.mod"
+        ],
+        "example": [
+            "network_routing/.meta//network_routing.go",
+            "network_routing/.meta//go.mod"
+        ]
+    }
+}

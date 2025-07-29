@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "netflow_anomaly.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//netflow_anomaly.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "netflow_anomaly_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "netflow_anomaly/netflow_anomaly_test.py"
+        ],
+        "solution": [
+            "netflow_anomaly/netflow_anomaly.py",
+            "netflow_anomaly/requirements.txt"
+        ],
+        "example": [
+            "netflow_anomaly/.meta//netflow_anomaly.py",
+            "netflow_anomaly/.meta//requirements.txt"
+        ]
+    }
+}

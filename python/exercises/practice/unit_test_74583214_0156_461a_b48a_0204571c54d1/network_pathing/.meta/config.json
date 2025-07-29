@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_pathing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_pathing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_pathing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_pathing/network_pathing_test.py"
+        ],
+        "solution": [
+            "network_pathing/network_pathing.py",
+            "network_pathing/__init__.py"
+        ],
+        "example": [
+            "network_pathing/.meta//network_pathing.py",
+            "network_pathing/.meta//__init__.py"
+        ]
+    }
+}

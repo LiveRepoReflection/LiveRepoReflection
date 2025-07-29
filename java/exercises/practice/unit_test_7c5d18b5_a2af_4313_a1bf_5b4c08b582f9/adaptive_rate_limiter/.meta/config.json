@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/AdaptiveRateLimiter.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/AdaptiveRateLimiter.java"
+        ],
+        "test": [
+            "src/test/java/AdaptiveRateLimiterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_rate_limiter/src/test/java/AdaptiveRateLimiterTest.java"
+        ],
+        "solution": [
+            "adaptive_rate_limiter/build.gradle",
+            "adaptive_rate_limiter/src/main/java/AdaptiveRateLimiter.java"
+        ],
+        "example": [
+            "adaptive_rate_limiter/.meta//build.gradle",
+            "adaptive_rate_limiter/.meta//src/main/java/AdaptiveRateLimiter.java"
+        ]
+    }
+}

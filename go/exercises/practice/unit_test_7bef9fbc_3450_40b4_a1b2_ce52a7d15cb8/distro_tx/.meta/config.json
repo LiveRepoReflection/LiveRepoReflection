@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "distro_tx.go"
+        ],
+        "example": [
+            ".meta//distro_tx.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "distro_tx_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distro_tx/cases_test.go",
+            "distro_tx/distro_tx_test.go",
+            "distro_tx/go.mod"
+        ],
+        "solution": [
+            "distro_tx/distro_tx.go"
+        ],
+        "example": [
+            "distro_tx/.meta//distro_tx.go"
+        ]
+    }
+}

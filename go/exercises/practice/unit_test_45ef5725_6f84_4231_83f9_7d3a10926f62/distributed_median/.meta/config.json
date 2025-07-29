@@ -1,0 +1,39 @@
+{
+    "files": {
+        "solution": [
+            "worker_node.go",
+            "coordinator_node.go",
+            "distributed_median.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//worker_node.go",
+            ".meta//coordinator_node.go",
+            ".meta//distributed_median.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go",
+            "distributed_median_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_median/cases_test.go",
+            "distributed_median/distributed_median_test.go",
+            "distributed_median/go.mod"
+        ],
+        "solution": [
+            "distributed_median/worker_node.go",
+            "distributed_median/coordinator_node.go",
+            "distributed_median/distributed_median.go",
+            "distributed_median/go.mod"
+        ],
+        "example": [
+            "distributed_median/.meta//worker_node.go",
+            "distributed_median/.meta//coordinator_node.go",
+            "distributed_median/.meta//distributed_median.go",
+            "distributed_median/.meta//go.mod"
+        ]
+    }
+}

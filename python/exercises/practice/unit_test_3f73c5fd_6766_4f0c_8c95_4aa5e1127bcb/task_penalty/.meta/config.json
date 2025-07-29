@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_penalty.py"
+        ],
+        "example": [
+            ".meta//task_penalty.py"
+        ],
+        "test": [
+            "task_penalty_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_penalty/task_penalty_test.py"
+        ],
+        "solution": [
+            "task_penalty/task_penalty.py"
+        ],
+        "example": [
+            "task_penalty/.meta//task_penalty.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "src/meeting_scheduler.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//src/meeting_scheduler.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "test/meeting_scheduler.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_scheduler/test/meeting_scheduler.spec.js"
+        ],
+        "solution": [
+            "meeting_scheduler/src/meeting_scheduler.js",
+            "meeting_scheduler/package.json"
+        ],
+        "example": [
+            "meeting_scheduler/.meta//src/meeting_scheduler.js",
+            "meeting_scheduler/.meta//package.json"
+        ]
+    }
+}

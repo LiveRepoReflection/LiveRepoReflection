@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "trade_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//trade_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "trade_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "trade_optimizer/trade_optimizer_test.py"
+        ],
+        "solution": [
+            "trade_optimizer/trade_optimizer.py",
+            "trade_optimizer/__init__.py"
+        ],
+        "example": [
+            "trade_optimizer/.meta//trade_optimizer.py",
+            "trade_optimizer/.meta//__init__.py"
+        ]
+    }
+}

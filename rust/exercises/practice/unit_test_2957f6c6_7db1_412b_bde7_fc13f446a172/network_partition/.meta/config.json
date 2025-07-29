@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/network_partition.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_partition/tests/network_partition.rs"
+        ],
+        "solution": [
+            "network_partition/Cargo.toml",
+            "network_partition/src/lib.rs"
+        ],
+        "example": [
+            "network_partition/.meta//Cargo.toml",
+            "network_partition/.meta//src/lib.rs"
+        ]
+    }
+}

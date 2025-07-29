@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "optimal_merger.go"
+        ],
+        "example": [
+            ".meta//optimal_merger.go"
+        ],
+        "test": [
+            "optimal_merger_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_merger/optimal_merger_test.go",
+            "optimal_merger/go.mod"
+        ],
+        "solution": [
+            "optimal_merger/optimal_merger.go"
+        ],
+        "example": [
+            "optimal_merger/.meta//optimal_merger.go"
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+from .network_zones import partition_network

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "log_aggregate.py"
+        ],
+        "example": [
+            ".meta//log_aggregate.py"
+        ],
+        "test": [
+            "test_log_aggregate.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_aggregate/test_log_aggregate.py"
+        ],
+        "solution": [
+            "log_aggregate/log_aggregate.py"
+        ],
+        "example": [
+            "log_aggregate/.meta//log_aggregate.py"
+        ]
+    }
+}

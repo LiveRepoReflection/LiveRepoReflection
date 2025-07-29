@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dex_orderbook.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dex_orderbook.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_orderbook.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_orderbook/test_orderbook.py"
+        ],
+        "solution": [
+            "dex_orderbook/dex_orderbook.py",
+            "dex_orderbook/__init__.py"
+        ],
+        "example": [
+            "dex_orderbook/.meta//dex_orderbook.py",
+            "dex_orderbook/.meta//__init__.py"
+        ]
+    }
+}

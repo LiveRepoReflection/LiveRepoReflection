@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "nexus_core.go"
+        ],
+        "example": [
+            ".meta//nexus_core.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "nexus_core_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "nexus_core/cases_test.go",
+            "nexus_core/nexus_core_test.go",
+            "nexus_core/go.mod"
+        ],
+        "solution": [
+            "nexus_core/nexus_core.go"
+        ],
+        "example": [
+            "nexus_core/.meta//nexus_core.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_stream.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//order_stream.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "order_stream_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_stream/order_stream_test.py"
+        ],
+        "solution": [
+            "order_stream/order_stream.py",
+            "order_stream/__init__.py"
+        ],
+        "example": [
+            "order_stream/.meta//order_stream.py",
+            "order_stream/.meta//__init__.py"
+        ]
+    }
+}

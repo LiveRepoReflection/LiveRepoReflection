@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_tx.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_tx.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_distributed_tx.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/test_distributed_tx.py"
+        ],
+        "solution": [
+            "distributed_tx/distributed_tx.py",
+            "distributed_tx/__init__.py"
+        ],
+        "example": [
+            "distributed_tx/.meta//distributed_tx.py",
+            "distributed_tx/.meta//__init__.py"
+        ]
+    }
+}

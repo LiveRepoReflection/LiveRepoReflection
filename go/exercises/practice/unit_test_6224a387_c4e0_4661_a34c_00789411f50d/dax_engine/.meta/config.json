@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dax_engine.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dax_engine.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dax_engine_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dax_engine/dax_engine_test.go"
+        ],
+        "solution": [
+            "dax_engine/dax_engine.go",
+            "dax_engine/go.mod"
+        ],
+        "example": [
+            "dax_engine/.meta//dax_engine.go",
+            "dax_engine/.meta//go.mod"
+        ]
+    }
+}

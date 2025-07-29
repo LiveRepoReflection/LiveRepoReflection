@@ -1,0 +1,1 @@
+from .ddos_detect import detect_ddos

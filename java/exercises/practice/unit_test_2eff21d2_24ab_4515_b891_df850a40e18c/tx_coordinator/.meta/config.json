@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Operation.java",
+            "src/main/java/StorageNode.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Operation.java",
+            ".meta//src/main/java/StorageNode.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/CoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/src/test/java/CoordinatorTest.java"
+        ],
+        "solution": [
+            "tx_coordinator/src/main/java/Operation.java",
+            "tx_coordinator/src/main/java/StorageNode.java",
+            "tx_coordinator/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "tx_coordinator/.meta//src/main/java/Operation.java",
+            "tx_coordinator/.meta//src/main/java/StorageNode.java",
+            "tx_coordinator/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

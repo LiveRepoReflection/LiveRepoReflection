@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "bank_service.py",
+            "transaction_coordinator.py"
+        ],
+        "example": [
+            ".meta//bank_service.py",
+            ".meta//transaction_coordinator.py"
+        ],
+        "test": [
+            "dist_tx_coordinator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_coordinator/dist_tx_coordinator_test.py"
+        ],
+        "solution": [
+            "dist_tx_coordinator/bank_service.py",
+            "dist_tx_coordinator/transaction_coordinator.py"
+        ],
+        "example": [
+            "dist_tx_coordinator/.meta//bank_service.py",
+            "dist_tx_coordinator/.meta//transaction_coordinator.py"
+        ]
+    }
+}

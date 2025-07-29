@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "smart_traffic.h",
+            "smart_traffic.cpp"
+        ],
+        "example": [
+            ".meta//smart_traffic.h",
+            ".meta//smart_traffic.cpp"
+        ],
+        "test": [
+            "smart_traffic_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "smart_traffic/smart_traffic_test.cpp"
+        ],
+        "solution": [
+            "smart_traffic/smart_traffic.h",
+            "smart_traffic/smart_traffic.cpp"
+        ],
+        "example": [
+            "smart_traffic/.meta//smart_traffic.h",
+            "smart_traffic/.meta//smart_traffic.cpp"
+        ]
+    }
+}

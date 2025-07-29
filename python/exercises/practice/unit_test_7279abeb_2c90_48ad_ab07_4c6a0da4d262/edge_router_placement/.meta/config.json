@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "edge_router_placement.py"
+        ],
+        "example": [
+            ".meta//edge_router_placement.py"
+        ],
+        "test": [
+            "edge_router_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "edge_router_placement/edge_router_placement_test.py"
+        ],
+        "solution": [
+            "edge_router_placement/edge_router_placement.py"
+        ],
+        "example": [
+            "edge_router_placement/.meta//edge_router_placement.py"
+        ]
+    }
+}

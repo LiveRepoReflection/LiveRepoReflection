@@ -1,0 +1,12 @@
+{
+  "name": "route_optimize",
+  "version": "1.0.0",
+  "description": "Optimal Route Planner for GlobalTransit network",
+  "main": "route_optimize.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

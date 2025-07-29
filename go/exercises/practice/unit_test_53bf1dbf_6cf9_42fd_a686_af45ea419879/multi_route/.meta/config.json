@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "multi_route.go"
+        ],
+        "example": [
+            ".meta//multi_route.go"
+        ],
+        "test": [
+            "multi_route_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_route/multi_route_test.go",
+            "multi_route/go.mod",
+            "multi_route/multi_route.go"
+        ],
+        "solution": [
+            "multi_route/multi_route.go"
+        ],
+        "example": [
+            "multi_route/.meta//multi_route.go"
+        ]
+    }
+}

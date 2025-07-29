@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dex_engine.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dex_engine.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dex_engine_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_engine/dex_engine_test.py"
+        ],
+        "solution": [
+            "dex_engine/dex_engine.py",
+            "dex_engine/__init__.py"
+        ],
+        "example": [
+            "dex_engine/.meta//dex_engine.py",
+            "dex_engine/.meta//__init__.py"
+        ]
+    }
+}

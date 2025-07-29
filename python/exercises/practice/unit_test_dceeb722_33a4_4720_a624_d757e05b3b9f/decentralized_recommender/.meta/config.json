@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_recommender.py"
+        ],
+        "example": [
+            ".meta//decentralized_recommender.py"
+        ],
+        "test": [
+            "decentralized_recommender_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_recommender/decentralized_recommender_test.py"
+        ],
+        "solution": [
+            "decentralized_recommender/decentralized_recommender.py"
+        ],
+        "example": [
+            "decentralized_recommender/.meta//decentralized_recommender.py"
+        ]
+    }
+}

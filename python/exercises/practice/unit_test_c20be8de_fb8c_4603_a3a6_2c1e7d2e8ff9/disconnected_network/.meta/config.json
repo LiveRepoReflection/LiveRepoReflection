@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "disconnected_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//disconnected_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_disconnected_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "disconnected_network/test_disconnected_network.py"
+        ],
+        "solution": [
+            "disconnected_network/disconnected_network.py",
+            "disconnected_network/__init__.py"
+        ],
+        "example": [
+            "disconnected_network/.meta//disconnected_network.py",
+            "disconnected_network/.meta//__init__.py"
+        ]
+    }
+}

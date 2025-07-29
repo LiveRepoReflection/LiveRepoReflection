@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tiered_kv.h",
+            "tiered_kv.cpp"
+        ],
+        "example": [
+            ".meta//tiered_kv.h",
+            ".meta//tiered_kv.cpp"
+        ],
+        "test": [
+            "tiered_kv_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "tiered_kv/tiered_kv_test.cpp"
+        ],
+        "solution": [
+            "tiered_kv/tiered_kv.h",
+            "tiered_kv/tiered_kv.cpp"
+        ],
+        "example": [
+            "tiered_kv/.meta//tiered_kv.h",
+            "tiered_kv/.meta//tiered_kv.cpp"
+        ]
+    }
+}

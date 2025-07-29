@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "ride_match.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//ride_match.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "ride_match_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "ride_match/ride_match_test.py"
+        ],
+        "solution": [
+            "ride_match/ride_match.py",
+            "ride_match/__init__.py"
+        ],
+        "example": [
+            "ride_match/.meta//ride_match.py",
+            "ride_match/.meta//__init__.py"
+        ]
+    }
+}

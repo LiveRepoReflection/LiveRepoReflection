@@ -1,0 +1,47 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TransactionCoordinator.java",
+            "src/main/java/ServiceEndpoint.java",
+            "src/main/java/ServiceResponse.java",
+            "src/main/java/TransactionStatus.java",
+            "src/main/java/LoggingServiceEndpoint.java"
+        ],
+        "example": [
+            ".meta//src/main/java/TransactionCoordinator.java",
+            ".meta//src/main/java/ServiceEndpoint.java",
+            ".meta//src/main/java/ServiceResponse.java",
+            ".meta//src/main/java/TransactionStatus.java",
+            ".meta//src/main/java/LoggingServiceEndpoint.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java",
+            "src/test/java/ServiceEndpoint.java",
+            "src/test/java/ServiceResponse.java",
+            "src/test/java/TransactionStatus.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionCoordinatorTest.java",
+            "distributed_tx/src/test/java/ServiceEndpoint.java",
+            "distributed_tx/src/test/java/ServiceResponse.java",
+            "distributed_tx/src/test/java/TransactionStatus.java",
+            "distributed_tx/build.gradle"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/TransactionCoordinator.java",
+            "distributed_tx/src/main/java/ServiceEndpoint.java",
+            "distributed_tx/src/main/java/ServiceResponse.java",
+            "distributed_tx/src/main/java/TransactionStatus.java",
+            "distributed_tx/src/main/java/LoggingServiceEndpoint.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/TransactionCoordinator.java",
+            "distributed_tx/.meta//src/main/java/ServiceEndpoint.java",
+            "distributed_tx/.meta//src/main/java/ServiceResponse.java",
+            "distributed_tx/.meta//src/main/java/TransactionStatus.java",
+            "distributed_tx/.meta//src/main/java/LoggingServiceEndpoint.java"
+        ]
+    }
+}

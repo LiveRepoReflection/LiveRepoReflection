@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/OperationData.java",
+            "src/main/java/Service.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/OperationData.java",
+            ".meta//src/main/java/Service.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_coordinator/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "transaction_coordinator/build.gradle",
+            "transaction_coordinator/src/main/java/OperationData.java",
+            "transaction_coordinator/src/main/java/Service.java",
+            "transaction_coordinator/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "transaction_coordinator/.meta//build.gradle",
+            "transaction_coordinator/.meta//src/main/java/OperationData.java",
+            "transaction_coordinator/.meta//src/main/java/Service.java",
+            "transaction_coordinator/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

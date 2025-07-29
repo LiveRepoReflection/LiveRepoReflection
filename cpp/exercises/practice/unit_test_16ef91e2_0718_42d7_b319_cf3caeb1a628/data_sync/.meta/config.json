@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "data_sync.cpp",
+            "data_sync.h"
+        ],
+        "example": [
+            ".meta//data_sync.cpp",
+            ".meta//data_sync.h"
+        ],
+        "test": [
+            "data_sync_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_sync/data_sync_test.cpp",
+            "data_sync/data_sync.h"
+        ],
+        "solution": [
+            "data_sync/data_sync.cpp",
+            "data_sync/data_sync.h"
+        ],
+        "example": [
+            "data_sync/.meta//data_sync.cpp",
+            "data_sync/.meta//data_sync.h"
+        ]
+    }
+}

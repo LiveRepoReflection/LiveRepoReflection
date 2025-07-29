@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_reputation.py"
+        ],
+        "example": [
+            ".meta//social_reputation.py"
+        ],
+        "test": [
+            "social_reputation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_reputation/social_reputation_test.py"
+        ],
+        "solution": [
+            "social_reputation/social_reputation.py"
+        ],
+        "example": [
+            "social_reputation/.meta//social_reputation.py"
+        ]
+    }
+}

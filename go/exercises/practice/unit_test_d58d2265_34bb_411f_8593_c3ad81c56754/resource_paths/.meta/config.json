@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resource_paths.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//resource_paths.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "resource_paths_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_paths/resource_paths_test.go"
+        ],
+        "solution": [
+            "resource_paths/resource_paths.go",
+            "resource_paths/go.mod"
+        ],
+        "example": [
+            "resource_paths/.meta//resource_paths.go",
+            "resource_paths/.meta//go.mod"
+        ]
+    }
+}

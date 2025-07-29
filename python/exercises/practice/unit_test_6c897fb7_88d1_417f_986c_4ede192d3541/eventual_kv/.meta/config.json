@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "eventual_kv.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//eventual_kv.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_eventual_kv.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "eventual_kv/test_eventual_kv.py"
+        ],
+        "solution": [
+            "eventual_kv/eventual_kv.py",
+            "eventual_kv/__init__.py"
+        ],
+        "example": [
+            "eventual_kv/.meta//eventual_kv.py",
+            "eventual_kv/.meta//__init__.py"
+        ]
+    }
+}

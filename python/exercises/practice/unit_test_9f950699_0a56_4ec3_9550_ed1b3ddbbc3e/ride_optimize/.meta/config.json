@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "ride_optimize.py"
+        ],
+        "example": [
+            ".meta//ride_optimize.py"
+        ],
+        "test": [
+            "test_ride_optimize.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "ride_optimize/test_ride_optimize.py"
+        ],
+        "solution": [
+            "ride_optimize/ride_optimize.py"
+        ],
+        "example": [
+            "ride_optimize/.meta//ride_optimize.py"
+        ]
+    }
+}

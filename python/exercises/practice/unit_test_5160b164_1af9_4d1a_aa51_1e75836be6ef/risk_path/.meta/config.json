@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "risk_path.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//risk_path.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "risk_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "risk_path/risk_path_test.py"
+        ],
+        "solution": [
+            "risk_path/risk_path.py",
+            "risk_path/__init__.py"
+        ],
+        "example": [
+            "risk_path/.meta//risk_path.py",
+            "risk_path/.meta//__init__.py"
+        ]
+    }
+}

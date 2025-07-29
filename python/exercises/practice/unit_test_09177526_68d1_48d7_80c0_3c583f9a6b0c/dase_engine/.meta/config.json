@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dase_engine.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dase_engine.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dase_engine.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dase_engine/test_dase_engine.py"
+        ],
+        "solution": [
+            "dase_engine/dase_engine.py",
+            "dase_engine/__init__.py"
+        ],
+        "example": [
+            "dase_engine/.meta//dase_engine.py",
+            "dase_engine/.meta//__init__.py"
+        ]
+    }
+}

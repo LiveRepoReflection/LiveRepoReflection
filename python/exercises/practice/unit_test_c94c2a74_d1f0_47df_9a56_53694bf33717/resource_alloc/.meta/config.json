@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "resource_alloc.py"
+        ],
+        "example": [
+            ".meta//resource_alloc.py"
+        ],
+        "test": [
+            "resource_alloc_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_alloc/resource_alloc_test.py"
+        ],
+        "solution": [
+            "resource_alloc/resource_alloc.py"
+        ],
+        "example": [
+            "resource_alloc/.meta//resource_alloc.py"
+        ]
+    }
+}

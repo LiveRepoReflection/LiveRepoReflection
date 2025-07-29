@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/distributed_kmeans.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_kmeans/tests/distributed_kmeans.rs"
+        ],
+        "solution": [
+            "distributed_kmeans/Cargo.toml",
+            "distributed_kmeans/src/lib.rs"
+        ],
+        "example": [
+            "distributed_kmeans/.meta//Cargo.toml",
+            "distributed_kmeans/.meta//src/lib.rs"
+        ]
+    }
+}

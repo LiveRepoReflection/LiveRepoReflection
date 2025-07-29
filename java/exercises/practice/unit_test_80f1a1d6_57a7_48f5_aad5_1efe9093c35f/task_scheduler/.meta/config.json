@@ -1,0 +1,41 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TaskScheduler.java",
+            "src/main/java/Node.java",
+            "src/main/java/Task.java",
+            "src/main/java/Assignment.java",
+            "src/main/java/Pair.java"
+        ],
+        "example": [
+            ".meta//src/main/java/TaskScheduler.java",
+            ".meta//src/main/java/Node.java",
+            ".meta//src/main/java/Task.java",
+            ".meta//src/main/java/Assignment.java",
+            ".meta//src/main/java/Pair.java"
+        ],
+        "test": [
+            "src/test/java/TaskSchedulerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduler/build.gradle",
+            "task_scheduler/src/test/java/TaskSchedulerTest.java"
+        ],
+        "solution": [
+            "task_scheduler/src/main/java/TaskScheduler.java",
+            "task_scheduler/src/main/java/Node.java",
+            "task_scheduler/src/main/java/Task.java",
+            "task_scheduler/src/main/java/Assignment.java",
+            "task_scheduler/src/main/java/Pair.java"
+        ],
+        "example": [
+            "task_scheduler/.meta//src/main/java/TaskScheduler.java",
+            "task_scheduler/.meta//src/main/java/Node.java",
+            "task_scheduler/.meta//src/main/java/Task.java",
+            "task_scheduler/.meta//src/main/java/Assignment.java",
+            "task_scheduler/.meta//src/main/java/Pair.java"
+        ]
+    }
+}

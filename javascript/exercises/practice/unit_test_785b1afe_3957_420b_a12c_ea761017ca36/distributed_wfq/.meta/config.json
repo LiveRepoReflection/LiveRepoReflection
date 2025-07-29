@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_wfq.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//distributed_wfq.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "__tests__/distributed_wfq.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_wfq/__tests__/distributed_wfq.spec.js"
+        ],
+        "solution": [
+            "distributed_wfq/distributed_wfq.js",
+            "distributed_wfq/package.json"
+        ],
+        "example": [
+            "distributed_wfq/.meta//distributed_wfq.js",
+            "distributed_wfq/.meta//package.json"
+        ]
+    }
+}

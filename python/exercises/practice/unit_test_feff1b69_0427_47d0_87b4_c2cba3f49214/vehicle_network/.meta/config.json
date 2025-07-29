@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "vehicle_network.py"
+        ],
+        "example": [
+            ".meta//vehicle_network.py"
+        ],
+        "test": [
+            "vehicle_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "vehicle_network/vehicle_network_test.py"
+        ],
+        "solution": [
+            "vehicle_network/vehicle_network.py"
+        ],
+        "example": [
+            "vehicle_network/.meta//vehicle_network.py"
+        ]
+    }
+}

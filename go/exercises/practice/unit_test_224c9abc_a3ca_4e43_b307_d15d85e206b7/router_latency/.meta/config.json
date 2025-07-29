@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "router_latency.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//router_latency.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "router_latency_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "router_latency/router_latency_test.go",
+            "router_latency/go.mod"
+        ],
+        "solution": [
+            "router_latency/router_latency.go",
+            "router_latency/go.mod"
+        ],
+        "example": [
+            "router_latency/.meta//router_latency.go",
+            "router_latency/.meta//go.mod"
+        ]
+    }
+}

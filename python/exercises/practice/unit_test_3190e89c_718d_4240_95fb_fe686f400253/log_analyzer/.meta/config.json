@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "log_analyzer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//log_analyzer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_log_analyzer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_analyzer/test_log_analyzer.py"
+        ],
+        "solution": [
+            "log_analyzer/log_analyzer.py",
+            "log_analyzer/__init__.py"
+        ],
+        "example": [
+            "log_analyzer/.meta//log_analyzer.py",
+            "log_analyzer/.meta//__init__.py"
+        ]
+    }
+}

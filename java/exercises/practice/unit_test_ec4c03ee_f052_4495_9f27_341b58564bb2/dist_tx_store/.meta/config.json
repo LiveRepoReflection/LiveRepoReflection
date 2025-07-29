@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TransactionalKeyValueStore.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TransactionalKeyValueStore.java"
+        ],
+        "test": [
+            "src/test/java/DistTxStoreTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_store/src/test/java/DistTxStoreTest.java"
+        ],
+        "solution": [
+            "dist_tx_store/build.gradle",
+            "dist_tx_store/src/main/java/TransactionalKeyValueStore.java"
+        ],
+        "example": [
+            "dist_tx_store/.meta//build.gradle",
+            "dist_tx_store/.meta//src/main/java/TransactionalKeyValueStore.java"
+        ]
+    }
+}

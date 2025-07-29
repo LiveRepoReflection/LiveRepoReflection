@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "art_gallery.py"
+        ],
+        "example": [
+            ".meta//art_gallery.py"
+        ],
+        "test": [
+            "art_gallery_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "art_gallery/art_gallery_test.py"
+        ],
+        "solution": [
+            "art_gallery/art_gallery.py"
+        ],
+        "example": [
+            "art_gallery/.meta//art_gallery.py"
+        ]
+    }
+}

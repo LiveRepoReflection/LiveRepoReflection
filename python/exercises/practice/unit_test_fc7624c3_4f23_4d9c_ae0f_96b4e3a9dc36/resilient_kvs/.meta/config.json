@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_kv_store.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_kv_store.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_resilient_kvs.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resilient_kvs/test_resilient_kvs.py"
+        ],
+        "solution": [
+            "resilient_kvs/distributed_kv_store.py",
+            "resilient_kvs/__init__.py"
+        ],
+        "example": [
+            "resilient_kvs/.meta//distributed_kv_store.py",
+            "resilient_kvs/.meta//__init__.py"
+        ]
+    }
+}

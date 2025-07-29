@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "urban_delivery.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//urban_delivery.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_urban_delivery.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "urban_delivery/test_urban_delivery.py"
+        ],
+        "solution": [
+            "urban_delivery/urban_delivery.py",
+            "urban_delivery/__init__.py",
+            "urban_delivery/README.md"
+        ],
+        "example": [
+            "urban_delivery/.meta//urban_delivery.py",
+            "urban_delivery/.meta//__init__.py",
+            "urban_delivery/.meta//README.md"
+        ]
+    }
+}

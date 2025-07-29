@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_book.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//order_book.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "order_book_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_dome/order_book_test.go"
+        ],
+        "solution": [
+            "decentralized_dome/order_book.go",
+            "decentralized_dome/go.mod"
+        ],
+        "example": [
+            "decentralized_dome/.meta//order_book.go",
+            "decentralized_dome/.meta//go.mod"
+        ]
+    }
+}

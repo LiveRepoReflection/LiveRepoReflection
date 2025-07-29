@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "online_marketplace.py"
+        ],
+        "example": [
+            ".meta//online_marketplace.py"
+        ],
+        "test": [
+            "online_marketplace_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "online_marketplace/online_marketplace_test.py"
+        ],
+        "solution": [
+            "online_marketplace/online_marketplace.py"
+        ],
+        "example": [
+            "online_marketplace/.meta//online_marketplace.py"
+        ]
+    }
+}

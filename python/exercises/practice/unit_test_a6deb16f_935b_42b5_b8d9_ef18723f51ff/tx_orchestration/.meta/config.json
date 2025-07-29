@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_orchestration.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//tx_orchestration.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_tx_orchestration.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_orchestration/test_tx_orchestration.py"
+        ],
+        "solution": [
+            "tx_orchestration/tx_orchestration.py",
+            "tx_orchestration/__init__.py"
+        ],
+        "example": [
+            "tx_orchestration/.meta//tx_orchestration.py",
+            "tx_orchestration/.meta//__init__.py"
+        ]
+    }
+}

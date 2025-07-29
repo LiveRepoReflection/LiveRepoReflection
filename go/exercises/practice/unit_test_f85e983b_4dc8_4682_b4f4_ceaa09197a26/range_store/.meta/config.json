@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "range_store.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//range_store.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "range_store_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "range_store/range_store_test.go"
+        ],
+        "solution": [
+            "range_store/range_store.go",
+            "range_store/go.mod"
+        ],
+        "example": [
+            "range_store/.meta//range_store.go",
+            "range_store/.meta//go.mod"
+        ]
+    }
+}

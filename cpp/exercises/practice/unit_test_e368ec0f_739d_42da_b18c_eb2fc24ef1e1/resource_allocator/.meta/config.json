@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resource_allocator.h",
+            "resource_allocator.cpp"
+        ],
+        "example": [
+            ".meta//resource_allocator.h",
+            ".meta//resource_allocator.cpp"
+        ],
+        "test": [
+            "resource_allocator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_allocator/resource_allocator_test.cpp"
+        ],
+        "solution": [
+            "resource_allocator/resource_allocator.h",
+            "resource_allocator/resource_allocator.cpp"
+        ],
+        "example": [
+            "resource_allocator/.meta//resource_allocator.h",
+            "resource_allocator/.meta//resource_allocator.cpp"
+        ]
+    }
+}

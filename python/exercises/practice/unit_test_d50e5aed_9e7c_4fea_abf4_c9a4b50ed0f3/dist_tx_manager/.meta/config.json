@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_tx_manager.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dist_tx_manager.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dist_tx_manager.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_manager/test_dist_tx_manager.py"
+        ],
+        "solution": [
+            "dist_tx_manager/dist_tx_manager.py",
+            "dist_tx_manager/__init__.py"
+        ],
+        "example": [
+            "dist_tx_manager/.meta//dist_tx_manager.py",
+            "dist_tx_manager/.meta//__init__.py"
+        ]
+    }
+}

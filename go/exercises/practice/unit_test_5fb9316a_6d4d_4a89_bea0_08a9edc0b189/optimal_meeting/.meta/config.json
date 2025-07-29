@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "optimal_meeting.go"
+        ],
+        "example": [
+            ".meta//optimal_meeting.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "optimal_meeting_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_meeting/cases_test.go",
+            "optimal_meeting/optimal_meeting_test.go",
+            "optimal_meeting/go.mod"
+        ],
+        "solution": [
+            "optimal_meeting/optimal_meeting.go"
+        ],
+        "example": [
+            "optimal_meeting/.meta//optimal_meeting.go"
+        ]
+    }
+}

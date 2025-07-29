@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/network_resilience.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_resilience/tests/network_resilience.rs"
+        ],
+        "solution": [
+            "network_resilience/Cargo.toml",
+            "network_resilience/src/lib.rs"
+        ],
+        "example": [
+            "network_resilience/.meta//Cargo.toml",
+            "network_resilience/.meta//src/lib.rs"
+        ]
+    }
+}

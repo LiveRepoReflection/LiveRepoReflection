@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_topology.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_topology.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_topology_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_topology/network_topology_test.go"
+        ],
+        "solution": [
+            "network_topology/network_topology.go",
+            "network_topology/go.mod"
+        ],
+        "example": [
+            "network_topology/.meta//network_topology.go",
+            "network_topology/.meta//go.mod"
+        ]
+    }
+}

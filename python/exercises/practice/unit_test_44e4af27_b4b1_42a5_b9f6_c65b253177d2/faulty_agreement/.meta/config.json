@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "faulty_agreement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//faulty_agreement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_faulty_agreement.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "faulty_agreement/test_faulty_agreement.py"
+        ],
+        "solution": [
+            "faulty_agreement/faulty_agreement.py",
+            "faulty_agreement/__init__.py"
+        ],
+        "example": [
+            "faulty_agreement/.meta//faulty_agreement.py",
+            "faulty_agreement/.meta//__init__.py"
+        ]
+    }
+}

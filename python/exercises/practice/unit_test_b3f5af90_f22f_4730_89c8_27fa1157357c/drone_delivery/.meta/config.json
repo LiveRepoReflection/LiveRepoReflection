@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "drone_delivery.py"
+        ],
+        "example": [
+            ".meta//drone_delivery.py"
+        ],
+        "test": [
+            "drone_delivery_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_delivery/drone_delivery_test.py"
+        ],
+        "solution": [
+            "drone_delivery/drone_delivery.py"
+        ],
+        "example": [
+            "drone_delivery/.meta//drone_delivery.py"
+        ]
+    }
+}

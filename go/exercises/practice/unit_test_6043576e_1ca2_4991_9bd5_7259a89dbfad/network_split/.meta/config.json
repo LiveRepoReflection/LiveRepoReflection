@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "network_split.go"
+        ],
+        "example": [
+            ".meta//network_split.go"
+        ],
+        "test": [
+            "network_split_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_split/network_split_test.go",
+            "network_split/go.mod"
+        ],
+        "solution": [
+            "network_split/network_split.go"
+        ],
+        "example": [
+            "network_split/.meta//network_split.go"
+        ]
+    }
+}

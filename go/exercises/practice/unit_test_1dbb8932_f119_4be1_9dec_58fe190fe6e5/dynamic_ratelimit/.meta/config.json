@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "ratelimit.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//ratelimit.go"
+        ],
+        "test": [
+            "ratelimit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_ratelimit/ratelimit_test.go"
+        ],
+        "solution": [
+            "dynamic_ratelimit/go.mod",
+            "dynamic_ratelimit/ratelimit.go"
+        ],
+        "example": [
+            "dynamic_ratelimit/.meta//go.mod",
+            "dynamic_ratelimit/.meta//ratelimit.go"
+        ]
+    }
+}

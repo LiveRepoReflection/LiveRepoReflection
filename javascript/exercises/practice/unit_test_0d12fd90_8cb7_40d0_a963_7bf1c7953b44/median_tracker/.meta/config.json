@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "median_tracker.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//median_tracker.js"
+        ],
+        "test": [
+            "median_tracker.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "median_tracker/median_tracker.spec.js"
+        ],
+        "solution": [
+            "median_tracker/package.json",
+            "median_tracker/median_tracker.js"
+        ],
+        "example": [
+            "median_tracker/.meta//package.json",
+            "median_tracker/.meta//median_tracker.js"
+        ]
+    }
+}

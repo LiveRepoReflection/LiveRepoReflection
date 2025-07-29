@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_tx_coord.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dist_tx_coord.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dist_tx_coord.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_coord/test_dist_tx_coord.py"
+        ],
+        "solution": [
+            "dist_tx_coord/dist_tx_coord.py",
+            "dist_tx_coord/__init__.py"
+        ],
+        "example": [
+            "dist_tx_coord/.meta//dist_tx_coord.py",
+            "dist_tx_coord/.meta//__init__.py"
+        ]
+    }
+}

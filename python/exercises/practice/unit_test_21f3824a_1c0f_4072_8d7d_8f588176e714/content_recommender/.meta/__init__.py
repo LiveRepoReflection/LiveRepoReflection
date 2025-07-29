@@ -1,0 +1,1 @@
+from .content_recommender import get_recommendations

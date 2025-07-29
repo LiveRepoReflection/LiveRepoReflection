@@ -1,0 +1,1 @@
+# This file makes event_aggregation a package.

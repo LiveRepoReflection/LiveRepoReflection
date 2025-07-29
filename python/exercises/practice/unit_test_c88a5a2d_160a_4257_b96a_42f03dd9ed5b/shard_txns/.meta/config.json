@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "shard_txns.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//shard_txns.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_shard_txns.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "shard_txns/test_shard_txns.py"
+        ],
+        "solution": [
+            "shard_txns/shard_txns.py",
+            "shard_txns/__init__.py"
+        ],
+        "example": [
+            "shard_txns/.meta//shard_txns.py",
+            "shard_txns/.meta//__init__.py"
+        ]
+    }
+}

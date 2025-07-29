@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_median.py"
+        ],
+        "example": [
+            ".meta//distributed_median.py"
+        ],
+        "test": [
+            "distributed_median_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_median/distributed_median_test.py"
+        ],
+        "solution": [
+            "distributed_median/distributed_median.py"
+        ],
+        "example": [
+            "distributed_median/.meta//distributed_median.py"
+        ]
+    }
+}

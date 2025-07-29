@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TxnCoordinator.java",
+            "src/main/java/TxnNode.java",
+            "src/main/java/NodeResponse.java",
+            "src/main/java/Operation.java"
+        ],
+        "example": [
+            ".meta//src/main/java/TxnCoordinator.java",
+            ".meta//src/main/java/TxnNode.java",
+            ".meta//src/main/java/NodeResponse.java",
+            ".meta//src/main/java/Operation.java"
+        ],
+        "test": [
+            "src/test/java/TxnCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_coordinator/src/test/java/TxnCoordinatorTest.java",
+            "txn_coordinator/src/main/java/TxnCoordinator.java",
+            "txn_coordinator/src/main/java/TxnNode.java",
+            "txn_coordinator/src/main/java/NodeResponse.java",
+            "txn_coordinator/src/main/java/Operation.java"
+        ],
+        "solution": [
+            "txn_coordinator/src/main/java/TxnCoordinator.java",
+            "txn_coordinator/src/main/java/TxnNode.java",
+            "txn_coordinator/src/main/java/NodeResponse.java",
+            "txn_coordinator/src/main/java/Operation.java"
+        ],
+        "example": [
+            "txn_coordinator/.meta//src/main/java/TxnCoordinator.java",
+            "txn_coordinator/.meta//src/main/java/TxnNode.java",
+            "txn_coordinator/.meta//src/main/java/NodeResponse.java",
+            "txn_coordinator/.meta//src/main/java/Operation.java"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_delivery.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_delivery.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_delivery_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_delivery/optimal_delivery_test.py"
+        ],
+        "solution": [
+            "optimal_delivery/optimal_delivery.py",
+            "optimal_delivery/__init__.py"
+        ],
+        "example": [
+            "optimal_delivery/.meta//optimal_delivery.py",
+            "optimal_delivery/.meta//__init__.py"
+        ]
+    }
+}

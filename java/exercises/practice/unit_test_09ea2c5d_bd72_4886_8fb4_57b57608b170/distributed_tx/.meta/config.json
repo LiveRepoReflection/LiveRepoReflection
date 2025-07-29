@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Transaction.java",
+            "src/main/java/TransactionStatus.java",
+            "src/main/java/Participant.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/TransactionStatus.java",
+            ".meta//src/main/java/Participant.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTxCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxCoordinatorTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/Transaction.java",
+            "distributed_tx/src/main/java/TransactionStatus.java",
+            "distributed_tx/src/main/java/Participant.java",
+            "distributed_tx/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/Transaction.java",
+            "distributed_tx/.meta//src/main/java/TransactionStatus.java",
+            "distributed_tx/.meta//src/main/java/Participant.java",
+            "distributed_tx/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

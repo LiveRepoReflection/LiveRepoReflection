@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transit_mapper.py"
+        ],
+        "example": [
+            ".meta//transit_mapper.py"
+        ],
+        "test": [
+            "transit_mapper_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transit_mapper/transit_mapper_test.py"
+        ],
+        "solution": [
+            "transit_mapper/transit_mapper.py"
+        ],
+        "example": [
+            "transit_mapper/.meta//transit_mapper.py"
+        ]
+    }
+}

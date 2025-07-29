@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_orchestrator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//tx_orchestrator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "tx_orchestrator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_orchestrator/tx_orchestrator_test.go"
+        ],
+        "solution": [
+            "tx_orchestrator/tx_orchestrator.go",
+            "tx_orchestrator/go.mod"
+        ],
+        "example": [
+            "tx_orchestrator/.meta//tx_orchestrator.go",
+            "tx_orchestrator/.meta//go.mod"
+        ]
+    }
+}

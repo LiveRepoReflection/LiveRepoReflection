@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "constrained_scheduler.py"
+        ],
+        "example": [
+            ".meta//constrained_scheduler.py"
+        ],
+        "test": [
+            "constrained_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "constrained_scheduler/constrained_scheduler_test.py"
+        ],
+        "solution": [
+            "constrained_scheduler/constrained_scheduler.py"
+        ],
+        "example": [
+            "constrained_scheduler/.meta//constrained_scheduler.py"
+        ]
+    }
+}

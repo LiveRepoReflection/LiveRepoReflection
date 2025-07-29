@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "skyline_merge.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//skyline_merge.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "skyline_merge_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "skyline_merge/skyline_merge_test.py"
+        ],
+        "solution": [
+            "skyline_merge/skyline_merge.py",
+            "skyline_merge/__init__.py"
+        ],
+        "example": [
+            "skyline_merge/.meta//skyline_merge.py",
+            "skyline_merge/.meta//__init__.py"
+        ]
+    }
+}

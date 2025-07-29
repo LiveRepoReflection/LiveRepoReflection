@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "mmo_load_balancer.py"
+        ],
+        "example": [
+            ".meta//mmo_load_balancer.py"
+        ],
+        "test": [
+            "mmo_load_balancer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "mmo_load_balancer/mmo_load_balancer_test.py"
+        ],
+        "solution": [
+            "mmo_load_balancer/mmo_load_balancer.py"
+        ],
+        "example": [
+            "mmo_load_balancer/.meta//mmo_load_balancer.py"
+        ]
+    }
+}

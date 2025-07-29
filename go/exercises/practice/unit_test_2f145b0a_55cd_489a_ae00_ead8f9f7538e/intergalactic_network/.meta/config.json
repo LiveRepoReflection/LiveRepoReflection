@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "intergalactic_network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//intergalactic_network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "intergalactic_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "intergalactic_network/intergalactic_network_test.go"
+        ],
+        "solution": [
+            "intergalactic_network/intergalactic_network.go",
+            "intergalactic_network/go.mod"
+        ],
+        "example": [
+            "intergalactic_network/.meta//intergalactic_network.go",
+            "intergalactic_network/.meta//go.mod"
+        ]
+    }
+}

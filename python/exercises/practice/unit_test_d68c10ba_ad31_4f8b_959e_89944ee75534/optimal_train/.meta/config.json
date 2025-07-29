@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_train.py"
+        ],
+        "example": [
+            ".meta//optimal_train.py"
+        ],
+        "test": [
+            "test_optimal_train.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_train/test_optimal_train.py"
+        ],
+        "solution": [
+            "optimal_train/optimal_train.py"
+        ],
+        "example": [
+            "optimal_train/.meta//optimal_train.py"
+        ]
+    }
+}

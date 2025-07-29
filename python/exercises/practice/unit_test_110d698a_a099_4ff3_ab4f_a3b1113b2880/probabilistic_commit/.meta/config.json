@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "probabilistic_commit.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//probabilistic_commit.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "probabilistic_commit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "probabilistic_commit/probabilistic_commit_test.py"
+        ],
+        "solution": [
+            "probabilistic_commit/probabilistic_commit.py",
+            "probabilistic_commit/__init__.py"
+        ],
+        "example": [
+            "probabilistic_commit/.meta//probabilistic_commit.py",
+            "probabilistic_commit/.meta//__init__.py"
+        ]
+    }
+}

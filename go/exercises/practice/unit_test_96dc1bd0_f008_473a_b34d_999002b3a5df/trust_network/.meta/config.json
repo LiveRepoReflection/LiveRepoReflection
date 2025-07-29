@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "trust_network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//trust_network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "trust_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "trust_network/trust_network_test.go"
+        ],
+        "solution": [
+            "trust_network/trust_network.go",
+            "trust_network/go.mod"
+        ],
+        "example": [
+            "trust_network/.meta//trust_network.go",
+            "trust_network/.meta//go.mod"
+        ]
+    }
+}

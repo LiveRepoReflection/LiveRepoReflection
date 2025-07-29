@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//package_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_package_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "package_network/test_package_network.py"
+        ],
+        "solution": [
+            "package_network/package_network.py",
+            "package_network/__init__.py"
+        ],
+        "example": [
+            "package_network/.meta//package_network.py",
+            "package_network/.meta//__init__.py"
+        ]
+    }
+}

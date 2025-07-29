@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_distance.py"
+        ],
+        "example": [
+            ".meta//social_distance.py"
+        ],
+        "test": [
+            "social_distance_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_distance/social_distance_test.py"
+        ],
+        "solution": [
+            "social_distance/social_distance.py"
+        ],
+        "example": [
+            "social_distance/.meta//social_distance.py"
+        ]
+    }
+}

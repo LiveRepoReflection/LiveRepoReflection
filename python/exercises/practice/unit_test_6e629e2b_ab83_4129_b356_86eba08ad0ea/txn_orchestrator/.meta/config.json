@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "txn_orchestrator.py",
+            "service_mocks.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_orchestrator.py",
+            ".meta//service_mocks.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_orchestrator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_orchestrator/txn_orchestrator_test.py"
+        ],
+        "solution": [
+            "txn_orchestrator/txn_orchestrator.py",
+            "txn_orchestrator/service_mocks.py",
+            "txn_orchestrator/__init__.py"
+        ],
+        "example": [
+            "txn_orchestrator/.meta//txn_orchestrator.py",
+            "txn_orchestrator/.meta//service_mocks.py",
+            "txn_orchestrator/.meta//__init__.py"
+        ]
+    }
+}

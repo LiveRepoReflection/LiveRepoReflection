@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "key_counter.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//key_counter.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "key_counter_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "key_counter/key_counter_test.py"
+        ],
+        "solution": [
+            "key_counter/key_counter.py",
+            "key_counter/__init__.py"
+        ],
+        "example": [
+            "key_counter/.meta//key_counter.py",
+            "key_counter/.meta//__init__.py"
+        ]
+    }
+}

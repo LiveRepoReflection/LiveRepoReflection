@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkLatencyCalculator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkLatencyCalculator.java"
+        ],
+        "test": [
+            "src/test/java/NetworkLatencyCalculatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_latency/src/test/java/NetworkLatencyCalculatorTest.java"
+        ],
+        "solution": [
+            "network_latency/build.gradle",
+            "network_latency/src/main/java/NetworkLatencyCalculator.java"
+        ],
+        "example": [
+            "network_latency/.meta//build.gradle",
+            "network_latency/.meta//src/main/java/NetworkLatencyCalculator.java"
+        ]
+    }
+}

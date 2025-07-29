@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "dist_median.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dist_median.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_median_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_median/dist_median_test.go",
+            "dist_median/go.mod"
+        ],
+        "solution": [
+            "dist_median/dist_median.go",
+            "dist_median/go.mod"
+        ],
+        "example": [
+            "dist_median/.meta//dist_median.go",
+            "dist_median/.meta//go.mod"
+        ]
+    }
+}

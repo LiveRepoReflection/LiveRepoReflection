@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "dtc.go",
+            "mock_bank_service.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//dtc.go",
+            ".meta//mock_bank_service.go",
+            ".meta//dtc_test.go"
+        ],
+        "test": [
+            "dtc_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_bank/mock_bank_service.go",
+            "dtc_bank/dtc_test.go"
+        ],
+        "solution": [
+            "dtc_bank/go.mod",
+            "dtc_bank/dtc.go",
+            "dtc_bank/mock_bank_service.go",
+            "dtc_bank/dtc_test.go"
+        ],
+        "example": [
+            "dtc_bank/.meta//go.mod",
+            "dtc_bank/.meta//dtc.go",
+            "dtc_bank/.meta//mock_bank_service.go",
+            "dtc_bank/.meta//dtc_test.go"
+        ]
+    }
+}

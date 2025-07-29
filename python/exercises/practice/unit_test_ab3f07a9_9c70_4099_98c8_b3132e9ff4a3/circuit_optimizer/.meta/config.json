@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "circuit_optimizer.py"
+        ],
+        "example": [
+            ".meta//circuit_optimizer.py"
+        ],
+        "test": [
+            "circuit_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "circuit_optimizer/circuit_optimizer_test.py"
+        ],
+        "solution": [
+            "circuit_optimizer/circuit_optimizer.py"
+        ],
+        "example": [
+            "circuit_optimizer/.meta//circuit_optimizer.py"
+        ]
+    }
+}

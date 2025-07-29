@@ -1,0 +1,12 @@
+{
+  "name": "tx_coordinator",
+  "version": "1.0.0",
+  "description": "A distributed transaction coordinator implemented in JavaScript",
+  "main": "tx_coordinator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

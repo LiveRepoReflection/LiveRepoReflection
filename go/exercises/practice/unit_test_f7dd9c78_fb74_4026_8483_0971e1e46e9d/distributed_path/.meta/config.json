@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_path.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//distributed_path.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "distributed_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_path/distributed_path_test.go"
+        ],
+        "solution": [
+            "distributed_path/distributed_path.go",
+            "distributed_path/go.mod"
+        ],
+        "example": [
+            "distributed_path/.meta//distributed_path.go",
+            "distributed_path/.meta//go.mod"
+        ]
+    }
+}

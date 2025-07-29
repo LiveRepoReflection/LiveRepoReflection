@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/ConflictException.java",
+            "src/main/java/VersionedValue.java",
+            "src/main/java/TransactionalKeyValueStore.java"
+        ],
+        "example": [
+            ".meta//src/main/java/ConflictException.java",
+            ".meta//src/main/java/VersionedValue.java",
+            ".meta//src/main/java/TransactionalKeyValueStore.java"
+        ],
+        "test": [
+            "src/test/java/TransactionalKeyValueStoreTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_key_value/src/test/java/TransactionalKeyValueStoreTest.java"
+        ],
+        "solution": [
+            "tx_key_value/src/main/java/ConflictException.java",
+            "tx_key_value/src/main/java/VersionedValue.java",
+            "tx_key_value/src/main/java/TransactionalKeyValueStore.java"
+        ],
+        "example": [
+            "tx_key_value/.meta//src/main/java/ConflictException.java",
+            "tx_key_value/.meta//src/main/java/VersionedValue.java",
+            "tx_key_value/.meta//src/main/java/TransactionalKeyValueStore.java"
+        ]
+    }
+}

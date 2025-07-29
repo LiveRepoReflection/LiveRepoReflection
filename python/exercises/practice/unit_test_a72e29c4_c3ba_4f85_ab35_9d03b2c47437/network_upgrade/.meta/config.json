@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_upgrade.py"
+        ],
+        "example": [
+            ".meta//network_upgrade.py"
+        ],
+        "test": [
+            "network_upgrade_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_upgrade/network_upgrade_test.py"
+        ],
+        "solution": [
+            "network_upgrade/network_upgrade.py"
+        ],
+        "example": [
+            "network_upgrade/.meta//network_upgrade.py"
+        ]
+    }
+}

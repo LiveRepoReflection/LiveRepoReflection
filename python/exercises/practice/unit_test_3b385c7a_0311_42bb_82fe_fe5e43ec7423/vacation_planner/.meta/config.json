@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "vacation_planner.py"
+        ],
+        "example": [
+            ".meta//vacation_planner.py"
+        ],
+        "test": [
+            "vacation_planner_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "vacation_planner/vacation_planner_test.py"
+        ],
+        "solution": [
+            "vacation_planner/vacation_planner.py"
+        ],
+        "example": [
+            "vacation_planner/.meta//vacation_planner.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "routing_function.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//routing_function.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "traffic_congestion_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_congestion/traffic_congestion_test.py"
+        ],
+        "solution": [
+            "traffic_congestion/routing_function.py",
+            "traffic_congestion/__init__.py"
+        ],
+        "example": [
+            "traffic_congestion/.meta//routing_function.py",
+            "traffic_congestion/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dex_reconciler.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dex_reconciler.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dex_reconciler.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_reconciler/test_dex_reconciler.py"
+        ],
+        "solution": [
+            "dex_reconciler/dex_reconciler.py",
+            "dex_reconciler/__init__.py"
+        ],
+        "example": [
+            "dex_reconciler/.meta//dex_reconciler.py",
+            "dex_reconciler/.meta//__init__.py"
+        ]
+    }
+}

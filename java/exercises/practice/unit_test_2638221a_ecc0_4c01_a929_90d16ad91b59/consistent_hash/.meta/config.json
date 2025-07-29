@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/ConsistentHashLoadBalancer.java",
+            "src/main/java/ServerMonitor.java"
+        ],
+        "example": [
+            ".meta//src/main/java/ConsistentHashLoadBalancer.java",
+            ".meta//src/main/java/ServerMonitor.java"
+        ],
+        "test": [
+            "src/test/java/ConsistentHashTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_hash/src/test/java/ConsistentHashTest.java",
+            "consistent_hash/build.gradle"
+        ],
+        "solution": [
+            "consistent_hash/src/main/java/ConsistentHashLoadBalancer.java",
+            "consistent_hash/src/main/java/ServerMonitor.java"
+        ],
+        "example": [
+            "consistent_hash/.meta//src/main/java/ConsistentHashLoadBalancer.java",
+            "consistent_hash/.meta//src/main/java/ServerMonitor.java"
+        ]
+    }
+}

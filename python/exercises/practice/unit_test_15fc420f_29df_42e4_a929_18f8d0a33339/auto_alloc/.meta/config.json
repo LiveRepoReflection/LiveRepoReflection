@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "auto_alloc.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//auto_alloc.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "auto_alloc_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "auto_alloc/auto_alloc_test.py"
+        ],
+        "solution": [
+            "auto_alloc/auto_alloc.py",
+            "auto_alloc/__init__.py"
+        ],
+        "example": [
+            "auto_alloc/.meta//auto_alloc.py",
+            "auto_alloc/.meta//__init__.py"
+        ]
+    }
+}

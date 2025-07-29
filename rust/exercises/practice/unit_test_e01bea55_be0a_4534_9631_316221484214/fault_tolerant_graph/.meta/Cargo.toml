@@ -1,0 +1,6 @@
+[package]
+name = "fault_tolerant_graph"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

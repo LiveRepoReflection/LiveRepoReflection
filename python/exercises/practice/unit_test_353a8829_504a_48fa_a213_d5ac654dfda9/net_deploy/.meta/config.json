@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_deploy.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//net_deploy.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "net_deploy_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_deploy/net_deploy_test.py"
+        ],
+        "solution": [
+            "net_deploy/net_deploy.py",
+            "net_deploy/__init__.py"
+        ],
+        "example": [
+            "net_deploy/.meta//net_deploy.py",
+            "net_deploy/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "logistics_optimization.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//logistics_optimization.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_logistics_optimization.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "logistics_optimization/test_logistics_optimization.py"
+        ],
+        "solution": [
+            "logistics_optimization/logistics_optimization.py",
+            "logistics_optimization/__init__.py"
+        ],
+        "example": [
+            "logistics_optimization/.meta//logistics_optimization.py",
+            "logistics_optimization/.meta//__init__.py"
+        ]
+    }
+}

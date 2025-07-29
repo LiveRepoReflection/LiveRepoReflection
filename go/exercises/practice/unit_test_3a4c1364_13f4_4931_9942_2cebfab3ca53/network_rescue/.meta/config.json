@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_partitioning.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_partitioning.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_rescue_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_rescue/network_rescue_test.go"
+        ],
+        "solution": [
+            "network_rescue/optimal_partitioning.go",
+            "network_rescue/go.mod"
+        ],
+        "example": [
+            "network_rescue/.meta//optimal_partitioning.go",
+            "network_rescue/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "path_planning",
+  "version": "1.0.0",
+  "description": "Path planning module for autonomous vehicles",
+  "main": "path_planning.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

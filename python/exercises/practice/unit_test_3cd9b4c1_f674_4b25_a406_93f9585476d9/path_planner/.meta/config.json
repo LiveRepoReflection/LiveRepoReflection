@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "path_planner.py"
+        ],
+        "example": [
+            ".meta//path_planner.py"
+        ],
+        "test": [
+            "path_planner_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "path_planner/path_planner_test.py"
+        ],
+        "solution": [
+            "path_planner/path_planner.py"
+        ],
+        "example": [
+            "path_planner/.meta//path_planner.py"
+        ]
+    }
+}

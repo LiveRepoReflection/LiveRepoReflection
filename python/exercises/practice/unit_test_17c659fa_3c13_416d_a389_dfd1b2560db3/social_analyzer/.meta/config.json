@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_analyzer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//social_analyzer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_social_analyzer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_analyzer/test_social_analyzer.py"
+        ],
+        "solution": [
+            "social_analyzer/social_analyzer.py",
+            "social_analyzer/__init__.py"
+        ],
+        "example": [
+            "social_analyzer/.meta//social_analyzer.py",
+            "social_analyzer/.meta//__init__.py"
+        ]
+    }
+}

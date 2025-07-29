@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/multi_shortest_path.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_shortest_path/tests/multi_shortest_path.rs"
+        ],
+        "solution": [
+            "multi_shortest_path/Cargo.toml",
+            "multi_shortest_path/src/lib.rs"
+        ],
+        "example": [
+            "multi_shortest_path/.meta//Cargo.toml",
+            "multi_shortest_path/.meta//src/lib.rs"
+        ]
+    }
+}

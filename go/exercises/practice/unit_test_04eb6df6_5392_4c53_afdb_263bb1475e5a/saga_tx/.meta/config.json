@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "tx.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//tx.go"
+        ],
+        "test": [
+            "tx_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_tx/tx_test.go"
+        ],
+        "solution": [
+            "saga_tx/go.mod",
+            "saga_tx/tx.go"
+        ],
+        "example": [
+            "saga_tx/.meta//go.mod",
+            "saga_tx/.meta//tx.go"
+        ]
+    }
+}

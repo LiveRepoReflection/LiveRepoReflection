@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "shard_order.py"
+        ],
+        "example": [
+            ".meta//shard_order.py"
+        ],
+        "test": [
+            "shard_order_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "shard_order/shard_order_test.py"
+        ],
+        "solution": [
+            "shard_order/shard_order.py"
+        ],
+        "example": [
+            "shard_order/.meta//shard_order.py"
+        ]
+    }
+}

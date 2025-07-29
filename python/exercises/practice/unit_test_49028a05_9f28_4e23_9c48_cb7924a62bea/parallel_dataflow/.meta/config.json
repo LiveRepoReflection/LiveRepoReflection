@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "parallel_dataflow.py"
+        ],
+        "example": [
+            ".meta//parallel_dataflow.py"
+        ],
+        "test": [
+            "parallel_dataflow_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "parallel_dataflow/parallel_dataflow_test.py"
+        ],
+        "solution": [
+            "parallel_dataflow/parallel_dataflow.py"
+        ],
+        "example": [
+            "parallel_dataflow/.meta//parallel_dataflow.py"
+        ]
+    }
+}

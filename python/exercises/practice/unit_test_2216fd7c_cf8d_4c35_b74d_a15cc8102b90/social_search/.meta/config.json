@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_search.py"
+        ],
+        "example": [
+            ".meta//social_search.py"
+        ],
+        "test": [
+            "social_search_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_search/social_search_test.py"
+        ],
+        "solution": [
+            "social_search/social_search.py"
+        ],
+        "example": [
+            "social_search/.meta//social_search.py"
+        ]
+    }
+}

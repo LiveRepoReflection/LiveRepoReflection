@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "k_hop_network.py"
+        ],
+        "example": [
+            ".meta//k_hop_network.py"
+        ],
+        "test": [
+            "k_hop_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "k_hop_network/k_hop_network_test.py"
+        ],
+        "solution": [
+            "k_hop_network/k_hop_network.py"
+        ],
+        "example": [
+            "k_hop_network/.meta//k_hop_network.py"
+        ]
+    }
+}

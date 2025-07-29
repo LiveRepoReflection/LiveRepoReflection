@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_meeting.py"
+        ],
+        "example": [
+            ".meta//optimal_meeting.py"
+        ],
+        "test": [
+            "optimal_meeting_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_meeting/optimal_meeting_test.py"
+        ],
+        "solution": [
+            "optimal_meeting/optimal_meeting.py"
+        ],
+        "example": [
+            "optimal_meeting/.meta//optimal_meeting.py"
+        ]
+    }
+}

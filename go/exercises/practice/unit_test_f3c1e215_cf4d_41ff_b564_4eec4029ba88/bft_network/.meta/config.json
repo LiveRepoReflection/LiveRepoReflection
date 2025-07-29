@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "bft_network.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//bft_network.go"
+        ],
+        "test": [
+            "bft_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "bft_network/bft_network_test.go"
+        ],
+        "solution": [
+            "bft_network/go.mod",
+            "bft_network/bft_network.go"
+        ],
+        "example": [
+            "bft_network/.meta//go.mod",
+            "bft_network/.meta//bft_network.go"
+        ]
+    }
+}

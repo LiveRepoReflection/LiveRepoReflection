@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "global_dominance.py"
+        ],
+        "example": [
+            ".meta//global_dominance.py"
+        ],
+        "test": [
+            "global_dominance_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "global_dominance/global_dominance_test.py"
+        ],
+        "solution": [
+            "global_dominance/global_dominance.py"
+        ],
+        "example": [
+            "global_dominance/.meta//global_dominance.py"
+        ]
+    }
+}

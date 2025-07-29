@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "parallel_data.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//parallel_data.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "parallel_data_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "parallel_data/parallel_data_test.py",
+            "parallel_data/__init__.py"
+        ],
+        "solution": [
+            "parallel_data/parallel_data.py",
+            "parallel_data/__init__.py",
+            "parallel_data/README.md"
+        ],
+        "example": [
+            "parallel_data/.meta//parallel_data.py",
+            "parallel_data/.meta//__init__.py",
+            "parallel_data/.meta//README.md"
+        ]
+    }
+}

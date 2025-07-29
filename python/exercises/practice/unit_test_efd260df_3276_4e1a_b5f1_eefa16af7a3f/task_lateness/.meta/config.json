@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_lateness.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//task_lateness.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "task_lateness_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_lateness/task_lateness_test.py"
+        ],
+        "solution": [
+            "task_lateness/task_lateness.py",
+            "task_lateness/__init__.py"
+        ],
+        "example": [
+            "task_lateness/.meta//task_lateness.py",
+            "task_lateness/.meta//__init__.py"
+        ]
+    }
+}

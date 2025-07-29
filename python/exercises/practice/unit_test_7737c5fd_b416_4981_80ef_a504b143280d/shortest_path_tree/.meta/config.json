@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "shortest_path_tree.py"
+        ],
+        "example": [
+            ".meta//shortest_path_tree.py"
+        ],
+        "test": [
+            "shortest_path_tree_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "shortest_path_tree/shortest_path_tree_test.py"
+        ],
+        "solution": [
+            "shortest_path_tree/shortest_path_tree.py"
+        ],
+        "example": [
+            "shortest_path_tree/.meta//shortest_path_tree.py"
+        ]
+    }
+}

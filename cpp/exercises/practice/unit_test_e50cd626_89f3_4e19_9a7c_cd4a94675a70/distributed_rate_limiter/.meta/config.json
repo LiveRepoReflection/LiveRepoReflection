@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_rate_limiter.h",
+            "distributed_rate_limiter.cpp"
+        ],
+        "example": [
+            ".meta//distributed_rate_limiter.h",
+            ".meta//distributed_rate_limiter.cpp"
+        ],
+        "test": [
+            "distributed_rate_limiter_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_rate_limiter/distributed_rate_limiter_test.cpp"
+        ],
+        "solution": [
+            "distributed_rate_limiter/distributed_rate_limiter.h",
+            "distributed_rate_limiter/distributed_rate_limiter.cpp"
+        ],
+        "example": [
+            "distributed_rate_limiter/.meta//distributed_rate_limiter.h",
+            "distributed_rate_limiter/.meta//distributed_rate_limiter.cpp"
+        ]
+    }
+}

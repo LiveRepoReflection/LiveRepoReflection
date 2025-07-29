@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TaskOptimizer.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/TaskOptimizer.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/TaskOptimizerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_optimizer/src/test/java/TaskOptimizerTest.java"
+        ],
+        "solution": [
+            "task_optimizer/src/main/java/TaskOptimizer.java",
+            "task_optimizer/build.gradle"
+        ],
+        "example": [
+            "task_optimizer/.meta//src/main/java/TaskOptimizer.java",
+            "task_optimizer/.meta//build.gradle"
+        ]
+    }
+}

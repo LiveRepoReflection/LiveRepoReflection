@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "shortest_path_distributed.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//shortest_path_distributed.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "shortest_path_distributed_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "shortest_path_distributed/shortest_path_distributed_test.go"
+        ],
+        "solution": [
+            "shortest_path_distributed/shortest_path_distributed.go",
+            "shortest_path_distributed/go.mod"
+        ],
+        "example": [
+            "shortest_path_distributed/.meta//shortest_path_distributed.go",
+            "shortest_path_distributed/.meta//go.mod"
+        ]
+    }
+}

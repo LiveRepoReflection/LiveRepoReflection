@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_resolve.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_resolve.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_resolve_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_resolve/transaction_resolve_test.py"
+        ],
+        "solution": [
+            "transaction_resolve/transaction_resolve.py",
+            "transaction_resolve/__init__.py"
+        ],
+        "example": [
+            "transaction_resolve/.meta//transaction_resolve.py",
+            "transaction_resolve/.meta//__init__.py"
+        ]
+    }
+}

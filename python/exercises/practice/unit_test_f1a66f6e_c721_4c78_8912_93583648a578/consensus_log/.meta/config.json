@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consensus_log.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//consensus_log.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "consensus_log_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consensus_log/consensus_log_test.py"
+        ],
+        "solution": [
+            "consensus_log/consensus_log.py",
+            "consensus_log/__init__.py"
+        ],
+        "example": [
+            "consensus_log/.meta//consensus_log.py",
+            "consensus_log/.meta//__init__.py"
+        ]
+    }
+}

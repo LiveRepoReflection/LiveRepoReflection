@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "traffic_genius.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//traffic_genius.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "traffic_genius_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_genius/traffic_genius_test.py"
+        ],
+        "solution": [
+            "traffic_genius/traffic_genius.py",
+            "traffic_genius/__init__.py",
+            "traffic_genius/README.md"
+        ],
+        "example": [
+            "traffic_genius/.meta//traffic_genius.py",
+            "traffic_genius/.meta//__init__.py",
+            "traffic_genius/.meta//README.md"
+        ]
+    }
+}

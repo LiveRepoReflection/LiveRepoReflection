@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "dtm_manager.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dtm_manager.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dtm_manager_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_manager/dtm_manager_test.py",
+            "dtm_manager/__init__.py"
+        ],
+        "solution": [
+            "dtm_manager/dtm_manager.py",
+            "dtm_manager/__init__.py"
+        ],
+        "example": [
+            "dtm_manager/.meta//dtm_manager.py",
+            "dtm_manager/.meta//__init__.py"
+        ]
+    }
+}

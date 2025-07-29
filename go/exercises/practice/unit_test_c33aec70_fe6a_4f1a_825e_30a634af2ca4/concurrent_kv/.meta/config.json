@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "concurrent_kv.go"
+        ],
+        "example": [
+            ".meta//concurrent_kv.go"
+        ],
+        "test": [
+            "concurrent_kv_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "concurrent_kv/concurrent_kv_test.go",
+            "concurrent_kv/go.mod"
+        ],
+        "solution": [
+            "concurrent_kv/concurrent_kv.go"
+        ],
+        "example": [
+            "concurrent_kv/.meta//concurrent_kv.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_optimizer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//order_optimizer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "order_optimizer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_optimizer/order_optimizer_test.go"
+        ],
+        "solution": [
+            "order_optimizer/order_optimizer.go",
+            "order_optimizer/go.mod"
+        ],
+        "example": [
+            "order_optimizer/.meta//order_optimizer.go",
+            "order_optimizer/.meta//go.mod"
+        ]
+    }
+}

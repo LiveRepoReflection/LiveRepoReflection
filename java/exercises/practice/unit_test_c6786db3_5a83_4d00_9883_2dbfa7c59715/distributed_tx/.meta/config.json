@@ -1,0 +1,38 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TransactionCoordinator.java",
+            "src/main/java/MockMicroservice.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/TransactionCoordinator.java",
+            ".meta//src/main/java/MockMicroservice.java",
+            ".meta//build.gradle",
+            ".meta//src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionCoordinatorTest.java",
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/MockMicroservice.java",
+            "distributed_tx/src/main/java/TransactionCoordinator.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/TransactionCoordinator.java",
+            "distributed_tx/src/main/java/MockMicroservice.java",
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/TransactionCoordinator.java",
+            "distributed_tx/.meta//src/main/java/MockMicroservice.java",
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/test/java/TransactionCoordinatorTest.java"
+        ]
+    }
+}

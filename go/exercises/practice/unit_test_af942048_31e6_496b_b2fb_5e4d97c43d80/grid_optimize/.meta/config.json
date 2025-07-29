@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimize_grid.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimize_grid.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "grid_optimize_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "grid_optimize/grid_optimize_test.go"
+        ],
+        "solution": [
+            "grid_optimize/optimize_grid.go",
+            "grid_optimize/go.mod"
+        ],
+        "example": [
+            "grid_optimize/.meta//optimize_grid.go",
+            "grid_optimize/.meta//go.mod"
+        ]
+    }
+}

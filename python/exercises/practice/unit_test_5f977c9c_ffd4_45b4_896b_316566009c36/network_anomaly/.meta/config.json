@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "network_anomaly.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//network_anomaly.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "network_anomaly_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_anomaly/network_anomaly_test.py"
+        ],
+        "solution": [
+            "network_anomaly/__init__.py",
+            "network_anomaly/network_anomaly.py",
+            "network_anomaly/README.md"
+        ],
+        "example": [
+            "network_anomaly/.meta//__init__.py",
+            "network_anomaly/.meta//network_anomaly.py",
+            "network_anomaly/.meta//README.md"
+        ]
+    }
+}

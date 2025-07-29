@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "sliding_window_rate_limiter.go",
+            "redis_store.go",
+            "config.go"
+        ],
+        "example": [
+            ".meta//sliding_window_rate_limiter.go",
+            ".meta//redis_store.go",
+            ".meta//config.go"
+        ],
+        "test": [
+            "sliding_window_rate_limiter_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "sliding_window_rate_limiter/sliding_window_rate_limiter_test.go",
+            "sliding_window_rate_limiter/go.mod",
+            "sliding_window_rate_limiter/cases_test.go"
+        ],
+        "solution": [
+            "sliding_window_rate_limiter/sliding_window_rate_limiter.go",
+            "sliding_window_rate_limiter/redis_store.go",
+            "sliding_window_rate_limiter/config.go"
+        ],
+        "example": [
+            "sliding_window_rate_limiter/.meta//sliding_window_rate_limiter.go",
+            "sliding_window_rate_limiter/.meta//redis_store.go",
+            "sliding_window_rate_limiter/.meta//config.go"
+        ]
+    }
+}

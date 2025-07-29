@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "logistics_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//logistics_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "logistics_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "logistics_network/logistics_network_test.py"
+        ],
+        "solution": [
+            "logistics_network/logistics_network.py",
+            "logistics_network/__init__.py"
+        ],
+        "example": [
+            "logistics_network/.meta//logistics_network.py",
+            "logistics_network/.meta//__init__.py"
+        ]
+    }
+}

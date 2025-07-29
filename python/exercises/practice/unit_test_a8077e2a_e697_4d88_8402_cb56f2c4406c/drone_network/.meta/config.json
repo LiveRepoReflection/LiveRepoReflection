@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "drone_network.py"
+        ],
+        "example": [
+            ".meta//drone_network.py"
+        ],
+        "test": [
+            "test_drone_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_network/test_drone_network.py"
+        ],
+        "solution": [
+            "drone_network/drone_network.py"
+        ],
+        "example": [
+            "drone_network/.meta//drone_network.py"
+        ]
+    }
+}

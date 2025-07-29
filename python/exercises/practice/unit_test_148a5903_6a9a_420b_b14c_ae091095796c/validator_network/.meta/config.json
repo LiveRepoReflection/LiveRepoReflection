@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "validator_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//validator_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "validator_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "validator_network/validator_network_test.py"
+        ],
+        "solution": [
+            "validator_network/validator_network.py",
+            "validator_network/__init__.py"
+        ],
+        "example": [
+            "validator_network/.meta//validator_network.py",
+            "validator_network/.meta//__init__.py"
+        ]
+    }
+}

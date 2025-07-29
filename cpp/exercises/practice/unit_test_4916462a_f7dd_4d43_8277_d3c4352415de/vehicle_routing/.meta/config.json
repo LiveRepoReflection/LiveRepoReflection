@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "vehicle_routing.h",
+            "vehicle_routing.cpp"
+        ],
+        "example": [
+            ".meta//vehicle_routing.h",
+            ".meta//vehicle_routing.cpp"
+        ],
+        "test": [
+            "vehicle_routing_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "vehicle_routing/vehicle_routing_test.cpp"
+        ],
+        "solution": [
+            "vehicle_routing/vehicle_routing.h",
+            "vehicle_routing/vehicle_routing.cpp"
+        ],
+        "example": [
+            "vehicle_routing/.meta//vehicle_routing.h",
+            "vehicle_routing/.meta//vehicle_routing.cpp"
+        ]
+    }
+}

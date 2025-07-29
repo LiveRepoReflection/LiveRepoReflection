@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "transaction_aggregator.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//transaction_aggregator.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_transaction_aggregator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_aggregator/test_transaction_aggregator.py"
+        ],
+        "solution": [
+            "transaction_aggregator/transaction_aggregator.py",
+            "transaction_aggregator/__init__.py",
+            "transaction_aggregator/README.md"
+        ],
+        "example": [
+            "transaction_aggregator/.meta//transaction_aggregator.py",
+            "transaction_aggregator/.meta//__init__.py",
+            "transaction_aggregator/.meta//README.md"
+        ]
+    }
+}

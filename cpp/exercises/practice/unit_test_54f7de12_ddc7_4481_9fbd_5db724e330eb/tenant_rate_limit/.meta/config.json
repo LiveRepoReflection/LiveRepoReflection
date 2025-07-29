@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "tenant_rate_limit.h",
+            "tenant_rate_limit.cpp"
+        ],
+        "example": [
+            ".meta//tenant_rate_limit.h",
+            ".meta//tenant_rate_limit.cpp"
+        ],
+        "test": [
+            "tenant_rate_limit_test.cpp",
+            "tenant_rate_limit_test.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "tenant_rate_limit/tenant_rate_limit_test.cpp",
+            "tenant_rate_limit/tenant_rate_limit_test.h"
+        ],
+        "solution": [
+            "tenant_rate_limit/tenant_rate_limit.h",
+            "tenant_rate_limit/tenant_rate_limit.cpp"
+        ],
+        "example": [
+            "tenant_rate_limit/.meta//tenant_rate_limit.h",
+            "tenant_rate_limit/.meta//tenant_rate_limit.cpp"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_ordering.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//txn_ordering.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "txn_ordering_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_ordering/txn_ordering_test.go"
+        ],
+        "solution": [
+            "txn_ordering/txn_ordering.go",
+            "txn_ordering/go.mod"
+        ],
+        "example": [
+            "txn_ordering/.meta//txn_ordering.go",
+            "txn_ordering/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "graph_coloring.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//graph_coloring.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "graph_coloring_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "graph_coloring/graph_coloring_test.py"
+        ],
+        "solution": [
+            "graph_coloring/graph_coloring.py",
+            "graph_coloring/__init__.py"
+        ],
+        "example": [
+            "graph_coloring/.meta//graph_coloring.py",
+            "graph_coloring/.meta//__init__.py"
+        ]
+    }
+}

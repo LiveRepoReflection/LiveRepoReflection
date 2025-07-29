@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/fault_tolerance_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "fault_tolerance/tests/fault_tolerance_test.rs"
+        ],
+        "solution": [
+            "fault_tolerance/Cargo.toml",
+            "fault_tolerance/src/lib.rs"
+        ],
+        "example": [
+            "fault_tolerance/.meta//Cargo.toml",
+            "fault_tolerance/.meta//src/lib.rs"
+        ]
+    }
+}

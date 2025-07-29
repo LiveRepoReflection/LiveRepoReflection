@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resilient_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//resilient_routing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "resilient_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "resilient_routing/resilient_routing_test.go"
+        ],
+        "solution": [
+            "resilient_routing/resilient_routing.go",
+            "resilient_routing/go.mod"
+        ],
+        "example": [
+            "resilient_routing/.meta//resilient_routing.go",
+            "resilient_routing/.meta//go.mod"
+        ]
+    }
+}

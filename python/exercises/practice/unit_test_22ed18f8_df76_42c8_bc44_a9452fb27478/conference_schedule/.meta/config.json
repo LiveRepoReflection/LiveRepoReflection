@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "scheduler.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//scheduler.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "conference_schedule_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "conference_schedule/conference_schedule_test.py"
+        ],
+        "solution": [
+            "conference_schedule/scheduler.py",
+            "conference_schedule/__init__.py"
+        ],
+        "example": [
+            "conference_schedule/.meta//scheduler.py",
+            "conference_schedule/.meta//__init__.py"
+        ]
+    }
+}

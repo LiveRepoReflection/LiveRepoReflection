@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/tx_coordinator_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/Cargo.toml",
+            "tx_coordinator/tests/tx_coordinator_test.rs"
+        ],
+        "solution": [
+            "tx_coordinator/Cargo.toml",
+            "tx_coordinator/src/lib.rs"
+        ],
+        "example": [
+            "tx_coordinator/.meta//Cargo.toml",
+            "tx_coordinator/.meta//src/lib.rs"
+        ]
+    }
+}

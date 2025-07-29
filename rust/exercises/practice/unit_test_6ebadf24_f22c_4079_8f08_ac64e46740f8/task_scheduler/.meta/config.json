@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs",
+            "README.md"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs",
+            ".meta//README.md"
+        ],
+        "test": [
+            "tests/task_scheduler.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduler/Cargo.toml",
+            "task_scheduler/src/lib.rs",
+            "task_scheduler/tests/task_scheduler.rs"
+        ],
+        "solution": [
+            "task_scheduler/Cargo.toml",
+            "task_scheduler/src/lib.rs",
+            "task_scheduler/README.md"
+        ],
+        "example": [
+            "task_scheduler/.meta//Cargo.toml",
+            "task_scheduler/.meta//src/lib.rs",
+            "task_scheduler/.meta//README.md"
+        ]
+    }
+}

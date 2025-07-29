@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "task_scheduler.h",
+            "task_scheduler.cpp"
+        ],
+        "example": [
+            ".meta//task_scheduler.h",
+            ".meta//task_scheduler.cpp"
+        ],
+        "test": [
+            "task_scheduler_test.cpp",
+            "task_scheduler_test.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduler/task_scheduler_test.cpp",
+            "task_scheduler/task_scheduler_test.h"
+        ],
+        "solution": [
+            "task_scheduler/task_scheduler.h",
+            "task_scheduler/task_scheduler.cpp"
+        ],
+        "example": [
+            "task_scheduler/.meta//task_scheduler.h",
+            "task_scheduler/.meta//task_scheduler.cpp"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "qkd_network.py"
+        ],
+        "example": [
+            ".meta//qkd_network.py"
+        ],
+        "test": [
+            "qkd_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "qkd_network/qkd_network_test.py"
+        ],
+        "solution": [
+            "qkd_network/qkd_network.py"
+        ],
+        "example": [
+            "qkd_network/.meta//qkd_network.py"
+        ]
+    }
+}

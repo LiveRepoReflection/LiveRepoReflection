@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "network_pathways.py"
+        ],
+        "example": [
+            ".meta//network_pathways.py",
+            ".meta//network_pathways_test.py"
+        ],
+        "test": [
+            "network_pathways_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_pathways/network_pathways_test.py"
+        ],
+        "solution": [
+            "network_pathways/network_pathways.py",
+            "network_pathways/network_pathways_test.py"
+        ],
+        "example": [
+            "network_pathways/.meta//network_pathways.py",
+            "network_pathways/.meta//network_pathways_test.py"
+        ]
+    }
+}

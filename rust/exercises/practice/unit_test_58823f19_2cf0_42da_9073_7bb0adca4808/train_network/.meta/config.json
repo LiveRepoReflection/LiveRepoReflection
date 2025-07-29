@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/train_network.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "train_network/tests/train_network.rs"
+        ],
+        "solution": [
+            "train_network/Cargo.toml",
+            "train_network/src/lib.rs"
+        ],
+        "example": [
+            "train_network/.meta//Cargo.toml",
+            "train_network/.meta//src/lib.rs"
+        ]
+    }
+}

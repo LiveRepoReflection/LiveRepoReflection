@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "microservice_router.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//microservice_router.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "microservice_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "microservice_router/microservice_router_test.go"
+        ],
+        "solution": [
+            "microservice_router/microservice_router.go",
+            "microservice_router/go.mod"
+        ],
+        "example": [
+            "microservice_router/.meta//microservice_router.go",
+            "microservice_router/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "social_graph.go"
+        ],
+        "example": [
+            ".meta//social_graph.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "social_graph_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_graph/cases_test.go",
+            "social_graph/social_graph_test.go",
+            "social_graph/go.mod"
+        ],
+        "solution": [
+            "social_graph/social_graph.go"
+        ],
+        "example": [
+            "social_graph/.meta//social_graph.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_wfq.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//distributed_wfq.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "distributed_wfq_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_wfq/distributed_wfq_test.go"
+        ],
+        "solution": [
+            "distributed_wfq/distributed_wfq.go",
+            "distributed_wfq/go.mod"
+        ],
+        "example": [
+            "distributed_wfq/.meta//distributed_wfq.go",
+            "distributed_wfq/.meta//go.mod"
+        ]
+    }
+}

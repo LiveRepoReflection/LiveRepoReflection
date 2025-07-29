@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "eventual_graph.go",
+            "go.mod",
+            "edges.go"
+        ],
+        "example": [
+            ".meta//eventual_graph.go",
+            ".meta//go.mod",
+            ".meta//edges.go"
+        ],
+        "test": [
+            "eventual_graph_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "eventual_graph/eventual_graph_test.go"
+        ],
+        "solution": [
+            "eventual_graph/eventual_graph.go",
+            "eventual_graph/go.mod",
+            "eventual_graph/edges.go"
+        ],
+        "example": [
+            "eventual_graph/.meta//eventual_graph.go",
+            "eventual_graph/.meta//go.mod",
+            "eventual_graph/.meta//edges.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resource_allocator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//resource_allocator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_allocator/cases_test.go"
+        ],
+        "solution": [
+            "resource_allocator/resource_allocator.go",
+            "resource_allocator/go.mod"
+        ],
+        "example": [
+            "resource_allocator/.meta//resource_allocator.go",
+            "resource_allocator/.meta//go.mod"
+        ]
+    }
+}

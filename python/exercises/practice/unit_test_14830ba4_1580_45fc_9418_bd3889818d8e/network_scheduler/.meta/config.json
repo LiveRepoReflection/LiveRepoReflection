@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_scheduler.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_scheduler.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_scheduler/network_scheduler_test.py"
+        ],
+        "solution": [
+            "network_scheduler/network_scheduler.py",
+            "network_scheduler/__init__.py"
+        ],
+        "example": [
+            "network_scheduler/.meta//network_scheduler.py",
+            "network_scheduler/.meta//__init__.py"
+        ]
+    }
+}

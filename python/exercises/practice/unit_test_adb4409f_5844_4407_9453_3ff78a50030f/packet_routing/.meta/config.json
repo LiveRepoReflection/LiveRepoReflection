@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "packet_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//packet_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "packet_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_routing/packet_routing_test.py"
+        ],
+        "solution": [
+            "packet_routing/packet_routing.py",
+            "packet_routing/__init__.py"
+        ],
+        "example": [
+            "packet_routing/.meta//packet_routing.py",
+            "packet_routing/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/RateLimiter.java",
+            "src/main/java/TimeProvider.java",
+            "src/main/java/DefaultTimeProvider.java"
+        ],
+        "example": [
+            ".meta//src/main/java/RateLimiter.java",
+            ".meta//src/main/java/TimeProvider.java",
+            ".meta//src/main/java/DefaultTimeProvider.java"
+        ],
+        "test": [
+            "src/test/java/RateLimiterTest.java",
+            "src/test/java/TimeProvider.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limit/build.gradle",
+            "rate_limit/src/test/java/RateLimiterTest.java",
+            "rate_limit/src/test/java/TimeProvider.java"
+        ],
+        "solution": [
+            "rate_limit/src/main/java/RateLimiter.java",
+            "rate_limit/src/main/java/TimeProvider.java",
+            "rate_limit/src/main/java/DefaultTimeProvider.java"
+        ],
+        "example": [
+            "rate_limit/.meta//src/main/java/RateLimiter.java",
+            "rate_limit/.meta//src/main/java/TimeProvider.java",
+            "rate_limit/.meta//src/main/java/DefaultTimeProvider.java"
+        ]
+    }
+}

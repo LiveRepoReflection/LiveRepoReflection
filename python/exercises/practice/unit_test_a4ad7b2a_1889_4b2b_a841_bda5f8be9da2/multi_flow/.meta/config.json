@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "multi_flow.py"
+        ],
+        "example": [
+            ".meta//multi_flow.py"
+        ],
+        "test": [
+            "multi_flow_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_flow/multi_flow_test.py"
+        ],
+        "solution": [
+            "multi_flow/multi_flow.py"
+        ],
+        "example": [
+            "multi_flow/.meta//multi_flow.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_capacity.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//route_capacity.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "route_capacity_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_capacity/route_capacity_test.py"
+        ],
+        "solution": [
+            "route_capacity/route_capacity.py",
+            "route_capacity/__init__.py"
+        ],
+        "example": [
+            "route_capacity/.meta//route_capacity.py",
+            "route_capacity/.meta//__init__.py"
+        ]
+    }
+}

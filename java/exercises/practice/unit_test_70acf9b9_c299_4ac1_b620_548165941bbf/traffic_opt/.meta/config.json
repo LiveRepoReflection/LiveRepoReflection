@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Road.java",
+            "src/main/java/OdPair.java",
+            "src/main/java/OptimizationResult.java",
+            "src/main/java/TrafficOptimizer.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Road.java",
+            ".meta//src/main/java/OdPair.java",
+            ".meta//src/main/java/OptimizationResult.java",
+            ".meta//src/main/java/TrafficOptimizer.java"
+        ],
+        "test": [
+            "src/test/java/TrafficOptTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_opt/src/test/java/TrafficOptTest.java"
+        ],
+        "solution": [
+            "traffic_opt/build.gradle",
+            "traffic_opt/src/main/java/Road.java",
+            "traffic_opt/src/main/java/OdPair.java",
+            "traffic_opt/src/main/java/OptimizationResult.java",
+            "traffic_opt/src/main/java/TrafficOptimizer.java"
+        ],
+        "example": [
+            "traffic_opt/.meta//build.gradle",
+            "traffic_opt/.meta//src/main/java/Road.java",
+            "traffic_opt/.meta//src/main/java/OdPair.java",
+            "traffic_opt/.meta//src/main/java/OptimizationResult.java",
+            "traffic_opt/.meta//src/main/java/TrafficOptimizer.java"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "atms_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//atms_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "atms_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "atms_optimizer/atms_optimizer_test.py",
+            "atms_optimizer/__init__.py"
+        ],
+        "solution": [
+            "atms_optimizer/atms_optimizer.py",
+            "atms_optimizer/__init__.py"
+        ],
+        "example": [
+            "atms_optimizer/.meta//atms_optimizer.py",
+            "atms_optimizer/.meta//__init__.py"
+        ]
+    }
+}

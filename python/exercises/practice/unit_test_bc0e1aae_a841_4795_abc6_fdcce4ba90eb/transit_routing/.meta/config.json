@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transit_routing.py"
+        ],
+        "example": [
+            ".meta//transit_routing.py"
+        ],
+        "test": [
+            "transit_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transit_routing/transit_routing_test.py"
+        ],
+        "solution": [
+            "transit_routing/transit_routing.py"
+        ],
+        "example": [
+            "transit_routing/.meta//transit_routing.py"
+        ]
+    }
+}

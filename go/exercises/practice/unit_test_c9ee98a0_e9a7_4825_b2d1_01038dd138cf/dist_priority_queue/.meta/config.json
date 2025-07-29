@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distpriorityqueue/queue.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//distpriorityqueue/queue.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_priority_queue_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_priority_queue/dist_priority_queue_test.go"
+        ],
+        "solution": [
+            "dist_priority_queue/distpriorityqueue/queue.go",
+            "dist_priority_queue/go.mod"
+        ],
+        "example": [
+            "dist_priority_queue/.meta//distpriorityqueue/queue.go",
+            "dist_priority_queue/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_assign_skill.py"
+        ],
+        "example": [
+            ".meta//task_assign_skill.py"
+        ],
+        "test": [
+            "task_assign_skill_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_assign_skill/task_assign_skill_test.py"
+        ],
+        "solution": [
+            "task_assign_skill/task_assign_skill.py"
+        ],
+        "example": [
+            "task_assign_skill/.meta//task_assign_skill.py"
+        ]
+    }
+}

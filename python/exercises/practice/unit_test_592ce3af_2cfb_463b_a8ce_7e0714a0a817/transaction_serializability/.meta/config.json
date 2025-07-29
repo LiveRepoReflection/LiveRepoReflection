@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_serializability.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_serializability.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_transaction_serializability.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_serializability/test_transaction_serializability.py"
+        ],
+        "solution": [
+            "transaction_serializability/transaction_serializability.py",
+            "transaction_serializability/__init__.py"
+        ],
+        "example": [
+            "transaction_serializability/.meta//transaction_serializability.py",
+            "transaction_serializability/.meta//__init__.py"
+        ]
+    }
+}

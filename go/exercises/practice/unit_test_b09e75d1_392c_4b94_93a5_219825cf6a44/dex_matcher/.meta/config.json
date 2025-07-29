@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dex_matcher.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dex_matcher.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dex_matcher_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_matcher/dex_matcher_test.go"
+        ],
+        "solution": [
+            "dex_matcher/dex_matcher.go",
+            "dex_matcher/go.mod"
+        ],
+        "example": [
+            "dex_matcher/.meta//dex_matcher.go",
+            "dex_matcher/.meta//go.mod"
+        ]
+    }
+}

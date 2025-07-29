@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "intergalactic_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//intergalactic_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_intergalactic_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "intergalactic_routing/test_intergalactic_routing.py"
+        ],
+        "solution": [
+            "intergalactic_routing/intergalactic_routing.py",
+            "intergalactic_routing/__init__.py"
+        ],
+        "example": [
+            "intergalactic_routing/.meta//intergalactic_routing.py",
+            "intergalactic_routing/.meta//__init__.py"
+        ]
+    }
+}

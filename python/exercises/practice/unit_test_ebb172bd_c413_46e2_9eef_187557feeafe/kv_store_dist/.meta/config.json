@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "kv_store_dist.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//kv_store_dist.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_kv_store_dist.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "kv_store_dist/test_kv_store_dist.py"
+        ],
+        "solution": [
+            "kv_store_dist/kv_store_dist.py",
+            "kv_store_dist/__init__.py"
+        ],
+        "example": [
+            "kv_store_dist/.meta//kv_store_dist.py",
+            "kv_store_dist/.meta//__init__.py"
+        ]
+    }
+}

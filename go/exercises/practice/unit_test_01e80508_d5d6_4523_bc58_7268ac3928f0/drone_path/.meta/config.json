@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "drone_path.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//drone_path.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "drone_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_path/drone_path_test.go"
+        ],
+        "solution": [
+            "drone_path/drone_path.go",
+            "drone_path/go.mod"
+        ],
+        "example": [
+            "drone_path/.meta//drone_path.go",
+            "drone_path/.meta//go.mod"
+        ]
+    }
+}

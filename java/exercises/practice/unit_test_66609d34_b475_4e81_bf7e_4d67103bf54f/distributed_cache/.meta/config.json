@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/DistributedCache.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/DistributedCache.java"
+        ],
+        "test": [
+            "src/test/java/DistributedCacheTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_cache/src/test/java/DistributedCacheTest.java"
+        ],
+        "solution": [
+            "distributed_cache/build.gradle",
+            "distributed_cache/src/main/java/DistributedCache.java"
+        ],
+        "example": [
+            "distributed_cache/.meta//build.gradle",
+            "distributed_cache/.meta//src/main/java/DistributedCache.java"
+        ]
+    }
+}

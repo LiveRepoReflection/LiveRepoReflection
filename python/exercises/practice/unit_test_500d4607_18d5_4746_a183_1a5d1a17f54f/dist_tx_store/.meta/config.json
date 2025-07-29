@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "store.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//store.py"
+        ],
+        "test": [
+            "dist_tx_store_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_store/dist_tx_store_test.py"
+        ],
+        "solution": [
+            "dist_tx_store/__init__.py",
+            "dist_tx_store/store.py"
+        ],
+        "example": [
+            "dist_tx_store/.meta//__init__.py",
+            "dist_tx_store/.meta//store.py"
+        ]
+    }
+}

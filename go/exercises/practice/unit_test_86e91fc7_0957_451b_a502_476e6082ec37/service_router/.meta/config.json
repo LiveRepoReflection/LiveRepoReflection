@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "service_router.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//service_router.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "service_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_router/service_router_test.go",
+            "service_router/service_router.go",
+            "service_router/go.mod"
+        ],
+        "solution": [
+            "service_router/service_router.go",
+            "service_router/go.mod"
+        ],
+        "example": [
+            "service_router/.meta//service_router.go",
+            "service_router/.meta//go.mod"
+        ]
+    }
+}

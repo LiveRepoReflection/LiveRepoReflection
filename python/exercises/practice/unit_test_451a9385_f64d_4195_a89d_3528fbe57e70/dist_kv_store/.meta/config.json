@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "distributed_store.py",
+            "node_manager.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_store.py",
+            ".meta//node_manager.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_distributed_store.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_kv_store/test_distributed_store.py"
+        ],
+        "solution": [
+            "dist_kv_store/distributed_store.py",
+            "dist_kv_store/node_manager.py",
+            "dist_kv_store/__init__.py"
+        ],
+        "example": [
+            "dist_kv_store/.meta//distributed_store.py",
+            "dist_kv_store/.meta//node_manager.py",
+            "dist_kv_store/.meta//__init__.py"
+        ]
+    }
+}

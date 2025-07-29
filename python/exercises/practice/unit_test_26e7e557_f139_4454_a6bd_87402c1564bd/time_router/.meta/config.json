@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "time_router.py",
+            "__main__.py"
+        ],
+        "example": [
+            ".meta//time_router.py",
+            ".meta//__main__.py"
+        ],
+        "test": [
+            "time_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_router/time_router_test.py",
+            "time_router/__init__.py"
+        ],
+        "solution": [
+            "time_router/time_router.py",
+            "time_router/__main__.py"
+        ],
+        "example": [
+            "time_router/.meta//time_router.py",
+            "time_router/.meta//__main__.py"
+        ]
+    }
+}

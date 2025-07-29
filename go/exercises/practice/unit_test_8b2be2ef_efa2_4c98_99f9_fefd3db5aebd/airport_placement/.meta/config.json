@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "airport_placement.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//airport_placement.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "airport_placement_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "airport_placement/airport_placement_test.go"
+        ],
+        "solution": [
+            "airport_placement/airport_placement.go",
+            "airport_placement/go.mod"
+        ],
+        "example": [
+            "airport_placement/.meta//airport_placement.go",
+            "airport_placement/.meta//go.mod"
+        ]
+    }
+}

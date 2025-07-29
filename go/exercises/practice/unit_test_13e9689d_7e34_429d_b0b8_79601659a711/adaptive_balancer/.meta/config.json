@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_balancer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//adaptive_balancer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "adaptive_balancer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_balancer/adaptive_balancer_test.go"
+        ],
+        "solution": [
+            "adaptive_balancer/adaptive_balancer.go",
+            "adaptive_balancer/go.mod"
+        ],
+        "example": [
+            "adaptive_balancer/.meta//adaptive_balancer.go",
+            "adaptive_balancer/.meta//go.mod"
+        ]
+    }
+}

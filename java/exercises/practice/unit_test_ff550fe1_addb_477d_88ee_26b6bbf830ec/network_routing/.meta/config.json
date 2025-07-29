@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Edge.java",
+            "src/main/java/ContentRequest.java",
+            "src/main/java/RoutingDecision.java",
+            "src/main/java/NetworkRouting.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Edge.java",
+            ".meta//src/main/java/ContentRequest.java",
+            ".meta//src/main/java/RoutingDecision.java",
+            ".meta//src/main/java/NetworkRouting.java"
+        ],
+        "test": [
+            "src/test/java/NetworkRoutingTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_routing/src/test/java/NetworkRoutingTest.java"
+        ],
+        "solution": [
+            "network_routing/build.gradle",
+            "network_routing/src/main/java/Edge.java",
+            "network_routing/src/main/java/ContentRequest.java",
+            "network_routing/src/main/java/RoutingDecision.java",
+            "network_routing/src/main/java/NetworkRouting.java"
+        ],
+        "example": [
+            "network_routing/.meta//build.gradle",
+            "network_routing/.meta//src/main/java/Edge.java",
+            "network_routing/.meta//src/main/java/ContentRequest.java",
+            "network_routing/.meta//src/main/java/RoutingDecision.java",
+            "network_routing/.meta//src/main/java/NetworkRouting.java"
+        ]
+    }
+}

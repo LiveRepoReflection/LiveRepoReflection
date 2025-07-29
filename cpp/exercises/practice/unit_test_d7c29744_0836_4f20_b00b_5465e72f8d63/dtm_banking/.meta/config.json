@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtm_banking.h",
+            "dtm_banking.cpp"
+        ],
+        "example": [
+            ".meta//dtm_banking.h",
+            ".meta//dtm_banking.cpp"
+        ],
+        "test": [
+            "dtm_banking_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_banking/dtm_banking_test.cpp"
+        ],
+        "solution": [
+            "dtm_banking/dtm_banking.h",
+            "dtm_banking/dtm_banking.cpp"
+        ],
+        "example": [
+            "dtm_banking/.meta//dtm_banking.h",
+            "dtm_banking/.meta//dtm_banking.cpp"
+        ]
+    }
+}

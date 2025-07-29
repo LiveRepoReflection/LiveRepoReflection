@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TransactionalResource.java",
+            "src/main/java/DistributedTransactionManager.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/TransactionalResource.java",
+            ".meta//src/main/java/DistributedTransactionManager.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/DistributedTxManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxManagerTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/TransactionalResource.java",
+            "distributed_tx/src/main/java/DistributedTransactionManager.java",
+            "distributed_tx/build.gradle"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/TransactionalResource.java",
+            "distributed_tx/.meta//src/main/java/DistributedTransactionManager.java",
+            "distributed_tx/.meta//build.gradle"
+        ]
+    }
+}

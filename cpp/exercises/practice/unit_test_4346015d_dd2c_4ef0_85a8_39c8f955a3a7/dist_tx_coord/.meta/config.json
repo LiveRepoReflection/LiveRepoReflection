@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_tx_coord.h",
+            "dist_tx_coord.cpp"
+        ],
+        "example": [
+            ".meta//dist_tx_coord.h",
+            ".meta//dist_tx_coord.cpp"
+        ],
+        "test": [
+            "dist_tx_coord_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_coord/dist_tx_coord_test.cpp"
+        ],
+        "solution": [
+            "dist_tx_coord/dist_tx_coord.h",
+            "dist_tx_coord/dist_tx_coord.cpp"
+        ],
+        "example": [
+            "dist_tx_coord/.meta//dist_tx_coord.h",
+            "dist_tx_coord/.meta//dist_tx_coord.cpp"
+        ]
+    }
+}

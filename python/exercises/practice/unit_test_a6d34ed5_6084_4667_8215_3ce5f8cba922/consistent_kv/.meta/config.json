@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consistent_kv.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//consistent_kv.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "consistent_kv_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_kv/consistent_kv_test.py"
+        ],
+        "solution": [
+            "consistent_kv/consistent_kv.py",
+            "consistent_kv/__init__.py"
+        ],
+        "example": [
+            "consistent_kv/.meta//consistent_kv.py",
+            "consistent_kv/.meta//__init__.py"
+        ]
+    }
+}

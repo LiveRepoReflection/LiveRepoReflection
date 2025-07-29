@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tiered_kvstore.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//tiered_kvstore.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_tiered_kvstore.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tiered_kvstore/test_tiered_kvstore.py"
+        ],
+        "solution": [
+            "tiered_kvstore/tiered_kvstore.py",
+            "tiered_kvstore/__init__.py"
+        ],
+        "example": [
+            "tiered_kvstore/.meta//tiered_kvstore.py",
+            "tiered_kvstore/.meta//__init__.py"
+        ]
+    }
+}

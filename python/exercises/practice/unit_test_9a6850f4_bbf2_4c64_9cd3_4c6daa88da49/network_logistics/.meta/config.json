@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_logistics.py"
+        ],
+        "example": [
+            ".meta//network_logistics.py"
+        ],
+        "test": [
+            "network_logistics_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_logistics/network_logistics_test.py"
+        ],
+        "solution": [
+            "network_logistics/network_logistics.py"
+        ],
+        "example": [
+            "network_logistics/.meta//network_logistics.py"
+        ]
+    }
+}

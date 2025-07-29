@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "traffic_router.go"
+        ],
+        "example": [
+            ".meta//traffic_router.go"
+        ],
+        "test": [
+            "traffic_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_router/traffic_router_test.go",
+            "traffic_router/go.mod"
+        ],
+        "solution": [
+            "traffic_router/traffic_router.go"
+        ],
+        "example": [
+            "traffic_router/.meta//traffic_router.go"
+        ]
+    }
+}

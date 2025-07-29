@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_profit.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_profit.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_profit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_profit/network_profit_test.go"
+        ],
+        "solution": [
+            "network_profit/network_profit.go",
+            "network_profit/go.mod"
+        ],
+        "example": [
+            "network_profit/.meta//network_profit.go",
+            "network_profit/.meta//go.mod"
+        ]
+    }
+}

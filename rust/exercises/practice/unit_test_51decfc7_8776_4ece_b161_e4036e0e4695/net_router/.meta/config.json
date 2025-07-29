@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/net-router.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_router/tests/net-router.rs",
+            "net_router/Cargo.toml"
+        ],
+        "solution": [
+            "net_router/src/lib.rs",
+            "net_router/Cargo.toml"
+        ],
+        "example": [
+            "net_router/.meta//src/lib.rs",
+            "net_router/.meta//Cargo.toml"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_network.py"
+        ],
+        "example": [
+            ".meta//dynamic_network.py"
+        ],
+        "test": [
+            "dynamic_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_network/dynamic_network_test.py"
+        ],
+        "solution": [
+            "dynamic_network/dynamic_network.py"
+        ],
+        "example": [
+            "dynamic_network/.meta//dynamic_network.py"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "transaction_coordinator",
+  "version": "1.0.0",
+  "description": "In-memory distributed transaction coordinator implementation",
+  "main": "transaction_coordinator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "run_dp_federated.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//run_dp_federated.py"
+        ],
+        "test": [
+            "dp_federated_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dp_federated/dp_federated_test.py"
+        ],
+        "solution": [
+            "dp_federated/__init__.py",
+            "dp_federated/run_dp_federated.py"
+        ],
+        "example": [
+            "dp_federated/.meta//__init__.py",
+            "dp_federated/.meta//run_dp_federated.py"
+        ]
+    }
+}

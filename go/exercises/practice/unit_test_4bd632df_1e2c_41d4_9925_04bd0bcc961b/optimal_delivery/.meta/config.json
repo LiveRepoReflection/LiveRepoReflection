@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "optimal_delivery.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_delivery.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "optimal_delivery_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_delivery/optimal_delivery_test.go",
+            "optimal_delivery/go.mod"
+        ],
+        "solution": [
+            "optimal_delivery/optimal_delivery.go",
+            "optimal_delivery/go.mod"
+        ],
+        "example": [
+            "optimal_delivery/.meta//optimal_delivery.go",
+            "optimal_delivery/.meta//go.mod"
+        ]
+    }
+}

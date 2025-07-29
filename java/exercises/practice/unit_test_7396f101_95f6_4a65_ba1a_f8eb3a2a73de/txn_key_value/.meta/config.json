@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TransactionCoordinator.java",
+            "src/main/java/Node.java",
+            "src/main/java/Transaction.java",
+            "src/main/java/TransactionState.java"
+        ],
+        "example": [
+            ".meta//src/main/java/TransactionCoordinator.java",
+            ".meta//src/main/java/Node.java",
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/TransactionState.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_key_value/build.gradle",
+            "txn_key_value/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "txn_key_value/src/main/java/TransactionCoordinator.java",
+            "txn_key_value/src/main/java/Node.java",
+            "txn_key_value/src/main/java/Transaction.java",
+            "txn_key_value/src/main/java/TransactionState.java"
+        ],
+        "example": [
+            "txn_key_value/.meta//src/main/java/TransactionCoordinator.java",
+            "txn_key_value/.meta//src/main/java/Node.java",
+            "txn_key_value/.meta//src/main/java/Transaction.java",
+            "txn_key_value/.meta//src/main/java/TransactionState.java"
+        ]
+    }
+}

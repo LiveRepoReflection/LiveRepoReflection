@@ -1,0 +1,4 @@
+# No external dependencies required for basic implementation
+# For distributed version, would include:
+# redis>=3.5.0
+# python-memcached>=1.58

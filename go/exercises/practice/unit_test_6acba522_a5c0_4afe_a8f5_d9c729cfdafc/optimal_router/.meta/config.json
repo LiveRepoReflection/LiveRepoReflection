@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "optimal_router.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_router.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "optimal_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_router/optimal_router_test.go",
+            "optimal_router/go.mod"
+        ],
+        "solution": [
+            "optimal_router/optimal_router.go",
+            "optimal_router/go.mod"
+        ],
+        "example": [
+            "optimal_router/.meta//optimal_router.go",
+            "optimal_router/.meta//go.mod"
+        ]
+    }
+}

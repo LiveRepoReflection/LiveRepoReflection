@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "decentralized_ratelimiter.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//decentralized_ratelimiter.go"
+        ],
+        "test": [
+            "decentralized_ratelimiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_ratelimiter/decentralized_ratelimiter_test.go"
+        ],
+        "solution": [
+            "decentralized_ratelimiter/go.mod",
+            "decentralized_ratelimiter/decentralized_ratelimiter.go"
+        ],
+        "example": [
+            "decentralized_ratelimiter/.meta//go.mod",
+            "decentralized_ratelimiter/.meta//decentralized_ratelimiter.go"
+        ]
+    }
+}

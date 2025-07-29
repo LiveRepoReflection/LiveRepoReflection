@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_route.py"
+        ],
+        "example": [
+            ".meta//dynamic_route.py"
+        ],
+        "test": [
+            "dynamic_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_route/dynamic_route_test.py"
+        ],
+        "solution": [
+            "dynamic_route/dynamic_route.py"
+        ],
+        "example": [
+            "dynamic_route/.meta//dynamic_route.py"
+        ]
+    }
+}

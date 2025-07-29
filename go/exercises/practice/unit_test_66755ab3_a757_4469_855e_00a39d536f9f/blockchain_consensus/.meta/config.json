@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "consensus.go"
+        ],
+        "example": [
+            ".meta//consensus.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "consensus_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "blockchain_consensus/cases_test.go",
+            "blockchain_consensus/consensus_test.go",
+            "blockchain_consensus/go.mod"
+        ],
+        "solution": [
+            "blockchain_consensus/consensus.go"
+        ],
+        "example": [
+            "blockchain_consensus/.meta//consensus.go"
+        ]
+    }
+}

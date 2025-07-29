@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "concurrent_tx.go"
+        ],
+        "example": [
+            ".meta//concurrent_tx.go"
+        ],
+        "test": [
+            "concurrent_tx_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "concurrent_tx/concurrent_tx_test.go",
+            "concurrent_tx/go.mod"
+        ],
+        "solution": [
+            "concurrent_tx/concurrent_tx.go"
+        ],
+        "example": [
+            "concurrent_tx/.meta//concurrent_tx.go"
+        ]
+    }
+}

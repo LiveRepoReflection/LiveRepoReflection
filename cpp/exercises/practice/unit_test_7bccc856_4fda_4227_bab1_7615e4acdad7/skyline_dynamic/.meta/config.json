@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "skyline_dynamic.h",
+            "skyline_dynamic.cpp",
+            "main.cpp"
+        ],
+        "example": [
+            ".meta//skyline_dynamic.h",
+            ".meta//skyline_dynamic.cpp",
+            ".meta//main.cpp"
+        ],
+        "test": [
+            "skyline_dynamic_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "skyline_dynamic/skyline_dynamic.h",
+            "skyline_dynamic/skyline_dynamic_test.cpp"
+        ],
+        "solution": [
+            "skyline_dynamic/skyline_dynamic.h",
+            "skyline_dynamic/skyline_dynamic.cpp",
+            "skyline_dynamic/main.cpp"
+        ],
+        "example": [
+            "skyline_dynamic/.meta//skyline_dynamic.h",
+            "skyline_dynamic/.meta//skyline_dynamic.cpp",
+            "skyline_dynamic/.meta//main.cpp"
+        ]
+    }
+}

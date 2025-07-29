@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "node.py",
+            "simulation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//node.py",
+            ".meta//simulation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_decentralized_validator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_validator/test_decentralized_validator.py"
+        ],
+        "solution": [
+            "decentralized_validator/node.py",
+            "decentralized_validator/simulation.py",
+            "decentralized_validator/__init__.py"
+        ],
+        "example": [
+            "decentralized_validator/.meta//node.py",
+            "decentralized_validator/.meta//simulation.py",
+            "decentralized_validator/.meta//__init__.py"
+        ]
+    }
+}

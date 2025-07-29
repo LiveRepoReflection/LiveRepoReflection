@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimize_tolls.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimize_tolls.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dynamic_toll_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_toll/dynamic_toll_test.py"
+        ],
+        "solution": [
+            "dynamic_toll/optimize_tolls.py",
+            "dynamic_toll/__init__.py"
+        ],
+        "example": [
+            "dynamic_toll/.meta//optimize_tolls.py",
+            "dynamic_toll/.meta//__init__.py"
+        ]
+    }
+}

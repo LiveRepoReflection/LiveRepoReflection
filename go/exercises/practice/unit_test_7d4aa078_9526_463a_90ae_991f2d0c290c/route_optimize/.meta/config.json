@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "route_optimize.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//route_optimize.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go",
+            "route_optimize_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optimize/cases_test.go",
+            "route_optimize/route_optimize_test.go",
+            "route_optimize/go.mod"
+        ],
+        "solution": [
+            "route_optimize/route_optimize.go",
+            "route_optimize/go.mod"
+        ],
+        "example": [
+            "route_optimize/.meta//route_optimize.go",
+            "route_optimize/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "realtime_analytics.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//realtime_analytics.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "realtime_analytics_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "realtime_analytics/realtime_analytics_test.go"
+        ],
+        "solution": [
+            "realtime_analytics/realtime_analytics.go",
+            "realtime_analytics/go.mod"
+        ],
+        "example": [
+            "realtime_analytics/.meta//realtime_analytics.go",
+            "realtime_analytics/.meta//go.mod"
+        ]
+    }
+}

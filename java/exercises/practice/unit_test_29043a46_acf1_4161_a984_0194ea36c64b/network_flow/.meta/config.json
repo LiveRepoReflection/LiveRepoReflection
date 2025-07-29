@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkFlowOptimization.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkFlowOptimization.java"
+        ],
+        "test": [
+            "src/test/java/NetworkFlowTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_flow/src/test/java/NetworkFlowTest.java"
+        ],
+        "solution": [
+            "network_flow/build.gradle",
+            "network_flow/src/main/java/NetworkFlowOptimization.java"
+        ],
+        "example": [
+            "network_flow/.meta//build.gradle",
+            "network_flow/.meta//src/main/java/NetworkFlowOptimization.java"
+        ]
+    }
+}

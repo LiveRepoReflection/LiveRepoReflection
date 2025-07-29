@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "supply_chain_design.py"
+        ],
+        "example": [
+            ".meta//supply_chain_design.py"
+        ],
+        "test": [
+            "supply_chain_design_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_chain_design/supply_chain_design_test.py"
+        ],
+        "solution": [
+            "supply_chain_design/supply_chain_design.py"
+        ],
+        "example": [
+            "supply_chain_design/.meta//supply_chain_design.py"
+        ]
+    }
+}

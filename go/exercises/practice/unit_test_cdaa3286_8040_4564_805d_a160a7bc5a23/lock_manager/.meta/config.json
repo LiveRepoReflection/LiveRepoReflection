@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "lock_manager.go",
+            "go.mod",
+            "go.sum"
+        ],
+        "example": [
+            ".meta//lock_manager.go",
+            ".meta//go.mod",
+            ".meta//go.sum"
+        ],
+        "test": [
+            "lock_manager_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "lock_manager/lock_manager_test.go"
+        ],
+        "solution": [
+            "lock_manager/lock_manager.go",
+            "lock_manager/go.mod",
+            "lock_manager/go.sum"
+        ],
+        "example": [
+            "lock_manager/.meta//lock_manager.go",
+            "lock_manager/.meta//go.mod",
+            "lock_manager/.meta//go.sum"
+        ]
+    }
+}

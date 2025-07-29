@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "influence_network.h",
+            "influence_network.cpp"
+        ],
+        "example": [
+            ".meta//influence_network.h",
+            ".meta//influence_network.cpp"
+        ],
+        "test": [
+            "influence_network_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "influence_network/influence_network_test.cpp"
+        ],
+        "solution": [
+            "influence_network/influence_network.h",
+            "influence_network/influence_network.cpp"
+        ],
+        "example": [
+            "influence_network/.meta//influence_network.h",
+            "influence_network/.meta//influence_network.cpp"
+        ]
+    }
+}

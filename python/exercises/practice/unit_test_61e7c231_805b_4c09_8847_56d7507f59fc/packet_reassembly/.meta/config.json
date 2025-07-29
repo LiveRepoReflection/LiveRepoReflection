@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "packet_reassembly.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//packet_reassembly.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "packet_reassembly_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_reassembly/packet_reassembly_test.py"
+        ],
+        "solution": [
+            "packet_reassembly/packet_reassembly.py",
+            "packet_reassembly/__init__.py"
+        ],
+        "example": [
+            "packet_reassembly/.meta//packet_reassembly.py",
+            "packet_reassembly/.meta//__init__.py"
+        ]
+    }
+}

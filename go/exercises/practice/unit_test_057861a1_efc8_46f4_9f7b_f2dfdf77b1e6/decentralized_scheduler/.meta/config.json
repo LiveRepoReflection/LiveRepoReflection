@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_scheduler.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//decentralized_scheduler.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "decentralized_scheduler_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_scheduler/decentralized_scheduler_test.go"
+        ],
+        "solution": [
+            "decentralized_scheduler/decentralized_scheduler.go",
+            "decentralized_scheduler/go.mod"
+        ],
+        "example": [
+            "decentralized_scheduler/.meta//decentralized_scheduler.go",
+            "decentralized_scheduler/.meta//go.mod"
+        ]
+    }
+}

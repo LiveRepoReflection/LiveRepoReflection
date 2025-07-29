@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "intergalactic_router.go"
+        ],
+        "example": [
+            ".meta//intergalactic_router.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "intergalactic_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "intergalactic_router/cases_test.go",
+            "intergalactic_router/intergalactic_router_test.go",
+            "intergalactic_router/go.mod"
+        ],
+        "solution": [
+            "intergalactic_router/intergalactic_router.go"
+        ],
+        "example": [
+            "intergalactic_router/.meta//intergalactic_router.go"
+        ]
+    }
+}

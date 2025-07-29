@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_stream_median.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//data_stream_median.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "data_stream_median_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_stream_median/data_stream_median_test.go"
+        ],
+        "solution": [
+            "data_stream_median/data_stream_median.go",
+            "data_stream_median/go.mod"
+        ],
+        "example": [
+            "data_stream_median/.meta//data_stream_median.go",
+            "data_stream_median/.meta//go.mod"
+        ]
+    }
+}

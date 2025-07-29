@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_balancer.py"
+        ],
+        "example": [
+            ".meta//distributed_balancer.py"
+        ],
+        "test": [
+            "distributed_balancer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_balancer/distributed_balancer_test.py"
+        ],
+        "solution": [
+            "distributed_balancer/distributed_balancer.py"
+        ],
+        "example": [
+            "distributed_balancer/.meta//distributed_balancer.py"
+        ]
+    }
+}

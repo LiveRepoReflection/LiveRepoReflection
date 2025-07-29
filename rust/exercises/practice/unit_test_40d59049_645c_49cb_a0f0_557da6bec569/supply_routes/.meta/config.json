@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/test_supply_routes.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_routes/tests/test_supply_routes.rs"
+        ],
+        "solution": [
+            "supply_routes/src/lib.rs",
+            "supply_routes/Cargo.toml"
+        ],
+        "example": [
+            "supply_routes/.meta//src/lib.rs",
+            "supply_routes/.meta//Cargo.toml"
+        ]
+    }
+}

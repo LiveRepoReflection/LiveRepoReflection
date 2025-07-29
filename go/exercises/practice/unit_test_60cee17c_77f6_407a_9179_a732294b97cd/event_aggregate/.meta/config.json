@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_aggregate.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//event_aggregate.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "event_aggregate_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_aggregate/event_aggregate_test.go"
+        ],
+        "solution": [
+            "event_aggregate/event_aggregate.go",
+            "event_aggregate/go.mod"
+        ],
+        "example": [
+            "event_aggregate/.meta//event_aggregate.go",
+            "event_aggregate/.meta//go.mod"
+        ]
+    }
+}

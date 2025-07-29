@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dao.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dao.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dao_rollback.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_rollback/test_dao_rollback.py"
+        ],
+        "solution": [
+            "dao_rollback/dao.py",
+            "dao_rollback/__init__.py"
+        ],
+        "example": [
+            "dao_rollback/.meta//dao.py",
+            "dao_rollback/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkFlowScheduler.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkFlowScheduler.java"
+        ],
+        "test": [
+            "src/test/java/NetworkSchedulerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_scheduler/src/test/java/NetworkSchedulerTest.java"
+        ],
+        "solution": [
+            "network_scheduler/build.gradle",
+            "network_scheduler/src/main/java/NetworkFlowScheduler.java"
+        ],
+        "example": [
+            "network_scheduler/.meta//build.gradle",
+            "network_scheduler/.meta//src/main/java/NetworkFlowScheduler.java"
+        ]
+    }
+}

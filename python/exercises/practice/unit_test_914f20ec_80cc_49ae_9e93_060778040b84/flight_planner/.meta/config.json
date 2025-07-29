@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "flight_planner.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//flight_planner.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_flight_planner.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flight_planner/test_flight_planner.py"
+        ],
+        "solution": [
+            "flight_planner/flight_planner.py",
+            "flight_planner/__init__.py"
+        ],
+        "example": [
+            "flight_planner/.meta//flight_planner.py",
+            "flight_planner/.meta//__init__.py"
+        ]
+    }
+}

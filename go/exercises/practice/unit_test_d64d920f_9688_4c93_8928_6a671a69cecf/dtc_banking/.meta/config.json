@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dtc_banking.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dtc_banking.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_banking/cases_test.go"
+        ],
+        "solution": [
+            "dtc_banking/dtc_banking.go",
+            "dtc_banking/go.mod"
+        ],
+        "example": [
+            "dtc_banking/.meta//dtc_banking.go",
+            "dtc_banking/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_path.py"
+        ],
+        "example": [
+            ".meta//optimal_path.py"
+        ],
+        "test": [
+            "optimal_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_path/optimal_path_test.py"
+        ],
+        "solution": [
+            "optimal_path/optimal_path.py"
+        ],
+        "example": [
+            "optimal_path/.meta//optimal_path.py"
+        ]
+    }
+}

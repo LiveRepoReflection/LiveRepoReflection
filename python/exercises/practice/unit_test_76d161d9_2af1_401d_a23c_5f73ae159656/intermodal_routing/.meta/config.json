@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "intermodal_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//intermodal_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "intermodal_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "intermodal_routing/intermodal_routing_test.py"
+        ],
+        "solution": [
+            "intermodal_routing/intermodal_routing.py",
+            "intermodal_routing/__init__.py"
+        ],
+        "example": [
+            "intermodal_routing/.meta//intermodal_routing.py",
+            "intermodal_routing/.meta//__init__.py"
+        ]
+    }
+}

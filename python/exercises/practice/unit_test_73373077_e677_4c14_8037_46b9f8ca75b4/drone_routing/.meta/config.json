@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "drone_routing.py"
+        ],
+        "example": [
+            ".meta//drone_routing.py"
+        ],
+        "test": [
+            "drone_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_routing/drone_routing_test.py"
+        ],
+        "solution": [
+            "drone_routing/drone_routing.py"
+        ],
+        "example": [
+            "drone_routing/.meta//drone_routing.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consistent_kv.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//consistent_kv.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "consistent_kv_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_kv/consistent_kv_test.go"
+        ],
+        "solution": [
+            "consistent_kv/consistent_kv.go",
+            "consistent_kv/go.mod"
+        ],
+        "example": [
+            "consistent_kv/.meta//consistent_kv.go",
+            "consistent_kv/.meta//go.mod"
+        ]
+    }
+}

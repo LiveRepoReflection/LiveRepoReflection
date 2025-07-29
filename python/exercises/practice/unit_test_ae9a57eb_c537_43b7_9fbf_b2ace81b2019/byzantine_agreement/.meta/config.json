@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_agreement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//byzantine_agreement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "byzantine_agreement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_agreement/byzantine_agreement_test.py"
+        ],
+        "solution": [
+            "byzantine_agreement/byzantine_agreement.py",
+            "byzantine_agreement/__init__.py"
+        ],
+        "example": [
+            "byzantine_agreement/.meta//byzantine_agreement.py",
+            "byzantine_agreement/.meta//__init__.py"
+        ]
+    }
+}

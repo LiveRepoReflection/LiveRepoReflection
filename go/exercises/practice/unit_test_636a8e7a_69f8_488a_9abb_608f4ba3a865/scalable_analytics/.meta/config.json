@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "scalable_analytics.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//scalable_analytics.go"
+        ],
+        "test": [
+            "scalable_analytics_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "scalable_analytics/scalable_analytics_test.go"
+        ],
+        "solution": [
+            "scalable_analytics/go.mod",
+            "scalable_analytics/scalable_analytics.go"
+        ],
+        "example": [
+            "scalable_analytics/.meta//go.mod",
+            "scalable_analytics/.meta//scalable_analytics.go"
+        ]
+    }
+}

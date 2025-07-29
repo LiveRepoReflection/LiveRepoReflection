@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "circuit_optimizer.go"
+        ],
+        "example": [
+            ".meta//circuit_optimizer.go"
+        ],
+        "test": [
+            "circuit_optimizer_test.go",
+            "types.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "circuit_optimizer/circuit_optimizer_test.go",
+            "circuit_optimizer/go.mod",
+            "circuit_optimizer/types.go"
+        ],
+        "solution": [
+            "circuit_optimizer/circuit_optimizer.go"
+        ],
+        "example": [
+            "circuit_optimizer/.meta//circuit_optimizer.go"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "coordinator.go",
+            "mock_services.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//coordinator.go",
+            ".meta//mock_services.go"
+        ],
+        "test": [
+            "coordinator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_coord/coordinator_test.go"
+        ],
+        "solution": [
+            "dist_tx_coord/go.mod",
+            "dist_tx_coord/coordinator.go",
+            "dist_tx_coord/mock_services.go"
+        ],
+        "example": [
+            "dist_tx_coord/.meta//go.mod",
+            "dist_tx_coord/.meta//coordinator.go",
+            "dist_tx_coord/.meta//mock_services.go"
+        ]
+    }
+}

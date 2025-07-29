@@ -1,0 +1,11 @@
+{
+  "name": "distributed_wfq",
+  "version": "1.0.0",
+  "description": "Distributed WFQ Rate Limiter implementation with weighted fair queuing",
+  "main": "distributed_wfq.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT"
+}

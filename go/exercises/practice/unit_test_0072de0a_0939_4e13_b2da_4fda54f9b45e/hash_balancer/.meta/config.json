@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "hash_balancer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//hash_balancer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "hash_balancer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "hash_balancer/hash_balancer_test.go"
+        ],
+        "solution": [
+            "hash_balancer/hash_balancer.go",
+            "hash_balancer/go.mod"
+        ],
+        "example": [
+            "hash_balancer/.meta//hash_balancer.go",
+            "hash_balancer/.meta//go.mod"
+        ]
+    }
+}

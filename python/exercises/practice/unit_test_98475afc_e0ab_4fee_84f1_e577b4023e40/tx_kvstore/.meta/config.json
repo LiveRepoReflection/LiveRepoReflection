@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_kvstore.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//tx_kvstore.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "tx_kvstore_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_kvstore/tx_kvstore_test.py"
+        ],
+        "solution": [
+            "tx_kvstore/tx_kvstore.py",
+            "tx_kvstore/__init__.py"
+        ],
+        "example": [
+            "tx_kvstore/.meta//tx_kvstore.py",
+            "tx_kvstore/.meta//__init__.py"
+        ]
+    }
+}

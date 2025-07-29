@@ -1,0 +1,1 @@
+from .emergency_routing import optimal_routing

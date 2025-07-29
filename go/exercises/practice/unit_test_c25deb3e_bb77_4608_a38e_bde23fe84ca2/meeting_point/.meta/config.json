@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "meeting_point.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//meeting_point.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "meeting_point_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_point/meeting_point_test.go"
+        ],
+        "solution": [
+            "meeting_point/meeting_point.go",
+            "meeting_point/go.mod"
+        ],
+        "example": [
+            "meeting_point/.meta//meeting_point.go",
+            "meeting_point/.meta//go.mod"
+        ]
+    }
+}

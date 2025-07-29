@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "traffic_paths.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//traffic_paths.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_traffic_paths.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_paths/test_traffic_paths.py"
+        ],
+        "solution": [
+            "traffic_paths/traffic_paths.py",
+            "traffic_paths/__init__.py",
+            "traffic_paths/README.md"
+        ],
+        "example": [
+            "traffic_paths/.meta//traffic_paths.py",
+            "traffic_paths/.meta//__init__.py",
+            "traffic_paths/.meta//README.md"
+        ]
+    }
+}

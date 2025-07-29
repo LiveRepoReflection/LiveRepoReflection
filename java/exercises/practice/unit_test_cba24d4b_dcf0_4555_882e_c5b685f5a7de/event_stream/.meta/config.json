@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Event.java",
+            "src/main/java/EventAggregator.java",
+            "src/main/java/EventAggregatorImpl.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Event.java",
+            ".meta//src/main/java/EventAggregator.java",
+            ".meta//src/main/java/EventAggregatorImpl.java"
+        ],
+        "test": [
+            "src/test/java/EventAggregatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_stream/src/test/java/EventAggregatorTest.java"
+        ],
+        "solution": [
+            "event_stream/build.gradle",
+            "event_stream/src/main/java/Event.java",
+            "event_stream/src/main/java/EventAggregator.java",
+            "event_stream/src/main/java/EventAggregatorImpl.java"
+        ],
+        "example": [
+            "event_stream/.meta//build.gradle",
+            "event_stream/.meta//src/main/java/Event.java",
+            "event_stream/.meta//src/main/java/EventAggregator.java",
+            "event_stream/.meta//src/main/java/EventAggregatorImpl.java"
+        ]
+    }
+}

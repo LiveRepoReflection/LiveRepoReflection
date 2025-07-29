@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "fleet_dispatch.py"
+        ],
+        "example": [
+            ".meta//fleet_dispatch.py"
+        ],
+        "test": [
+            "fleet_dispatch_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "fleet_dispatch/fleet_dispatch_test.py"
+        ],
+        "solution": [
+            "fleet_dispatch/fleet_dispatch.py"
+        ],
+        "example": [
+            "fleet_dispatch/.meta//fleet_dispatch.py"
+        ]
+    }
+}

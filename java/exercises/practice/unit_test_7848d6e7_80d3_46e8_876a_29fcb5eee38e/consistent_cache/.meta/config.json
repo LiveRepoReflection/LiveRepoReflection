@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/CacheNode.java",
+            "src/main/java/ConsistentHashRing.java",
+            "src/main/java/DistributedConsistentCache.java"
+        ],
+        "example": [
+            ".meta//src/main/java/CacheNode.java",
+            ".meta//src/main/java/ConsistentHashRing.java",
+            ".meta//src/main/java/DistributedConsistentCache.java"
+        ],
+        "test": [
+            "src/test/java/DistributedConsistentCacheTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_cache/src/test/java/DistributedConsistentCacheTest.java"
+        ],
+        "solution": [
+            "consistent_cache/src/main/java/CacheNode.java",
+            "consistent_cache/src/main/java/ConsistentHashRing.java",
+            "consistent_cache/src/main/java/DistributedConsistentCache.java"
+        ],
+        "example": [
+            "consistent_cache/.meta//src/main/java/CacheNode.java",
+            "consistent_cache/.meta//src/main/java/ConsistentHashRing.java",
+            "consistent_cache/.meta//src/main/java/DistributedConsistentCache.java"
+        ]
+    }
+}

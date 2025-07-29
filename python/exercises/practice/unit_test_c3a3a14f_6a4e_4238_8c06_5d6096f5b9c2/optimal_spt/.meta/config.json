@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "optimal_spt.py"
+        ],
+        "example": [
+            ".meta//optimal_spt.py"
+        ],
+        "test": [
+            "test_optimal_spt.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_spt/test_optimal_spt.py",
+            "optimal_spt/__init__.py"
+        ],
+        "solution": [
+            "optimal_spt/optimal_spt.py"
+        ],
+        "example": [
+            "optimal_spt/.meta//optimal_spt.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "exit_placement.py"
+        ],
+        "example": [
+            ".meta//exit_placement.py"
+        ],
+        "test": [
+            "exit_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "exit_placement/exit_placement_test.py"
+        ],
+        "solution": [
+            "exit_placement/exit_placement.py"
+        ],
+        "example": [
+            "exit_placement/.meta//exit_placement.py"
+        ]
+    }
+}

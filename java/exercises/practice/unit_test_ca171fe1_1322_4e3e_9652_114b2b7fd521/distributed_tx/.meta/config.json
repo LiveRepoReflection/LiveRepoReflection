@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TransactionManager.java",
+            "src/main/java/Transaction.java",
+            "src/main/java/TransactionLog.java",
+            "src/main/java/ServiceProxy.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TransactionManager.java",
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/TransactionLog.java",
+            ".meta//src/main/java/ServiceProxy.java"
+        ],
+        "test": [
+            "src/test/java/TransactionManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionManagerTest.java"
+        ],
+        "solution": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/TransactionManager.java",
+            "distributed_tx/src/main/java/Transaction.java",
+            "distributed_tx/src/main/java/TransactionLog.java",
+            "distributed_tx/src/main/java/ServiceProxy.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/TransactionManager.java",
+            "distributed_tx/.meta//src/main/java/Transaction.java",
+            "distributed_tx/.meta//src/main/java/TransactionLog.java",
+            "distributed_tx/.meta//src/main/java/ServiceProxy.java"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "median_tracker.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//median_tracker.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "median_tracker_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "median_tracker/median_tracker_test.go"
+        ],
+        "solution": [
+            "median_tracker/median_tracker.go",
+            "median_tracker/go.mod"
+        ],
+        "example": [
+            "median_tracker/.meta//median_tracker.go",
+            "median_tracker/.meta//go.mod"
+        ]
+    }
+}

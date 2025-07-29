@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "optimal_placement.go"
+        ],
+        "example": [
+            ".meta//optimal_placement.go"
+        ],
+        "test": [
+            "optimal_placement_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_placement/optimal_placement_test.go",
+            "optimal_placement/cases_test.go",
+            "optimal_placement/go.mod"
+        ],
+        "solution": [
+            "optimal_placement/optimal_placement.go"
+        ],
+        "example": [
+            "optimal_placement/.meta//optimal_placement.go"
+        ]
+    }
+}

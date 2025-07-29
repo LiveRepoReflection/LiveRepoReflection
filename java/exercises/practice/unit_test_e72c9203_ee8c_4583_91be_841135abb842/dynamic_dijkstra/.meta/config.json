@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DynamicDijkstra.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DynamicDijkstra.java"
+        ],
+        "test": [
+            "src/test/java/DynamicDijkstraTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_dijkstra/build.gradle",
+            "dynamic_dijkstra/src/test/java/DynamicDijkstraTest.java"
+        ],
+        "solution": [
+            "dynamic_dijkstra/src/main/java/DynamicDijkstra.java"
+        ],
+        "example": [
+            "dynamic_dijkstra/.meta//src/main/java/DynamicDijkstra.java"
+        ]
+    }
+}

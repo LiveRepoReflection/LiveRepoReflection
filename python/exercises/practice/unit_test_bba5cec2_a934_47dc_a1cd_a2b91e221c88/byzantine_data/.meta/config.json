@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_data.py"
+        ],
+        "example": [
+            ".meta//byzantine_data.py"
+        ],
+        "test": [
+            "byzantine_data_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_data/byzantine_data_test.py"
+        ],
+        "solution": [
+            "byzantine_data/byzantine_data.py"
+        ],
+        "example": [
+            "byzantine_data/.meta//byzantine_data.py"
+        ]
+    }
+}

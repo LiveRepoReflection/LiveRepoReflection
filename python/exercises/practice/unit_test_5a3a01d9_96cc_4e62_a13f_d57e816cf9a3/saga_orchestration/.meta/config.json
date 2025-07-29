@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "saga_orchestration.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//saga_orchestration.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_saga_orchestration.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_orchestration/test_saga_orchestration.py"
+        ],
+        "solution": [
+            "saga_orchestration/saga_orchestration.py",
+            "saga_orchestration/__init__.py"
+        ],
+        "example": [
+            "saga_orchestration/.meta//saga_orchestration.py",
+            "saga_orchestration/.meta//__init__.py"
+        ]
+    }
+}

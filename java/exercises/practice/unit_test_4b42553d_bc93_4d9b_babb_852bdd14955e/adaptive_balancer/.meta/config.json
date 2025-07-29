@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/AdaptiveBalancer.java",
+            "src/main/java/Server.java",
+            "src/main/java/Request.java",
+            "src/main/java/Priority.java"
+        ],
+        "example": [
+            ".meta//src/main/java/AdaptiveBalancer.java",
+            ".meta//src/main/java/Server.java",
+            ".meta//src/main/java/Request.java",
+            ".meta//src/main/java/Priority.java"
+        ],
+        "test": [
+            "src/test/java/AdaptiveBalancerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_balancer/src/test/java/AdaptiveBalancerTest.java"
+        ],
+        "solution": [
+            "adaptive_balancer/src/main/java/AdaptiveBalancer.java",
+            "adaptive_balancer/src/main/java/Server.java",
+            "adaptive_balancer/src/main/java/Request.java",
+            "adaptive_balancer/src/main/java/Priority.java"
+        ],
+        "example": [
+            "adaptive_balancer/.meta//src/main/java/AdaptiveBalancer.java",
+            "adaptive_balancer/.meta//src/main/java/Server.java",
+            "adaptive_balancer/.meta//src/main/java/Request.java",
+            "adaptive_balancer/.meta//src/main/java/Priority.java"
+        ]
+    }
+}

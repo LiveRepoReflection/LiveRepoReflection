@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "microservice_cache.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//microservice_cache.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "microservice_cache_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microservice_cache/microservice_cache_test.py"
+        ],
+        "solution": [
+            "microservice_cache/microservice_cache.py",
+            "microservice_cache/__init__.py"
+        ],
+        "example": [
+            "microservice_cache/.meta//microservice_cache.py",
+            "microservice_cache/.meta//__init__.py"
+        ]
+    }
+}

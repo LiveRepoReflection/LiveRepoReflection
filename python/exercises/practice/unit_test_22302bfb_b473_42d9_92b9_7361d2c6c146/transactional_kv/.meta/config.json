@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transactional_kv.py"
+        ],
+        "example": [
+            ".meta//transactional_kv.py"
+        ],
+        "test": [
+            "transactional_kv_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transactional_kv/transactional_kv_test.py"
+        ],
+        "solution": [
+            "transactional_kv/transactional_kv.py"
+        ],
+        "example": [
+            "transactional_kv/.meta//transactional_kv.py"
+        ]
+    }
+}

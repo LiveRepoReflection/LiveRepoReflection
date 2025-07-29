@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "max_flow.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//max_flow.go",
+            ".meta//go.mod",
+            ".meta//max_flow_example_test.go"
+        ],
+        "test": [
+            "max_flow_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "max_flow/max_flow_test.go",
+            "max_flow/max_flow.go"
+        ],
+        "solution": [
+            "max_flow/max_flow.go",
+            "max_flow/go.mod",
+            "max_flow/max_flow_example_test.go"
+        ],
+        "example": [
+            "max_flow/.meta//max_flow.go",
+            "max_flow/.meta//go.mod",
+            "max_flow/.meta//max_flow_example_test.go"
+        ]
+    }
+}

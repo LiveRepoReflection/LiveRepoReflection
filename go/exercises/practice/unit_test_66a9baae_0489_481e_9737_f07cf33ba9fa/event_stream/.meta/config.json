@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_stream.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//event_stream.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "event_stream_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_stream/event_stream_test.go"
+        ],
+        "solution": [
+            "event_stream/event_stream.go",
+            "event_stream/go.mod"
+        ],
+        "example": [
+            "event_stream/.meta//event_stream.go",
+            "event_stream/.meta//go.mod"
+        ]
+    }
+}

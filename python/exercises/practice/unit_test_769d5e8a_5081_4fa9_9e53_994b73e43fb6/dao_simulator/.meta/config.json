@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dao_simulator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dao_simulator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_dao_simulator.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_simulator/test_dao_simulator.py"
+        ],
+        "solution": [
+            "dao_simulator/dao_simulator.py",
+            "dao_simulator/__init__.py"
+        ],
+        "example": [
+            "dao_simulator/.meta//dao_simulator.py",
+            "dao_simulator/.meta//__init__.py"
+        ]
+    }
+}

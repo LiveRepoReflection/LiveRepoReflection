@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "scalable_rate_limiter.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//scalable_rate_limiter.go"
+        ],
+        "test": [
+            "scalable_rate_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "scalable_rate_limiter/scalable_rate_limiter_test.go"
+        ],
+        "solution": [
+            "scalable_rate_limiter/go.mod",
+            "scalable_rate_limiter/scalable_rate_limiter.go"
+        ],
+        "example": [
+            "scalable_rate_limiter/.meta//go.mod",
+            "scalable_rate_limiter/.meta//scalable_rate_limiter.go"
+        ]
+    }
+}

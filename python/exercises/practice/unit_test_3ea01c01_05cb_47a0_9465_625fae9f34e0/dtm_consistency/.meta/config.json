@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "dtm.py",
+            "__init__.py",
+            "exceptions.py"
+        ],
+        "example": [
+            ".meta//dtm.py",
+            ".meta//__init__.py",
+            ".meta//exceptions.py"
+        ],
+        "test": [
+            "test_dtm_consistency.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtm_consistency/test_dtm_consistency.py"
+        ],
+        "solution": [
+            "dtm_consistency/dtm.py",
+            "dtm_consistency/__init__.py",
+            "dtm_consistency/exceptions.py"
+        ],
+        "example": [
+            "dtm_consistency/.meta//dtm.py",
+            "dtm_consistency/.meta//__init__.py",
+            "dtm_consistency/.meta//exceptions.py"
+        ]
+    }
+}

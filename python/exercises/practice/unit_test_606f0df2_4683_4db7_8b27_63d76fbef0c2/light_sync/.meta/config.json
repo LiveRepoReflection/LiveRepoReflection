@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "light_sync.py"
+        ],
+        "example": [
+            ".meta//light_sync.py"
+        ],
+        "test": [
+            "light_sync_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "light_sync/light_sync_test.py"
+        ],
+        "solution": [
+            "light_sync/light_sync.py"
+        ],
+        "example": [
+            "light_sync/.meta//light_sync.py"
+        ]
+    }
+}

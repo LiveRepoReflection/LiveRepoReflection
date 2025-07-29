@@ -1,0 +1,64 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Graph.java",
+            "src/main/java/Intersection.java",
+            "src/main/java/Road.java",
+            "src/main/java/VehicleRequest.java",
+            "src/main/java/SimulationParameters.java",
+            "src/main/java/VehicleLog.java",
+            "src/main/java/TrafficLightPolicy.java",
+            "src/main/java/PerformanceMetrics.java",
+            "src/main/java/SimulationResult.java",
+            "src/main/java/TrafficMaster.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Graph.java",
+            ".meta//src/main/java/Intersection.java",
+            ".meta//src/main/java/Road.java",
+            ".meta//src/main/java/VehicleRequest.java",
+            ".meta//src/main/java/SimulationParameters.java",
+            ".meta//src/main/java/VehicleLog.java",
+            ".meta//src/main/java/TrafficLightPolicy.java",
+            ".meta//src/main/java/PerformanceMetrics.java",
+            ".meta//src/main/java/SimulationResult.java",
+            ".meta//src/main/java/TrafficMaster.java"
+        ],
+        "test": [
+            "src/test/java/TrafficMasterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_master/src/test/java/TrafficMasterTest.java"
+        ],
+        "solution": [
+            "traffic_master/build.gradle",
+            "traffic_master/src/main/java/Graph.java",
+            "traffic_master/src/main/java/Intersection.java",
+            "traffic_master/src/main/java/Road.java",
+            "traffic_master/src/main/java/VehicleRequest.java",
+            "traffic_master/src/main/java/SimulationParameters.java",
+            "traffic_master/src/main/java/VehicleLog.java",
+            "traffic_master/src/main/java/TrafficLightPolicy.java",
+            "traffic_master/src/main/java/PerformanceMetrics.java",
+            "traffic_master/src/main/java/SimulationResult.java",
+            "traffic_master/src/main/java/TrafficMaster.java"
+        ],
+        "example": [
+            "traffic_master/.meta//build.gradle",
+            "traffic_master/.meta//src/main/java/Graph.java",
+            "traffic_master/.meta//src/main/java/Intersection.java",
+            "traffic_master/.meta//src/main/java/Road.java",
+            "traffic_master/.meta//src/main/java/VehicleRequest.java",
+            "traffic_master/.meta//src/main/java/SimulationParameters.java",
+            "traffic_master/.meta//src/main/java/VehicleLog.java",
+            "traffic_master/.meta//src/main/java/TrafficLightPolicy.java",
+            "traffic_master/.meta//src/main/java/PerformanceMetrics.java",
+            "traffic_master/.meta//src/main/java/SimulationResult.java",
+            "traffic_master/.meta//src/main/java/TrafficMaster.java"
+        ]
+    }
+}

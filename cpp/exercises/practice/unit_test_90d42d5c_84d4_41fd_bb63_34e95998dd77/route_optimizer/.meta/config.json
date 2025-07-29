@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_optimizer.h",
+            "route_optimizer.cpp"
+        ],
+        "example": [
+            ".meta//route_optimizer.h",
+            ".meta//route_optimizer.cpp"
+        ],
+        "test": [
+            "route_optimizer_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optimizer/route_optimizer_test.cpp"
+        ],
+        "solution": [
+            "route_optimizer/route_optimizer.h",
+            "route_optimizer/route_optimizer.cpp"
+        ],
+        "example": [
+            "route_optimizer/.meta//route_optimizer.h",
+            "route_optimizer/.meta//route_optimizer.cpp"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "train_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//train_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "train_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "train_routing/train_routing_test.py"
+        ],
+        "solution": [
+            "train_routing/train_routing.py",
+            "train_routing/__init__.py"
+        ],
+        "example": [
+            "train_routing/.meta//train_routing.py",
+            "train_routing/.meta//__init__.py"
+        ]
+    }
+}

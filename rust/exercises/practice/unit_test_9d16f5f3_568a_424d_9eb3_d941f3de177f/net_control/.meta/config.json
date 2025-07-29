@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs",
+            "src/network.rs",
+            "src/simulation.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs",
+            ".meta//src/network.rs",
+            ".meta//src/simulation.rs"
+        ],
+        "test": [
+            "tests/net_control.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_control/tests/net_control.rs"
+        ],
+        "solution": [
+            "net_control/Cargo.toml",
+            "net_control/src/lib.rs",
+            "net_control/src/network.rs",
+            "net_control/src/simulation.rs"
+        ],
+        "example": [
+            "net_control/.meta//Cargo.toml",
+            "net_control/.meta//src/lib.rs",
+            "net_control/.meta//src/network.rs",
+            "net_control/.meta//src/simulation.rs"
+        ]
+    }
+}

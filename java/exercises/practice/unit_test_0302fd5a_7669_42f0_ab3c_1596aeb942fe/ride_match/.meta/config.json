@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/ride_match/RideMatcher.java",
+            "src/main/java/ride_match/model/Rider.java",
+            "src/main/java/ride_match/model/Driver.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/ride_match/RideMatcher.java",
+            ".meta//src/main/java/ride_match/model/Rider.java",
+            ".meta//src/main/java/ride_match/model/Driver.java"
+        ],
+        "test": [
+            "src/test/java/RideMatcherTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "ride_match/src/test/java/RideMatcherTest.java"
+        ],
+        "solution": [
+            "ride_match/build.gradle",
+            "ride_match/src/main/java/ride_match/RideMatcher.java",
+            "ride_match/src/main/java/ride_match/model/Rider.java",
+            "ride_match/src/main/java/ride_match/model/Driver.java"
+        ],
+        "example": [
+            "ride_match/.meta//build.gradle",
+            "ride_match/.meta//src/main/java/ride_match/RideMatcher.java",
+            "ride_match/.meta//src/main/java/ride_match/model/Rider.java",
+            "ride_match/.meta//src/main/java/ride_match/model/Driver.java"
+        ]
+    }
+}

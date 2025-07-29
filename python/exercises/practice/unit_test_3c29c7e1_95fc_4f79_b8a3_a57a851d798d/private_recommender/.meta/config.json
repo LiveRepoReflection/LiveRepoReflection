@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "private_recommender.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//private_recommender.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_private_recommender.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "private_recommender/test_private_recommender.py"
+        ],
+        "solution": [
+            "private_recommender/private_recommender.py",
+            "private_recommender/__init__.py"
+        ],
+        "example": [
+            "private_recommender/.meta//private_recommender.py",
+            "private_recommender/.meta//__init__.py"
+        ]
+    }
+}

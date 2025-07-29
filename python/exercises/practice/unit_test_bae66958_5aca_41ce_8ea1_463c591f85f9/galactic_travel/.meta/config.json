@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "galactic_travel.py"
+        ],
+        "example": [
+            ".meta//galactic_travel.py"
+        ],
+        "test": [
+            "galactic_travel_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "galactic_travel/galactic_travel_test.py"
+        ],
+        "solution": [
+            "galactic_travel/galactic_travel.py"
+        ],
+        "example": [
+            "galactic_travel/.meta//galactic_travel.py"
+        ]
+    }
+}

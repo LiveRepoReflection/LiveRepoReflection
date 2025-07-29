@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "net_deploy.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//net_deploy.go"
+        ],
+        "test": [
+            "net_deploy_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_deploy/net_deploy_test.go"
+        ],
+        "solution": [
+            "net_deploy/go.mod",
+            "net_deploy/net_deploy.go"
+        ],
+        "example": [
+            "net_deploy/.meta//go.mod",
+            "net_deploy/.meta//net_deploy.go"
+        ]
+    }
+}

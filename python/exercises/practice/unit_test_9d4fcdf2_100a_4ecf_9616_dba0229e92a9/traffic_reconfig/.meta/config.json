@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_traffic_flow.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_traffic_flow.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "traffic_reconfig_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_reconfig/traffic_reconfig_test.py"
+        ],
+        "solution": [
+            "traffic_reconfig/optimal_traffic_flow.py",
+            "traffic_reconfig/__init__.py"
+        ],
+        "example": [
+            "traffic_reconfig/.meta//optimal_traffic_flow.py",
+            "traffic_reconfig/.meta//__init__.py"
+        ]
+    }
+}

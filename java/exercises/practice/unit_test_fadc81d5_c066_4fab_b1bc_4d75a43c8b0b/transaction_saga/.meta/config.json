@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/transaction_saga/Operation.java",
+            "src/main/java/transaction_saga/TransactionSaga.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/transaction_saga/Operation.java",
+            ".meta//src/main/java/transaction_saga/TransactionSaga.java"
+        ],
+        "test": [
+            "src/test/java/TransactionSagaTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_saga/src/test/java/TransactionSagaTest.java"
+        ],
+        "solution": [
+            "transaction_saga/build.gradle",
+            "transaction_saga/src/main/java/transaction_saga/Operation.java",
+            "transaction_saga/src/main/java/transaction_saga/TransactionSaga.java"
+        ],
+        "example": [
+            "transaction_saga/.meta//build.gradle",
+            "transaction_saga/.meta//src/main/java/transaction_saga/Operation.java",
+            "transaction_saga/.meta//src/main/java/transaction_saga/TransactionSaga.java"
+        ]
+    }
+}

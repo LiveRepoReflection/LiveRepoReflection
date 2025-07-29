@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_analysis.py"
+        ],
+        "example": [
+            ".meta//network_analysis.py"
+        ],
+        "test": [
+            "network_analysis_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_analysis/network_analysis_test.py"
+        ],
+        "solution": [
+            "network_analysis/network_analysis.py"
+        ],
+        "example": [
+            "network_analysis/.meta//network_analysis.py"
+        ]
+    }
+}

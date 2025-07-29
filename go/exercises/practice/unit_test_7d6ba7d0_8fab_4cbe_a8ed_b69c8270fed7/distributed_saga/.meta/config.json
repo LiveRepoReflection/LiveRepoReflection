@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "go.mod"
+        ],
+        "example": [
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_saga/cases_test.go"
+        ],
+        "solution": [
+            "distributed_saga/go.mod"
+        ],
+        "example": [
+            "distributed_saga/.meta//go.mod"
+        ]
+    }
+}

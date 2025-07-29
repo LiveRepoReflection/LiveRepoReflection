@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_commit.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_commit.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "distributed_commit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_commit/distributed_commit_test.py"
+        ],
+        "solution": [
+            "distributed_commit/distributed_commit.py",
+            "distributed_commit/__init__.py"
+        ],
+        "example": [
+            "distributed_commit/.meta//distributed_commit.py",
+            "distributed_commit/.meta//__init__.py"
+        ]
+    }
+}

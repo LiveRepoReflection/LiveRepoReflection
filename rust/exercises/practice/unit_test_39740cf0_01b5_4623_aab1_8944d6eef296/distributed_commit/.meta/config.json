@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/commit_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_commit/tests/commit_test.rs"
+        ],
+        "solution": [
+            "distributed_commit/Cargo.toml",
+            "distributed_commit/src/lib.rs"
+        ],
+        "example": [
+            "distributed_commit/.meta//Cargo.toml",
+            "distributed_commit/.meta//src/lib.rs"
+        ]
+    }
+}

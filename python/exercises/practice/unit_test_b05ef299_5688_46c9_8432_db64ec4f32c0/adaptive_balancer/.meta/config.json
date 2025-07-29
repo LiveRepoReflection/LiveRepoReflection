@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_balancer.py"
+        ],
+        "example": [
+            ".meta//adaptive_balancer.py"
+        ],
+        "test": [
+            "adaptive_balancer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_balancer/adaptive_balancer_test.py"
+        ],
+        "solution": [
+            "adaptive_balancer/adaptive_balancer.py"
+        ],
+        "example": [
+            "adaptive_balancer/.meta//adaptive_balancer.py"
+        ]
+    }
+}

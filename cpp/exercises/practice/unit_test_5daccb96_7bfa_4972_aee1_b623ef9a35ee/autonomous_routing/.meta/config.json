@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "autonomous_routing.h",
+            "autonomous_routing.cpp"
+        ],
+        "example": [
+            ".meta//autonomous_routing.h",
+            ".meta//autonomous_routing.cpp"
+        ],
+        "test": [
+            "autonomous_routing_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "autonomous_routing/autonomous_routing_test.cpp"
+        ],
+        "solution": [
+            "autonomous_routing/autonomous_routing.h",
+            "autonomous_routing/autonomous_routing.cpp"
+        ],
+        "example": [
+            "autonomous_routing/.meta//autonomous_routing.h",
+            "autonomous_routing/.meta//autonomous_routing.cpp"
+        ]
+    }
+}

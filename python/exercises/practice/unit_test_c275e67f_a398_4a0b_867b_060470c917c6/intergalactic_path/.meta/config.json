@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "intergalactic_path.py"
+        ],
+        "example": [
+            ".meta//intergalactic_path.py"
+        ],
+        "test": [
+            "intergalactic_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "intergalactic_path/intergalactic_path_test.py"
+        ],
+        "solution": [
+            "intergalactic_path/intergalactic_path.py"
+        ],
+        "example": [
+            "intergalactic_path/.meta//intergalactic_path.py"
+        ]
+    }
+}

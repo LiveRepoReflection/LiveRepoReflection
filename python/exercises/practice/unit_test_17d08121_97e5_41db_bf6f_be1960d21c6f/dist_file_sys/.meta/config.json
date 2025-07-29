@@ -1,0 +1,44 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "storage_node.py",
+            "metadata_server.py",
+            "dist_file_sys.py",
+            "example_usage.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//storage_node.py",
+            ".meta//metadata_server.py",
+            ".meta//dist_file_sys.py",
+            ".meta//example_usage.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "test_dist_file_sys.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_file_sys/test_dist_file_sys.py"
+        ],
+        "solution": [
+            "dist_file_sys/__init__.py",
+            "dist_file_sys/storage_node.py",
+            "dist_file_sys/metadata_server.py",
+            "dist_file_sys/dist_file_sys.py",
+            "dist_file_sys/example_usage.py",
+            "dist_file_sys/README.md"
+        ],
+        "example": [
+            "dist_file_sys/.meta//__init__.py",
+            "dist_file_sys/.meta//storage_node.py",
+            "dist_file_sys/.meta//metadata_server.py",
+            "dist_file_sys/.meta//dist_file_sys.py",
+            "dist_file_sys/.meta//example_usage.py",
+            "dist_file_sys/.meta//README.md"
+        ]
+    }
+}

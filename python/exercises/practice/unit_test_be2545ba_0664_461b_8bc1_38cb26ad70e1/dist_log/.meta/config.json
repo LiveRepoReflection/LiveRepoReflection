@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dist_log.py"
+        ],
+        "example": [
+            ".meta//dist_log.py"
+        ],
+        "test": [
+            "dist_log_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_log/dist_log_test.py"
+        ],
+        "solution": [
+            "dist_log/dist_log.py"
+        ],
+        "example": [
+            "dist_log/.meta//dist_log.py"
+        ]
+    }
+}

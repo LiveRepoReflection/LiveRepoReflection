@@ -1,0 +1,51 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TaskScheduler.java",
+            "src/main/java/Task.java",
+            "src/main/java/Worker.java",
+            "src/main/java/Assignment.java",
+            "build.gradle",
+            "README.md"
+        ],
+        "example": [
+            ".meta//src/main/java/TaskScheduler.java",
+            ".meta//src/main/java/Task.java",
+            ".meta//src/main/java/Worker.java",
+            ".meta//src/main/java/Assignment.java",
+            ".meta//build.gradle",
+            ".meta//README.md"
+        ],
+        "test": [
+            "src/test/java/TaskSchedulerTest.java",
+            "src/test/java/Task.java",
+            "src/test/java/Worker.java",
+            "src/test/java/Assignment.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduler/src/test/java/TaskSchedulerTest.java",
+            "task_scheduler/src/test/java/Task.java",
+            "task_scheduler/src/test/java/Worker.java",
+            "task_scheduler/src/test/java/Assignment.java",
+            "task_scheduler/build.gradle"
+        ],
+        "solution": [
+            "task_scheduler/src/main/java/TaskScheduler.java",
+            "task_scheduler/src/main/java/Task.java",
+            "task_scheduler/src/main/java/Worker.java",
+            "task_scheduler/src/main/java/Assignment.java",
+            "task_scheduler/build.gradle",
+            "task_scheduler/README.md"
+        ],
+        "example": [
+            "task_scheduler/.meta//src/main/java/TaskScheduler.java",
+            "task_scheduler/.meta//src/main/java/Task.java",
+            "task_scheduler/.meta//src/main/java/Worker.java",
+            "task_scheduler/.meta//src/main/java/Assignment.java",
+            "task_scheduler/.meta//build.gradle",
+            "task_scheduler/.meta//README.md"
+        ]
+    }
+}

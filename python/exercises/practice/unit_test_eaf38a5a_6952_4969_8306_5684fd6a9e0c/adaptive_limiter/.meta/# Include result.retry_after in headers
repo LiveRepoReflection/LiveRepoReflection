@@ -1,0 +1,19 @@
+
+## Edge Cases
+
+The implementation handles:
+
+- Redis failures with retry and failover
+- Time synchronization issues with generous window overlap
+- Sudden traffic spikes with trend analysis
+- Metric collection failures with default values
+
+## Testing Strategy
+
+Testing includes:
+
+1. Unit tests for individual components
+2. Stress tests under high load
+3. Fault injection for Redis failures
+4. Clock drift simulation
+5. Distributed operation verification

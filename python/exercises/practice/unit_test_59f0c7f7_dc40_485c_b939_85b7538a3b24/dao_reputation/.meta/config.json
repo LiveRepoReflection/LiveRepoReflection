@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dao_reputation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dao_reputation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dao_reputation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_reputation/dao_reputation_test.py"
+        ],
+        "solution": [
+            "dao_reputation/dao_reputation.py",
+            "dao_reputation/__init__.py"
+        ],
+        "example": [
+            "dao_reputation/.meta//dao_reputation.py",
+            "dao_reputation/.meta//__init__.py"
+        ]
+    }
+}

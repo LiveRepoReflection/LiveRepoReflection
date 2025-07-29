@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "auto_fleet_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//auto_fleet_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "auto_fleet_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "auto_fleet_route/auto_fleet_route_test.py"
+        ],
+        "solution": [
+            "auto_fleet_route/auto_fleet_route.py",
+            "auto_fleet_route/__init__.py"
+        ],
+        "example": [
+            "auto_fleet_route/.meta//auto_fleet_route.py",
+            "auto_fleet_route/.meta//__init__.py"
+        ]
+    }
+}

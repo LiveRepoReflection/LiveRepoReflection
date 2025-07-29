@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "log_insights.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//log_insights.go"
+        ],
+        "test": [
+            "log_insights_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_insights/log_insights_test.go"
+        ],
+        "solution": [
+            "log_insights/go.mod",
+            "log_insights/log_insights.go"
+        ],
+        "example": [
+            "log_insights/.meta//go.mod",
+            "log_insights/.meta//log_insights.go"
+        ]
+    }
+}

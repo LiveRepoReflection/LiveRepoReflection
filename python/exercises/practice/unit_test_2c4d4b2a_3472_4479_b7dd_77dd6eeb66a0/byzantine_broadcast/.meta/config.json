@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_broadcast.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//byzantine_broadcast.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_byzantine_broadcast.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_broadcast/test_byzantine_broadcast.py"
+        ],
+        "solution": [
+            "byzantine_broadcast/byzantine_broadcast.py",
+            "byzantine_broadcast/__init__.py"
+        ],
+        "example": [
+            "byzantine_broadcast/.meta//byzantine_broadcast.py",
+            "byzantine_broadcast/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_capacity.h",
+            "network_capacity.cpp"
+        ],
+        "example": [
+            ".meta//network_capacity.h",
+            ".meta//network_capacity.cpp"
+        ],
+        "test": [
+            "network_capacity_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_capacity/network_capacity_test.cpp"
+        ],
+        "solution": [
+            "network_capacity/network_capacity.h",
+            "network_capacity/network_capacity.cpp"
+        ],
+        "example": [
+            "network_capacity/.meta//network_capacity.h",
+            "network_capacity/.meta//network_capacity.cpp"
+        ]
+    }
+}

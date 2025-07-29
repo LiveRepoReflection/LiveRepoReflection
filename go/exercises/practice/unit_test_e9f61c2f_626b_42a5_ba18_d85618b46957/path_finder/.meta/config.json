@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "path_finder.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//path_finder.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "path_finder_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "path_finder/path_finder_test.go"
+        ],
+        "solution": [
+            "path_finder/path_finder.go",
+            "path_finder/go.mod"
+        ],
+        "example": [
+            "path_finder/.meta//path_finder.go",
+            "path_finder/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "rate_limiter.py",
+            "request.py",
+            "redis_limiter.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//rate_limiter.py",
+            ".meta//request.py",
+            ".meta//redis_limiter.py"
+        ],
+        "test": [
+            "test_distributed_limiter.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_limiter/test_distributed_limiter.py"
+        ],
+        "solution": [
+            "distributed_limiter/__init__.py",
+            "distributed_limiter/rate_limiter.py",
+            "distributed_limiter/request.py",
+            "distributed_limiter/redis_limiter.py"
+        ],
+        "example": [
+            "distributed_limiter/.meta//__init__.py",
+            "distributed_limiter/.meta//rate_limiter.py",
+            "distributed_limiter/.meta//request.py",
+            "distributed_limiter/.meta//redis_limiter.py"
+        ]
+    }
+}

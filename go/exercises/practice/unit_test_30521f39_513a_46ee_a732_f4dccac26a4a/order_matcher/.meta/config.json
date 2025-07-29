@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "order_matcher.go"
+        ],
+        "example": [
+            ".meta//order_matcher.go"
+        ],
+        "test": [
+            "order_matcher_test.go",
+            "types.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_matcher/order_matcher_test.go",
+            "order_matcher/go.mod",
+            "order_matcher/types.go"
+        ],
+        "solution": [
+            "order_matcher/order_matcher.go"
+        ],
+        "example": [
+            "order_matcher/.meta//order_matcher.go"
+        ]
+    }
+}

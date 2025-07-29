@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "meet_optimal.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//meet_optimal.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "meet_optimal_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "meet_optimal/meet_optimal_test.py"
+        ],
+        "solution": [
+            "meet_optimal/meet_optimal.py",
+            "meet_optimal/__init__.py",
+            "meet_optimal/README.md"
+        ],
+        "example": [
+            "meet_optimal/.meta//meet_optimal.py",
+            "meet_optimal/.meta//__init__.py",
+            "meet_optimal/.meta//README.md"
+        ]
+    }
+}

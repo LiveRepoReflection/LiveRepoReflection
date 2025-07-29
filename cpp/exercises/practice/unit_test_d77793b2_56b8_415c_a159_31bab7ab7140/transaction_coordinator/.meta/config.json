@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_coordinator.h",
+            "transaction_coordinator.cpp"
+        ],
+        "example": [
+            ".meta//transaction_coordinator.h",
+            ".meta//transaction_coordinator.cpp"
+        ],
+        "test": [
+            "transaction_coordinator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_coordinator/transaction_coordinator_test.cpp"
+        ],
+        "solution": [
+            "transaction_coordinator/transaction_coordinator.h",
+            "transaction_coordinator/transaction_coordinator.cpp"
+        ],
+        "example": [
+            "transaction_coordinator/.meta//transaction_coordinator.h",
+            "transaction_coordinator/.meta//transaction_coordinator.cpp"
+        ]
+    }
+}

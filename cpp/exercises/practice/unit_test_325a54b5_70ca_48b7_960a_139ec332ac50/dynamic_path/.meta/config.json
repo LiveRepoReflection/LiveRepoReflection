@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_path.cpp",
+            "dynamic_path.h"
+        ],
+        "example": [
+            ".meta//dynamic_path.cpp",
+            ".meta//dynamic_path.h"
+        ],
+        "test": [
+            "dynamic_path_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_path/dynamic_path_test.cpp",
+            "dynamic_path/dynamic_path.h"
+        ],
+        "solution": [
+            "dynamic_path/dynamic_path.cpp",
+            "dynamic_path/dynamic_path.h"
+        ],
+        "example": [
+            "dynamic_path/.meta//dynamic_path.cpp",
+            "dynamic_path/.meta//dynamic_path.h"
+        ]
+    }
+}

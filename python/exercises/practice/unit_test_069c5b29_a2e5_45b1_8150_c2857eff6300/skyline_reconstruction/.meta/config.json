@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "skyline_reconstruction.py"
+        ],
+        "example": [
+            ".meta//skyline_reconstruction.py"
+        ],
+        "test": [
+            "skyline_reconstruction_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "skyline_reconstruction/skyline_reconstruction_test.py"
+        ],
+        "solution": [
+            "skyline_reconstruction/skyline_reconstruction.py"
+        ],
+        "example": [
+            "skyline_reconstruction/.meta//skyline_reconstruction.py"
+        ]
+    }
+}

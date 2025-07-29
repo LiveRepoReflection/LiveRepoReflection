@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "drone_delivery.cpp"
+        ],
+        "example": [
+            ".meta//drone_delivery.cpp"
+        ],
+        "test": [
+            "drone_delivery_test.cpp",
+            "drone_delivery.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_delivery/drone_delivery_test.cpp",
+            "drone_delivery/drone_delivery.h"
+        ],
+        "solution": [
+            "drone_delivery/drone_delivery.cpp"
+        ],
+        "example": [
+            "drone_delivery/.meta//drone_delivery.cpp"
+        ]
+    }
+}

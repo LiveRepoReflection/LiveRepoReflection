@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "service_chains.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//service_chains.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "service_chains_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_chains/service_chains_test.go"
+        ],
+        "solution": [
+            "service_chains/service_chains.go",
+            "service_chains/go.mod"
+        ],
+        "example": [
+            "service_chains/.meta//service_chains.go",
+            "service_chains/.meta//go.mod"
+        ]
+    }
+}

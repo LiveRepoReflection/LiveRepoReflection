@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "log_anomaly.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//log_anomaly.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "log_anomaly_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_anomaly/log_anomaly_test.go"
+        ],
+        "solution": [
+            "log_anomaly/log_anomaly.go",
+            "log_anomaly/go.mod"
+        ],
+        "example": [
+            "log_anomaly/.meta//log_anomaly.go",
+            "log_anomaly/.meta//go.mod"
+        ]
+    }
+}

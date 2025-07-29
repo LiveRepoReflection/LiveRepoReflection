@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/UltraSpeedLogistics.java"
+        ],
+        "example": [
+            ".meta//src/main/java/UltraSpeedLogistics.java"
+        ],
+        "test": [
+            "src/test/java/UltraSpeedLogisticsTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "ultra_speed_logistics/build.gradle",
+            "ultra_speed_logistics/src/test/java/UltraSpeedLogisticsTest.java"
+        ],
+        "solution": [
+            "ultra_speed_logistics/src/main/java/UltraSpeedLogistics.java"
+        ],
+        "example": [
+            "ultra_speed_logistics/.meta//src/main/java/UltraSpeedLogistics.java"
+        ]
+    }
+}

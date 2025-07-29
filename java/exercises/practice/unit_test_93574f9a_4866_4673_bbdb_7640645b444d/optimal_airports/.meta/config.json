@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/OptimalAirports.java",
+            "src/main/java/Pair.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/OptimalAirports.java",
+            ".meta//src/main/java/Pair.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/OptimalAirportsTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_airports/build.gradle",
+            "optimal_airports/src/main/java/OptimalAirports.java",
+            "optimal_airports/src/main/java/Pair.java",
+            "optimal_airports/src/test/java/OptimalAirportsTest.java"
+        ],
+        "solution": [
+            "optimal_airports/src/main/java/OptimalAirports.java",
+            "optimal_airports/src/main/java/Pair.java",
+            "optimal_airports/build.gradle"
+        ],
+        "example": [
+            "optimal_airports/.meta//src/main/java/OptimalAirports.java",
+            "optimal_airports/.meta//src/main/java/Pair.java",
+            "optimal_airports/.meta//build.gradle"
+        ]
+    }
+}

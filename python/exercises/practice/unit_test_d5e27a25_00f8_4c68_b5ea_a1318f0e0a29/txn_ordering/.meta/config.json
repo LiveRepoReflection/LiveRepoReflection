@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "txn_ordering.py"
+        ],
+        "example": [
+            ".meta//txn_ordering.py"
+        ],
+        "test": [
+            "txn_ordering_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_ordering/txn_ordering_test.py"
+        ],
+        "solution": [
+            "txn_ordering/txn_ordering.py"
+        ],
+        "example": [
+            "txn_ordering/.meta//txn_ordering.py"
+        ]
+    }
+}

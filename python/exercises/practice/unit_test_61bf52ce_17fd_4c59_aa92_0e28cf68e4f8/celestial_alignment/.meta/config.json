@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "celestial_alignment.py"
+        ],
+        "example": [
+            ".meta//celestial_alignment.py"
+        ],
+        "test": [
+            "celestial_alignment_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "celestial_alignment/celestial_alignment_test.py"
+        ],
+        "solution": [
+            "celestial_alignment/celestial_alignment.py"
+        ],
+        "example": [
+            "celestial_alignment/.meta//celestial_alignment.py"
+        ]
+    }
+}

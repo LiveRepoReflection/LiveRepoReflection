@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "island_hopping.py"
+        ],
+        "example": [
+            ".meta//island_hopping.py"
+        ],
+        "test": [
+            "test_island_hopping.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "island_hopping/test_island_hopping.py"
+        ],
+        "solution": [
+            "island_hopping/island_hopping.py"
+        ],
+        "example": [
+            "island_hopping/.meta//island_hopping.py"
+        ]
+    }
+}

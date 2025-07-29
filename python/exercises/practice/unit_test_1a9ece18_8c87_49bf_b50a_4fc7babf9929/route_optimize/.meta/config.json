@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "route_optimize.py"
+        ],
+        "example": [
+            ".meta//route_optimize.py"
+        ],
+        "test": [
+            "route_optimize_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optimize/route_optimize_test.py"
+        ],
+        "solution": [
+            "route_optimize/route_optimize.py"
+        ],
+        "example": [
+            "route_optimize/.meta//route_optimize.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "generateTimeline.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//generateTimeline.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "decentralized_timeline.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_timeline/decentralized_timeline.spec.js"
+        ],
+        "solution": [
+            "decentralized_timeline/generateTimeline.js",
+            "decentralized_timeline/package.json"
+        ],
+        "example": [
+            "decentralized_timeline/.meta//generateTimeline.js",
+            "decentralized_timeline/.meta//package.json"
+        ]
+    }
+}

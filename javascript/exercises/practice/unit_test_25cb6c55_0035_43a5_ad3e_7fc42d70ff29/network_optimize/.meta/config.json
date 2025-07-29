@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_optimize.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//network_optimize.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "__tests__/network_optimize.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_optimize/__tests__/network_optimize.spec.js"
+        ],
+        "solution": [
+            "network_optimize/network_optimize.js",
+            "network_optimize/package.json"
+        ],
+        "example": [
+            "network_optimize/.meta//network_optimize.js",
+            "network_optimize/.meta//package.json"
+        ]
+    }
+}

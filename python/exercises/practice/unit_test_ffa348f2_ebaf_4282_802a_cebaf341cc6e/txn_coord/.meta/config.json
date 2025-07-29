@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_coord.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_coord.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_coord_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_coord/txn_coord_test.py"
+        ],
+        "solution": [
+            "txn_coord/txn_coord.py",
+            "txn_coord/__init__.py"
+        ],
+        "example": [
+            "txn_coord/.meta//txn_coord.py",
+            "txn_coord/.meta//__init__.py"
+        ]
+    }
+}

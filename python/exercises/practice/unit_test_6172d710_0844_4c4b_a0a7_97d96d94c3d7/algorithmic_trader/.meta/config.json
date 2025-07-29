@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "compute_trades.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//compute_trades.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "algorithmic_trader_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "algorithmic_trader/algorithmic_trader_test.py"
+        ],
+        "solution": [
+            "algorithmic_trader/compute_trades.py",
+            "algorithmic_trader/__init__.py"
+        ],
+        "example": [
+            "algorithmic_trader/.meta//compute_trades.py",
+            "algorithmic_trader/.meta//__init__.py"
+        ]
+    }
+}

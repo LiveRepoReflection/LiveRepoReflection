@@ -1,0 +1,11 @@
+{
+  "name": "meeting_point",
+  "version": "1.0.0",
+  "description": "Optimal Meeting Point solution",
+  "main": "meeting_point.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/quantum_routing_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_routing/tests/quantum_routing_tests.rs"
+        ],
+        "solution": [
+            "quantum_routing/Cargo.toml",
+            "quantum_routing/src/lib.rs"
+        ],
+        "example": [
+            "quantum_routing/.meta//Cargo.toml",
+            "quantum_routing/.meta//src/lib.rs"
+        ]
+    }
+}

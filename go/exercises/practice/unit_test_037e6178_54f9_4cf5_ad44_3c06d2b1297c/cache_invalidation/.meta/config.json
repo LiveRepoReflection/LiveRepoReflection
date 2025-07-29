@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "server.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//server.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "invalidation_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "cache_invalidation/invalidation_test.go"
+        ],
+        "solution": [
+            "cache_invalidation/server.go",
+            "cache_invalidation/go.mod"
+        ],
+        "example": [
+            "cache_invalidation/.meta//server.go",
+            "cache_invalidation/.meta//go.mod"
+        ]
+    }
+}

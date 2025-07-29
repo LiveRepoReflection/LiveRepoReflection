@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "transaction_orchestrator.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//transaction_orchestrator.go"
+        ],
+        "test": [
+            "transaction_orchestrator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_orchestrator/transaction_orchestrator_test.go"
+        ],
+        "solution": [
+            "transaction_orchestrator/go.mod",
+            "transaction_orchestrator/transaction_orchestrator.go"
+        ],
+        "example": [
+            "transaction_orchestrator/.meta//go.mod",
+            "transaction_orchestrator/.meta//transaction_orchestrator.go"
+        ]
+    }
+}

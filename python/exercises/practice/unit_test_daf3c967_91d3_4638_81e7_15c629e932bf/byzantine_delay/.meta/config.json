@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_delay.py"
+        ],
+        "example": [
+            ".meta//byzantine_delay.py"
+        ],
+        "test": [
+            "byzantine_delay_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_delay/byzantine_delay_test.py"
+        ],
+        "solution": [
+            "byzantine_delay/byzantine_delay.py"
+        ],
+        "example": [
+            "byzantine_delay/.meta//byzantine_delay.py"
+        ]
+    }
+}

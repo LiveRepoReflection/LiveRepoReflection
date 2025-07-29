@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "social_rank.py",
+            "__init__.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//social_rank.py",
+            ".meta//__init__.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "social_rank_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_rank/social_rank_test.py",
+            "social_rank/__init__.py"
+        ],
+        "solution": [
+            "social_rank/social_rank.py",
+            "social_rank/__init__.py",
+            "social_rank/README.md"
+        ],
+        "example": [
+            "social_rank/.meta//social_rank.py",
+            "social_rank/.meta//__init__.py",
+            "social_rank/.meta//README.md"
+        ]
+    }
+}

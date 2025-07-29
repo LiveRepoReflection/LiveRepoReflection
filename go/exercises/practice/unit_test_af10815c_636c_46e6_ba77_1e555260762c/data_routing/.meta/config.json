@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "data_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//data_routing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "data_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_routing/data_routing_test.go",
+            "data_routing/go.mod"
+        ],
+        "solution": [
+            "data_routing/data_routing.go",
+            "data_routing/go.mod"
+        ],
+        "example": [
+            "data_routing/.meta//data_routing.go",
+            "data_routing/.meta//go.mod"
+        ]
+    }
+}

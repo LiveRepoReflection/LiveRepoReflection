@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "stream_median.py"
+        ],
+        "example": [
+            ".meta//stream_median.py"
+        ],
+        "test": [
+            "stream_median_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_median/stream_median_test.py"
+        ],
+        "solution": [
+            "stream_median/stream_median.py"
+        ],
+        "example": [
+            "stream_median/.meta//stream_median.py"
+        ]
+    }
+}

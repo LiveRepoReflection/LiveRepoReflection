@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_route_opt.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//net_route_opt.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "net_route_opt_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_route_opt/net_route_opt_test.go"
+        ],
+        "solution": [
+            "net_route_opt/net_route_opt.go",
+            "net_route_opt/go.mod"
+        ],
+        "example": [
+            "net_route_opt/.meta//net_route_opt.go",
+            "net_route_opt/.meta//go.mod"
+        ]
+    }
+}

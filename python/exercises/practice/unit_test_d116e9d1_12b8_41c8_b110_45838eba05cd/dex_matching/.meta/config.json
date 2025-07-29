@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dex_matching.py"
+        ],
+        "example": [
+            ".meta//dex_matching.py"
+        ],
+        "test": [
+            "dex_matching_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dex_matching/dex_matching_test.py"
+        ],
+        "solution": [
+            "dex_matching/dex_matching.py"
+        ],
+        "example": [
+            "dex_matching/.meta//dex_matching.py"
+        ]
+    }
+}

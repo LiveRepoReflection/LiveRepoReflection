@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "transaction_saga.go",
+            "go.mod",
+            "service_stubs.go"
+        ],
+        "example": [
+            ".meta//transaction_saga.go",
+            ".meta//go.mod",
+            ".meta//service_stubs.go"
+        ],
+        "test": [
+            "transaction_saga_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_saga/transaction_saga_test.go",
+            "transaction_saga/go.mod"
+        ],
+        "solution": [
+            "transaction_saga/transaction_saga.go",
+            "transaction_saga/go.mod",
+            "transaction_saga/service_stubs.go"
+        ],
+        "example": [
+            "transaction_saga/.meta//transaction_saga.go",
+            "transaction_saga/.meta//go.mod",
+            "transaction_saga/.meta//service_stubs.go"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_lights.py"
+        ],
+        "example": [
+            ".meta//traffic_lights.py"
+        ],
+        "test": [
+            "traffic_lights_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_lights/traffic_lights_test.py"
+        ],
+        "solution": [
+            "traffic_lights/traffic_lights.py"
+        ],
+        "example": [
+            "traffic_lights/.meta//traffic_lights.py"
+        ]
+    }
+}

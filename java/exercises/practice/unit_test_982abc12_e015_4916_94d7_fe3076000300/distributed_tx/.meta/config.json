@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/distributed_tx/Bank.java",
+            "src/main/java/distributed_tx/TransactionOperation.java",
+            "src/main/java/distributed_tx/TransactionResult.java",
+            "src/main/java/distributed_tx/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//src/main/java/distributed_tx/Bank.java",
+            ".meta//src/main/java/distributed_tx/TransactionOperation.java",
+            ".meta//src/main/java/distributed_tx/TransactionResult.java",
+            ".meta//src/main/java/distributed_tx/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTxTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/distributed_tx/Bank.java",
+            "distributed_tx/src/main/java/distributed_tx/TransactionOperation.java",
+            "distributed_tx/src/main/java/distributed_tx/TransactionResult.java",
+            "distributed_tx/src/main/java/distributed_tx/TransactionCoordinator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/distributed_tx/Bank.java",
+            "distributed_tx/.meta//src/main/java/distributed_tx/TransactionOperation.java",
+            "distributed_tx/.meta//src/main/java/distributed_tx/TransactionResult.java",
+            "distributed_tx/.meta//src/main/java/distributed_tx/TransactionCoordinator.java"
+        ]
+    }
+}

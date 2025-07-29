@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_planner.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//route_planner.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "route_planner_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_planner/route_planner_test.py"
+        ],
+        "solution": [
+            "route_planner/route_planner.py",
+            "route_planner/__init__.py"
+        ],
+        "example": [
+            "route_planner/.meta//route_planner.py",
+            "route_planner/.meta//__init__.py"
+        ]
+    }
+}

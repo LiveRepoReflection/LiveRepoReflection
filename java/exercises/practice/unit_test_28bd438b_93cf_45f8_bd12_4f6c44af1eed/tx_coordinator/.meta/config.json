@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TransactionCoordinator.java",
+            "src/main/java/Service.java",
+            "src/main/java/TransactionStatus.java"
+        ],
+        "example": [
+            ".meta//src/main/java/TransactionCoordinator.java",
+            ".meta//src/main/java/Service.java",
+            ".meta//src/main/java/TransactionStatus.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "tx_coordinator/src/main/java/TransactionCoordinator.java",
+            "tx_coordinator/src/main/java/Service.java",
+            "tx_coordinator/src/main/java/TransactionStatus.java"
+        ],
+        "example": [
+            "tx_coordinator/.meta//src/main/java/TransactionCoordinator.java",
+            "tx_coordinator/.meta//src/main/java/Service.java",
+            "tx_coordinator/.meta//src/main/java/TransactionStatus.java"
+        ]
+    }
+}

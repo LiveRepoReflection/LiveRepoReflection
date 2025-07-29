@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "social_reach.cpp",
+            "social_reach_optimized.cpp",
+            "README.md"
+        ],
+        "example": [
+            ".meta//social_reach.cpp",
+            ".meta//social_reach_optimized.cpp",
+            ".meta//README.md"
+        ],
+        "test": [
+            "social_reach_test.cpp",
+            "social_reach.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_reach/social_reach_test.cpp",
+            "social_reach/social_reach.h"
+        ],
+        "solution": [
+            "social_reach/social_reach.cpp",
+            "social_reach/social_reach_optimized.cpp",
+            "social_reach/README.md"
+        ],
+        "example": [
+            "social_reach/.meta//social_reach.cpp",
+            "social_reach/.meta//social_reach_optimized.cpp",
+            "social_reach/.meta//README.md"
+        ]
+    }
+}

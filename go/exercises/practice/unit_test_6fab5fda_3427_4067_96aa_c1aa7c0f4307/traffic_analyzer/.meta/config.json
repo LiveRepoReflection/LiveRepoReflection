@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_analyzer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//traffic_analyzer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "traffic_analyzer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_analyzer/traffic_analyzer_test.go"
+        ],
+        "solution": [
+            "traffic_analyzer/traffic_analyzer.go",
+            "traffic_analyzer/go.mod"
+        ],
+        "example": [
+            "traffic_analyzer/.meta//traffic_analyzer.go",
+            "traffic_analyzer/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "realtime_ads.py"
+        ],
+        "example": [
+            ".meta//realtime_ads.py"
+        ],
+        "test": [
+            "realtime_ads_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "realtime_ads/realtime_ads_test.py"
+        ],
+        "solution": [
+            "realtime_ads/realtime_ads.py"
+        ],
+        "example": [
+            "realtime_ads/.meta//realtime_ads.py"
+        ]
+    }
+}

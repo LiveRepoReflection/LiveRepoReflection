@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "find_optimal_path.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//find_optimal_path.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "autonomous_navigation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "autonomous_navigation/autonomous_navigation_test.py"
+        ],
+        "solution": [
+            "autonomous_navigation/find_optimal_path.py",
+            "autonomous_navigation/__init__.py"
+        ],
+        "example": [
+            "autonomous_navigation/.meta//find_optimal_path.py",
+            "autonomous_navigation/.meta//__init__.py"
+        ]
+    }
+}

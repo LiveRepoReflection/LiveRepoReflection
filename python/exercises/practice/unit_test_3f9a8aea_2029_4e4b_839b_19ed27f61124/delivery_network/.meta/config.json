@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "delivery_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//delivery_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "delivery_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "delivery_network/delivery_network_test.py"
+        ],
+        "solution": [
+            "delivery_network/delivery_network.py",
+            "delivery_network/__init__.py"
+        ],
+        "example": [
+            "delivery_network/.meta//delivery_network.py",
+            "delivery_network/.meta//__init__.py"
+        ]
+    }
+}

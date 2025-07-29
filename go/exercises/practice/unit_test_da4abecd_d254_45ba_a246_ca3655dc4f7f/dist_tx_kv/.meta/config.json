@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "go.mod"
+        ],
+        "example": [
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_kv/cases_test.go"
+        ],
+        "solution": [
+            "dist_tx_kv/go.mod"
+        ],
+        "example": [
+            "dist_tx_kv/.meta//go.mod"
+        ]
+    }
+}

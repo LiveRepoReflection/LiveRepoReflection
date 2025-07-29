@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "stream_aggregate.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//stream_aggregate.js"
+        ],
+        "test": [
+            "__tests__/stream_aggregate.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_aggregate/__tests__/stream_aggregate.spec.js"
+        ],
+        "solution": [
+            "stream_aggregate/package.json",
+            "stream_aggregate/stream_aggregate.js"
+        ],
+        "example": [
+            "stream_aggregate/.meta//package.json",
+            "stream_aggregate/.meta//stream_aggregate.js"
+        ]
+    }
+}

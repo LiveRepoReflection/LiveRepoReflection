@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "highway_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//highway_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "highway_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "highway_placement/highway_placement_test.py"
+        ],
+        "solution": [
+            "highway_placement/highway_placement.py",
+            "highway_placement/__init__.py"
+        ],
+        "example": [
+            "highway_placement/.meta//highway_placement.py",
+            "highway_placement/.meta//__init__.py"
+        ]
+    }
+}

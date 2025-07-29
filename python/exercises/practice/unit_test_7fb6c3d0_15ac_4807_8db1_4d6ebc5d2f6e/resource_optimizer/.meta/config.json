@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resource_optimizer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//resource_optimizer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_resource_optimizer.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_optimizer/test_resource_optimizer.py"
+        ],
+        "solution": [
+            "resource_optimizer/resource_optimizer.py",
+            "resource_optimizer/__init__.py"
+        ],
+        "example": [
+            "resource_optimizer/.meta//resource_optimizer.py",
+            "resource_optimizer/.meta//__init__.py"
+        ]
+    }
+}

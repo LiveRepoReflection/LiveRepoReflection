@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/resilient_store.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "resilient_store/tests/resilient_store.rs"
+        ],
+        "solution": [
+            "resilient_store/Cargo.toml",
+            "resilient_store/src/lib.rs"
+        ],
+        "example": [
+            "resilient_store/.meta//Cargo.toml",
+            "resilient_store/.meta//src/lib.rs"
+        ]
+    }
+}

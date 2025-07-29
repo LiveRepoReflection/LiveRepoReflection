@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "hyper_interconnect.py"
+        ],
+        "example": [
+            ".meta//hyper_interconnect.py"
+        ],
+        "test": [
+            "hyper_interconnect_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "hyper_interconnect/hyper_interconnect_test.py"
+        ],
+        "solution": [
+            "hyper_interconnect/hyper_interconnect.py"
+        ],
+        "example": [
+            "hyper_interconnect/.meta//hyper_interconnect.py"
+        ]
+    }
+}

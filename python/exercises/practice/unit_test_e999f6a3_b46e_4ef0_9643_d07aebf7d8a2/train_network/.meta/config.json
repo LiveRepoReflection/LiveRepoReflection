@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_train_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_train_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "train_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "train_network/train_network_test.py"
+        ],
+        "solution": [
+            "train_network/optimal_train_network.py",
+            "train_network/__init__.py"
+        ],
+        "example": [
+            "train_network/.meta//optimal_train_network.py",
+            "train_network/.meta//__init__.py"
+        ]
+    }
+}

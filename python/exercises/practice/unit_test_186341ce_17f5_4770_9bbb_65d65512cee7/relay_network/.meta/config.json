@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "relay_network.py"
+        ],
+        "example": [
+            ".meta//relay_network.py"
+        ],
+        "test": [
+            "relay_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "relay_network/relay_network_test.py"
+        ],
+        "solution": [
+            "relay_network/relay_network.py"
+        ],
+        "example": [
+            "relay_network/.meta//relay_network.py"
+        ]
+    }
+}

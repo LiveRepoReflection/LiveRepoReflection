@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/wormhole_path.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "wormhole_path/tests/wormhole_path.rs"
+        ],
+        "solution": [
+            "wormhole_path/Cargo.toml",
+            "wormhole_path/src/lib.rs"
+        ],
+        "example": [
+            "wormhole_path/.meta//Cargo.toml",
+            "wormhole_path/.meta//src/lib.rs"
+        ]
+    }
+}

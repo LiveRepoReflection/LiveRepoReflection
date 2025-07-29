@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "intergalactic_logistics.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//intergalactic_logistics.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_intergalactic_logistics.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "intergalactic_logistics/test_intergalactic_logistics.py"
+        ],
+        "solution": [
+            "intergalactic_logistics/intergalactic_logistics.py",
+            "intergalactic_logistics/__init__.py"
+        ],
+        "example": [
+            "intergalactic_logistics/.meta//intergalactic_logistics.py",
+            "intergalactic_logistics/.meta//__init__.py"
+        ]
+    }
+}

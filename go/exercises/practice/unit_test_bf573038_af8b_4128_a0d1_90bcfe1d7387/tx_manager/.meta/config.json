@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_manager.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//tx_manager.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "tx_manager_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_manager/tx_manager_test.go"
+        ],
+        "solution": [
+            "tx_manager/tx_manager.go",
+            "tx_manager/go.mod"
+        ],
+        "example": [
+            "tx_manager/.meta//tx_manager.go",
+            "tx_manager/.meta//go.mod"
+        ]
+    }
+}

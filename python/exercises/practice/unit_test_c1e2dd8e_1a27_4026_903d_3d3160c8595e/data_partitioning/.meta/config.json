@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "data_partitioning.py"
+        ],
+        "example": [
+            ".meta//data_partitioning.py"
+        ],
+        "test": [
+            "data_partitioning_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_partitioning/data_partitioning_test.py"
+        ],
+        "solution": [
+            "data_partitioning/data_partitioning.py"
+        ],
+        "example": [
+            "data_partitioning/.meta//data_partitioning.py"
+        ]
+    }
+}

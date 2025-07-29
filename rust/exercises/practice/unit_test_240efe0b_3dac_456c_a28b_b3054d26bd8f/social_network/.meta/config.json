@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs",
+            "src/main.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs",
+            ".meta//src/main.rs"
+        ],
+        "test": [
+            "tests/social_network_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_network/tests/social_network_test.rs",
+            "social_network/Cargo.toml"
+        ],
+        "solution": [
+            "social_network/Cargo.toml",
+            "social_network/src/lib.rs",
+            "social_network/src/main.rs"
+        ],
+        "example": [
+            "social_network/.meta//Cargo.toml",
+            "social_network/.meta//src/lib.rs",
+            "social_network/.meta//src/main.rs"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_manager.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_manager.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_manager_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_manager/transaction_manager_test.py"
+        ],
+        "solution": [
+            "transaction_manager/transaction_manager.py",
+            "transaction_manager/__init__.py"
+        ],
+        "example": [
+            "transaction_manager/.meta//transaction_manager.py",
+            "transaction_manager/.meta//__init__.py"
+        ]
+    }
+}

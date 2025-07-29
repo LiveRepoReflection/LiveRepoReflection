@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "rate_limit.h",
+            "rate_limit.cpp"
+        ],
+        "example": [
+            ".meta//rate_limit.h",
+            ".meta//rate_limit.cpp"
+        ],
+        "test": [
+            "rate_limit_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limit/rate_limit_test.cpp"
+        ],
+        "solution": [
+            "rate_limit/rate_limit.h",
+            "rate_limit/rate_limit.cpp"
+        ],
+        "example": [
+            "rate_limit/.meta//rate_limit.h",
+            "rate_limit/.meta//rate_limit.cpp"
+        ]
+    }
+}

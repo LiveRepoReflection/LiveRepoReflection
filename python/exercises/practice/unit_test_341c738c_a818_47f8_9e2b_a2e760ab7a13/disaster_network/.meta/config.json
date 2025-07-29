@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "disaster_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//disaster_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "disaster_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "disaster_network/disaster_network_test.py"
+        ],
+        "solution": [
+            "disaster_network/disaster_network.py",
+            "disaster_network/__init__.py"
+        ],
+        "example": [
+            "disaster_network/.meta//disaster_network.py",
+            "disaster_network/.meta//__init__.py"
+        ]
+    }
+}

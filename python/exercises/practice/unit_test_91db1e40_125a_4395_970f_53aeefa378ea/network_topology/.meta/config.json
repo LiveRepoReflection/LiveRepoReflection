@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_topology.py"
+        ],
+        "example": [
+            ".meta//network_topology.py"
+        ],
+        "test": [
+            "network_topology_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_topology/network_topology_test.py"
+        ],
+        "solution": [
+            "network_topology/network_topology.py"
+        ],
+        "example": [
+            "network_topology/.meta//network_topology.py"
+        ]
+    }
+}

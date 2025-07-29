@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "intergalactic_path.go"
+        ],
+        "example": [
+            ".meta//intergalactic_path.go"
+        ],
+        "test": [
+            "intergalactic_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "intergalactic_path/intergalactic_path_test.go",
+            "intergalactic_path/go.mod"
+        ],
+        "solution": [
+            "intergalactic_path/intergalactic_path.go"
+        ],
+        "example": [
+            "intergalactic_path/.meta//intergalactic_path.go"
+        ]
+    }
+}

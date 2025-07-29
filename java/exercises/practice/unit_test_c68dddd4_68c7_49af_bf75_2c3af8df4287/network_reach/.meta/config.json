@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkReach.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkReach.java"
+        ],
+        "test": [
+            "src/test/java/NetworkReachTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reach/src/test/java/NetworkReachTest.java"
+        ],
+        "solution": [
+            "network_reach/build.gradle",
+            "network_reach/src/main/java/NetworkReach.java"
+        ],
+        "example": [
+            "network_reach/.meta//build.gradle",
+            "network_reach/.meta//src/main/java/NetworkReach.java"
+        ]
+    }
+}

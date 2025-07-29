@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "microgrid_optimizer.py"
+        ],
+        "example": [
+            ".meta//microgrid_optimizer.py"
+        ],
+        "test": [
+            "microgrid_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microgrid_optimizer/microgrid_optimizer_test.py"
+        ],
+        "solution": [
+            "microgrid_optimizer/microgrid_optimizer.py"
+        ],
+        "example": [
+            "microgrid_optimizer/.meta//microgrid_optimizer.py"
+        ]
+    }
+}

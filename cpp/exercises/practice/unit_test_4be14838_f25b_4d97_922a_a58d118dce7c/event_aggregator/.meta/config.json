@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "event_aggregator.cpp",
+            "event_aggregator.h",
+            "README.md"
+        ],
+        "example": [
+            ".meta//event_aggregator.cpp",
+            ".meta//event_aggregator.h",
+            ".meta//README.md"
+        ],
+        "test": [
+            "event_aggregator_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_aggregator/event_aggregator_test.cpp",
+            "event_aggregator/event_aggregator.h"
+        ],
+        "solution": [
+            "event_aggregator/event_aggregator.cpp",
+            "event_aggregator/event_aggregator.h",
+            "event_aggregator/README.md"
+        ],
+        "example": [
+            "event_aggregator/.meta//event_aggregator.cpp",
+            "event_aggregator/.meta//event_aggregator.h",
+            "event_aggregator/.meta//README.md"
+        ]
+    }
+}

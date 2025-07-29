@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "log_aggregator.py",
+            "__init__.py",
+            "utils.py"
+        ],
+        "example": [
+            ".meta//log_aggregator.py",
+            ".meta//__init__.py",
+            ".meta//utils.py"
+        ],
+        "test": [
+            "test_log_analytics.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_analytics/test_log_analytics.py"
+        ],
+        "solution": [
+            "log_analytics/log_aggregator.py",
+            "log_analytics/__init__.py",
+            "log_analytics/utils.py"
+        ],
+        "example": [
+            "log_analytics/.meta//log_aggregator.py",
+            "log_analytics/.meta//__init__.py",
+            "log_analytics/.meta//utils.py"
+        ]
+    }
+}

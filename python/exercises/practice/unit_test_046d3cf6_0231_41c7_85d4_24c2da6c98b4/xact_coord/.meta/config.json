@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "xact_coord.py"
+        ],
+        "example": [
+            ".meta//xact_coord.py"
+        ],
+        "test": [
+            "xact_coord_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "xact_coord/xact_coord_test.py"
+        ],
+        "solution": [
+            "xact_coord/xact_coord.py"
+        ],
+        "example": [
+            "xact_coord/.meta//xact_coord.py"
+        ]
+    }
+}

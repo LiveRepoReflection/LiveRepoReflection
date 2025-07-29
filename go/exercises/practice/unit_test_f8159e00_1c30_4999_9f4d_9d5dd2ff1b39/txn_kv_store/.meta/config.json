@@ -1,0 +1,46 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "constants.go",
+            "node.go",
+            "transaction.go",
+            "coordinator.go",
+            "txn_kv_store.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//constants.go",
+            ".meta//node.go",
+            ".meta//transaction.go",
+            ".meta//coordinator.go",
+            ".meta//txn_kv_store.go"
+        ],
+        "test": [
+            "txn_kv_store_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_kv_store/go.mod",
+            "txn_kv_store/txn_kv_store_test.go",
+            "txn_kv_store/constants.go"
+        ],
+        "solution": [
+            "txn_kv_store/go.mod",
+            "txn_kv_store/constants.go",
+            "txn_kv_store/node.go",
+            "txn_kv_store/transaction.go",
+            "txn_kv_store/coordinator.go",
+            "txn_kv_store/txn_kv_store.go"
+        ],
+        "example": [
+            "txn_kv_store/.meta//go.mod",
+            "txn_kv_store/.meta//constants.go",
+            "txn_kv_store/.meta//node.go",
+            "txn_kv_store/.meta//transaction.go",
+            "txn_kv_store/.meta//coordinator.go",
+            "txn_kv_store/.meta//txn_kv_store.go"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "interdimensional_cable.py"
+        ],
+        "example": [
+            ".meta//interdimensional_cable.py"
+        ],
+        "test": [
+            "interdimensional_cable_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "interdimensional_cable/interdimensional_cable_test.py"
+        ],
+        "solution": [
+            "interdimensional_cable/interdimensional_cable.py"
+        ],
+        "example": [
+            "interdimensional_cable/.meta//interdimensional_cable.py"
+        ]
+    }
+}

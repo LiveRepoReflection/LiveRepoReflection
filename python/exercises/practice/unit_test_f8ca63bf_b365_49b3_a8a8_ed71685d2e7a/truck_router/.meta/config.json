@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "truck_router.py"
+        ],
+        "example": [
+            ".meta//truck_router.py"
+        ],
+        "test": [
+            "truck_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "truck_router/truck_router_test.py"
+        ],
+        "solution": [
+            "truck_router/truck_router.py"
+        ],
+        "example": [
+            "truck_router/.meta//truck_router.py"
+        ]
+    }
+}

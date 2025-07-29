@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "cdn_placement.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//cdn_placement.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cdn_placement_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "cdn_placement/cdn_placement_test.go"
+        ],
+        "solution": [
+            "cdn_placement/cdn_placement.go",
+            "cdn_placement/go.mod"
+        ],
+        "example": [
+            "cdn_placement/.meta//cdn_placement.go",
+            "cdn_placement/.meta//go.mod"
+        ]
+    }
+}

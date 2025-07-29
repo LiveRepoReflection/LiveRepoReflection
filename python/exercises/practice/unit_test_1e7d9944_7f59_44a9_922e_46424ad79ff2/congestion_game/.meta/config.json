@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "congestion_game.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//congestion_game.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "congestion_game_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "congestion_game/congestion_game_test.py"
+        ],
+        "solution": [
+            "congestion_game/congestion_game.py",
+            "congestion_game/__init__.py"
+        ],
+        "example": [
+            "congestion_game/.meta//congestion_game.py",
+            "congestion_game/.meta//__init__.py"
+        ]
+    }
+}

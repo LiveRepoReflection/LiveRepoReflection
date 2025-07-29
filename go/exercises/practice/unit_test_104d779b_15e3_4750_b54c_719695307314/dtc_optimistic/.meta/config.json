@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "dtc.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//dtc.go"
+        ],
+        "test": [
+            "dtc_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_optimistic/dtc_test.go"
+        ],
+        "solution": [
+            "dtc_optimistic/go.mod",
+            "dtc_optimistic/dtc.go"
+        ],
+        "example": [
+            "dtc_optimistic/.meta//go.mod",
+            "dtc_optimistic/.meta//dtc.go"
+        ]
+    }
+}

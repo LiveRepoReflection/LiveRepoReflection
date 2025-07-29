@@ -1,0 +1,1 @@
+from .evac_route import optimal_evacuation

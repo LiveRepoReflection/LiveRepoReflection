@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "consensus_sim.py"
+        ],
+        "example": [
+            ".meta//consensus_sim.py"
+        ],
+        "test": [
+            "consensus_sim_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consensus_sim/consensus_sim_test.py"
+        ],
+        "solution": [
+            "consensus_sim/consensus_sim.py"
+        ],
+        "example": [
+            "consensus_sim/.meta//consensus_sim.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_store.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//event_store.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "event_store_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_store/event_store_test.go"
+        ],
+        "solution": [
+            "event_store/event_store.go",
+            "event_store/go.mod"
+        ],
+        "example": [
+            "event_store/.meta//event_store.go",
+            "event_store/.meta//go.mod"
+        ]
+    }
+}

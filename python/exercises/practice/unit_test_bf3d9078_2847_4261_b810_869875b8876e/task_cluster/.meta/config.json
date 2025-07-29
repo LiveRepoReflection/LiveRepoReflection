@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_cluster.py"
+        ],
+        "example": [
+            ".meta//task_cluster.py"
+        ],
+        "test": [
+            "task_cluster_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_cluster/task_cluster_test.py"
+        ],
+        "solution": [
+            "task_cluster/task_cluster.py"
+        ],
+        "example": [
+            "task_cluster/.meta//task_cluster.py"
+        ]
+    }
+}

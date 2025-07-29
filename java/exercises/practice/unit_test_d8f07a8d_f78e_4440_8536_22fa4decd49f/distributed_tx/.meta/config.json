@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/DistributedTxManager.java",
+            "src/main/java/TransactionParticipant.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/DistributedTxManager.java",
+            ".meta//src/main/java/TransactionParticipant.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTxManagerTest.java",
+            "src/test/java/TransactionParticipantTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxManagerTest.java",
+            "distributed_tx/src/test/java/TransactionParticipantTest.java"
+        ],
+        "solution": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/DistributedTxManager.java",
+            "distributed_tx/src/main/java/TransactionParticipant.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/DistributedTxManager.java",
+            "distributed_tx/.meta//src/main/java/TransactionParticipant.java"
+        ]
+    }
+}

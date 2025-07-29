@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/network_bridge.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_bridge/tests/network_bridge.rs",
+            "network_bridge/Cargo.toml"
+        ],
+        "solution": [
+            "network_bridge/src/lib.rs",
+            "network_bridge/Cargo.toml"
+        ],
+        "example": [
+            "network_bridge/.meta//src/lib.rs",
+            "network_bridge/.meta//Cargo.toml"
+        ]
+    }
+}

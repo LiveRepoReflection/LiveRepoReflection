@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "k_color_graph.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//k_color_graph.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "k_color_graph_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "k_color_graph/k_color_graph_test.go"
+        ],
+        "solution": [
+            "k_color_graph/k_color_graph.go",
+            "k_color_graph/go.mod"
+        ],
+        "example": [
+            "k_color_graph/.meta//k_color_graph.go",
+            "k_color_graph/.meta//go.mod"
+        ]
+    }
+}

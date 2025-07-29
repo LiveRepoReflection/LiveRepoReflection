@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "network_reconstruct.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//network_reconstruct.go"
+        ],
+        "test": [
+            "network_reconstruct_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reconstruct/network_reconstruct_test.go"
+        ],
+        "solution": [
+            "network_reconstruct/go.mod",
+            "network_reconstruct/network_reconstruct.go"
+        ],
+        "example": [
+            "network_reconstruct/.meta//go.mod",
+            "network_reconstruct/.meta//network_reconstruct.go"
+        ]
+    }
+}

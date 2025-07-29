@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_trading.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_trading.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_trading_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_trading/optimal_trading_test.py"
+        ],
+        "solution": [
+            "optimal_trading/optimal_trading.py",
+            "optimal_trading/__init__.py"
+        ],
+        "example": [
+            "optimal_trading/.meta//optimal_trading.py",
+            "optimal_trading/.meta//__init__.py"
+        ]
+    }
+}

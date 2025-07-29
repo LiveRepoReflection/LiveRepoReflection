@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "sharded_tx.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//sharded_tx.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "sharded_tx_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "sharded_tx/sharded_tx_test.py"
+        ],
+        "solution": [
+            "sharded_tx/sharded_tx.py",
+            "sharded_tx/__init__.py"
+        ],
+        "example": [
+            "sharded_tx/.meta//sharded_tx.py",
+            "sharded_tx/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "content_recommender.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//content_recommender.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "content_recommender_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "content_recommender/content_recommender_test.py"
+        ],
+        "solution": [
+            "content_recommender/content_recommender.py",
+            "content_recommender/__init__.py"
+        ],
+        "example": [
+            "content_recommender/.meta//content_recommender.py",
+            "content_recommender/.meta//__init__.py"
+        ]
+    }
+}

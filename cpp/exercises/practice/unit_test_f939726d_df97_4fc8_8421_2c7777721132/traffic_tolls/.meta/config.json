@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_tolls.h",
+            "traffic_tolls.cpp"
+        ],
+        "example": [
+            ".meta//traffic_tolls.h",
+            ".meta//traffic_tolls.cpp"
+        ],
+        "test": [
+            "traffic_tolls_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_tolls/traffic_tolls_test.cpp"
+        ],
+        "solution": [
+            "traffic_tolls/traffic_tolls.h",
+            "traffic_tolls/traffic_tolls.cpp"
+        ],
+        "example": [
+            "traffic_tolls/.meta//traffic_tolls.h",
+            "traffic_tolls/.meta//traffic_tolls.cpp"
+        ]
+    }
+}

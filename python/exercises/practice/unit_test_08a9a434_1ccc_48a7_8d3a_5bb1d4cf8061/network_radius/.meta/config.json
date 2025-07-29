@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_radius.py"
+        ],
+        "example": [
+            ".meta//network_radius.py"
+        ],
+        "test": [
+            "network_radius_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_radius/network_radius_test.py"
+        ],
+        "solution": [
+            "network_radius/network_radius.py"
+        ],
+        "example": [
+            "network_radius/.meta//network_radius.py"
+        ]
+    }
+}

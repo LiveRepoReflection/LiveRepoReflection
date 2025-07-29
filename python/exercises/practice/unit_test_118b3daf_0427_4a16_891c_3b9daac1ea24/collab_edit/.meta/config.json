@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "collab_edit.py"
+        ],
+        "example": [
+            ".meta//collab_edit.py"
+        ],
+        "test": [
+            "collab_edit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "collab_edit/collab_edit_test.py"
+        ],
+        "solution": [
+            "collab_edit/collab_edit.py"
+        ],
+        "example": [
+            "collab_edit/.meta//collab_edit.py"
+        ]
+    }
+}

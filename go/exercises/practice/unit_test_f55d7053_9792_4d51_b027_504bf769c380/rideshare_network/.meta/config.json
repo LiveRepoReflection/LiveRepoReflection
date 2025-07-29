@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "rideshare_network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//rideshare_network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go",
+            "rideshare_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "rideshare_network/cases_test.go",
+            "rideshare_network/rideshare_network_test.go",
+            "rideshare_network/go.mod"
+        ],
+        "solution": [
+            "rideshare_network/rideshare_network.go",
+            "rideshare_network/go.mod"
+        ],
+        "example": [
+            "rideshare_network/.meta//rideshare_network.go",
+            "rideshare_network/.meta//go.mod"
+        ]
+    }
+}

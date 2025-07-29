@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/raft_sim.rs",
+            "tests/helpers/mod.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "raft_sim/tests/raft_sim.rs",
+            "raft_sim/Cargo.toml",
+            "raft_sim/tests/helpers/mod.rs"
+        ],
+        "solution": [
+            "raft_sim/Cargo.toml",
+            "raft_sim/src/lib.rs"
+        ],
+        "example": [
+            "raft_sim/.meta//Cargo.toml",
+            "raft_sim/.meta//src/lib.rs"
+        ]
+    }
+}

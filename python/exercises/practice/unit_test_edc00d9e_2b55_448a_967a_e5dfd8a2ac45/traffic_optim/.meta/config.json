@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_optim.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//traffic_optim.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_traffic_optim.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_optim/test_traffic_optim.py"
+        ],
+        "solution": [
+            "traffic_optim/traffic_optim.py",
+            "traffic_optim/__init__.py"
+        ],
+        "example": [
+            "traffic_optim/.meta//traffic_optim.py",
+            "traffic_optim/.meta//__init__.py"
+        ]
+    }
+}

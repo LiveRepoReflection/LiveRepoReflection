@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resilient_partition.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//resilient_partition.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "resilient_partition_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resilient_partition/resilient_partition_test.py"
+        ],
+        "solution": [
+            "resilient_partition/resilient_partition.py",
+            "resilient_partition/__init__.py"
+        ],
+        "example": [
+            "resilient_partition/.meta//resilient_partition.py",
+            "resilient_partition/.meta//__init__.py"
+        ]
+    }
+}

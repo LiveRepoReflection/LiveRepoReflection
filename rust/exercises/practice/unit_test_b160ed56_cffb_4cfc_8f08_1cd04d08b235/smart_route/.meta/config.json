@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/smart_route.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "smart_route/Cargo.toml",
+            "smart_route/tests/smart_route.rs",
+            "smart_route/src/lib.rs"
+        ],
+        "solution": [
+            "smart_route/Cargo.toml",
+            "smart_route/src/lib.rs"
+        ],
+        "example": [
+            "smart_route/.meta//Cargo.toml",
+            "smart_route/.meta//src/lib.rs"
+        ]
+    }
+}

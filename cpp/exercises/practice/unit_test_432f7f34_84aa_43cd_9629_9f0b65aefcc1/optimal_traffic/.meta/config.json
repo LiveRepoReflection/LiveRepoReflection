@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_traffic.h",
+            "optimal_traffic.cpp"
+        ],
+        "example": [
+            ".meta//optimal_traffic.h",
+            ".meta//optimal_traffic.cpp"
+        ],
+        "test": [
+            "optimal_traffic_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_traffic/optimal_traffic_test.cpp"
+        ],
+        "solution": [
+            "optimal_traffic/optimal_traffic.h",
+            "optimal_traffic/optimal_traffic.cpp"
+        ],
+        "example": [
+            "optimal_traffic/.meta//optimal_traffic.h",
+            "optimal_traffic/.meta//optimal_traffic.cpp"
+        ]
+    }
+}

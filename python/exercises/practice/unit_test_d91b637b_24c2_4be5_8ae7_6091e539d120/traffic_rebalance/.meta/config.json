@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_rebalance.py"
+        ],
+        "example": [
+            ".meta//traffic_rebalance.py"
+        ],
+        "test": [
+            "traffic_rebalance_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_rebalance/traffic_rebalance_test.py"
+        ],
+        "solution": [
+            "traffic_rebalance/traffic_rebalance.py"
+        ],
+        "example": [
+            "traffic_rebalance/.meta//traffic_rebalance.py"
+        ]
+    }
+}

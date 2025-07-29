@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "bft_consensus.py"
+        ],
+        "example": [
+            ".meta//bft_consensus.py"
+        ],
+        "test": [
+            "bft_consensus_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "bft_consensus/bft_consensus_test.py"
+        ],
+        "solution": [
+            "bft_consensus/bft_consensus.py"
+        ],
+        "example": [
+            "bft_consensus/.meta//bft_consensus.py"
+        ]
+    }
+}

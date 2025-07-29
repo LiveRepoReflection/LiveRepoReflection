@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/dtc_core_test.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dtc_core/tests/dtc_core_test.rs"
+        ],
+        "solution": [
+            "dtc_core/Cargo.toml",
+            "dtc_core/src/lib.rs"
+        ],
+        "example": [
+            "dtc_core/.meta//Cargo.toml",
+            "dtc_core/.meta//src/lib.rs"
+        ]
+    }
+}

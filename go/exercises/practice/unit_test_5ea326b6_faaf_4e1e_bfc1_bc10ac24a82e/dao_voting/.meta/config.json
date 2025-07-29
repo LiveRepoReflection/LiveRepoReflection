@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dao_voting.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dao_voting.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dao_voting_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_voting/dao_voting_test.go"
+        ],
+        "solution": [
+            "dao_voting/dao_voting.go",
+            "dao_voting/go.mod"
+        ],
+        "example": [
+            "dao_voting/.meta//dao_voting.go",
+            "dao_voting/.meta//go.mod"
+        ]
+    }
+}

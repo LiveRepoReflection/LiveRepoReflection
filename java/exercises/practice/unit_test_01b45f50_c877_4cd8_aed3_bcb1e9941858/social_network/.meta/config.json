@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/SocialNetworkGraph.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/SocialNetworkGraph.java"
+        ],
+        "test": [
+            "src/test/java/SocialNetworkGraphTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_network/src/test/java/SocialNetworkGraphTest.java"
+        ],
+        "solution": [
+            "social_network/build.gradle",
+            "social_network/src/main/java/SocialNetworkGraph.java"
+        ],
+        "example": [
+            "social_network/.meta//build.gradle",
+            "social_network/.meta//src/main/java/SocialNetworkGraph.java"
+        ]
+    }
+}

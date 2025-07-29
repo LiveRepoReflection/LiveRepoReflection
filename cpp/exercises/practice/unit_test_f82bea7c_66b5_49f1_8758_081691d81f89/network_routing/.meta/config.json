@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_routing.cpp",
+            "network_routing.h"
+        ],
+        "example": [
+            ".meta//network_routing.cpp",
+            ".meta//network_routing.h"
+        ],
+        "test": [
+            "network_routing_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_routing/network_routing_test.cpp",
+            "network_routing/network_routing.h"
+        ],
+        "solution": [
+            "network_routing/network_routing.cpp",
+            "network_routing/network_routing.h"
+        ],
+        "example": [
+            "network_routing/.meta//network_routing.cpp",
+            "network_routing/.meta//network_routing.h"
+        ]
+    }
+}

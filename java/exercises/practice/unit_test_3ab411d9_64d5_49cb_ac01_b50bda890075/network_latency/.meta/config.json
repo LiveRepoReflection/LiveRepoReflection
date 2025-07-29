@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/NetworkLatency.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/NetworkLatency.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/NetworkLatencyTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_latency/src/test/java/NetworkLatencyTest.java",
+            "network_latency/build.gradle"
+        ],
+        "solution": [
+            "network_latency/src/main/java/NetworkLatency.java",
+            "network_latency/build.gradle"
+        ],
+        "example": [
+            "network_latency/.meta//src/main/java/NetworkLatency.java",
+            "network_latency/.meta//build.gradle"
+        ]
+    }
+}

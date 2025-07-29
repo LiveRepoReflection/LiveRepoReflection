@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_risk.py"
+        ],
+        "example": [
+            ".meta//network_risk.py"
+        ],
+        "test": [
+            "network_risk_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_risk/network_risk_test.py"
+        ],
+        "solution": [
+            "network_risk/network_risk.py"
+        ],
+        "example": [
+            "network_risk/.meta//network_risk.py"
+        ]
+    }
+}

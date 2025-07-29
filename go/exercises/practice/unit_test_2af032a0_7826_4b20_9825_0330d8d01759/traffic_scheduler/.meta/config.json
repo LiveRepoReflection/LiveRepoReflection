@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_scheduler.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//traffic_scheduler.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "traffic_scheduler_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_scheduler/traffic_scheduler_test.go"
+        ],
+        "solution": [
+            "traffic_scheduler/traffic_scheduler.go",
+            "traffic_scheduler/go.mod"
+        ],
+        "example": [
+            "traffic_scheduler/.meta//traffic_scheduler.go",
+            "traffic_scheduler/.meta//go.mod"
+        ]
+    }
+}

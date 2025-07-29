@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/adaptive_limiter.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_limiter/Cargo.toml",
+            "adaptive_limiter/tests/adaptive_limiter.rs"
+        ],
+        "solution": [
+            "adaptive_limiter/Cargo.toml",
+            "adaptive_limiter/src/lib.rs"
+        ],
+        "example": [
+            "adaptive_limiter/.meta//Cargo.toml",
+            "adaptive_limiter/.meta//src/lib.rs"
+        ]
+    }
+}

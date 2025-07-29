@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "network_augment.py"
+        ],
+        "example": [
+            ".meta//network_augment.py"
+        ],
+        "test": [
+            "test_network_augment.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_augment/test_network_augment.py",
+            "network_augment/__init__.py"
+        ],
+        "solution": [
+            "network_augment/network_augment.py"
+        ],
+        "example": [
+            "network_augment/.meta//network_augment.py"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "resource_flow.py",
+            "__init__.py",
+            "setup.py"
+        ],
+        "example": [
+            ".meta//resource_flow.py",
+            ".meta//__init__.py",
+            ".meta//setup.py"
+        ],
+        "test": [
+            "test_resource_flow.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_flow/test_resource_flow.py"
+        ],
+        "solution": [
+            "resource_flow/resource_flow.py",
+            "resource_flow/__init__.py",
+            "resource_flow/setup.py"
+        ],
+        "example": [
+            "resource_flow/.meta//resource_flow.py",
+            "resource_flow/.meta//__init__.py",
+            "resource_flow/.meta//setup.py"
+        ]
+    }
+}

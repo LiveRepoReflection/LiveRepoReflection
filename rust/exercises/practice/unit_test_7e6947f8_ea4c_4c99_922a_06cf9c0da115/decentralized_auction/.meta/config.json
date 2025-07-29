@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/auction_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_auction/tests/auction_tests.rs"
+        ],
+        "solution": [
+            "decentralized_auction/Cargo.toml",
+            "decentralized_auction/src/lib.rs"
+        ],
+        "example": [
+            "decentralized_auction/.meta//Cargo.toml",
+            "decentralized_auction/.meta//src/lib.rs"
+        ]
+    }
+}

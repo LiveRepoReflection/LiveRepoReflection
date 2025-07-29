@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "collaborative_map.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//collaborative_map.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "collaborative_map_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "collaborative_map/collaborative_map_test.go"
+        ],
+        "solution": [
+            "collaborative_map/collaborative_map.go",
+            "collaborative_map/go.mod"
+        ],
+        "example": [
+            "collaborative_map/.meta//collaborative_map.go",
+            "collaborative_map/.meta//go.mod"
+        ]
+    }
+}

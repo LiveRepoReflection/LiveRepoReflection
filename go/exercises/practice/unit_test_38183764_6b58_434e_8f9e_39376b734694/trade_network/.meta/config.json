@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "trade_network.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//trade_network.go"
+        ],
+        "test": [
+            "trade_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "trade_network/trade_network_test.go"
+        ],
+        "solution": [
+            "trade_network/go.mod",
+            "trade_network/trade_network.go"
+        ],
+        "example": [
+            "trade_network/.meta//go.mod",
+            "trade_network/.meta//trade_network.go"
+        ]
+    }
+}

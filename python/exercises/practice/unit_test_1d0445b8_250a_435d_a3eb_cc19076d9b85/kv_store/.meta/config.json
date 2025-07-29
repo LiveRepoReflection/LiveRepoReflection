@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "kv_store.py"
+        ],
+        "example": [
+            ".meta//kv_store.py"
+        ],
+        "test": [
+            "kv_store_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "kv_store/kv_store_test.py"
+        ],
+        "solution": [
+            "kv_store/kv_store.py"
+        ],
+        "example": [
+            "kv_store/.meta//kv_store.py"
+        ]
+    }
+}

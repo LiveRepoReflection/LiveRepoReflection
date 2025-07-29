@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "key_value_store.py",
+            "__init__.py",
+            "main.py"
+        ],
+        "example": [
+            ".meta//key_value_store.py",
+            ".meta//__init__.py",
+            ".meta//main.py"
+        ],
+        "test": [
+            "test_key_value_store.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "key_value_store/test_key_value_store.py"
+        ],
+        "solution": [
+            "key_value_store/key_value_store.py",
+            "key_value_store/__init__.py",
+            "key_value_store/main.py"
+        ],
+        "example": [
+            "key_value_store/.meta//key_value_store.py",
+            "key_value_store/.meta//__init__.py",
+            "key_value_store/.meta//main.py"
+        ]
+    }
+}

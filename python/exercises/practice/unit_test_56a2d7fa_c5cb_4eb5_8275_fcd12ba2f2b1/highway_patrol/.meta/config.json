@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_patrol_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_patrol_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "highway_patrol_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "highway_patrol/highway_patrol_test.py"
+        ],
+        "solution": [
+            "highway_patrol/optimal_patrol_placement.py",
+            "highway_patrol/__init__.py"
+        ],
+        "example": [
+            "highway_patrol/.meta//optimal_patrol_placement.py",
+            "highway_patrol/.meta//__init__.py"
+        ]
+    }
+}

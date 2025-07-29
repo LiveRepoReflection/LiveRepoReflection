@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "circuit_layout.py"
+        ],
+        "example": [
+            ".meta//circuit_layout.py"
+        ],
+        "test": [
+            "circuit_layout_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "circuit_layout/circuit_layout_test.py",
+            "circuit_layout/__init__.py"
+        ],
+        "solution": [
+            "circuit_layout/circuit_layout.py"
+        ],
+        "example": [
+            "circuit_layout/.meta//circuit_layout.py"
+        ]
+    }
+}

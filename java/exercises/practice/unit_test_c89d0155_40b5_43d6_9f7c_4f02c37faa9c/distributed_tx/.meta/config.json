@@ -1,0 +1,48 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/BankService.java",
+            "src/main/java/Operation.java",
+            "src/main/java/OperationType.java",
+            "src/main/java/InsufficientFundsException.java",
+            "src/main/java/TransactionStatus.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/BankService.java",
+            ".meta//src/main/java/Operation.java",
+            ".meta//src/main/java/OperationType.java",
+            ".meta//src/main/java/InsufficientFundsException.java",
+            ".meta//src/main/java/TransactionStatus.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/BankService.java",
+            "distributed_tx/src/main/java/Operation.java",
+            "distributed_tx/src/main/java/OperationType.java",
+            "distributed_tx/src/main/java/InsufficientFundsException.java",
+            "distributed_tx/src/main/java/TransactionStatus.java",
+            "distributed_tx/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/BankService.java",
+            "distributed_tx/.meta//src/main/java/Operation.java",
+            "distributed_tx/.meta//src/main/java/OperationType.java",
+            "distributed_tx/.meta//src/main/java/InsufficientFundsException.java",
+            "distributed_tx/.meta//src/main/java/TransactionStatus.java",
+            "distributed_tx/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

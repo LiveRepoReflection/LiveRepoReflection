@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "concurrent_path.go",
+            "go.mod",
+            "go.sum"
+        ],
+        "example": [
+            ".meta//concurrent_path.go",
+            ".meta//go.mod",
+            ".meta//go.sum"
+        ],
+        "test": [
+            "concurrent_path_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "concurrent_path/concurrent_path_test.go"
+        ],
+        "solution": [
+            "concurrent_path/concurrent_path.go",
+            "concurrent_path/go.mod",
+            "concurrent_path/go.sum"
+        ],
+        "example": [
+            "concurrent_path/.meta//concurrent_path.go",
+            "concurrent_path/.meta//go.mod",
+            "concurrent_path/.meta//go.sum"
+        ]
+    }
+}

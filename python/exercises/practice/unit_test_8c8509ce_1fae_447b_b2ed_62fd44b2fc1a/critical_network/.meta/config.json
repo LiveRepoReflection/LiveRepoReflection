@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "critical_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//critical_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "critical_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "critical_network/critical_network_test.py"
+        ],
+        "solution": [
+            "critical_network/critical_network.py",
+            "critical_network/__init__.py"
+        ],
+        "example": [
+            "critical_network/.meta//critical_network.py",
+            "critical_network/.meta//__init__.py"
+        ]
+    }
+}

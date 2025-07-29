@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "consistent_hashing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_hashing/consistent_hashing_test.py"
+        ],
+        "solution": [
+            "consistent_hashing/__init__.py"
+        ],
+        "example": [
+            "consistent_hashing/.meta//__init__.py"
+        ]
+    }
+}

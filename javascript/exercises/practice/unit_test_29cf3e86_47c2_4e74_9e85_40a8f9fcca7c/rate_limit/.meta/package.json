@@ -1,0 +1,12 @@
+{
+  "name": "rate_limit",
+  "version": "1.0.0",
+  "description": "Distributed rate limiter project",
+  "main": "rate_limit.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

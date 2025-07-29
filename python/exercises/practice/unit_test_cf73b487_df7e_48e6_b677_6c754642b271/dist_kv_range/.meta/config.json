@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_kv_range.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dist_kv_range.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dist_kv_range_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_kv_range/dist_kv_range_test.py"
+        ],
+        "solution": [
+            "dist_kv_range/dist_kv_range.py",
+            "dist_kv_range/__init__.py"
+        ],
+        "example": [
+            "dist_kv_range/.meta//dist_kv_range.py",
+            "dist_kv_range/.meta//__init__.py"
+        ]
+    }
+}

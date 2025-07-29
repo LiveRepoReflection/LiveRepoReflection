@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dcdn_retrieval.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dcdn_retrieval.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dcdn_retrieval_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dcdn_retrieval/dcdn_retrieval_test.go"
+        ],
+        "solution": [
+            "dcdn_retrieval/dcdn_retrieval.go",
+            "dcdn_retrieval/go.mod"
+        ],
+        "example": [
+            "dcdn_retrieval/.meta//dcdn_retrieval.go",
+            "dcdn_retrieval/.meta//go.mod"
+        ]
+    }
+}

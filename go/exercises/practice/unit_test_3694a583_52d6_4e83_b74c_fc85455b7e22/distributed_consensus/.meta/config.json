@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "consensus.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//consensus.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "consensus_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_consensus/consensus_test.go",
+            "distributed_consensus/go.mod"
+        ],
+        "solution": [
+            "distributed_consensus/consensus.go",
+            "distributed_consensus/go.mod"
+        ],
+        "example": [
+            "distributed_consensus/.meta//consensus.go",
+            "distributed_consensus/.meta//go.mod"
+        ]
+    }
+}

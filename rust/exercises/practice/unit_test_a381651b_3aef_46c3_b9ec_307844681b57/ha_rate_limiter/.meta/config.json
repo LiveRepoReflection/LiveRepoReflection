@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/ha_rate_limiter.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "ha_rate_limiter/tests/ha_rate_limiter.rs"
+        ],
+        "solution": [
+            "ha_rate_limiter/Cargo.toml",
+            "ha_rate_limiter/src/lib.rs"
+        ],
+        "example": [
+            "ha_rate_limiter/.meta//Cargo.toml",
+            "ha_rate_limiter/.meta//src/lib.rs"
+        ]
+    }
+}

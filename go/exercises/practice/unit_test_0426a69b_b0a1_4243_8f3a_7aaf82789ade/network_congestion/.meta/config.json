@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_congestion.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_congestion.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_congestion_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_congestion/network_congestion_test.go",
+            "network_congestion/go.mod"
+        ],
+        "solution": [
+            "network_congestion/network_congestion.go",
+            "network_congestion/go.mod"
+        ],
+        "example": [
+            "network_congestion/.meta//network_congestion.go",
+            "network_congestion/.meta//go.mod"
+        ]
+    }
+}

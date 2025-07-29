@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "drone_routes.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//drone_routes.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "drone_routes_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "drone_routes/drone_routes_test.py"
+        ],
+        "solution": [
+            "drone_routes/drone_routes.py",
+            "drone_routes/__init__.py"
+        ],
+        "example": [
+            "drone_routes/.meta//drone_routes.py",
+            "drone_routes/.meta//__init__.py"
+        ]
+    }
+}

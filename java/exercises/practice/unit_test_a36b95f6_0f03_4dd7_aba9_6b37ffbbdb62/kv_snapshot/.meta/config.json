@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/KVStore.java",
+            "src/main/java/TransactionConflictException.java",
+            "src/main/java/InvalidTransactionException.java",
+            "src/main/java/KVStoreImpl.java"
+        ],
+        "example": [
+            ".meta//src/main/java/KVStore.java",
+            ".meta//src/main/java/TransactionConflictException.java",
+            ".meta//src/main/java/InvalidTransactionException.java",
+            ".meta//src/main/java/KVStoreImpl.java"
+        ],
+        "test": [
+            "src/test/java/KvSnapshotTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "kv_snapshot/src/test/java/KvSnapshotTest.java"
+        ],
+        "solution": [
+            "kv_snapshot/src/main/java/KVStore.java",
+            "kv_snapshot/src/main/java/TransactionConflictException.java",
+            "kv_snapshot/src/main/java/InvalidTransactionException.java",
+            "kv_snapshot/src/main/java/KVStoreImpl.java"
+        ],
+        "example": [
+            "kv_snapshot/.meta//src/main/java/KVStore.java",
+            "kv_snapshot/.meta//src/main/java/TransactionConflictException.java",
+            "kv_snapshot/.meta//src/main/java/InvalidTransactionException.java",
+            "kv_snapshot/.meta//src/main/java/KVStoreImpl.java"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "multi_flow.go"
+        ],
+        "example": [
+            ".meta//multi_flow.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "multi_flow_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_flow/cases_test.go",
+            "multi_flow/multi_flow_test.go",
+            "multi_flow/go.mod"
+        ],
+        "solution": [
+            "multi_flow/multi_flow.go"
+        ],
+        "example": [
+            "multi_flow/.meta//multi_flow.go"
+        ]
+    }
+}

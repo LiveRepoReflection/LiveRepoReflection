@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "storage_allocator.py"
+        ],
+        "example": [
+            ".meta//storage_allocator.py"
+        ],
+        "test": [
+            "storage_allocator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "storage_allocator/storage_allocator_test.py"
+        ],
+        "solution": [
+            "storage_allocator/storage_allocator.py"
+        ],
+        "example": [
+            "storage_allocator/.meta//storage_allocator.py"
+        ]
+    }
+}

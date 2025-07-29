@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_book.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//order_book.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "test/order_book.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_book/test/order_book.spec.js"
+        ],
+        "solution": [
+            "order_book/order_book.js",
+            "order_book/package.json"
+        ],
+        "example": [
+            "order_book/.meta//order_book.js",
+            "order_book/.meta//package.json"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "traffic_lights.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//traffic_lights.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "traffic_lights_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_lights/traffic_lights_test.go"
+        ],
+        "solution": [
+            "traffic_lights/traffic_lights.go",
+            "traffic_lights/go.mod"
+        ],
+        "example": [
+            "traffic_lights/.meta//traffic_lights.go",
+            "traffic_lights/.meta//go.mod"
+        ]
+    }
+}

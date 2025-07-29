@@ -1,0 +1,38 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/NetworkReconstruction.java",
+            "src/main/java/LogEntry.java",
+            "src/main/java/NetworkReconstructionDemo.java",
+            "README.md"
+        ],
+        "example": [
+            ".meta//src/main/java/NetworkReconstruction.java",
+            ".meta//src/main/java/LogEntry.java",
+            ".meta//src/main/java/NetworkReconstructionDemo.java",
+            ".meta//README.md"
+        ],
+        "test": [
+            "src/test/java/NetworkReconstructionTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_reconstruction/build.gradle",
+            "network_reconstruction/src/test/java/NetworkReconstructionTest.java",
+            "network_reconstruction/src/main/java/LogEntry.java"
+        ],
+        "solution": [
+            "network_reconstruction/src/main/java/NetworkReconstruction.java",
+            "network_reconstruction/src/main/java/LogEntry.java",
+            "network_reconstruction/src/main/java/NetworkReconstructionDemo.java",
+            "network_reconstruction/README.md"
+        ],
+        "example": [
+            "network_reconstruction/.meta//src/main/java/NetworkReconstruction.java",
+            "network_reconstruction/.meta//src/main/java/LogEntry.java",
+            "network_reconstruction/.meta//src/main/java/NetworkReconstructionDemo.java",
+            "network_reconstruction/.meta//README.md"
+        ]
+    }
+}

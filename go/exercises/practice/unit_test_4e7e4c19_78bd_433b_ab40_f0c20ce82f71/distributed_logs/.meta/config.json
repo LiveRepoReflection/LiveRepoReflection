@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "distributed_logs.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//distributed_logs.go"
+        ],
+        "test": [
+            "distributed_logs_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_logs/distributed_logs_test.go"
+        ],
+        "solution": [
+            "distributed_logs/go.mod",
+            "distributed_logs/distributed_logs.go"
+        ],
+        "example": [
+            "distributed_logs/.meta//go.mod",
+            "distributed_logs/.meta//distributed_logs.go"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "path_allocator.go",
+            "go.mod",
+            "defs.go"
+        ],
+        "example": [
+            ".meta//path_allocator.go",
+            ".meta//go.mod",
+            ".meta//defs.go"
+        ],
+        "test": [
+            "path_allocator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "path_allocator/path_allocator_test.go",
+            "path_allocator/go.mod",
+            "path_allocator/defs.go"
+        ],
+        "solution": [
+            "path_allocator/path_allocator.go",
+            "path_allocator/go.mod",
+            "path_allocator/defs.go"
+        ],
+        "example": [
+            "path_allocator/.meta//path_allocator.go",
+            "path_allocator/.meta//go.mod",
+            "path_allocator/.meta//defs.go"
+        ]
+    }
+}

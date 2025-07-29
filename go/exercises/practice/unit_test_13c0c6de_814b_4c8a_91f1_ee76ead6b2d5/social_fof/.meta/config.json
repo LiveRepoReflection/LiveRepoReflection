@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_fof.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_fof.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_fof_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_fof/social_fof_test.go"
+        ],
+        "solution": [
+            "social_fof/social_fof.go",
+            "social_fof/go.mod"
+        ],
+        "example": [
+            "social_fof/.meta//social_fof.go",
+            "social_fof/.meta//go.mod"
+        ]
+    }
+}

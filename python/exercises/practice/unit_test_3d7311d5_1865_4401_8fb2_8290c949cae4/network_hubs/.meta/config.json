@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_hubs.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_hubs.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_hubs_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_hubs/network_hubs_test.py"
+        ],
+        "solution": [
+            "network_hubs/network_hubs.py",
+            "network_hubs/__init__.py"
+        ],
+        "example": [
+            "network_hubs/.meta//network_hubs.py",
+            "network_hubs/.meta//__init__.py"
+        ]
+    }
+}

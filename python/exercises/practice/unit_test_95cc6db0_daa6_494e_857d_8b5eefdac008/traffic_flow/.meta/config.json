@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_flow.py"
+        ],
+        "example": [
+            ".meta//traffic_flow.py"
+        ],
+        "test": [
+            "traffic_flow_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_flow/traffic_flow_test.py"
+        ],
+        "solution": [
+            "traffic_flow/traffic_flow.py"
+        ],
+        "example": [
+            "traffic_flow/.meta//traffic_flow.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "path_planning.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//path_planning.js"
+        ],
+        "test": [
+            "__tests__/path_planning.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "path_planning/__tests__/path_planning.spec.js"
+        ],
+        "solution": [
+            "path_planning/package.json",
+            "path_planning/path_planning.js"
+        ],
+        "example": [
+            "path_planning/.meta//package.json",
+            "path_planning/.meta//path_planning.js"
+        ]
+    }
+}

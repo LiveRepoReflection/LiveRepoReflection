@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "influence_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//influence_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_influence_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "influence_network/test_influence_network.py"
+        ],
+        "solution": [
+            "influence_network/influence_network.py",
+            "influence_network/__init__.py"
+        ],
+        "example": [
+            "influence_network/.meta//influence_network.py",
+            "influence_network/.meta//__init__.py"
+        ]
+    }
+}

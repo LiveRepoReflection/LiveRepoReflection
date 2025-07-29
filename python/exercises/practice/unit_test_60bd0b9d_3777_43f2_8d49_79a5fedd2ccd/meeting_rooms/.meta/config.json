@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "meeting_rooms.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//meeting_rooms.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "meeting_rooms_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_rooms/meeting_rooms_test.py"
+        ],
+        "solution": [
+            "meeting_rooms/meeting_rooms.py",
+            "meeting_rooms/__init__.py"
+        ],
+        "example": [
+            "meeting_rooms/.meta//meeting_rooms.py",
+            "meeting_rooms/.meta//__init__.py"
+        ]
+    }
+}

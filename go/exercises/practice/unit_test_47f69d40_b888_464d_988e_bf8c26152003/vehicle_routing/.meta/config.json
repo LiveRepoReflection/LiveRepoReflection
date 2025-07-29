@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "vehicle_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//vehicle_routing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "vehicle_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "vehicle_routing/vehicle_routing_test.go"
+        ],
+        "solution": [
+            "vehicle_routing/vehicle_routing.go",
+            "vehicle_routing/go.mod"
+        ],
+        "example": [
+            "vehicle_routing/.meta//vehicle_routing.go",
+            "vehicle_routing/.meta//go.mod"
+        ]
+    }
+}

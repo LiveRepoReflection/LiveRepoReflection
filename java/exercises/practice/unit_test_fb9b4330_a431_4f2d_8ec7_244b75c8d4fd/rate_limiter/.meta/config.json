@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DefaultDistributedRateLimiter.java",
+            "src/main/java/InMemoryRateLimiterStorage.java",
+            "src/main/java/RedisRateLimiterStorage.java",
+            "src/main/java/SlidingWindowRateLimiter.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DefaultDistributedRateLimiter.java",
+            ".meta//src/main/java/InMemoryRateLimiterStorage.java",
+            ".meta//src/main/java/RedisRateLimiterStorage.java",
+            ".meta//src/main/java/SlidingWindowRateLimiter.java"
+        ],
+        "test": [
+            "src/test/java/DistributedRateLimiterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "rate_limiter/build.gradle",
+            "rate_limiter/src/main/java/DistributedRateLimiterException.java",
+            "rate_limiter/src/main/java/RateLimiterStorage.java",
+            "rate_limiter/src/main/java/DistributedRateLimiter.java",
+            "rate_limiter/src/test/java/DistributedRateLimiterTest.java"
+        ],
+        "solution": [
+            "rate_limiter/src/main/java/DefaultDistributedRateLimiter.java",
+            "rate_limiter/src/main/java/InMemoryRateLimiterStorage.java",
+            "rate_limiter/src/main/java/RedisRateLimiterStorage.java",
+            "rate_limiter/src/main/java/SlidingWindowRateLimiter.java"
+        ],
+        "example": [
+            "rate_limiter/.meta//src/main/java/DefaultDistributedRateLimiter.java",
+            "rate_limiter/.meta//src/main/java/InMemoryRateLimiterStorage.java",
+            "rate_limiter/.meta//src/main/java/RedisRateLimiterStorage.java",
+            "rate_limiter/.meta//src/main/java/SlidingWindowRateLimiter.java"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_agreement.h",
+            "byzantine_agreement.cpp"
+        ],
+        "example": [
+            ".meta//byzantine_agreement.h",
+            ".meta//byzantine_agreement.cpp"
+        ],
+        "test": [
+            "byzantine_agreement_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_agreement/byzantine_agreement_test.cpp"
+        ],
+        "solution": [
+            "byzantine_agreement/byzantine_agreement.h",
+            "byzantine_agreement/byzantine_agreement.cpp"
+        ],
+        "example": [
+            "byzantine_agreement/.meta//byzantine_agreement.h",
+            "byzantine_agreement/.meta//byzantine_agreement.cpp"
+        ]
+    }
+}

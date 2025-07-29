@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_transaction_network.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_network/test_transaction_network.py"
+        ],
+        "solution": [
+            "transaction_network/transaction_network.py",
+            "transaction_network/__init__.py"
+        ],
+        "example": [
+            "transaction_network/.meta//transaction_network.py",
+            "transaction_network/.meta//__init__.py"
+        ]
+    }
+}

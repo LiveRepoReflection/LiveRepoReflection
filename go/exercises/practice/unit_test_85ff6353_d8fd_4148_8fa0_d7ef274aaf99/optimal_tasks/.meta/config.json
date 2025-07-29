@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "optimal_tasks.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_tasks.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go",
+            "optimal_tasks_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_tasks/cases_test.go",
+            "optimal_tasks/optimal_tasks_test.go",
+            "optimal_tasks/go.mod"
+        ],
+        "solution": [
+            "optimal_tasks/optimal_tasks.go",
+            "optimal_tasks/go.mod"
+        ],
+        "example": [
+            "optimal_tasks/.meta//optimal_tasks.go",
+            "optimal_tasks/.meta//go.mod"
+        ]
+    }
+}

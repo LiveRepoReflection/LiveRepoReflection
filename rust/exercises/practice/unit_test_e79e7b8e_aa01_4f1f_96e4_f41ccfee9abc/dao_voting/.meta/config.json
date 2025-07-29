@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/dao_voting.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_voting/tests/dao_voting.rs",
+            "dao_voting/Cargo.toml"
+        ],
+        "solution": [
+            "dao_voting/src/lib.rs",
+            "dao_voting/Cargo.toml"
+        ],
+        "example": [
+            "dao_voting/.meta//src/lib.rs",
+            "dao_voting/.meta//Cargo.toml"
+        ]
+    }
+}

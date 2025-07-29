@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_red.py"
+        ],
+        "example": [
+            ".meta//network_red.py"
+        ],
+        "test": [
+            "network_red_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_red/network_red_test.py"
+        ],
+        "solution": [
+            "network_red/network_red.py"
+        ],
+        "example": [
+            "network_red/.meta//network_red.py"
+        ]
+    }
+}

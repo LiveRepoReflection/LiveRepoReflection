@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "traffic_reschedule.py"
+        ],
+        "example": [
+            ".meta//traffic_reschedule.py"
+        ],
+        "test": [
+            "traffic_reschedule_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_reschedule/traffic_reschedule_test.py"
+        ],
+        "solution": [
+            "traffic_reschedule/traffic_reschedule.py"
+        ],
+        "example": [
+            "traffic_reschedule/.meta//traffic_reschedule.py"
+        ]
+    }
+}

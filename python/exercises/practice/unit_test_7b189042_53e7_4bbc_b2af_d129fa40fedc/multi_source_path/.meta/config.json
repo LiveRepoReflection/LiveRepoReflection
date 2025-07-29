@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "multi_source_path.py"
+        ],
+        "example": [
+            ".meta//multi_source_path.py"
+        ],
+        "test": [
+            "multi_source_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_source_path/multi_source_path_test.py"
+        ],
+        "solution": [
+            "multi_source_path/multi_source_path.py"
+        ],
+        "example": [
+            "multi_source_path/.meta//multi_source_path.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "txn_coordinator.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//txn_coordinator.js"
+        ],
+        "test": [
+            "txn_coordinator.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_coordinator/txn_coordinator.spec.js"
+        ],
+        "solution": [
+            "txn_coordinator/package.json",
+            "txn_coordinator/txn_coordinator.js"
+        ],
+        "example": [
+            "txn_coordinator/.meta//package.json",
+            "txn_coordinator/.meta//txn_coordinator.js"
+        ]
+    }
+}

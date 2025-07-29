@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "max_profit_schedule.py"
+        ],
+        "example": [
+            ".meta//max_profit_schedule.py"
+        ],
+        "test": [
+            "max_profit_schedule_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "max_profit_schedule/max_profit_schedule_test.py"
+        ],
+        "solution": [
+            "max_profit_schedule/max_profit_schedule.py"
+        ],
+        "example": [
+            "max_profit_schedule/.meta//max_profit_schedule.py"
+        ]
+    }
+}

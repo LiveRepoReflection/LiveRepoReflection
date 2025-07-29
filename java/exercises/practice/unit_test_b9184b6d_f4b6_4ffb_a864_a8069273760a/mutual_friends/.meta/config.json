@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/GraphAnalytics.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/GraphAnalytics.java"
+        ],
+        "test": [
+            "src/test/java/MutualFriendsTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "mutual_friends/src/test/java/MutualFriendsTest.java"
+        ],
+        "solution": [
+            "mutual_friends/build.gradle",
+            "mutual_friends/src/main/java/GraphAnalytics.java"
+        ],
+        "example": [
+            "mutual_friends/.meta//build.gradle",
+            "mutual_friends/.meta//src/main/java/GraphAnalytics.java"
+        ]
+    }
+}

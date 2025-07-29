@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/risky_path_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "risky_path/tests/risky_path_tests.rs"
+        ],
+        "solution": [
+            "risky_path/Cargo.toml",
+            "risky_path/src/lib.rs"
+        ],
+        "example": [
+            "risky_path/.meta//Cargo.toml",
+            "risky_path/.meta//src/lib.rs"
+        ]
+    }
+}

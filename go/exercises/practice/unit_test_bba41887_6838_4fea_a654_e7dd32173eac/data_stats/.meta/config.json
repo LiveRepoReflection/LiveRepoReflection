@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_stats.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//data_stats.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "data_stats_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_stats/data_stats_test.go"
+        ],
+        "solution": [
+            "data_stats/data_stats.go",
+            "data_stats/go.mod"
+        ],
+        "example": [
+            "data_stats/.meta//data_stats.go",
+            "data_stats/.meta//go.mod"
+        ]
+    }
+}

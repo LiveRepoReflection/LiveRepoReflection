@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_diameter.py"
+        ],
+        "example": [
+            ".meta//network_diameter.py"
+        ],
+        "test": [
+            "network_diameter_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_diameter/network_diameter_test.py"
+        ],
+        "solution": [
+            "network_diameter/network_diameter.py"
+        ],
+        "example": [
+            "network_diameter/.meta//network_diameter.py"
+        ]
+    }
+}

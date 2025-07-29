@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "atms_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//atms_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "atms_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "atms_route/atms_route_test.py"
+        ],
+        "solution": [
+            "atms_route/atms_route.py",
+            "atms_route/__init__.py"
+        ],
+        "example": [
+            "atms_route/.meta//atms_route.py",
+            "atms_route/.meta//__init__.py"
+        ]
+    }
+}

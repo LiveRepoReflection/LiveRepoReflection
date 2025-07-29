@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_analytics.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//event_analytics.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "test_event_analytics.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_analytics/test_event_analytics.py"
+        ],
+        "solution": [
+            "event_analytics/event_analytics.py",
+            "event_analytics/requirements.txt"
+        ],
+        "example": [
+            "event_analytics/.meta//event_analytics.py",
+            "event_analytics/.meta//requirements.txt"
+        ]
+    }
+}

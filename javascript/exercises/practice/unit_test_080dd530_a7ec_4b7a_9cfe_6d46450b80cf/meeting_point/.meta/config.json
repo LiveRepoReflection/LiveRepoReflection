@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "meeting_point.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//meeting_point.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "test/meeting_point.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_point/test/meeting_point.spec.js"
+        ],
+        "solution": [
+            "meeting_point/meeting_point.js",
+            "meeting_point/package.json"
+        ],
+        "example": [
+            "meeting_point/.meta//meeting_point.js",
+            "meeting_point/.meta//package.json"
+        ]
+    }
+}

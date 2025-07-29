@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/tx_coordinator/Service.java",
+            "src/main/java/tx_coordinator/TxCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/tx_coordinator/Service.java",
+            ".meta//src/main/java/tx_coordinator/TxCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/TxCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/src/test/java/TxCoordinatorTest.java"
+        ],
+        "solution": [
+            "tx_coordinator/build.gradle",
+            "tx_coordinator/src/main/java/tx_coordinator/Service.java",
+            "tx_coordinator/src/main/java/tx_coordinator/TxCoordinator.java"
+        ],
+        "example": [
+            "tx_coordinator/.meta//build.gradle",
+            "tx_coordinator/.meta//src/main/java/tx_coordinator/Service.java",
+            "tx_coordinator/.meta//src/main/java/tx_coordinator/TxCoordinator.java"
+        ]
+    }
+}

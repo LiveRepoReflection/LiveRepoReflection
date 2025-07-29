@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_scheduler.py"
+        ],
+        "example": [
+            ".meta//optimal_scheduler.py"
+        ],
+        "test": [
+            "optimal_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_scheduler/optimal_scheduler_test.py"
+        ],
+        "solution": [
+            "optimal_scheduler/optimal_scheduler.py"
+        ],
+        "example": [
+            "optimal_scheduler/.meta//optimal_scheduler.py"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "task_schedule.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//task_schedule.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "task_schedule_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_schedule/task_schedule_test.go",
+            "task_schedule/go.mod"
+        ],
+        "solution": [
+            "task_schedule/task_schedule.go",
+            "task_schedule/go.mod"
+        ],
+        "example": [
+            "task_schedule/.meta//task_schedule.go",
+            "task_schedule/.meta//go.mod"
+        ]
+    }
+}

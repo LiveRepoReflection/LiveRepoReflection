@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_percentiles.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//event_percentiles.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_event_percentiles.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_percentiles/test_event_percentiles.py"
+        ],
+        "solution": [
+            "event_percentiles/event_percentiles.py",
+            "event_percentiles/__init__.py"
+        ],
+        "example": [
+            "event_percentiles/.meta//event_percentiles.py",
+            "event_percentiles/.meta//__init__.py"
+        ]
+    }
+}

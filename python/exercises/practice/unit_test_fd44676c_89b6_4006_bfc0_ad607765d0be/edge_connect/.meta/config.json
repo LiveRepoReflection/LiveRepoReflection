@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "edge_connect.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//edge_connect.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "edge_connect_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "edge_connect/edge_connect_test.py",
+            "edge_connect/__init__.py"
+        ],
+        "solution": [
+            "edge_connect/edge_connect.py",
+            "edge_connect/__init__.py"
+        ],
+        "example": [
+            "edge_connect/.meta//edge_connect.py",
+            "edge_connect/.meta//__init__.py"
+        ]
+    }
+}

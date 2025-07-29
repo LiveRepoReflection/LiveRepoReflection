@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "energium_allocation.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//energium_allocation.go"
+        ],
+        "test": [
+            "energium_allocation_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "energium_allocation/energium_allocation_test.go"
+        ],
+        "solution": [
+            "energium_allocation/go.mod",
+            "energium_allocation/energium_allocation.go"
+        ],
+        "example": [
+            "energium_allocation/.meta//go.mod",
+            "energium_allocation/.meta//energium_allocation.go"
+        ]
+    }
+}

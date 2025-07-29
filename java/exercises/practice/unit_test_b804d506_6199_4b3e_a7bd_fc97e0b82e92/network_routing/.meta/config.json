@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/NetworkRouting.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/NetworkRouting.java"
+        ],
+        "test": [
+            "src/test/java/NetworkRoutingTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_routing/src/test/java/NetworkRoutingTest.java"
+        ],
+        "solution": [
+            "network_routing/build.gradle",
+            "network_routing/src/main/java/NetworkRouting.java"
+        ],
+        "example": [
+            "network_routing/.meta//build.gradle",
+            "network_routing/.meta//src/main/java/NetworkRouting.java"
+        ]
+    }
+}

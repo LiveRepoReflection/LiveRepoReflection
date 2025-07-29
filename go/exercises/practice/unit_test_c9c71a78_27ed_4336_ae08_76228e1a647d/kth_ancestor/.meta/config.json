@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "kth_ancestor.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//kth_ancestor.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "kth_ancestor_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "kth_ancestor/kth_ancestor_test.go"
+        ],
+        "solution": [
+            "kth_ancestor/kth_ancestor.go",
+            "kth_ancestor/go.mod"
+        ],
+        "example": [
+            "kth_ancestor/.meta//kth_ancestor.go",
+            "kth_ancestor/.meta//go.mod"
+        ]
+    }
+}

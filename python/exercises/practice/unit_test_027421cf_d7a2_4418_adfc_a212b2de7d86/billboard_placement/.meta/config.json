@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "billboard_placement.py"
+        ],
+        "example": [
+            ".meta//billboard_placement.py"
+        ],
+        "test": [
+            "billboard_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "billboard_placement/billboard_placement_test.py"
+        ],
+        "solution": [
+            "billboard_placement/billboard_placement.py"
+        ],
+        "example": [
+            "billboard_placement/.meta//billboard_placement.py"
+        ]
+    }
+}

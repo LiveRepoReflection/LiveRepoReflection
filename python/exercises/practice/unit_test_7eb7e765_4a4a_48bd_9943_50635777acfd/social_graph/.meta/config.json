@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_graph.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//social_graph.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "social_graph_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_graph/social_graph_test.py"
+        ],
+        "solution": [
+            "social_graph/social_graph.py",
+            "social_graph/__init__.py"
+        ],
+        "example": [
+            "social_graph/.meta//social_graph.py",
+            "social_graph/.meta//__init__.py"
+        ]
+    }
+}

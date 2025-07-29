@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_rate_limiter.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//distributed_rate_limiter.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "test/dist_rate_limit.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_rate_limit/test/dist_rate_limit.spec.js"
+        ],
+        "solution": [
+            "dist_rate_limit/distributed_rate_limiter.js",
+            "dist_rate_limit/package.json"
+        ],
+        "example": [
+            "dist_rate_limit/.meta//distributed_rate_limiter.js",
+            "dist_rate_limit/.meta//package.json"
+        ]
+    }
+}

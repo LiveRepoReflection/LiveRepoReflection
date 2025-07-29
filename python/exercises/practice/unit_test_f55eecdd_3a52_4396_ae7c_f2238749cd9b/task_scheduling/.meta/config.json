@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_scheduling.py"
+        ],
+        "example": [
+            ".meta//task_scheduling.py"
+        ],
+        "test": [
+            "task_scheduling_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduling/task_scheduling_test.py"
+        ],
+        "solution": [
+            "task_scheduling/task_scheduling.py"
+        ],
+        "example": [
+            "task_scheduling/.meta//task_scheduling.py"
+        ]
+    }
+}

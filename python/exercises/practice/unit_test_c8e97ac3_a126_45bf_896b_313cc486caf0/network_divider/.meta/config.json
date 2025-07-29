@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_divider.py"
+        ],
+        "example": [
+            ".meta//network_divider.py"
+        ],
+        "test": [
+            "network_divider_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_divider/network_divider_test.py"
+        ],
+        "solution": [
+            "network_divider/network_divider.py"
+        ],
+        "example": [
+            "network_divider/.meta//network_divider.py"
+        ]
+    }
+}

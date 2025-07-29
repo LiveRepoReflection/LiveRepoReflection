@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Node.java",
+            "src/main/java/Edge.java",
+            "src/main/java/NetworkPartitioner.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Node.java",
+            ".meta//src/main/java/Edge.java",
+            ".meta//src/main/java/NetworkPartitioner.java"
+        ],
+        "test": [
+            "src/test/java/NetworkPartitionTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_partition/src/test/java/NetworkPartitionTest.java"
+        ],
+        "solution": [
+            "network_partition/build.gradle",
+            "network_partition/src/main/java/Node.java",
+            "network_partition/src/main/java/Edge.java",
+            "network_partition/src/main/java/NetworkPartitioner.java"
+        ],
+        "example": [
+            "network_partition/.meta//build.gradle",
+            "network_partition/.meta//src/main/java/Node.java",
+            "network_partition/.meta//src/main/java/Edge.java",
+            "network_partition/.meta//src/main/java/NetworkPartitioner.java"
+        ]
+    }
+}

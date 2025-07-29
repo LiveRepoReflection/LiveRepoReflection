@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "cloud_optimize.cpp"
+        ],
+        "example": [
+            ".meta//cloud_optimize.cpp"
+        ],
+        "test": [
+            "cloud_optimize_test.cpp",
+            "cloud_optimize.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "cloud_optimize/cloud_optimize_test.cpp",
+            "cloud_optimize/cloud_optimize.h"
+        ],
+        "solution": [
+            "cloud_optimize/cloud_optimize.cpp"
+        ],
+        "example": [
+            "cloud_optimize/.meta//cloud_optimize.cpp"
+        ]
+    }
+}

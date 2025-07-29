@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_mitigation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_mitigation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_mitigation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_mitigation/network_mitigation_test.py"
+        ],
+        "solution": [
+            "network_mitigation/network_mitigation.py",
+            "network_mitigation/__init__.py"
+        ],
+        "example": [
+            "network_mitigation/.meta//network_mitigation.py",
+            "network_mitigation/.meta//__init__.py"
+        ]
+    }
+}

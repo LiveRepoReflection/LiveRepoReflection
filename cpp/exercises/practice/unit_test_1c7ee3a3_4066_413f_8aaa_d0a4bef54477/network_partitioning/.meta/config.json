@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_partitioning.h",
+            "network_partitioning.cpp"
+        ],
+        "example": [
+            ".meta//network_partitioning.h",
+            ".meta//network_partitioning.cpp"
+        ],
+        "test": [
+            "network_partitioning_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_partitioning/network_partitioning_test.cpp"
+        ],
+        "solution": [
+            "network_partitioning/network_partitioning.h",
+            "network_partitioning/network_partitioning.cpp"
+        ],
+        "example": [
+            "network_partitioning/.meta//network_partitioning.h",
+            "network_partitioning/.meta//network_partitioning.cpp"
+        ]
+    }
+}

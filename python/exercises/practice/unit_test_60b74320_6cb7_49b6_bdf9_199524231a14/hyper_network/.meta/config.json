@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "hyper_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//hyper_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "hyper_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "hyper_network/hyper_network_test.py"
+        ],
+        "solution": [
+            "hyper_network/hyper_network.py",
+            "hyper_network/__init__.py"
+        ],
+        "example": [
+            "hyper_network/.meta//hyper_network.py",
+            "hyper_network/.meta//__init__.py"
+        ]
+    }
+}

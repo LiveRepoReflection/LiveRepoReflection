@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "flow_design.py"
+        ],
+        "example": [
+            ".meta//flow_design.py"
+        ],
+        "test": [
+            "flow_design_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_design/flow_design_test.py"
+        ],
+        "solution": [
+            "flow_design/flow_design.py"
+        ],
+        "example": [
+            "flow_design/.meta//flow_design.py"
+        ]
+    }
+}

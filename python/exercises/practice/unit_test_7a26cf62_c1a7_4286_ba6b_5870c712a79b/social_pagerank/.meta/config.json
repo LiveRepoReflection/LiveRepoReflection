@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_pagerank.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_pagerank.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "social_pagerank_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_pagerank/social_pagerank_test.py"
+        ],
+        "solution": [
+            "social_pagerank/distributed_pagerank.py",
+            "social_pagerank/__init__.py"
+        ],
+        "example": [
+            "social_pagerank/.meta//distributed_pagerank.py",
+            "social_pagerank/.meta//__init__.py"
+        ]
+    }
+}

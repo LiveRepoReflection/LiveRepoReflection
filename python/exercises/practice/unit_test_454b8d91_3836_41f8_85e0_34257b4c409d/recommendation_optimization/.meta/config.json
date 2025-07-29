@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "recommendation_optimization.py"
+        ],
+        "example": [
+            ".meta//recommendation_optimization.py"
+        ],
+        "test": [
+            "recommendation_optimization_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "recommendation_optimization/recommendation_optimization_test.py"
+        ],
+        "solution": [
+            "recommendation_optimization/recommendation_optimization.py"
+        ],
+        "example": [
+            "recommendation_optimization/.meta//recommendation_optimization.py"
+        ]
+    }
+}

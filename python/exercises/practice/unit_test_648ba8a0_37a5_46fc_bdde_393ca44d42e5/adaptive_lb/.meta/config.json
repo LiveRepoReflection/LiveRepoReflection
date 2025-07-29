@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "adaptive_lb.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//adaptive_lb.py"
+        ],
+        "test": [
+            "adaptive_lb_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_lb/adaptive_lb_test.py"
+        ],
+        "solution": [
+            "adaptive_lb/__init__.py",
+            "adaptive_lb/adaptive_lb.py"
+        ],
+        "example": [
+            "adaptive_lb/.meta//__init__.py",
+            "adaptive_lb/.meta//adaptive_lb.py"
+        ]
+    }
+}

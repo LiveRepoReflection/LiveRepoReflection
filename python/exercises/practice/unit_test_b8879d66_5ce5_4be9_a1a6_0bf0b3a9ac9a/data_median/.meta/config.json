@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_median.py",
+            "README.md"
+        ],
+        "example": [
+            ".meta//data_median.py",
+            ".meta//README.md"
+        ],
+        "test": [
+            "data_median_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_median/data_median_test.py"
+        ],
+        "solution": [
+            "data_median/data_median.py",
+            "data_median/README.md"
+        ],
+        "example": [
+            "data_median/.meta//data_median.py",
+            "data_median/.meta//README.md"
+        ]
+    }
+}

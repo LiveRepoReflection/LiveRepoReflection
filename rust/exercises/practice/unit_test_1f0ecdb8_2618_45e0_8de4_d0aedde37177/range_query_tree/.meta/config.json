@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "range_query_tree/tests/tests.rs"
+        ],
+        "solution": [
+            "range_query_tree/Cargo.toml",
+            "range_query_tree/src/lib.rs"
+        ],
+        "example": [
+            "range_query_tree/.meta//Cargo.toml",
+            "range_query_tree/.meta//src/lib.rs"
+        ]
+    }
+}

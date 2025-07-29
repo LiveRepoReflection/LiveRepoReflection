@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "cable_network.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//cable_network.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "cable_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "cable_network/cable_network_test.py"
+        ],
+        "solution": [
+            "cable_network/cable_network.py",
+            "cable_network/__init__.py"
+        ],
+        "example": [
+            "cable_network/.meta//cable_network.py",
+            "cable_network/.meta//__init__.py"
+        ]
+    }
+}

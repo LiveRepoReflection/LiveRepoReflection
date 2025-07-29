@@ -1,0 +1,12 @@
+{
+  "name": "meeting_scheduler",
+  "version": "1.0.0",
+  "description": "Meeting Scheduler implementation",
+  "main": "src/meeting_scheduler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,12 @@
+{
+  "name": "network_partition",
+  "version": "1.0.0",
+  "description": "Solution for network_partition problem",
+  "main": "network_partition.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

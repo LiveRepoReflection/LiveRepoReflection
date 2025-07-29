@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Service.java",
+            "src/main/java/TransactionContext.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Service.java",
+            ".meta//src/main/java/TransactionContext.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/Service.java",
+            "distributed_tx/src/main/java/TransactionContext.java",
+            "distributed_tx/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/Service.java",
+            "distributed_tx/.meta//src/main/java/TransactionContext.java",
+            "distributed_tx/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

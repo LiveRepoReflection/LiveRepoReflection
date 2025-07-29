@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/QosRouting.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/QosRouting.java"
+        ],
+        "test": [
+            "src/test/java/QosRoutingTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "qos_routing/src/test/java/QosRoutingTest.java"
+        ],
+        "solution": [
+            "qos_routing/build.gradle",
+            "qos_routing/src/main/java/QosRouting.java"
+        ],
+        "example": [
+            "qos_routing/.meta//build.gradle",
+            "qos_routing/.meta//src/main/java/QosRouting.java"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "simulate_traffic.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//simulate_traffic.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "traffic_pilot_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_pilot/traffic_pilot_test.py"
+        ],
+        "solution": [
+            "traffic_pilot/simulate_traffic.py",
+            "traffic_pilot/__init__.py"
+        ],
+        "example": [
+            "traffic_pilot/.meta//simulate_traffic.py",
+            "traffic_pilot/.meta//__init__.py"
+        ]
+    }
+}

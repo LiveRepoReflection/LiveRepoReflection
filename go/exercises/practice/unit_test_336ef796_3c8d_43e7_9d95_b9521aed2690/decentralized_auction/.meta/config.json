@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_auction.go"
+        ],
+        "example": [
+            ".meta//decentralized_auction.go"
+        ],
+        "test": [
+            "decentralized_auction_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_auction/decentralized_auction_test.go",
+            "decentralized_auction/go.mod"
+        ],
+        "solution": [
+            "decentralized_auction/decentralized_auction.go"
+        ],
+        "example": [
+            "decentralized_auction/.meta//decentralized_auction.go"
+        ]
+    }
+}

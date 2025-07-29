@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_split.py"
+        ],
+        "example": [
+            ".meta//network_split.py"
+        ],
+        "test": [
+            "network_split_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_split/network_split_test.py"
+        ],
+        "solution": [
+            "network_split/network_split.py"
+        ],
+        "example": [
+            "network_split/.meta//network_split.py"
+        ]
+    }
+}

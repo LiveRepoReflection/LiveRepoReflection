@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "saga_orchestrator.go",
+            "go.mod",
+            "go.sum"
+        ],
+        "example": [
+            ".meta//saga_orchestrator.go",
+            ".meta//go.mod",
+            ".meta//go.sum"
+        ],
+        "test": [
+            "saga_orchestrator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "saga_orchestrator/saga_orchestrator_test.go"
+        ],
+        "solution": [
+            "saga_orchestrator/saga_orchestrator.go",
+            "saga_orchestrator/go.mod",
+            "saga_orchestrator/go.sum"
+        ],
+        "example": [
+            "saga_orchestrator/.meta//saga_orchestrator.go",
+            "saga_orchestrator/.meta//go.mod",
+            "saga_orchestrator/.meta//go.sum"
+        ]
+    }
+}

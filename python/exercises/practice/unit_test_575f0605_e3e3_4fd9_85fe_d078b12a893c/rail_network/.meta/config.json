@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "rail_network.py"
+        ],
+        "example": [
+            ".meta//rail_network.py"
+        ],
+        "test": [
+            "rail_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "rail_network/rail_network_test.py"
+        ],
+        "solution": [
+            "rail_network/rail_network.py"
+        ],
+        "example": [
+            "rail_network/.meta//rail_network.py"
+        ]
+    }
+}

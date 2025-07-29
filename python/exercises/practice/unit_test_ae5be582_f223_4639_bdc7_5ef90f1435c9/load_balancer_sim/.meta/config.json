@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "load_balancer_sim.py"
+        ],
+        "example": [
+            ".meta//load_balancer_sim.py"
+        ],
+        "test": [
+            "load_balancer_sim_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "load_balancer_sim/load_balancer_sim_test.py"
+        ],
+        "solution": [
+            "load_balancer_sim/load_balancer_sim.py"
+        ],
+        "example": [
+            "load_balancer_sim/.meta//load_balancer_sim.py"
+        ]
+    }
+}

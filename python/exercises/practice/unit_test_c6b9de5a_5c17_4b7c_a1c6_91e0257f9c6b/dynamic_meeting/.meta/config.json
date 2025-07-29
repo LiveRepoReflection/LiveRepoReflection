@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_meeting.py"
+        ],
+        "example": [
+            ".meta//dynamic_meeting.py"
+        ],
+        "test": [
+            "dynamic_meeting_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_meeting/dynamic_meeting_test.py"
+        ],
+        "solution": [
+            "dynamic_meeting/dynamic_meeting.py"
+        ],
+        "example": [
+            "dynamic_meeting/.meta//dynamic_meeting.py"
+        ]
+    }
+}

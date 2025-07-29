@@ -1,0 +1,1 @@
+from .hft_strategy import trade

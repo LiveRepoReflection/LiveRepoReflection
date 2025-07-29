@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "resource_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_network/resource_network_test.go"
+        ],
+        "solution": [
+            "resource_network/network.go",
+            "resource_network/go.mod"
+        ],
+        "example": [
+            "resource_network/.meta//network.go",
+            "resource_network/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_distance.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_distance.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_distance_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_distance/network_distance_test.py"
+        ],
+        "solution": [
+            "network_distance/network_distance.py",
+            "network_distance/__init__.py"
+        ],
+        "example": [
+            "network_distance/.meta//network_distance.py",
+            "network_distance/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "rate_limiter.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//rate_limiter.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_rate_limiter.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_rate_limit/test_rate_limiter.py"
+        ],
+        "solution": [
+            "adaptive_rate_limit/rate_limiter.py",
+            "adaptive_rate_limit/__init__.py"
+        ],
+        "example": [
+            "adaptive_rate_limit/.meta//rate_limiter.py",
+            "adaptive_rate_limit/.meta//__init__.py"
+        ]
+    }
+}

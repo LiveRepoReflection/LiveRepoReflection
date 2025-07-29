@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/TrafficOptimizerSimulator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/TrafficOptimizerSimulator.java"
+        ],
+        "test": [
+            "src/test/java/TrafficOptimizerSimulatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_optimizer/src/test/java/TrafficOptimizerSimulatorTest.java"
+        ],
+        "solution": [
+            "traffic_optimizer/build.gradle",
+            "traffic_optimizer/src/main/java/TrafficOptimizerSimulator.java"
+        ],
+        "example": [
+            "traffic_optimizer/.meta//build.gradle",
+            "traffic_optimizer/.meta//src/main/java/TrafficOptimizerSimulator.java"
+        ]
+    }
+}

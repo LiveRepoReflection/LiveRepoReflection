@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "streaming_graph.py"
+        ],
+        "example": [
+            ".meta//streaming_graph.py"
+        ],
+        "test": [
+            "streaming_graph_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "streaming_graph/streaming_graph_test.py"
+        ],
+        "solution": [
+            "streaming_graph/streaming_graph.py"
+        ],
+        "example": [
+            "streaming_graph/.meta//streaming_graph.py"
+        ]
+    }
+}

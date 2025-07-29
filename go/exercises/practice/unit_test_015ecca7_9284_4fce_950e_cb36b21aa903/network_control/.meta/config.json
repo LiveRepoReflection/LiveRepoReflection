@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_control.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_control.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_control/cases_test.go",
+            "network_control/network_control.go"
+        ],
+        "solution": [
+            "network_control/network_control.go",
+            "network_control/go.mod"
+        ],
+        "example": [
+            "network_control/.meta//network_control.go",
+            "network_control/.meta//go.mod"
+        ]
+    }
+}

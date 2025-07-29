@@ -1,0 +1,11 @@
+{
+  "name": "distributed_tx",
+  "version": "1.0.0",
+  "description": "Distributed Transaction Coordinator implementation using 2PC protocol",
+  "main": "distributed_tx.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_limit.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dist_limit.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_limit_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_limit/dist_limit_test.go"
+        ],
+        "solution": [
+            "dist_limit/dist_limit.go",
+            "dist_limit/go.mod"
+        ],
+        "example": [
+            "dist_limit/.meta//dist_limit.go",
+            "dist_limit/.meta//go.mod"
+        ]
+    }
+}

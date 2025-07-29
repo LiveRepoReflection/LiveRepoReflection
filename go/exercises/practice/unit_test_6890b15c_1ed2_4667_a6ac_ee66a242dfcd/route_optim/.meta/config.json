@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "route_optim.go"
+        ],
+        "example": [
+            ".meta//route_optim.go"
+        ],
+        "test": [
+            "route_optim_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_optim/route_optim_test.go",
+            "route_optim/cases_test.go",
+            "route_optim/go.mod"
+        ],
+        "solution": [
+            "route_optim/route_optim.go"
+        ],
+        "example": [
+            "route_optim/.meta//route_optim.go"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "hcc_collapse.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//hcc_collapse.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_hcc_collapse.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "hcc_collapse/test_hcc_collapse.py"
+        ],
+        "solution": [
+            "hcc_collapse/hcc_collapse.py",
+            "hcc_collapse/__init__.py"
+        ],
+        "example": [
+            "hcc_collapse/.meta//hcc_collapse.py",
+            "hcc_collapse/.meta//__init__.py"
+        ]
+    }
+}

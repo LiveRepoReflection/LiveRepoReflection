@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Machine.java",
+            "src/main/java/Task.java",
+            "src/main/java/ScheduledTask.java",
+            "src/main/java/TaskScheduler.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Machine.java",
+            ".meta//src/main/java/Task.java",
+            ".meta//src/main/java/ScheduledTask.java",
+            ".meta//src/main/java/TaskScheduler.java"
+        ],
+        "test": [
+            "src/test/java/TaskSchedulerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduler/src/test/java/TaskSchedulerTest.java"
+        ],
+        "solution": [
+            "task_scheduler/build.gradle",
+            "task_scheduler/src/main/java/Machine.java",
+            "task_scheduler/src/main/java/Task.java",
+            "task_scheduler/src/main/java/ScheduledTask.java",
+            "task_scheduler/src/main/java/TaskScheduler.java"
+        ],
+        "example": [
+            "task_scheduler/.meta//build.gradle",
+            "task_scheduler/.meta//src/main/java/Machine.java",
+            "task_scheduler/.meta//src/main/java/Task.java",
+            "task_scheduler/.meta//src/main/java/ScheduledTask.java",
+            "task_scheduler/.meta//src/main/java/TaskScheduler.java"
+        ]
+    }
+}

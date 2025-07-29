@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_transfer.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//data_transfer.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "data_transfer_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_transfer/data_transfer_test.go"
+        ],
+        "solution": [
+            "data_transfer/data_transfer.go",
+            "data_transfer/go.mod"
+        ],
+        "example": [
+            "data_transfer/.meta//data_transfer.go",
+            "data_transfer/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "city_response.py"
+        ],
+        "example": [
+            ".meta//city_response.py"
+        ],
+        "test": [
+            "city_response_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_response/city_response_test.py"
+        ],
+        "solution": [
+            "city_response/city_response.py"
+        ],
+        "example": [
+            "city_response/.meta//city_response.py"
+        ]
+    }
+}

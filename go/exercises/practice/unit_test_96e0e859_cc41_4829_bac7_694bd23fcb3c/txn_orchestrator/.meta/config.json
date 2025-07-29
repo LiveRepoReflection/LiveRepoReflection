@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "txn_orchestrator.go"
+        ],
+        "example": [
+            ".meta//txn_orchestrator.go"
+        ],
+        "test": [
+            "txn_orchestrator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_orchestrator/txn_orchestrator_test.go",
+            "txn_orchestrator/go.mod"
+        ],
+        "solution": [
+            "txn_orchestrator/txn_orchestrator.go"
+        ],
+        "example": [
+            "txn_orchestrator/.meta//txn_orchestrator.go"
+        ]
+    }
+}

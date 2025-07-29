@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_scale.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_scale.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_scale_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_scale/social_scale_test.go"
+        ],
+        "solution": [
+            "social_scale/social_scale.go",
+            "social_scale/go.mod"
+        ],
+        "example": [
+            "social_scale/.meta//social_scale.go",
+            "social_scale/.meta//go.mod"
+        ]
+    }
+}

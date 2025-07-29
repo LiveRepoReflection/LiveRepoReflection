@@ -1,0 +1,11 @@
+{
+  "name": "task_scheduler",
+  "version": "1.0.0",
+  "description": "Distributed Task Scheduler in JavaScript",
+  "main": "task_scheduler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

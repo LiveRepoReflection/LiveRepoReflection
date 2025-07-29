@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "transaction_ordering.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//transaction_ordering.go",
+            ".meta//go.mod",
+            ".meta//transaction_ordering_test.go"
+        ],
+        "test": [
+            "transaction_ordering_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_ordering/transaction_ordering_test.go",
+            "transaction_ordering/cases_test.go"
+        ],
+        "solution": [
+            "transaction_ordering/transaction_ordering.go",
+            "transaction_ordering/go.mod",
+            "transaction_ordering/transaction_ordering_test.go"
+        ],
+        "example": [
+            "transaction_ordering/.meta//transaction_ordering.go",
+            "transaction_ordering/.meta//go.mod",
+            "transaction_ordering/.meta//transaction_ordering_test.go"
+        ]
+    }
+}

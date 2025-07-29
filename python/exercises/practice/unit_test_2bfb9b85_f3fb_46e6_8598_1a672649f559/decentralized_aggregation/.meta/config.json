@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_aggregation.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//decentralized_aggregation.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "test_decentralized_aggregation.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_aggregation/test_decentralized_aggregation.py"
+        ],
+        "solution": [
+            "decentralized_aggregation/decentralized_aggregation.py",
+            "decentralized_aggregation/requirements.txt"
+        ],
+        "example": [
+            "decentralized_aggregation/.meta//decentralized_aggregation.py",
+            "decentralized_aggregation/.meta//requirements.txt"
+        ]
+    }
+}

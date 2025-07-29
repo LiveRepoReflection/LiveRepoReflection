@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "transaction_scheduler.py"
+        ],
+        "example": [
+            ".meta//transaction_scheduler.py"
+        ],
+        "test": [
+            "transaction_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_scheduler/transaction_scheduler_test.py"
+        ],
+        "solution": [
+            "transaction_scheduler/transaction_scheduler.py"
+        ],
+        "example": [
+            "transaction_scheduler/.meta//transaction_scheduler.py"
+        ]
+    }
+}

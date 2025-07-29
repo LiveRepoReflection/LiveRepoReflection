@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "resource_alloc.go"
+        ],
+        "example": [
+            ".meta//resource_alloc.go"
+        ],
+        "test": [
+            "resource_alloc_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_alloc/resource_alloc_test.go",
+            "resource_alloc/go.mod"
+        ],
+        "solution": [
+            "resource_alloc/resource_alloc.go"
+        ],
+        "example": [
+            "resource_alloc/.meta//resource_alloc.go"
+        ]
+    }
+}

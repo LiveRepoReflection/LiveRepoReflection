@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "consensus_graph.py"
+        ],
+        "example": [
+            ".meta//consensus_graph.py"
+        ],
+        "test": [
+            "consensus_graph_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consensus_graph/consensus_graph_test.py"
+        ],
+        "solution": [
+            "consensus_graph/consensus_graph.py"
+        ],
+        "example": [
+            "consensus_graph/.meta//consensus_graph.py"
+        ]
+    }
+}

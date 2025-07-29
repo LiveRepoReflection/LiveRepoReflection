@@ -1,0 +1,14 @@
+{
+    "name": "optimal-order-allocation",
+    "version": "1.0.0",
+    "description": "A high-frequency trading system component to allocate market buy orders.",
+    "main": "solution.js",
+    "scripts": {
+        "test": "jest --verbose"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}

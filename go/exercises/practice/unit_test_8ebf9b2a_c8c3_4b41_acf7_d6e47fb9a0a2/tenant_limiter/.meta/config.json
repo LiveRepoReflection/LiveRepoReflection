@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "limiter.go",
+            "go.mod",
+            "README.md"
+        ],
+        "example": [
+            ".meta//limiter.go",
+            ".meta//go.mod",
+            ".meta//README.md"
+        ],
+        "test": [
+            "limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tenant_limiter/limiter_test.go",
+            "tenant_limiter/go.mod",
+            "tenant_limiter/limiter.go"
+        ],
+        "solution": [
+            "tenant_limiter/limiter.go",
+            "tenant_limiter/go.mod",
+            "tenant_limiter/README.md",
+            "5. Adaptive rate limiting based on system load"
+        ],
+        "example": [
+            "tenant_limiter/.meta//limiter.go",
+            "tenant_limiter/.meta//go.mod",
+            "tenant_limiter/.meta//README.md",
+            ".meta/5. Adaptive rate limiting based on system load"
+        ]
+    }
+}

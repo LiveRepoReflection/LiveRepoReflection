@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/DistributedKeyValueStore.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/DistributedKeyValueStore.java"
+        ],
+        "test": [
+            "src/test/java/DistributedKeyValueStoreTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_store/src/test/java/DistributedKeyValueStoreTest.java"
+        ],
+        "solution": [
+            "consistent_store/build.gradle",
+            "consistent_store/src/main/java/DistributedKeyValueStore.java"
+        ],
+        "example": [
+            "consistent_store/.meta//build.gradle",
+            "consistent_store/.meta//src/main/java/DistributedKeyValueStore.java"
+        ]
+    }
+}

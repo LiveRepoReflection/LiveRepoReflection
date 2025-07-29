@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "task_assign_optimal.py"
+        ],
+        "example": [
+            ".meta//task_assign_optimal.py"
+        ],
+        "test": [
+            "test_task_assign_optimal.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_assign_optimal/test_task_assign_optimal.py"
+        ],
+        "solution": [
+            "task_assign_optimal/task_assign_optimal.py"
+        ],
+        "example": [
+            "task_assign_optimal/.meta//task_assign_optimal.py"
+        ]
+    }
+}

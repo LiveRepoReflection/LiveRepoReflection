@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "net_connect.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//net_connect.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "net_connect_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_connect/net_connect_test.go"
+        ],
+        "solution": [
+            "net_connect/net_connect.go",
+            "net_connect/go.mod"
+        ],
+        "example": [
+            "net_connect/.meta//net_connect.go",
+            "net_connect/.meta//go.mod"
+        ]
+    }
+}

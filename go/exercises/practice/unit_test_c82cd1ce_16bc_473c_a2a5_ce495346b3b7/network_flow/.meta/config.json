@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "network_flow.go"
+        ],
+        "example": [
+            ".meta//network_flow.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "network_flow_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_flow/cases_test.go",
+            "network_flow/network_flow_test.go",
+            "network_flow/go.mod"
+        ],
+        "solution": [
+            "network_flow/network_flow.go"
+        ],
+        "example": [
+            "network_flow/.meta//network_flow.go"
+        ]
+    }
+}

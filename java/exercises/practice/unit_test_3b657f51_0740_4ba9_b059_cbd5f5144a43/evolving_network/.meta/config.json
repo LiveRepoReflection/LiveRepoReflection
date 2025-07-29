@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/EvolvingNetwork.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/EvolvingNetwork.java"
+        ],
+        "test": [
+            "src/test/java/EvolvingNetworkTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "evolving_network/src/test/java/EvolvingNetworkTest.java"
+        ],
+        "solution": [
+            "evolving_network/build.gradle",
+            "evolving_network/src/main/java/EvolvingNetwork.java"
+        ],
+        "example": [
+            "evolving_network/.meta//build.gradle",
+            "evolving_network/.meta//src/main/java/EvolvingNetwork.java"
+        ]
+    }
+}

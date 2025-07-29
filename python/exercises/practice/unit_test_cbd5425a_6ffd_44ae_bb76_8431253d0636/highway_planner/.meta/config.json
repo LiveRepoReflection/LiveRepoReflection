@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "highway_planner.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//highway_planner.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_highway_planner.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "highway_planner/test_highway_planner.py"
+        ],
+        "solution": [
+            "highway_planner/highway_planner.py",
+            "highway_planner/__init__.py"
+        ],
+        "example": [
+            "highway_planner/.meta//highway_planner.py",
+            "highway_planner/.meta//__init__.py"
+        ]
+    }
+}

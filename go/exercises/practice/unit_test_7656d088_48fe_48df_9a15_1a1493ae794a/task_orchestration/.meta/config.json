@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_orchestration.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//task_orchestration.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "task_orchestration_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_orchestration/task_orchestration_test.go"
+        ],
+        "solution": [
+            "task_orchestration/task_orchestration.go",
+            "task_orchestration/go.mod"
+        ],
+        "example": [
+            "task_orchestration/.meta//task_orchestration.go",
+            "task_orchestration/.meta//go.mod"
+        ]
+    }
+}

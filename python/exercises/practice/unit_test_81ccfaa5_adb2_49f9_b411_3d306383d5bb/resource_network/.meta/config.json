@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "resource_network.py"
+        ],
+        "example": [
+            ".meta//resource_network.py"
+        ],
+        "test": [
+            "resource_network_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resource_network/resource_network_test.py"
+        ],
+        "solution": [
+            "resource_network/resource_network.py"
+        ],
+        "example": [
+            "resource_network/.meta//resource_network.py"
+        ]
+    }
+}

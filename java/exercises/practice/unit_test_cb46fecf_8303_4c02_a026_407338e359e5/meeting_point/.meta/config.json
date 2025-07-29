@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/MeetingPoint.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/MeetingPoint.java"
+        ],
+        "test": [
+            "src/test/java/MeetingPointTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_point/src/test/java/MeetingPointTest.java"
+        ],
+        "solution": [
+            "meeting_point/build.gradle",
+            "meeting_point/src/main/java/MeetingPoint.java"
+        ],
+        "example": [
+            "meeting_point/.meta//build.gradle",
+            "meeting_point/.meta//src/main/java/MeetingPoint.java"
+        ]
+    }
+}

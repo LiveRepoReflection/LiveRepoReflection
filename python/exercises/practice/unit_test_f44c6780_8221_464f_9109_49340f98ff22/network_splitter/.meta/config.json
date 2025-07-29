@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "network_splitter.py",
+            "requirements.txt",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_splitter.py",
+            ".meta//requirements.txt",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_network_splitter.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_splitter/test_network_splitter.py"
+        ],
+        "solution": [
+            "network_splitter/network_splitter.py",
+            "network_splitter/requirements.txt",
+            "network_splitter/__init__.py"
+        ],
+        "example": [
+            "network_splitter/.meta//network_splitter.py",
+            "network_splitter/.meta//requirements.txt",
+            "network_splitter/.meta//__init__.py"
+        ]
+    }
+}

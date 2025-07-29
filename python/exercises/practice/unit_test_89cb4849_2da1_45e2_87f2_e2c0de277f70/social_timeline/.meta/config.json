@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_timeline.py"
+        ],
+        "example": [
+            ".meta//social_timeline.py"
+        ],
+        "test": [
+            "social_timeline_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_timeline/social_timeline_test.py"
+        ],
+        "solution": [
+            "social_timeline/social_timeline.py"
+        ],
+        "example": [
+            "social_timeline/.meta//social_timeline.py"
+        ]
+    }
+}

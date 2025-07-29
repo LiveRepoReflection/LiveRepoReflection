@@ -1,0 +1,9 @@
+{
+  "name": "rate_limiter",
+  "version": "1.0.0",
+  "main": "rate_limiter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {}
+}

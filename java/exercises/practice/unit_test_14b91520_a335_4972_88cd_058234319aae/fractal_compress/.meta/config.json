@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Transformation.java",
+            "src/main/java/FractalCompressor.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Transformation.java",
+            ".meta//src/main/java/FractalCompressor.java"
+        ],
+        "test": [
+            "src/test/java/FractalCompressTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "fractal_compress/src/test/java/FractalCompressTest.java",
+            "fractal_compress/build.gradle"
+        ],
+        "solution": [
+            "fractal_compress/src/main/java/Transformation.java",
+            "fractal_compress/src/main/java/FractalCompressor.java"
+        ],
+        "example": [
+            "fractal_compress/.meta//src/main/java/Transformation.java",
+            "fractal_compress/.meta//src/main/java/FractalCompressor.java"
+        ]
+    }
+}

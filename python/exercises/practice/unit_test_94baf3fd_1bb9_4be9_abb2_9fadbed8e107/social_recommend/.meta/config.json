@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_recommend.py"
+        ],
+        "example": [
+            ".meta//social_recommend.py"
+        ],
+        "test": [
+            "social_recommend_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_recommend/social_recommend_test.py"
+        ],
+        "solution": [
+            "social_recommend/social_recommend.py"
+        ],
+        "example": [
+            "social_recommend/.meta//social_recommend.py"
+        ]
+    }
+}

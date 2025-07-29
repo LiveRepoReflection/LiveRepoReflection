@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_optimal_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_routing/test_optimal_routing.py"
+        ],
+        "solution": [
+            "optimal_routing/optimal_routing.py",
+            "optimal_routing/__init__.py"
+        ],
+        "example": [
+            "optimal_routing/.meta//optimal_routing.py",
+            "optimal_routing/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "order_book.py"
+        ],
+        "example": [
+            ".meta//order_book.py"
+        ],
+        "test": [
+            "order_book_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_book/order_book_test.py"
+        ],
+        "solution": [
+            "order_book/order_book.py"
+        ],
+        "example": [
+            "order_book/.meta//order_book.py"
+        ]
+    }
+}

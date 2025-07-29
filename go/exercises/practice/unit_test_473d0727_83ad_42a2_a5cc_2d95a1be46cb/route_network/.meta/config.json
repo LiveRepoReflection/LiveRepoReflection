@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "route_network.go"
+        ],
+        "example": [
+            ".meta//route_network.go"
+        ],
+        "test": [
+            "route_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_network/route_network_test.go",
+            "route_network/go.mod"
+        ],
+        "solution": [
+            "route_network/route_network.go"
+        ],
+        "example": [
+            "route_network/.meta//route_network.go"
+        ]
+    }
+}

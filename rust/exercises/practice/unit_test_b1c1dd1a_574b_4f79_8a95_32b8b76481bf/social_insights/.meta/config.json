@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/social_insights.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_insights/tests/social_insights.rs"
+        ],
+        "solution": [
+            "social_insights/Cargo.toml",
+            "social_insights/src/lib.rs"
+        ],
+        "example": [
+            "social_insights/.meta//Cargo.toml",
+            "social_insights/.meta//src/lib.rs"
+        ]
+    }
+}

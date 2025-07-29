@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "flow_expansion.py"
+        ],
+        "example": [
+            ".meta//flow_expansion.py"
+        ],
+        "test": [
+            "flow_expansion_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_expansion/flow_expansion_test.py"
+        ],
+        "solution": [
+            "flow_expansion/flow_expansion.py"
+        ],
+        "example": [
+            "flow_expansion/.meta//flow_expansion.py"
+        ]
+    }
+}

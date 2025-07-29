@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "network_optimus.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//network_optimus.go"
+        ],
+        "test": [
+            "network_optimus_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_optimus/network_optimus_test.go"
+        ],
+        "solution": [
+            "network_optimus/go.mod",
+            "network_optimus/network_optimus.go"
+        ],
+        "example": [
+            "network_optimus/.meta//go.mod",
+            "network_optimus/.meta//network_optimus.go"
+        ]
+    }
+}

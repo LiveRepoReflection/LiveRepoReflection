@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "auction_consensus.py"
+        ],
+        "example": [
+            ".meta//auction_consensus.py"
+        ],
+        "test": [
+            "auction_consensus_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "auction_consensus/auction_consensus_test.py"
+        ],
+        "solution": [
+            "auction_consensus/auction_consensus.py"
+        ],
+        "example": [
+            "auction_consensus/.meta//auction_consensus.py"
+        ]
+    }
+}

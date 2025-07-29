@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "microservice_partition.py"
+        ],
+        "example": [
+            ".meta//microservice_partition.py"
+        ],
+        "test": [
+            "microservice_partition_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microservice_partition/microservice_partition_test.py"
+        ],
+        "solution": [
+            "microservice_partition/microservice_partition.py"
+        ],
+        "example": [
+            "microservice_partition/.meta//microservice_partition.py"
+        ]
+    }
+}

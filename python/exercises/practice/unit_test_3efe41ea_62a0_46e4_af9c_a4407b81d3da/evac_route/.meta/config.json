@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "evac_route.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//evac_route.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "evac_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "evac_route/evac_route_test.py"
+        ],
+        "solution": [
+            "evac_route/evac_route.py",
+            "evac_route/__init__.py"
+        ],
+        "example": [
+            "evac_route/.meta//evac_route.py",
+            "evac_route/.meta//__init__.py"
+        ]
+    }
+}

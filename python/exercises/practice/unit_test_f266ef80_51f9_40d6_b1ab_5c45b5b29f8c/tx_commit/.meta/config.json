@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "tx_commit.py"
+        ],
+        "example": [
+            ".meta//tx_commit.py"
+        ],
+        "test": [
+            "tx_commit_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_commit/tx_commit_test.py"
+        ],
+        "solution": [
+            "tx_commit/tx_commit.py"
+        ],
+        "example": [
+            "tx_commit/.meta//tx_commit.py"
+        ]
+    }
+}

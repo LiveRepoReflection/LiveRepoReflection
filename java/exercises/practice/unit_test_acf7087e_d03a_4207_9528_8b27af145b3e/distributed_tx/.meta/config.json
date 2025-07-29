@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DTM.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DTM.java"
+        ],
+        "test": [
+            "src/test/java/DTMTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DTMTest.java",
+            "distributed_tx/src/main/java/Participant.java",
+            "distributed_tx/build.gradle"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/DTM.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/DTM.java"
+        ]
+    }
+}

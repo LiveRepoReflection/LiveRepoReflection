@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "key_counter.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//key_counter.go"
+        ],
+        "test": [
+            "key_counter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "key_counter/key_counter_test.go"
+        ],
+        "solution": [
+            "key_counter/go.mod",
+            "key_counter/key_counter.go"
+        ],
+        "example": [
+            "key_counter/.meta//go.mod",
+            "key_counter/.meta//key_counter.go"
+        ]
+    }
+}

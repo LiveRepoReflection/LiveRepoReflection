@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "city_planner.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//city_planner.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_city_planner.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "city_planner/test_city_planner.py"
+        ],
+        "solution": [
+            "city_planner/city_planner.py",
+            "city_planner/__init__.py"
+        ],
+        "example": [
+            "city_planner/.meta//city_planner.py",
+            "city_planner/.meta//__init__.py"
+        ]
+    }
+}

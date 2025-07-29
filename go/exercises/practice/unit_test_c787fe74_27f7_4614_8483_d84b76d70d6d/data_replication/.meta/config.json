@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "data_replication.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//data_replication.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "data_replication_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "data_replication/data_replication_test.go"
+        ],
+        "solution": [
+            "data_replication/data_replication.go",
+            "data_replication/go.mod"
+        ],
+        "example": [
+            "data_replication/.meta//data_replication.go",
+            "data_replication/.meta//go.mod"
+        ]
+    }
+}

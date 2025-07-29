@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "router_placement.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//router_placement.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "router_placement_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "router_placement/router_placement_test.py"
+        ],
+        "solution": [
+            "router_placement/router_placement.py",
+            "router_placement/__init__.py"
+        ],
+        "example": [
+            "router_placement/.meta//router_placement.py",
+            "router_placement/.meta//__init__.py"
+        ]
+    }
+}

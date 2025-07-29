@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "traffic_routing.go",
+            "types.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//traffic_routing.go",
+            ".meta//types.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "traffic_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_routing/traffic_routing_test.go",
+            "traffic_routing/types.go",
+            "traffic_routing/go.mod"
+        ],
+        "solution": [
+            "traffic_routing/traffic_routing.go",
+            "traffic_routing/types.go",
+            "traffic_routing/go.mod"
+        ],
+        "example": [
+            "traffic_routing/.meta//traffic_routing.go",
+            "traffic_routing/.meta//types.go",
+            "traffic_routing/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dist_key_store_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_key_store/dist_key_store_test.py"
+        ],
+        "solution": [
+            "dist_key_store/__init__.py"
+        ],
+        "example": [
+            "dist_key_store/.meta//__init__.py"
+        ]
+    }
+}

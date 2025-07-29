@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "stream_anomaly.py",
+            "utils.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//stream_anomaly.py",
+            ".meta//utils.py"
+        ],
+        "test": [
+            "test_stream_anomaly.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_anomaly/test_stream_anomaly.py"
+        ],
+        "solution": [
+            "stream_anomaly/__init__.py",
+            "stream_anomaly/stream_anomaly.py",
+            "stream_anomaly/utils.py"
+        ],
+        "example": [
+            "stream_anomaly/.meta//__init__.py",
+            "stream_anomaly/.meta//stream_anomaly.py",
+            "stream_anomaly/.meta//utils.py"
+        ]
+    }
+}

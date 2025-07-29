@@ -1,0 +1,11 @@
+{
+  "name": "route_optimizer",
+  "version": "1.0.0",
+  "description": "Optimal route planner for a dynamic congestion weighted graph.",
+  "main": "route_optimizer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT"
+}

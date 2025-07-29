@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "node.py",
+            "__init__.py",
+            "hashing.py"
+        ],
+        "example": [
+            ".meta//node.py",
+            ".meta//__init__.py",
+            ".meta//hashing.py"
+        ],
+        "test": [
+            "test_txn_keyvalue.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_keyvalue/test_txn_keyvalue.py"
+        ],
+        "solution": [
+            "txn_keyvalue/node.py",
+            "txn_keyvalue/__init__.py",
+            "txn_keyvalue/hashing.py"
+        ],
+        "example": [
+            "txn_keyvalue/.meta//node.py",
+            "txn_keyvalue/.meta//__init__.py",
+            "txn_keyvalue/.meta//hashing.py"
+        ]
+    }
+}

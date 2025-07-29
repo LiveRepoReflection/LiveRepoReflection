@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_galaxy.h",
+            "social_galaxy.cpp"
+        ],
+        "example": [
+            ".meta//social_galaxy.h",
+            ".meta//social_galaxy.cpp"
+        ],
+        "test": [
+            "social_galaxy_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_galaxy/social_galaxy_test.cpp"
+        ],
+        "solution": [
+            "social_galaxy/social_galaxy.h",
+            "social_galaxy/social_galaxy.cpp"
+        ],
+        "example": [
+            "social_galaxy/.meta//social_galaxy.h",
+            "social_galaxy/.meta//social_galaxy.cpp"
+        ]
+    }
+}

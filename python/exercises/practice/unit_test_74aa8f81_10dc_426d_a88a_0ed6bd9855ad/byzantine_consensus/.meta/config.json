@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_consensus.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//byzantine_consensus.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "byzantine_consensus_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_consensus/byzantine_consensus_test.py"
+        ],
+        "solution": [
+            "byzantine_consensus/byzantine_consensus.py",
+            "byzantine_consensus/__init__.py"
+        ],
+        "example": [
+            "byzantine_consensus/.meta//byzantine_consensus.py",
+            "byzantine_consensus/.meta//__init__.py"
+        ]
+    }
+}

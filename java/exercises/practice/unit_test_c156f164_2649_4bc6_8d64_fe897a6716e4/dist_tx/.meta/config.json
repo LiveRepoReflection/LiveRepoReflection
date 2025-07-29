@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/ResourceManager.java",
+            "src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/ResourceManager.java",
+            ".meta//src/main/java/TransactionCoordinator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionCoordinatorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx/src/test/java/TransactionCoordinatorTest.java"
+        ],
+        "solution": [
+            "dist_tx/build.gradle",
+            "dist_tx/src/main/java/ResourceManager.java",
+            "dist_tx/src/main/java/TransactionCoordinator.java"
+        ],
+        "example": [
+            "dist_tx/.meta//build.gradle",
+            "dist_tx/.meta//src/main/java/ResourceManager.java",
+            "dist_tx/.meta//src/main/java/TransactionCoordinator.java"
+        ]
+    }
+}

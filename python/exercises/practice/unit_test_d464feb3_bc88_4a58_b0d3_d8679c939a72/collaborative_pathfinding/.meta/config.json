@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "collaborative_pathfinding.py"
+        ],
+        "example": [
+            ".meta//collaborative_pathfinding.py"
+        ],
+        "test": [
+            "collaborative_pathfinding_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "collaborative_pathfinding/collaborative_pathfinding_test.py"
+        ],
+        "solution": [
+            "collaborative_pathfinding/collaborative_pathfinding.py"
+        ],
+        "example": [
+            "collaborative_pathfinding/.meta//collaborative_pathfinding.py"
+        ]
+    }
+}

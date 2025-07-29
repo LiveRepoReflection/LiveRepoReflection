@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/fractal_compress.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "fractal_compress/tests/fractal_compress.rs"
+        ],
+        "solution": [
+            "fractal_compress/Cargo.toml",
+            "fractal_compress/src/lib.rs"
+        ],
+        "example": [
+            "fractal_compress/.meta//Cargo.toml",
+            "fractal_compress/.meta//src/lib.rs"
+        ]
+    }
+}

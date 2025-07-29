@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "Cargo.toml",
+            "tests/median_tracker.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "median_tracker/Cargo.toml",
+            "median_tracker/tests/median_tracker.rs"
+        ],
+        "solution": [
+            "median_tracker/src/lib.rs"
+        ],
+        "example": [
+            "median_tracker/.meta//src/lib.rs"
+        ]
+    }
+}

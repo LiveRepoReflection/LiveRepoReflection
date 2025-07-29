@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_dedup.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//event_dedup.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "event_dedup_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_dedup/event_dedup_test.py"
+        ],
+        "solution": [
+            "event_dedup/event_dedup.py",
+            "event_dedup/__init__.py"
+        ],
+        "example": [
+            "event_dedup/.meta//event_dedup.py",
+            "event_dedup/.meta//__init__.py"
+        ]
+    }
+}

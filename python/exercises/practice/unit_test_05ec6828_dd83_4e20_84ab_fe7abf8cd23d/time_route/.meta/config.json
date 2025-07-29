@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "time_route.py"
+        ],
+        "example": [
+            ".meta//time_route.py"
+        ],
+        "test": [
+            "time_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_route/time_route_test.py"
+        ],
+        "solution": [
+            "time_route/time_route.py"
+        ],
+        "example": [
+            "time_route/.meta//time_route.py"
+        ]
+    }
+}

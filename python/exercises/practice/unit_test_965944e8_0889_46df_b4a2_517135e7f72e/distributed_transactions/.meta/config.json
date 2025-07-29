@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_transactions.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_transactions.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "distributed_transactions_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_transactions/distributed_transactions_test.py"
+        ],
+        "solution": [
+            "distributed_transactions/distributed_transactions.py",
+            "distributed_transactions/__init__.py"
+        ],
+        "example": [
+            "distributed_transactions/.meta//distributed_transactions.py",
+            "distributed_transactions/.meta//__init__.py"
+        ]
+    }
+}

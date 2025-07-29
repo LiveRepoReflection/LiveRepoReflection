@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_design.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_design.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_design_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_design/network_design_test.py"
+        ],
+        "solution": [
+            "network_design/network_design.py",
+            "network_design/__init__.py"
+        ],
+        "example": [
+            "network_design/.meta//network_design.py",
+            "network_design/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "time_anomaly.py"
+        ],
+        "example": [
+            ".meta//time_anomaly.py"
+        ],
+        "test": [
+            "time_anomaly_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_anomaly/time_anomaly_test.py"
+        ],
+        "solution": [
+            "time_anomaly/time_anomaly.py"
+        ],
+        "example": [
+            "time_anomaly/.meta//time_anomaly.py"
+        ]
+    }
+}

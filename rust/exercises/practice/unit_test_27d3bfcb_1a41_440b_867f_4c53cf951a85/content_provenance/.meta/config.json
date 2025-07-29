@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "Cargo.toml",
+            "tests/content_provenance.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "content_provenance/Cargo.toml",
+            "content_provenance/tests/content_provenance.rs"
+        ],
+        "solution": [
+            "content_provenance/src/lib.rs"
+        ],
+        "example": [
+            "content_provenance/.meta//src/lib.rs"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "service_routing.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//service_routing.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "service_routing_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "service_routing/service_routing_test.go"
+        ],
+        "solution": [
+            "service_routing/service_routing.go",
+            "service_routing/go.mod"
+        ],
+        "example": [
+            "service_routing/.meta//service_routing.go",
+            "service_routing/.meta//go.mod"
+        ]
+    }
+}

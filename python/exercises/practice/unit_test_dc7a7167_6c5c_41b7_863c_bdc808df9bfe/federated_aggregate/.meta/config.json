@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "federated_aggregate.py"
+        ],
+        "example": [
+            ".meta//federated_aggregate.py"
+        ],
+        "test": [
+            "federated_aggregate_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "federated_aggregate/federated_aggregate_test.py"
+        ],
+        "solution": [
+            "federated_aggregate/federated_aggregate.py"
+        ],
+        "example": [
+            "federated_aggregate/.meta//federated_aggregate.py"
+        ]
+    }
+}

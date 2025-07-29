@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "algo_exchange.py"
+        ],
+        "example": [
+            ".meta//algo_exchange.py"
+        ],
+        "test": [
+            "algo_exchange_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "algo_exchange/algo_exchange_test.py"
+        ],
+        "solution": [
+            "algo_exchange/algo_exchange.py"
+        ],
+        "example": [
+            "algo_exchange/.meta//algo_exchange.py"
+        ]
+    }
+}

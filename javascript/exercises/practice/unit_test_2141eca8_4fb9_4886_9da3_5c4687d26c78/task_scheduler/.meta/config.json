@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_scheduler.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//task_scheduler.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "__tests__/task_scheduler.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduler/__tests__/task_scheduler.spec.js"
+        ],
+        "solution": [
+            "task_scheduler/task_scheduler.js",
+            "task_scheduler/package.json"
+        ],
+        "example": [
+            "task_scheduler/.meta//task_scheduler.js",
+            "task_scheduler/.meta//package.json"
+        ]
+    }
+}

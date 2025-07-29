@@ -1,0 +1,48 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Order.java",
+            "src/main/java/TransactionResult.java",
+            "src/main/java/InventoryService.java",
+            "src/main/java/PaymentService.java",
+            "src/main/java/ShippingService.java",
+            "src/main/java/OrderService.java",
+            "src/main/java/TransactionOrchestrator.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Order.java",
+            ".meta//src/main/java/TransactionResult.java",
+            ".meta//src/main/java/InventoryService.java",
+            ".meta//src/main/java/PaymentService.java",
+            ".meta//src/main/java/ShippingService.java",
+            ".meta//src/main/java/OrderService.java",
+            ".meta//src/main/java/TransactionOrchestrator.java"
+        ],
+        "test": [
+            "src/test/java/TransactionOrchestratorTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/TransactionOrchestratorTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/Order.java",
+            "distributed_tx/src/main/java/TransactionResult.java",
+            "distributed_tx/src/main/java/InventoryService.java",
+            "distributed_tx/src/main/java/PaymentService.java",
+            "distributed_tx/src/main/java/ShippingService.java",
+            "distributed_tx/src/main/java/OrderService.java",
+            "distributed_tx/src/main/java/TransactionOrchestrator.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/Order.java",
+            "distributed_tx/.meta//src/main/java/TransactionResult.java",
+            "distributed_tx/.meta//src/main/java/InventoryService.java",
+            "distributed_tx/.meta//src/main/java/PaymentService.java",
+            "distributed_tx/.meta//src/main/java/ShippingService.java",
+            "distributed_tx/.meta//src/main/java/OrderService.java",
+            "distributed_tx/.meta//src/main/java/TransactionOrchestrator.java"
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+from .net_partition import net_partition

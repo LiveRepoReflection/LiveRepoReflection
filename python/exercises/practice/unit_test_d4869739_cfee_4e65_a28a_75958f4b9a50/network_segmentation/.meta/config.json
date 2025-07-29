@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_segmentation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_segmentation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_segmentation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_segmentation/network_segmentation_test.py"
+        ],
+        "solution": [
+            "network_segmentation/network_segmentation.py",
+            "network_segmentation/__init__.py"
+        ],
+        "example": [
+            "network_segmentation/.meta//network_segmentation.py",
+            "network_segmentation/.meta//__init__.py"
+        ]
+    }
+}

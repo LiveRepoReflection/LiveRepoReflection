@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/TaskScheduler.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/TaskScheduler.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/TaskSchedulerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_scheduler/src/test/java/TaskSchedulerTest.java"
+        ],
+        "solution": [
+            "task_scheduler/src/main/java/TaskScheduler.java",
+            "task_scheduler/build.gradle"
+        ],
+        "example": [
+            "task_scheduler/.meta//src/main/java/TaskScheduler.java",
+            "task_scheduler/.meta//build.gradle"
+        ]
+    }
+}

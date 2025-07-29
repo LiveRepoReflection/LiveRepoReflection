@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "package.json",
+            "transaction_orchestrator.js"
+        ],
+        "example": [
+            ".meta//package.json",
+            ".meta//transaction_orchestrator.js"
+        ],
+        "test": [
+            "transaction_orchestrator.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_orchestrator/transaction_orchestrator.spec.js"
+        ],
+        "solution": [
+            "transaction_orchestrator/package.json",
+            "transaction_orchestrator/transaction_orchestrator.js"
+        ],
+        "example": [
+            "transaction_orchestrator/.meta//package.json",
+            "transaction_orchestrator/.meta//transaction_orchestrator.js"
+        ]
+    }
+}

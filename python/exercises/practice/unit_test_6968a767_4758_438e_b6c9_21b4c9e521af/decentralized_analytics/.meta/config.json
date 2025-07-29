@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_analytics.py"
+        ],
+        "example": [
+            ".meta//decentralized_analytics.py"
+        ],
+        "test": [
+            "decentralized_analytics_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_analytics/decentralized_analytics_test.py"
+        ],
+        "solution": [
+            "decentralized_analytics/decentralized_analytics.py"
+        ],
+        "example": [
+            "decentralized_analytics/.meta//decentralized_analytics.py"
+        ]
+    }
+}

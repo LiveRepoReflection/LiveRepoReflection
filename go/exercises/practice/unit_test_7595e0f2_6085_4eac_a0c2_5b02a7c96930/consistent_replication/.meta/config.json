@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "consistent_replication.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//consistent_replication.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "consistent_replication_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_replication/consistent_replication_test.go"
+        ],
+        "solution": [
+            "consistent_replication/consistent_replication.go",
+            "consistent_replication/go.mod"
+        ],
+        "example": [
+            "consistent_replication/.meta//consistent_replication.go",
+            "consistent_replication/.meta//go.mod"
+        ]
+    }
+}

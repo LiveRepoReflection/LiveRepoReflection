@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/ParallelPaths.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/ParallelPaths.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/ParallelPathsTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "parallel_paths/src/test/java/ParallelPathsTest.java",
+            "parallel_paths/build.gradle"
+        ],
+        "solution": [
+            "parallel_paths/src/main/java/ParallelPaths.java",
+            "parallel_paths/build.gradle"
+        ],
+        "example": [
+            "parallel_paths/.meta//src/main/java/ParallelPaths.java",
+            "parallel_paths/.meta//build.gradle"
+        ]
+    }
+}

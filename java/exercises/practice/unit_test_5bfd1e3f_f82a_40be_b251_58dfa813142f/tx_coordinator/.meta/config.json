@@ -1,0 +1,44 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/Participant.java",
+            "src/main/java/Vote.java",
+            "src/main/java/TransactionFailedException.java",
+            "src/main/java/TransactionTimeoutException.java",
+            "src/main/java/TransactionManager.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/Participant.java",
+            ".meta//src/main/java/Vote.java",
+            ".meta//src/main/java/TransactionFailedException.java",
+            ".meta//src/main/java/TransactionTimeoutException.java",
+            ".meta//src/main/java/TransactionManager.java"
+        ],
+        "test": [
+            "src/test/java/TransactionManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/src/test/java/TransactionManagerTest.java"
+        ],
+        "solution": [
+            "tx_coordinator/build.gradle",
+            "tx_coordinator/src/main/java/Participant.java",
+            "tx_coordinator/src/main/java/Vote.java",
+            "tx_coordinator/src/main/java/TransactionFailedException.java",
+            "tx_coordinator/src/main/java/TransactionTimeoutException.java",
+            "tx_coordinator/src/main/java/TransactionManager.java"
+        ],
+        "example": [
+            "tx_coordinator/.meta//build.gradle",
+            "tx_coordinator/.meta//src/main/java/Participant.java",
+            "tx_coordinator/.meta//src/main/java/Vote.java",
+            "tx_coordinator/.meta//src/main/java/TransactionFailedException.java",
+            "tx_coordinator/.meta//src/main/java/TransactionTimeoutException.java",
+            "tx_coordinator/.meta//src/main/java/TransactionManager.java"
+        ]
+    }
+}

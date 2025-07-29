@@ -1,0 +1,17 @@
+apply plugin: "java"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation "junit:junit:4.13.2"
+}
+
+test {
+    testLogging {
+        exceptionFormat = 'full'
+        showStandardStreams = true
+        events "passed", "failed", "skipped"
+    }
+}

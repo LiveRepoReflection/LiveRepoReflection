@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "social_influence.py"
+        ],
+        "example": [
+            ".meta//social_influence.py"
+        ],
+        "test": [
+            "social_influence_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_influence/social_influence_test.py"
+        ],
+        "solution": [
+            "social_influence/social_influence.py"
+        ],
+        "example": [
+            "social_influence/.meta//social_influence.py"
+        ]
+    }
+}

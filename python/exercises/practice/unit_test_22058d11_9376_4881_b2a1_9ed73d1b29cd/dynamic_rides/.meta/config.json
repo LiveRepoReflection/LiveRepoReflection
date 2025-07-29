@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_rides.py"
+        ],
+        "example": [
+            ".meta//dynamic_rides.py"
+        ],
+        "test": [
+            "dynamic_rides_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_rides/dynamic_rides_test.py"
+        ],
+        "solution": [
+            "dynamic_rides/dynamic_rides.py"
+        ],
+        "example": [
+            "dynamic_rides/.meta//dynamic_rides.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_ordering.h",
+            "tx_ordering.cpp"
+        ],
+        "example": [
+            ".meta//tx_ordering.h",
+            ".meta//tx_ordering.cpp"
+        ],
+        "test": [
+            "tx_ordering_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_ordering/tx_ordering_test.cpp"
+        ],
+        "solution": [
+            "tx_ordering/tx_ordering.h",
+            "tx_ordering/tx_ordering.cpp"
+        ],
+        "example": [
+            "tx_ordering/.meta//tx_ordering.h",
+            "tx_ordering/.meta//tx_ordering.cpp"
+        ]
+    }
+}

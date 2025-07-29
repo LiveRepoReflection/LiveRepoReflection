@@ -1,0 +1,8 @@
+
+## Advanced Features
+
+For applications requiring more advanced features, the `TransactionProcessorAdvanced` provides:
+
+- Transaction logging to disk
+- Circuit breaker pattern
+- Metrics collection and reporting

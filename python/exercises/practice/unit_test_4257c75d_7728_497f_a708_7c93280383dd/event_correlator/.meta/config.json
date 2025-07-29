@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_correlator.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//event_correlator.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "event_correlator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_correlator/event_correlator_test.py"
+        ],
+        "solution": [
+            "event_correlator/event_correlator.py",
+            "event_correlator/__init__.py"
+        ],
+        "example": [
+            "event_correlator/.meta//event_correlator.py",
+            "event_correlator/.meta//__init__.py"
+        ]
+    }
+}

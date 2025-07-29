@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "graph_evolution.go",
+            "go.mod",
+            "go.sum"
+        ],
+        "example": [
+            ".meta//graph_evolution.go",
+            ".meta//go.mod",
+            ".meta//go.sum"
+        ],
+        "test": [
+            "graph_evolution_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "graph_evolution/graph_evolution_test.go",
+            "graph_evolution/cases_test.go"
+        ],
+        "solution": [
+            "graph_evolution/graph_evolution.go",
+            "graph_evolution/go.mod",
+            "graph_evolution/go.sum"
+        ],
+        "example": [
+            "graph_evolution/.meta//graph_evolution.go",
+            "graph_evolution/.meta//go.mod",
+            "graph_evolution/.meta//go.sum"
+        ]
+    }
+}

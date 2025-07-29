@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "net_orchestrator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//net_orchestrator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "net_orchestrator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_orchestrator/net_orchestrator_test.go",
+            "net_orchestrator/go.mod"
+        ],
+        "solution": [
+            "net_orchestrator/net_orchestrator.go",
+            "net_orchestrator/go.mod"
+        ],
+        "example": [
+            "net_orchestrator/.meta//net_orchestrator.go",
+            "net_orchestrator/.meta//go.mod"
+        ]
+    }
+}

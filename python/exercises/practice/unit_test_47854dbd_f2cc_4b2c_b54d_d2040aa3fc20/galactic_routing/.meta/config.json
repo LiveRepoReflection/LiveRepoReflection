@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "galactic_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//galactic_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "galactic_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "galactic_routing/galactic_routing_test.py"
+        ],
+        "solution": [
+            "galactic_routing/galactic_routing.py",
+            "galactic_routing/__init__.py"
+        ],
+        "example": [
+            "galactic_routing/.meta//galactic_routing.py",
+            "galactic_routing/.meta//__init__.py"
+        ]
+    }
+}

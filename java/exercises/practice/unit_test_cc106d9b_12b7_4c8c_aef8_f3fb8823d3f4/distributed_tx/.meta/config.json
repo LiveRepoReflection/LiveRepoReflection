@@ -1,0 +1,55 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/Transaction.java",
+            "src/main/java/TransactionState.java",
+            "src/main/java/Vote.java",
+            "src/main/java/TransactionResult.java",
+            "src/main/java/TransactionLog.java",
+            "src/main/java/Participant.java",
+            "src/main/java/Coordinator.java",
+            "src/main/java/ParticipantImpl.java"
+        ],
+        "example": [
+            ".meta//src/main/java/Transaction.java",
+            ".meta//src/main/java/TransactionState.java",
+            ".meta//src/main/java/Vote.java",
+            ".meta//src/main/java/TransactionResult.java",
+            ".meta//src/main/java/TransactionLog.java",
+            ".meta//src/main/java/Participant.java",
+            ".meta//src/main/java/Coordinator.java",
+            ".meta//src/main/java/ParticipantImpl.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTxTest.java",
+            "src/test/java/TransactionLogTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/test/java/DistributedTxTest.java",
+            "distributed_tx/src/test/java/TransactionLogTest.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/Transaction.java",
+            "distributed_tx/src/main/java/TransactionState.java",
+            "distributed_tx/src/main/java/Vote.java",
+            "distributed_tx/src/main/java/TransactionResult.java",
+            "distributed_tx/src/main/java/TransactionLog.java",
+            "distributed_tx/src/main/java/Participant.java",
+            "distributed_tx/src/main/java/Coordinator.java",
+            "distributed_tx/src/main/java/ParticipantImpl.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/Transaction.java",
+            "distributed_tx/.meta//src/main/java/TransactionState.java",
+            "distributed_tx/.meta//src/main/java/Vote.java",
+            "distributed_tx/.meta//src/main/java/TransactionResult.java",
+            "distributed_tx/.meta//src/main/java/TransactionLog.java",
+            "distributed_tx/.meta//src/main/java/Participant.java",
+            "distributed_tx/.meta//src/main/java/Coordinator.java",
+            "distributed_tx/.meta//src/main/java/ParticipantImpl.java"
+        ]
+    }
+}

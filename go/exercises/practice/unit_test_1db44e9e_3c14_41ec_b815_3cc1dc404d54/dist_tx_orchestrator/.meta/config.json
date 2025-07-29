@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "service.go",
+            "orchestrator.go",
+            "mock_service.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//service.go",
+            ".meta//orchestrator.go",
+            ".meta//mock_service.go"
+        ],
+        "test": [
+            "dist_tx_orchestrator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_orchestrator/dist_tx_orchestrator_test.go"
+        ],
+        "solution": [
+            "dist_tx_orchestrator/go.mod",
+            "dist_tx_orchestrator/service.go",
+            "dist_tx_orchestrator/orchestrator.go",
+            "dist_tx_orchestrator/mock_service.go"
+        ],
+        "example": [
+            "dist_tx_orchestrator/.meta//go.mod",
+            "dist_tx_orchestrator/.meta//service.go",
+            "dist_tx_orchestrator/.meta//orchestrator.go",
+            "dist_tx_orchestrator/.meta//mock_service.go"
+        ]
+    }
+}

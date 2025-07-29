@@ -1,0 +1,36 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/traffic_optimize/Road.java",
+            "src/main/java/traffic_optimize/TrafficReroutingResult.java",
+            "src/main/java/traffic_optimize/TrafficNetwork.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/traffic_optimize/Road.java",
+            ".meta//src/main/java/traffic_optimize/TrafficReroutingResult.java",
+            ".meta//src/main/java/traffic_optimize/TrafficNetwork.java"
+        ],
+        "test": [
+            "src/test/java/TrafficOptimizeTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "traffic_optimize/src/test/java/TrafficOptimizeTest.java"
+        ],
+        "solution": [
+            "traffic_optimize/build.gradle",
+            "traffic_optimize/src/main/java/traffic_optimize/Road.java",
+            "traffic_optimize/src/main/java/traffic_optimize/TrafficReroutingResult.java",
+            "traffic_optimize/src/main/java/traffic_optimize/TrafficNetwork.java"
+        ],
+        "example": [
+            "traffic_optimize/.meta//build.gradle",
+            "traffic_optimize/.meta//src/main/java/traffic_optimize/Road.java",
+            "traffic_optimize/.meta//src/main/java/traffic_optimize/TrafficReroutingResult.java",
+            "traffic_optimize/.meta//src/main/java/traffic_optimize/TrafficNetwork.java"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimal_network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "optimal_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_network/optimal_network_test.go"
+        ],
+        "solution": [
+            "optimal_network/optimal_network.go",
+            "optimal_network/go.mod"
+        ],
+        "example": [
+            "optimal_network/.meta//optimal_network.go",
+            "optimal_network/.meta//go.mod"
+        ]
+    }
+}

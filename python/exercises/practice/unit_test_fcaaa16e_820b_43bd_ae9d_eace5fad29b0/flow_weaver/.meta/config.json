@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "flow_weaver.py"
+        ],
+        "example": [
+            ".meta//flow_weaver.py"
+        ],
+        "test": [
+            "flow_weaver_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "flow_weaver/flow_weaver_test.py"
+        ],
+        "solution": [
+            "flow_weaver/flow_weaver.py"
+        ],
+        "example": [
+            "flow_weaver/.meta//flow_weaver.py"
+        ]
+    }
+}

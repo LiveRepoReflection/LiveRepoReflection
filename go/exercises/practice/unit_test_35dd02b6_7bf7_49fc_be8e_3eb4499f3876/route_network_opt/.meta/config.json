@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "route_network_opt.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//route_network_opt.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "route_network_opt_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "route_network_opt/route_network_opt_test.go"
+        ],
+        "solution": [
+            "route_network_opt/route_network_opt.go",
+            "route_network_opt/go.mod"
+        ],
+        "example": [
+            "route_network_opt/.meta//route_network_opt.go",
+            "route_network_opt/.meta//go.mod"
+        ]
+    }
+}

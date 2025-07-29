@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/DistributedLimiter.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/DistributedLimiter.java"
+        ],
+        "test": [
+            "src/test/java/DistributedLimiterTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_limiter/src/test/java/DistributedLimiterTest.java"
+        ],
+        "solution": [
+            "distributed_limiter/build.gradle",
+            "distributed_limiter/src/main/java/DistributedLimiter.java"
+        ],
+        "example": [
+            "distributed_limiter/.meta//build.gradle",
+            "distributed_limiter/.meta//src/main/java/DistributedLimiter.java"
+        ]
+    }
+}

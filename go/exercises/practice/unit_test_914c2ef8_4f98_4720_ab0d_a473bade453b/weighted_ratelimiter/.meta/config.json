@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "weighted_ratelimiter.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//weighted_ratelimiter.go"
+        ],
+        "test": [
+            "weighted_ratelimiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "weighted_ratelimiter/weighted_ratelimiter_test.go"
+        ],
+        "solution": [
+            "weighted_ratelimiter/go.mod",
+            "weighted_ratelimiter/weighted_ratelimiter.go"
+        ],
+        "example": [
+            "weighted_ratelimiter/.meta//go.mod",
+            "weighted_ratelimiter/.meta//weighted_ratelimiter.go"
+        ]
+    }
+}

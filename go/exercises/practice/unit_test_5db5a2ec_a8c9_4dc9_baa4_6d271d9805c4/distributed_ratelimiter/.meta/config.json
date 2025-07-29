@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "ratelimiter.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//ratelimiter.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "ratelimiter_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_ratelimiter/ratelimiter_test.go",
+            "distributed_ratelimiter/go.mod",
+            "distributed_ratelimiter/cases_test.go"
+        ],
+        "solution": [
+            "distributed_ratelimiter/ratelimiter.go",
+            "distributed_ratelimiter/go.mod"
+        ],
+        "example": [
+            "distributed_ratelimiter/.meta//ratelimiter.go",
+            "distributed_ratelimiter/.meta//go.mod"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_stream_aggregate.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//event_stream_aggregate.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_event_stream_aggregate.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_stream_aggregate/test_event_stream_aggregate.py"
+        ],
+        "solution": [
+            "event_stream_aggregate/event_stream_aggregate.py",
+            "event_stream_aggregate/__init__.py"
+        ],
+        "example": [
+            "event_stream_aggregate/.meta//event_stream_aggregate.py",
+            "event_stream_aggregate/.meta//__init__.py"
+        ]
+    }
+}

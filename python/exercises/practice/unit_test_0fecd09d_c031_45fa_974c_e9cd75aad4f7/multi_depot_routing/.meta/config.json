@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "multi_depot_routing.py"
+        ],
+        "example": [
+            ".meta//multi_depot_routing.py"
+        ],
+        "test": [
+            "multi_depot_routing_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "multi_depot_routing/multi_depot_routing_test.py"
+        ],
+        "solution": [
+            "multi_depot_routing/multi_depot_routing.py"
+        ],
+        "example": [
+            "multi_depot_routing/.meta//multi_depot_routing.py"
+        ]
+    }
+}

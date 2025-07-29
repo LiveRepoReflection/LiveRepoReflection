@@ -1,0 +1,12 @@
+{
+  "name": "eventual_kv",
+  "version": "1.0.0",
+  "description": "Distributed Key-Value Store with Eventual Consistency",
+  "main": "eventual_kv.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

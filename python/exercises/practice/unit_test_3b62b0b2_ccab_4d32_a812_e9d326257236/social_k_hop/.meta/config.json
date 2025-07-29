@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_k_hop.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//social_k_hop.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_social_k_hop.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_k_hop/test_social_k_hop.py"
+        ],
+        "solution": [
+            "social_k_hop/social_k_hop.py",
+            "social_k_hop/__init__.py"
+        ],
+        "example": [
+            "social_k_hop/.meta//social_k_hop.py",
+            "social_k_hop/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/User.java",
+            "src/main/java/OptimalMeetingPoint.java",
+            "src/main/java/MeetingPoint.java"
+        ],
+        "example": [
+            ".meta//src/main/java/User.java",
+            ".meta//src/main/java/OptimalMeetingPoint.java",
+            ".meta//src/main/java/MeetingPoint.java"
+        ],
+        "test": [
+            "src/test/java/MeetingPointTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_point/src/test/java/MeetingPointTest.java",
+            "meeting_point/build.gradle"
+        ],
+        "solution": [
+            "meeting_point/src/main/java/User.java",
+            "meeting_point/src/main/java/OptimalMeetingPoint.java",
+            "meeting_point/src/main/java/MeetingPoint.java"
+        ],
+        "example": [
+            "meeting_point/.meta//src/main/java/User.java",
+            "meeting_point/.meta//src/main/java/OptimalMeetingPoint.java",
+            "meeting_point/.meta//src/main/java/MeetingPoint.java"
+        ]
+    }
+}

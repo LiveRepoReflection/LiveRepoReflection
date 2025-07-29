@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_pathfinder.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_pathfinder.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_pathfinder_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_pathfinder/network_pathfinder_test.py",
+            "network_pathfinder/__init__.py"
+        ],
+        "solution": [
+            "network_pathfinder/network_pathfinder.py",
+            "network_pathfinder/__init__.py"
+        ],
+        "example": [
+            "network_pathfinder/.meta//network_pathfinder.py",
+            "network_pathfinder/.meta//__init__.py"
+        ]
+    }
+}

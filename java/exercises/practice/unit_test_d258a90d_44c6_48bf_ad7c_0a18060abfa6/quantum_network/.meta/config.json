@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/quantum_network/QuantumNetwork.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/quantum_network/QuantumNetwork.java"
+        ],
+        "test": [
+            "src/test/java/quantum_network/QuantumNetworkTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_network/src/test/java/quantum_network/QuantumNetworkTest.java"
+        ],
+        "solution": [
+            "quantum_network/build.gradle",
+            "quantum_network/src/main/java/quantum_network/QuantumNetwork.java"
+        ],
+        "example": [
+            "quantum_network/.meta//build.gradle",
+            "quantum_network/.meta//src/main/java/quantum_network/QuantumNetwork.java"
+        ]
+    }
+}

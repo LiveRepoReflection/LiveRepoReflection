@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_validation.h",
+            "tx_validation.cpp"
+        ],
+        "example": [
+            ".meta//tx_validation.h",
+            ".meta//tx_validation.cpp"
+        ],
+        "test": [
+            "tx_validation_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_validation/tx_validation_test.cpp"
+        ],
+        "solution": [
+            "tx_validation/tx_validation.h",
+            "tx_validation/tx_validation.cpp"
+        ],
+        "example": [
+            "tx_validation/.meta//tx_validation.h",
+            "tx_validation/.meta//tx_validation.cpp"
+        ]
+    }
+}

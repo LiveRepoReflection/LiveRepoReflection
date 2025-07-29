@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "store.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//store.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "consistent_kvs_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_kvs/consistent_kvs_test.go"
+        ],
+        "solution": [
+            "consistent_kvs/store.go",
+            "consistent_kvs/go.mod"
+        ],
+        "example": [
+            "consistent_kvs/.meta//store.go",
+            "consistent_kvs/.meta//go.mod"
+        ]
+    }
+}

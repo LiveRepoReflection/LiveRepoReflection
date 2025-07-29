@@ -1,0 +1,41 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/ParticipantService.java",
+            "src/main/java/DistributedTransactionManager.java",
+            "src/main/java/MockInventoryService.java",
+            "src/main/java/MockOrderService.java",
+            "build.gradle"
+        ],
+        "example": [
+            ".meta//src/main/java/ParticipantService.java",
+            ".meta//src/main/java/DistributedTransactionManager.java",
+            ".meta//src/main/java/MockInventoryService.java",
+            ".meta//src/main/java/MockOrderService.java",
+            ".meta//build.gradle"
+        ],
+        "test": [
+            "src/test/java/DistributedTransactionManagerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTransactionManagerTest.java",
+            "distributed_tx/build.gradle"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/ParticipantService.java",
+            "distributed_tx/src/main/java/DistributedTransactionManager.java",
+            "distributed_tx/src/main/java/MockInventoryService.java",
+            "distributed_tx/src/main/java/MockOrderService.java",
+            "distributed_tx/build.gradle"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/ParticipantService.java",
+            "distributed_tx/.meta//src/main/java/DistributedTransactionManager.java",
+            "distributed_tx/.meta//src/main/java/MockInventoryService.java",
+            "distributed_tx/.meta//src/main/java/MockOrderService.java",
+            "distributed_tx/.meta//build.gradle"
+        ]
+    }
+}

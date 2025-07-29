@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "fleet_optimizer.py"
+        ],
+        "example": [
+            ".meta//fleet_optimizer.py"
+        ],
+        "test": [
+            "fleet_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "fleet_optimizer/fleet_optimizer_test.py"
+        ],
+        "solution": [
+            "fleet_optimizer/fleet_optimizer.py"
+        ],
+        "example": [
+            "fleet_optimizer/.meta//fleet_optimizer.py"
+        ]
+    }
+}

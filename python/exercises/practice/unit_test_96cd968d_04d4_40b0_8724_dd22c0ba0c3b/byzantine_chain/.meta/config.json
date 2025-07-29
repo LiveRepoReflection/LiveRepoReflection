@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "byzantine_chain.py"
+        ],
+        "example": [
+            ".meta//byzantine_chain.py"
+        ],
+        "test": [
+            "byzantine_chain_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "byzantine_chain/byzantine_chain_test.py"
+        ],
+        "solution": [
+            "byzantine_chain/byzantine_chain.py"
+        ],
+        "example": [
+            "byzantine_chain/.meta//byzantine_chain.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "scheduler.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//scheduler.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "distributed_scheduler_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_scheduler/distributed_scheduler_test.go"
+        ],
+        "solution": [
+            "distributed_scheduler/scheduler.go",
+            "distributed_scheduler/go.mod"
+        ],
+        "example": [
+            "distributed_scheduler/.meta//scheduler.go",
+            "distributed_scheduler/.meta//go.mod"
+        ]
+    }
+}

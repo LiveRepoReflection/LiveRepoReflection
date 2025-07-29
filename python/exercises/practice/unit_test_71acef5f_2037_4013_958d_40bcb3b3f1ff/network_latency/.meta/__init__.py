@@ -1,0 +1,1 @@
+from .network_latency import optimize_network_latency

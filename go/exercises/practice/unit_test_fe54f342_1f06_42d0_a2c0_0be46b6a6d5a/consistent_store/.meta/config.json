@@ -1,0 +1,33 @@
+{
+    "files": {
+        "solution": [
+            "consistent_store.go",
+            "metrics.go",
+            "errors.go"
+        ],
+        "example": [
+            ".meta//consistent_store.go",
+            ".meta//metrics.go",
+            ".meta//errors.go"
+        ],
+        "test": [
+            "consistent_store_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_store/consistent_store_test.go",
+            "consistent_store/go.mod"
+        ],
+        "solution": [
+            "consistent_store/consistent_store.go",
+            "consistent_store/metrics.go",
+            "consistent_store/errors.go"
+        ],
+        "example": [
+            "consistent_store/.meta//consistent_store.go",
+            "consistent_store/.meta//metrics.go",
+            "consistent_store/.meta//errors.go"
+        ]
+    }
+}

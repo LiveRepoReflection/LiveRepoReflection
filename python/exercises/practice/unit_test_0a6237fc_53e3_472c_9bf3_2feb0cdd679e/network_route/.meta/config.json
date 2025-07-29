@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_route.py"
+        ],
+        "example": [
+            ".meta//network_route.py"
+        ],
+        "test": [
+            "network_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_route/network_route_test.py"
+        ],
+        "solution": [
+            "network_route/network_route.py"
+        ],
+        "example": [
+            "network_route/.meta//network_route.py"
+        ]
+    }
+}

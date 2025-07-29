@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "async_scheduler.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//async_scheduler.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "async_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "async_scheduler/async_scheduler_test.py"
+        ],
+        "solution": [
+            "async_scheduler/async_scheduler.py",
+            "async_scheduler/__init__.py"
+        ],
+        "example": [
+            "async_scheduler/.meta//async_scheduler.py",
+            "async_scheduler/.meta//__init__.py"
+        ]
+    }
+}

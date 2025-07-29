@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "bandwidth_allocation.py"
+        ],
+        "example": [
+            ".meta//bandwidth_allocation.py"
+        ],
+        "test": [
+            "bandwidth_allocation_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "bandwidth_allocation/bandwidth_allocation_test.py"
+        ],
+        "solution": [
+            "bandwidth_allocation/bandwidth_allocation.py"
+        ],
+        "example": [
+            "bandwidth_allocation/.meta//bandwidth_allocation.py"
+        ]
+    }
+}

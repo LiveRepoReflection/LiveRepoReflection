@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "net_optimize.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//net_optimize.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "net_optimize_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "net_optimize/net_optimize_test.go",
+            "net_optimize/go.mod"
+        ],
+        "solution": [
+            "net_optimize/net_optimize.go",
+            "net_optimize/go.mod"
+        ],
+        "example": [
+            "net_optimize/.meta//net_optimize.go",
+            "net_optimize/.meta//go.mod"
+        ]
+    }
+}

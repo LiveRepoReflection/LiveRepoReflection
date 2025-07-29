@@ -1,0 +1,37 @@
+{
+    "files": {
+        "solution": [
+            "src/main/java/DistributedTx.java",
+            "build.gradle",
+            "src/main/java/Service.java"
+        ],
+        "example": [
+            ".meta//src/main/java/DistributedTx.java",
+            ".meta//build.gradle",
+            ".meta//src/main/java/Service.java",
+            ".meta//src/test/java/DistributedTxTest.java"
+        ],
+        "test": [
+            "src/test/java/DistributedTxTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_tx/src/test/java/DistributedTxTest.java",
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/Service.java"
+        ],
+        "solution": [
+            "distributed_tx/src/main/java/DistributedTx.java",
+            "distributed_tx/build.gradle",
+            "distributed_tx/src/main/java/Service.java",
+            "distributed_tx/src/test/java/DistributedTxTest.java"
+        ],
+        "example": [
+            "distributed_tx/.meta//src/main/java/DistributedTx.java",
+            "distributed_tx/.meta//build.gradle",
+            "distributed_tx/.meta//src/main/java/Service.java",
+            "distributed_tx/.meta//src/test/java/DistributedTxTest.java"
+        ]
+    }
+}

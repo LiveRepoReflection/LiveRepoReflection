@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "resilient_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//resilient_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_resilient_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "resilient_routing/test_resilient_routing.py"
+        ],
+        "solution": [
+            "resilient_routing/resilient_routing.py",
+            "resilient_routing/__init__.py"
+        ],
+        "example": [
+            "resilient_routing/.meta//resilient_routing.py",
+            "resilient_routing/.meta//__init__.py"
+        ]
+    }
+}

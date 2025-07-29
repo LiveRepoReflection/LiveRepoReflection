@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "intercity_express.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//intercity_express.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "intercity_express_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "intercity_express/intercity_express_test.go",
+            "intercity_express/go.mod"
+        ],
+        "solution": [
+            "intercity_express/intercity_express.go",
+            "intercity_express/go.mod"
+        ],
+        "example": [
+            "intercity_express/.meta//intercity_express.go",
+            "intercity_express/.meta//go.mod"
+        ]
+    }
+}

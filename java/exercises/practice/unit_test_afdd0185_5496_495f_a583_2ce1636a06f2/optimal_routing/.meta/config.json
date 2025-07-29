@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/OptimalRouting.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/OptimalRouting.java"
+        ],
+        "test": [
+            "src/test/java/OptimalRoutingTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_routing/src/test/java/OptimalRoutingTest.java"
+        ],
+        "solution": [
+            "optimal_routing/build.gradle",
+            "optimal_routing/src/main/java/OptimalRouting.java"
+        ],
+        "example": [
+            "optimal_routing/.meta//build.gradle",
+            "optimal_routing/.meta//src/main/java/OptimalRouting.java"
+        ]
+    }
+}

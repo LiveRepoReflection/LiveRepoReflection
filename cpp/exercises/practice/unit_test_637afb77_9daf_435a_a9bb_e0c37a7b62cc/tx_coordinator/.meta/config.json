@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "tx_coordinator.cpp"
+        ],
+        "example": [
+            ".meta//tx_coordinator.cpp"
+        ],
+        "test": [
+            "tx_coordinator_test.cpp",
+            "tx_coordinator.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_coordinator/tx_coordinator_test.cpp",
+            "tx_coordinator/tx_coordinator.h"
+        ],
+        "solution": [
+            "tx_coordinator/tx_coordinator.cpp"
+        ],
+        "example": [
+            "tx_coordinator/.meta//tx_coordinator.cpp"
+        ]
+    }
+}

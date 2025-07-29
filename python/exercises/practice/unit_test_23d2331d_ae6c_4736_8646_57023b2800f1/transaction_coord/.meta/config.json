@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_coord.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_coord.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "transaction_coord_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_coord/transaction_coord_test.py"
+        ],
+        "solution": [
+            "transaction_coord/transaction_coord.py",
+            "transaction_coord/__init__.py"
+        ],
+        "example": [
+            "transaction_coord/.meta//transaction_coord.py",
+            "transaction_coord/.meta//__init__.py"
+        ]
+    }
+}

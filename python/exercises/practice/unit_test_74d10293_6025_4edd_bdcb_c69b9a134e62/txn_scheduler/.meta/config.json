@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "txn_scheduler.py"
+        ],
+        "example": [
+            ".meta//txn_scheduler.py"
+        ],
+        "test": [
+            "txn_scheduler_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_scheduler/txn_scheduler_test.py"
+        ],
+        "solution": [
+            "txn_scheduler/txn_scheduler.py"
+        ],
+        "example": [
+            "txn_scheduler/.meta//txn_scheduler.py"
+        ]
+    }
+}

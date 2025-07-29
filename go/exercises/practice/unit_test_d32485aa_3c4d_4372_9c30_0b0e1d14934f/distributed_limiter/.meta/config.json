@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_limiter.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//distributed_limiter.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "distributed_limiter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_limiter/distributed_limiter_test.go"
+        ],
+        "solution": [
+            "distributed_limiter/distributed_limiter.go",
+            "distributed_limiter/go.mod"
+        ],
+        "example": [
+            "distributed_limiter/.meta//distributed_limiter.go",
+            "distributed_limiter/.meta//go.mod"
+        ]
+    }
+}

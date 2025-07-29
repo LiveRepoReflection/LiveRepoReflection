@@ -1,0 +1,26 @@
+{
+    "files": {
+        "solution": [
+            "optimal_hft.cpp"
+        ],
+        "example": [
+            ".meta//optimal_hft.cpp"
+        ],
+        "test": [
+            "optimal_hft_test.cpp",
+            "optimal_hft.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_hft/optimal_hft_test.cpp",
+            "optimal_hft/optimal_hft.h"
+        ],
+        "solution": [
+            "optimal_hft/optimal_hft.cpp"
+        ],
+        "example": [
+            "optimal_hft/.meta//optimal_hft.cpp"
+        ]
+    }
+}

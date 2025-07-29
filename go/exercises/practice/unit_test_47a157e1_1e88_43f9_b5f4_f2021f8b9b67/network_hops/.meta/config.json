@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_hops.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_hops.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_hops_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_hops/network_hops_test.go"
+        ],
+        "solution": [
+            "network_hops/network_hops.go",
+            "network_hops/go.mod"
+        ],
+        "example": [
+            "network_hops/.meta//network_hops.go",
+            "network_hops/.meta//go.mod"
+        ]
+    }
+}

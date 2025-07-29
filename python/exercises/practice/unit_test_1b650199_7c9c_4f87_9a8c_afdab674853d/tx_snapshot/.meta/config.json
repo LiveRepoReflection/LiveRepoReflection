@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "tx_snapshot.py",
+            "__main__.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//tx_snapshot.py",
+            ".meta//__main__.py"
+        ],
+        "test": [
+            "tx_snapshot_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_snapshot/tx_snapshot_test.py"
+        ],
+        "solution": [
+            "tx_snapshot/__init__.py",
+            "tx_snapshot/tx_snapshot.py",
+            "tx_snapshot/__main__.py"
+        ],
+        "example": [
+            "tx_snapshot/.meta//__init__.py",
+            "tx_snapshot/.meta//tx_snapshot.py",
+            "tx_snapshot/.meta//__main__.py"
+        ]
+    }
+}

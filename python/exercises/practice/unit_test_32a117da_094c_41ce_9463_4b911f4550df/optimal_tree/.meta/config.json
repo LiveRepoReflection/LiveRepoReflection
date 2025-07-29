@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimal_tree.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//optimal_tree.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "optimal_tree_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_tree/optimal_tree_test.py"
+        ],
+        "solution": [
+            "optimal_tree/optimal_tree.py",
+            "optimal_tree/__init__.py"
+        ],
+        "example": [
+            "optimal_tree/.meta//optimal_tree.py",
+            "optimal_tree/.meta//__init__.py"
+        ]
+    }
+}

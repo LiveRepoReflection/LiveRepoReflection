@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "optimal_pathways.go"
+        ],
+        "example": [
+            ".meta//optimal_pathways.go"
+        ],
+        "test": [
+            "optimal_pathways_test.go",
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_pathways/optimal_pathways_test.go",
+            "optimal_pathways/cases_test.go",
+            "optimal_pathways/go.mod"
+        ],
+        "solution": [
+            "optimal_pathways/optimal_pathways.go"
+        ],
+        "example": [
+            "optimal_pathways/.meta//optimal_pathways.go"
+        ]
+    }
+}

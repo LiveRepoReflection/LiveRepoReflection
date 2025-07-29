@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "queue.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//queue.go"
+        ],
+        "test": [
+            "queue_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "lockfree_queue/queue_test.go"
+        ],
+        "solution": [
+            "lockfree_queue/go.mod",
+            "lockfree_queue/queue.go"
+        ],
+        "example": [
+            "lockfree_queue/.meta//go.mod",
+            "lockfree_queue/.meta//queue.go"
+        ]
+    }
+}

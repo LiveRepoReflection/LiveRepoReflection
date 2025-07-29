@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "task_dependencies.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//task_dependencies.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "task_dependencies_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "task_dependencies/task_dependencies_test.py"
+        ],
+        "solution": [
+            "task_dependencies/task_dependencies.py",
+            "task_dependencies/__init__.py"
+        ],
+        "example": [
+            "task_dependencies/.meta//task_dependencies.py",
+            "task_dependencies/.meta//__init__.py"
+        ]
+    }
+}

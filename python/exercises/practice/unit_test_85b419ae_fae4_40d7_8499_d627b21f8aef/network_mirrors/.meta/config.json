@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_mirrors.py"
+        ],
+        "example": [
+            ".meta//network_mirrors.py"
+        ],
+        "test": [
+            "network_mirrors_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_mirrors/network_mirrors_test.py"
+        ],
+        "solution": [
+            "network_mirrors/network_mirrors.py"
+        ],
+        "example": [
+            "network_mirrors/.meta//network_mirrors.py"
+        ]
+    }
+}

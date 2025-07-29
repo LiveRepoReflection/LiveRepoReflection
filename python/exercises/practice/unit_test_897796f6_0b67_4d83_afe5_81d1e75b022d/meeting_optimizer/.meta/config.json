@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "meeting_optimizer.py"
+        ],
+        "example": [
+            ".meta//meeting_optimizer.py"
+        ],
+        "test": [
+            "meeting_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_optimizer/meeting_optimizer_test.py"
+        ],
+        "solution": [
+            "meeting_optimizer/meeting_optimizer.py"
+        ],
+        "example": [
+            "meeting_optimizer/.meta//meeting_optimizer.py"
+        ]
+    }
+}

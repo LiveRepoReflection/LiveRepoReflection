@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "microgrid_alloc.py"
+        ],
+        "example": [
+            ".meta//microgrid_alloc.py"
+        ],
+        "test": [
+            "microgrid_alloc_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "microgrid_alloc/microgrid_alloc_test.py"
+        ],
+        "solution": [
+            "microgrid_alloc/microgrid_alloc.py"
+        ],
+        "example": [
+            "microgrid_alloc/.meta//microgrid_alloc.py"
+        ]
+    }
+}

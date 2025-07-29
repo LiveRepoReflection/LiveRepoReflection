@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "supply_chain_resilience.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//supply_chain_resilience.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_supply_chain_resilience.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_chain_resilience/test_supply_chain_resilience.py"
+        ],
+        "solution": [
+            "supply_chain_resilience/supply_chain_resilience.py",
+            "supply_chain_resilience/__init__.py"
+        ],
+        "example": [
+            "supply_chain_resilience/.meta//supply_chain_resilience.py",
+            "supply_chain_resilience/.meta//__init__.py"
+        ]
+    }
+}

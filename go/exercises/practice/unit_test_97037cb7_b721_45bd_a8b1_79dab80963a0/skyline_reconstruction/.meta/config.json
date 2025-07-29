@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "skyline.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//skyline.go"
+        ],
+        "test": [
+            "skyline_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "skyline_reconstruction/skyline_test.go"
+        ],
+        "solution": [
+            "skyline_reconstruction/go.mod",
+            "skyline_reconstruction/skyline.go"
+        ],
+        "example": [
+            "skyline_reconstruction/.meta//go.mod",
+            "skyline_reconstruction/.meta//skyline.go"
+        ]
+    }
+}

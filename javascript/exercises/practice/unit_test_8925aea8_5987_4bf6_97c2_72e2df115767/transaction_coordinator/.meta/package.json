@@ -1,0 +1,11 @@
+{
+  "name": "transaction_coordinator",
+  "version": "1.0.0",
+  "description": "A distributed transaction coordinator for managing atomic transactions across multiple participants.",
+  "main": "transaction_coordinator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

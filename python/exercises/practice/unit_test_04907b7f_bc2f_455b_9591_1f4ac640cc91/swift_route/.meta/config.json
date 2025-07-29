@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "swift_route.py"
+        ],
+        "example": [
+            ".meta//swift_route.py"
+        ],
+        "test": [
+            "swift_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "swift_route/swift_route_test.py"
+        ],
+        "solution": [
+            "swift_route/swift_route.py"
+        ],
+        "example": [
+            "swift_route/.meta//swift_route.py"
+        ]
+    }
+}

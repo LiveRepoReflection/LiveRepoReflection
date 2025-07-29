@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "critical_paths.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//critical_paths.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "critical_paths_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "critical_paths/critical_paths_test.py"
+        ],
+        "solution": [
+            "critical_paths/critical_paths.py",
+            "critical_paths/__init__.py"
+        ],
+        "example": [
+            "critical_paths/.meta//critical_paths.py",
+            "critical_paths/.meta//__init__.py"
+        ]
+    }
+}

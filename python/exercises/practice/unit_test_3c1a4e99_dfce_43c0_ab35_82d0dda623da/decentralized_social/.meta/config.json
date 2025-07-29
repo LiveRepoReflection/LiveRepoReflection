@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "decentralized_social.py"
+        ],
+        "example": [
+            ".meta//decentralized_social.py"
+        ],
+        "test": [
+            "decentralized_social_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "decentralized_social/decentralized_social_test.py"
+        ],
+        "solution": [
+            "decentralized_social/decentralized_social.py"
+        ],
+        "example": [
+            "decentralized_social/.meta//decentralized_social.py"
+        ]
+    }
+}

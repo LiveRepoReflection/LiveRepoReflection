@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_coverage.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_coverage.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_coverage_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_coverage/network_coverage_test.go"
+        ],
+        "solution": [
+            "network_coverage/network_coverage.go",
+            "network_coverage/go.mod"
+        ],
+        "example": [
+            "network_coverage/.meta//network_coverage.go",
+            "network_coverage/.meta//go.mod"
+        ]
+    }
+}

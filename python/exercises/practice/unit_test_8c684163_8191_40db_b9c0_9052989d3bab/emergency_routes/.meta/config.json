@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "emergency_routes.py"
+        ],
+        "example": [
+            ".meta//emergency_routes.py"
+        ],
+        "test": [
+            "emergency_routes_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "emergency_routes/emergency_routes_test.py"
+        ],
+        "solution": [
+            "emergency_routes/emergency_routes.py"
+        ],
+        "example": [
+            "emergency_routes/.meta//emergency_routes.py"
+        ]
+    }
+}

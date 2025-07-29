@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/load_balancer_tests.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "load_balancer/tests/load_balancer_tests.rs"
+        ],
+        "solution": [
+            "load_balancer/Cargo.toml",
+            "load_balancer/src/lib.rs"
+        ],
+        "example": [
+            "load_balancer/.meta//Cargo.toml",
+            "load_balancer/.meta//src/lib.rs"
+        ]
+    }
+}

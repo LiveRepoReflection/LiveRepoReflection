@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_vuln.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//network_vuln.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "network_vuln_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_vuln/network_vuln_test.py"
+        ],
+        "solution": [
+            "network_vuln/network_vuln.py",
+            "network_vuln/__init__.py"
+        ],
+        "example": [
+            "network_vuln/.meta//network_vuln.py",
+            "network_vuln/.meta//__init__.py"
+        ]
+    }
+}

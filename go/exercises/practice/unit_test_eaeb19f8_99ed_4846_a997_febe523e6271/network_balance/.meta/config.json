@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_balance.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_balance.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_balance_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_balance/network_balance_test.go"
+        ],
+        "solution": [
+            "network_balance/network_balance.go",
+            "network_balance/go.mod"
+        ],
+        "example": [
+            "network_balance/.meta//network_balance.go",
+            "network_balance/.meta//go.mod"
+        ]
+    }
+}

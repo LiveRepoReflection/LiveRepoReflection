@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "tx_validator.py"
+        ],
+        "example": [
+            ".meta//tx_validator.py"
+        ],
+        "test": [
+            "tx_validator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_validator/tx_validator_test.py"
+        ],
+        "solution": [
+            "tx_validator/tx_validator.py"
+        ],
+        "example": [
+            "tx_validator/.meta//tx_validator.py"
+        ]
+    }
+}

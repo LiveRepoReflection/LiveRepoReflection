@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "paxos_simulator.py"
+        ],
+        "example": [
+            ".meta//paxos_simulator.py"
+        ],
+        "test": [
+            "paxos_simulator_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "paxos_simulator/paxos_simulator_test.py"
+        ],
+        "solution": [
+            "paxos_simulator/paxos_simulator.py"
+        ],
+        "example": [
+            "paxos_simulator/.meta//paxos_simulator.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "adaptive_router.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//adaptive_router.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "adaptive_router_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "adaptive_router/adaptive_router_test.py"
+        ],
+        "solution": [
+            "adaptive_router/adaptive_router.py",
+            "adaptive_router/__init__.py"
+        ],
+        "example": [
+            "adaptive_router/.meta//adaptive_router.py",
+            "adaptive_router/.meta//__init__.py"
+        ]
+    }
+}

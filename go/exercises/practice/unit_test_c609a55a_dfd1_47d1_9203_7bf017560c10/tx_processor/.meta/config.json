@@ -1,0 +1,40 @@
+{
+    "files": {
+        "solution": [
+            "tx_processor.go",
+            "tx_processor_advanced.go",
+            "README.md",
+            "fmt.Println(\"Total errors:\", errorCount)"
+        ],
+        "example": [
+            ".meta//tx_processor.go",
+            ".meta//tx_processor_advanced.go",
+            ".meta//example_test.go",
+            ".meta//README.md",
+            ".meta/fmt.Println(\"Total errors:\", errorCount)"
+        ],
+        "test": [
+            "tx_processor_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_processor/tx_processor_test.go",
+            "tx_processor/go.mod"
+        ],
+        "solution": [
+            "tx_processor/tx_processor.go",
+            "tx_processor/tx_processor_advanced.go",
+            "tx_processor/example_test.go",
+            "tx_processor/README.md",
+            "fmt.Println(\"Total errors:\", errorCount)"
+        ],
+        "example": [
+            "tx_processor/.meta//tx_processor.go",
+            "tx_processor/.meta//tx_processor_advanced.go",
+            "tx_processor/.meta//example_test.go",
+            "tx_processor/.meta//README.md",
+            ".meta/fmt.Println(\"Total errors:\", errorCount)"
+        ]
+    }
+}

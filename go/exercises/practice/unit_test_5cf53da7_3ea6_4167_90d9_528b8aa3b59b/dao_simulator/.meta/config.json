@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "dao_simulator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dao_simulator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dao_simulator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dao_simulator/dao_simulator_test.go",
+            "dao_simulator/dao_simulator.go"
+        ],
+        "solution": [
+            "dao_simulator/dao_simulator.go",
+            "dao_simulator/go.mod"
+        ],
+        "example": [
+            "dao_simulator/.meta//dao_simulator.go",
+            "dao_simulator/.meta//go.mod"
+        ]
+    }
+}

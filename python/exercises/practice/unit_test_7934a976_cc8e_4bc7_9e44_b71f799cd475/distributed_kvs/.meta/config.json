@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_kvs.py"
+        ],
+        "example": [
+            ".meta//distributed_kvs.py"
+        ],
+        "test": [
+            "distributed_kvs_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_kvs/distributed_kvs_test.py"
+        ],
+        "solution": [
+            "distributed_kvs/distributed_kvs.py"
+        ],
+        "example": [
+            "distributed_kvs/.meta//distributed_kvs.py"
+        ]
+    }
+}

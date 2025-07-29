@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "network_allocate.py",
+            "__main__.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//network_allocate.py",
+            ".meta//__main__.py"
+        ],
+        "test": [
+            "network_allocate_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_allocate/network_allocate_test.py"
+        ],
+        "solution": [
+            "network_allocate/__init__.py",
+            "network_allocate/network_allocate.py",
+            "network_allocate/__main__.py"
+        ],
+        "example": [
+            "network_allocate/.meta//__init__.py",
+            "network_allocate/.meta//network_allocate.py",
+            "network_allocate/.meta//__main__.py"
+        ]
+    }
+}

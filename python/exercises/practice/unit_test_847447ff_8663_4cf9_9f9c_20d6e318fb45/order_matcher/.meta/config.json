@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "order_matcher.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//order_matcher.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_order_matcher.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "order_matcher/test_order_matcher.py"
+        ],
+        "solution": [
+            "order_matcher/order_matcher.py",
+            "order_matcher/__init__.py"
+        ],
+        "example": [
+            "order_matcher/.meta//order_matcher.py",
+            "order_matcher/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "distributed_limiter",
+  "version": "1.0.0",
+  "description": "A distributed rate limiter implementation for controlling request rates per user and endpoint.",
+  "main": "distributed_limiter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

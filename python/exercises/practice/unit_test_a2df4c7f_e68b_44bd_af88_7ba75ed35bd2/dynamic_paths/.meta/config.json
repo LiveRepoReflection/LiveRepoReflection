@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dynamic_paths.py"
+        ],
+        "example": [
+            ".meta//dynamic_paths.py"
+        ],
+        "test": [
+            "dynamic_paths_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dynamic_paths/dynamic_paths_test.py"
+        ],
+        "solution": [
+            "dynamic_paths/dynamic_paths.py"
+        ],
+        "example": [
+            "dynamic_paths/.meta//dynamic_paths.py"
+        ]
+    }
+}

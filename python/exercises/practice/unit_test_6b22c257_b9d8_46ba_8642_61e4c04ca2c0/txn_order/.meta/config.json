@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_order.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_order.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_order_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_order/txn_order_test.py"
+        ],
+        "solution": [
+            "txn_order/txn_order.py",
+            "txn_order/__init__.py"
+        ],
+        "example": [
+            "txn_order/.meta//txn_order.py",
+            "txn_order/.meta//__init__.py"
+        ]
+    }
+}

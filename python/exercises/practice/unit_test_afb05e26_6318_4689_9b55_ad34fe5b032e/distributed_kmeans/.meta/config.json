@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_kmeans.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_kmeans.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_distributed_kmeans.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_kmeans/test_distributed_kmeans.py"
+        ],
+        "solution": [
+            "distributed_kmeans/distributed_kmeans.py",
+            "distributed_kmeans/__init__.py"
+        ],
+        "example": [
+            "distributed_kmeans/.meta//distributed_kmeans.py",
+            "distributed_kmeans/.meta//__init__.py"
+        ]
+    }
+}

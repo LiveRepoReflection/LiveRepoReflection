@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "distributed_bank.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//distributed_bank.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "distributed_bank_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_bank/distributed_bank_test.py"
+        ],
+        "solution": [
+            "distributed_bank/distributed_bank.py",
+            "distributed_bank/__init__.py"
+        ],
+        "example": [
+            "distributed_bank/.meta//distributed_bank.py",
+            "distributed_bank/.meta//__init__.py"
+        ]
+    }
+}

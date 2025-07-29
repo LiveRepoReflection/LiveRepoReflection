@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/OptimalNetworkPlacement.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/OptimalNetworkPlacement.java"
+        ],
+        "test": [
+            "src/test/java/OptimalNetworkPlacementTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_design/src/test/java/OptimalNetworkPlacementTest.java"
+        ],
+        "solution": [
+            "network_design/build.gradle",
+            "network_design/src/main/java/OptimalNetworkPlacement.java"
+        ],
+        "example": [
+            "network_design/.meta//build.gradle",
+            "network_design/.meta//src/main/java/OptimalNetworkPlacement.java"
+        ]
+    }
+}

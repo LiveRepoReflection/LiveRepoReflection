@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "geo_kv.go",
+            "config.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//geo_kv.go",
+            ".meta//config.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "geo_kv_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "geo_kv/geo_kv_test.go"
+        ],
+        "solution": [
+            "geo_kv/geo_kv.go",
+            "geo_kv/config.go",
+            "geo_kv/go.mod"
+        ],
+        "example": [
+            "geo_kv/.meta//geo_kv.go",
+            "geo_kv/.meta//config.go",
+            "geo_kv/.meta//go.mod"
+        ]
+    }
+}

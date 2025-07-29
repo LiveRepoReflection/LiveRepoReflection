@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "auction.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//auction.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_auction.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "rtb_auction/test_auction.py"
+        ],
+        "solution": [
+            "rtb_auction/auction.py",
+            "rtb_auction/__init__.py"
+        ],
+        "example": [
+            "rtb_auction/.meta//auction.py",
+            "rtb_auction/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "decompose_graph.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//decompose_graph.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "connected_subgraphs_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "connected_subgraphs/connected_subgraphs_test.py"
+        ],
+        "solution": [
+            "connected_subgraphs/decompose_graph.py",
+            "connected_subgraphs/__init__.py"
+        ],
+        "example": [
+            "connected_subgraphs/.meta//decompose_graph.py",
+            "connected_subgraphs/.meta//__init__.py"
+        ]
+    }
+}

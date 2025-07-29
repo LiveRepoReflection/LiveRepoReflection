@@ -1,0 +1,35 @@
+{
+    "files": {
+        "solution": [
+            "transaction_manager.go",
+            "go.mod",
+            "README.md"
+        ],
+        "example": [
+            ".meta//transaction_manager.go",
+            ".meta//go.mod",
+            ".meta//transaction_manager_example_test.go",
+            ".meta//README.md"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_manager/cases_test.go"
+        ],
+        "solution": [
+            "transaction_manager/transaction_manager.go",
+            "transaction_manager/go.mod",
+            "transaction_manager/transaction_manager_example_test.go",
+            "transaction_manager/README.md"
+        ],
+        "example": [
+            "transaction_manager/.meta//transaction_manager.go",
+            "transaction_manager/.meta//go.mod",
+            "transaction_manager/.meta//transaction_manager_example_test.go",
+            "transaction_manager/.meta//README.md"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_consensus.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dist_consensus.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dist_consensus_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_consensus/dist_consensus_test.py"
+        ],
+        "solution": [
+            "dist_consensus/dist_consensus.py",
+            "dist_consensus/__init__.py"
+        ],
+        "example": [
+            "dist_consensus/.meta//dist_consensus.py",
+            "dist_consensus/.meta//__init__.py"
+        ]
+    }
+}

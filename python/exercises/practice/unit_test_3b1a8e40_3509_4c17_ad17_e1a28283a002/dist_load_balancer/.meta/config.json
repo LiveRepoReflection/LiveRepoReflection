@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "dist_load_balancer.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//dist_load_balancer.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "dist_load_balancer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_load_balancer/dist_load_balancer_test.py",
+            "dist_load_balancer/__init__.py"
+        ],
+        "solution": [
+            "dist_load_balancer/dist_load_balancer.py",
+            "dist_load_balancer/__init__.py"
+        ],
+        "example": [
+            "dist_load_balancer/.meta//dist_load_balancer.py",
+            "dist_load_balancer/.meta//__init__.py"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "hash_ring.go"
+        ],
+        "example": [
+            ".meta//hash_ring.go"
+        ],
+        "test": [
+            "hash_ring_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "hash_ring/hash_ring_test.go",
+            "hash_ring/go.mod"
+        ],
+        "solution": [
+            "hash_ring/hash_ring.go"
+        ],
+        "example": [
+            "hash_ring/.meta//hash_ring.go"
+        ]
+    }
+}

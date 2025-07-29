@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "src/lib.rs",
+            "Cargo.toml"
+        ],
+        "example": [
+            ".meta//src/lib.rs",
+            ".meta//Cargo.toml"
+        ],
+        "test": [
+            "tests/edge_router.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "edge_router/tests/edge_router.rs"
+        ],
+        "solution": [
+            "edge_router/src/lib.rs",
+            "edge_router/Cargo.toml"
+        ],
+        "example": [
+            "edge_router/.meta//src/lib.rs",
+            "edge_router/.meta//Cargo.toml"
+        ]
+    }
+}

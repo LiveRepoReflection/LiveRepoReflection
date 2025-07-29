@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "timekeystore.go"
+        ],
+        "example": [
+            ".meta//timekeystore.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "timekeystore_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_key_store/cases_test.go",
+            "time_key_store/timekeystore_test.go",
+            "time_key_store/go.mod"
+        ],
+        "solution": [
+            "time_key_store/timekeystore.go"
+        ],
+        "example": [
+            "time_key_store/.meta//timekeystore.go"
+        ]
+    }
+}

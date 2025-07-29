@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "txn_consensus.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//txn_consensus.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "txn_consensus_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "txn_consensus/txn_consensus_test.py"
+        ],
+        "solution": [
+            "txn_consensus/txn_consensus.py",
+            "txn_consensus/__init__.py"
+        ],
+        "example": [
+            "txn_consensus/.meta//txn_consensus.py",
+            "txn_consensus/.meta//__init__.py"
+        ]
+    }
+}

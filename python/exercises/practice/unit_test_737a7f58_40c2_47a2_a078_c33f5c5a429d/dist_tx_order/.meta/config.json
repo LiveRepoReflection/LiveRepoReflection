@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "dist_tx_order.py"
+        ],
+        "example": [
+            ".meta//dist_tx_order.py"
+        ],
+        "test": [
+            "dist_tx_order_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_order/dist_tx_order_test.py"
+        ],
+        "solution": [
+            "dist_tx_order/dist_tx_order.py"
+        ],
+        "example": [
+            "dist_tx_order/.meta//dist_tx_order.py"
+        ]
+    }
+}

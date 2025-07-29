@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "smart_grid_optimizer.py"
+        ],
+        "example": [
+            ".meta//smart_grid_optimizer.py"
+        ],
+        "test": [
+            "smart_grid_optimizer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "smart_grid_optimizer/smart_grid_optimizer_test.py"
+        ],
+        "solution": [
+            "smart_grid_optimizer/smart_grid_optimizer.py"
+        ],
+        "example": [
+            "smart_grid_optimizer/.meta//smart_grid_optimizer.py"
+        ]
+    }
+}

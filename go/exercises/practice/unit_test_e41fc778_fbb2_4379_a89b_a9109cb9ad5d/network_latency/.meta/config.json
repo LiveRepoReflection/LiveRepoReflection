@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "network_latency.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//network_latency.go"
+        ],
+        "test": [
+            "network_latency_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_latency/network_latency_test.go"
+        ],
+        "solution": [
+            "network_latency/go.mod",
+            "network_latency/network_latency.go"
+        ],
+        "example": [
+            "network_latency/.meta//go.mod",
+            "network_latency/.meta//network_latency.go"
+        ]
+    }
+}

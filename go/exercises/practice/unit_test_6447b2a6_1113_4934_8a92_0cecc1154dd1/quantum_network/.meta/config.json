@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "quantum_network.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//quantum_network.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "quantum_network_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_network/quantum_network_test.go"
+        ],
+        "solution": [
+            "quantum_network/quantum_network.go",
+            "quantum_network/go.mod"
+        ],
+        "example": [
+            "quantum_network/.meta//quantum_network.go",
+            "quantum_network/.meta//go.mod"
+        ]
+    }
+}

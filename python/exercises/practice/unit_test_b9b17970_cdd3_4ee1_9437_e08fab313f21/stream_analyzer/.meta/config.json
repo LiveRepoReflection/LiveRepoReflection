@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "stream_analyzer.py"
+        ],
+        "example": [
+            ".meta//stream_analyzer.py"
+        ],
+        "test": [
+            "stream_analyzer_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stream_analyzer/stream_analyzer_test.py"
+        ],
+        "solution": [
+            "stream_analyzer/stream_analyzer.py"
+        ],
+        "example": [
+            "stream_analyzer/.meta//stream_analyzer.py"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "files": {
+        "solution": [
+            "quantum_maze.py"
+        ],
+        "example": [
+            ".meta//quantum_maze.py"
+        ],
+        "test": [
+            "quantum_maze_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "quantum_maze/quantum_maze_test.py",
+            "quantum_maze/__init__.py"
+        ],
+        "solution": [
+            "quantum_maze/quantum_maze.py"
+        ],
+        "example": [
+            "quantum_maze/.meta//quantum_maze.py"
+        ]
+    }
+}

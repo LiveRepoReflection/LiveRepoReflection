@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "public_transport.py"
+        ],
+        "example": [
+            ".meta//public_transport.py"
+        ],
+        "test": [
+            "public_transport_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "public_transport/public_transport_test.py"
+        ],
+        "solution": [
+            "public_transport/public_transport.py"
+        ],
+        "example": [
+            "public_transport/.meta//public_transport.py"
+        ]
+    }
+}

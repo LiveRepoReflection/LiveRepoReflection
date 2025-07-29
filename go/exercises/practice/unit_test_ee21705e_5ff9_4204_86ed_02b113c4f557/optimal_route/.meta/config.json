@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "optimal_route.go",
+            "go.mod",
+            "README.md"
+        ],
+        "example": [
+            ".meta//optimal_route.go",
+            ".meta//go.mod",
+            ".meta//README.md"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_route/cases_test.go"
+        ],
+        "solution": [
+            "optimal_route/optimal_route.go",
+            "optimal_route/go.mod",
+            "optimal_route/README.md"
+        ],
+        "example": [
+            "optimal_route/.meta//optimal_route.go",
+            "optimal_route/.meta//go.mod",
+            "optimal_route/.meta//README.md"
+        ]
+    }
+}

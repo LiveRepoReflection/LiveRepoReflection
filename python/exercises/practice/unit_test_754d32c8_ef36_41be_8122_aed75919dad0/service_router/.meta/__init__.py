@@ -1,0 +1,1 @@
+from .service_router import min_total_latency

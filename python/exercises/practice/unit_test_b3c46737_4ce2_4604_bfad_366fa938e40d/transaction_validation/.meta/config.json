@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "transaction_validation.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//transaction_validation.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_transaction_validation.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "transaction_validation/test_transaction_validation.py"
+        ],
+        "solution": [
+            "transaction_validation/transaction_validation.py",
+            "transaction_validation/__init__.py"
+        ],
+        "example": [
+            "transaction_validation/.meta//transaction_validation.py",
+            "transaction_validation/.meta//__init__.py"
+        ]
+    }
+}

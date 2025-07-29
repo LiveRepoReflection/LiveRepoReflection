@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_resilience.h",
+            "network_resilience.cpp"
+        ],
+        "example": [
+            ".meta//network_resilience.h",
+            ".meta//network_resilience.cpp"
+        ],
+        "test": [
+            "network_resilience_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_resilience/network_resilience_test.cpp"
+        ],
+        "solution": [
+            "network_resilience/network_resilience.h",
+            "network_resilience/network_resilience.cpp"
+        ],
+        "example": [
+            "network_resilience/.meta//network_resilience.h",
+            "network_resilience/.meta//network_resilience.cpp"
+        ]
+    }
+}

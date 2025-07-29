@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/bft_consensus.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "bft_consensus/tests/bft_consensus.rs"
+        ],
+        "solution": [
+            "bft_consensus/Cargo.toml",
+            "bft_consensus/src/lib.rs"
+        ],
+        "example": [
+            "bft_consensus/.meta//Cargo.toml",
+            "bft_consensus/.meta//src/lib.rs"
+        ]
+    }
+}

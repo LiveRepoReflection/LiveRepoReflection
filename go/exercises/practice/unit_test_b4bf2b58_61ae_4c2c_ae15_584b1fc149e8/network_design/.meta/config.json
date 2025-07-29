@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "network_design.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//network_design.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "network_design_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_design/network_design_test.go",
+            "network_design/go.mod"
+        ],
+        "solution": [
+            "network_design/network_design.go",
+            "network_design/go.mod"
+        ],
+        "example": [
+            "network_design/.meta//network_design.go",
+            "network_design/.meta//go.mod"
+        ]
+    }
+}

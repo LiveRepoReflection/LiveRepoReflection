@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "time_path.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//time_path.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "time_path_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_path/time_path_test.py"
+        ],
+        "solution": [
+            "time_path/time_path.py",
+            "time_path/__init__.py"
+        ],
+        "example": [
+            "time_path/.meta//time_path.py",
+            "time_path/.meta//__init__.py"
+        ]
+    }
+}

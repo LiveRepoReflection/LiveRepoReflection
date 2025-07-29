@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "optimal_route.py"
+        ],
+        "example": [
+            ".meta//optimal_route.py"
+        ],
+        "test": [
+            "optimal_route_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "optimal_route/optimal_route_test.py"
+        ],
+        "solution": [
+            "optimal_route/optimal_route.py"
+        ],
+        "example": [
+            "optimal_route/.meta//optimal_route.py"
+        ]
+    }
+}

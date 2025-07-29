@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "flight_itinerary.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//flight_itinerary.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "flight_itinerary_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "flight_itinerary/flight_itinerary_test.go"
+        ],
+        "solution": [
+            "flight_itinerary/flight_itinerary.go",
+            "flight_itinerary/go.mod"
+        ],
+        "example": [
+            "flight_itinerary/.meta//flight_itinerary.go",
+            "flight_itinerary/.meta//go.mod"
+        ]
+    }
+}

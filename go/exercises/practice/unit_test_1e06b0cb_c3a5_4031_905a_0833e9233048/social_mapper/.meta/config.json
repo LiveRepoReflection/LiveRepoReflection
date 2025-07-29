@@ -1,0 +1,31 @@
+{
+    "files": {
+        "solution": [
+            "estimate_component.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//estimate_component.go",
+            ".meta//social_mapper_test.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_mapper_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_mapper/social_mapper_test.go"
+        ],
+        "solution": [
+            "social_mapper/estimate_component.go",
+            "social_mapper/social_mapper_test.go",
+            "social_mapper/go.mod"
+        ],
+        "example": [
+            "social_mapper/.meta//estimate_component.go",
+            "social_mapper/.meta//social_mapper_test.go",
+            "social_mapper/.meta//go.mod"
+        ]
+    }
+}

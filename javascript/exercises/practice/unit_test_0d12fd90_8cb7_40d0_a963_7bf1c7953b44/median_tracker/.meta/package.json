@@ -1,0 +1,12 @@
+{
+  "name": "median_tracker",
+  "version": "1.0.0",
+  "description": "Distributed median tracker using two heaps.",
+  "main": "median_tracker.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

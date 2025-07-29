@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "tx_orchestrator.js",
+            "package.json"
+        ],
+        "example": [
+            ".meta//tx_orchestrator.js",
+            ".meta//package.json"
+        ],
+        "test": [
+            "__tests__/tx_orchestrator.spec.js"
+        ]
+    },
+    "other": {
+        "test": [
+            "tx_orchestrator/__tests__/tx_orchestrator.spec.js"
+        ],
+        "solution": [
+            "tx_orchestrator/tx_orchestrator.js",
+            "tx_orchestrator/package.json"
+        ],
+        "example": [
+            "tx_orchestrator/.meta//tx_orchestrator.js",
+            "tx_orchestrator/.meta//package.json"
+        ]
+    }
+}

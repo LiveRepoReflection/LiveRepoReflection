@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "analytics_engine.py",
+            "__init__.py",
+            "requirements.txt"
+        ],
+        "example": [
+            ".meta//analytics_engine.py",
+            ".meta//__init__.py",
+            ".meta//requirements.txt"
+        ],
+        "test": [
+            "test_analytics_engine.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "persistent_analytics/test_analytics_engine.py"
+        ],
+        "solution": [
+            "persistent_analytics/analytics_engine.py",
+            "persistent_analytics/__init__.py",
+            "persistent_analytics/requirements.txt"
+        ],
+        "example": [
+            "persistent_analytics/.meta//analytics_engine.py",
+            "persistent_analytics/.meta//__init__.py",
+            "persistent_analytics/.meta//requirements.txt"
+        ]
+    }
+}

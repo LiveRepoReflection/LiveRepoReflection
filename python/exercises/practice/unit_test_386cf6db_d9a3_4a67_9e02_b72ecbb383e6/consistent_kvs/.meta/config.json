@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "distributed_kv_store.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//distributed_kv_store.py"
+        ],
+        "test": [
+            "consistent_kvs_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "consistent_kvs/consistent_kvs_test.py"
+        ],
+        "solution": [
+            "consistent_kvs/__init__.py",
+            "consistent_kvs/distributed_kv_store.py"
+        ],
+        "example": [
+            "consistent_kvs/.meta//__init__.py",
+            "consistent_kvs/.meta//distributed_kv_store.py"
+        ]
+    }
+}

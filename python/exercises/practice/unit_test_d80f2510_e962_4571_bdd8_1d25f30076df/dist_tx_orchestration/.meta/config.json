@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "orchestrate_transaction.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//orchestrate_transaction.py"
+        ],
+        "test": [
+            "dist_tx_orchestration_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_tx_orchestration/dist_tx_orchestration_test.py"
+        ],
+        "solution": [
+            "dist_tx_orchestration/__init__.py",
+            "dist_tx_orchestration/orchestrate_transaction.py"
+        ],
+        "example": [
+            "dist_tx_orchestration/.meta//__init__.py",
+            "dist_tx_orchestration/.meta//orchestrate_transaction.py"
+        ]
+    }
+}

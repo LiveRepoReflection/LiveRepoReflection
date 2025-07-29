@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "packet_router.go"
+        ],
+        "example": [
+            ".meta//packet_router.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "packet_router_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "packet_router/cases_test.go",
+            "packet_router/packet_router_test.go",
+            "packet_router/go.mod"
+        ],
+        "solution": [
+            "packet_router/packet_router.go"
+        ],
+        "example": [
+            "packet_router/.meta//packet_router.go"
+        ]
+    }
+}

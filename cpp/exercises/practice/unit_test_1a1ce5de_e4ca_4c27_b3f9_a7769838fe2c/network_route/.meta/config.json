@@ -1,0 +1,30 @@
+{
+    "files": {
+        "solution": [
+            "network_route.cpp",
+            "rm -f *.o network_route_test"
+        ],
+        "example": [
+            ".meta//network_route.cpp",
+            ".meta/rm -f *.o network_route_test"
+        ],
+        "test": [
+            "network_route_test.cpp",
+            "network_route.h"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_route/network_route_test.cpp",
+            "network_route/network_route.h"
+        ],
+        "solution": [
+            "network_route/network_route.cpp",
+            "rm -f *.o network_route_test"
+        ],
+        "example": [
+            "network_route/.meta//network_route.cpp",
+            ".meta/rm -f *.o network_route_test"
+        ]
+    }
+}

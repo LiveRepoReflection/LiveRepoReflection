@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "social_influence.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//social_influence.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "social_influence_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "social_influence/social_influence_test.go"
+        ],
+        "solution": [
+            "social_influence/social_influence.go",
+            "social_influence/go.mod"
+        ],
+        "example": [
+            "social_influence/.meta//social_influence.go",
+            "social_influence/.meta//go.mod"
+        ]
+    }
+}

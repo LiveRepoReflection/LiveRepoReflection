@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "resilience.go"
+        ],
+        "example": [
+            ".meta//resilience.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "resilience_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_resilience/cases_test.go",
+            "network_resilience/resilience_test.go",
+            "network_resilience/go.mod"
+        ],
+        "solution": [
+            "network_resilience/resilience.go"
+        ],
+        "example": [
+            "network_resilience/.meta//resilience.go"
+        ]
+    }
+}

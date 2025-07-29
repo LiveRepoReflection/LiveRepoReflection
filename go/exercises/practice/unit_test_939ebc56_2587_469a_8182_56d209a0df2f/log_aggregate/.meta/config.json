@@ -1,0 +1,27 @@
+{
+    "files": {
+        "solution": [
+            "log_aggregate.go"
+        ],
+        "example": [
+            ".meta//log_aggregate.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "log_aggregate_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "log_aggregate/cases_test.go",
+            "log_aggregate/log_aggregate_test.go",
+            "log_aggregate/go.mod"
+        ],
+        "solution": [
+            "log_aggregate/log_aggregate.go"
+        ],
+        "example": [
+            "log_aggregate/.meta//log_aggregate.go"
+        ]
+    }
+}

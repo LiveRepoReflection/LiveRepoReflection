@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "dist_counter.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//dist_counter.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "dist_counter_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_counter/dist_counter_test.go"
+        ],
+        "solution": [
+            "dist_counter/dist_counter.go",
+            "dist_counter/go.mod"
+        ],
+        "example": [
+            "dist_counter/.meta//dist_counter.go",
+            "dist_counter/.meta//go.mod"
+        ]
+    }
+}

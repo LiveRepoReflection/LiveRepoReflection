@@ -1,0 +1,32 @@
+{
+    "files": {
+        "solution": [
+            "build.gradle",
+            "src/main/java/MeetingScheduleResult.java",
+            "src/main/java/MeetingScheduler.java"
+        ],
+        "example": [
+            ".meta//build.gradle",
+            ".meta//src/main/java/MeetingScheduleResult.java",
+            ".meta//src/main/java/MeetingScheduler.java"
+        ],
+        "test": [
+            "src/test/java/MeetingSchedulerTest.java"
+        ]
+    },
+    "other": {
+        "test": [
+            "meeting_scheduler/src/test/java/MeetingSchedulerTest.java"
+        ],
+        "solution": [
+            "meeting_scheduler/build.gradle",
+            "meeting_scheduler/src/main/java/MeetingScheduleResult.java",
+            "meeting_scheduler/src/main/java/MeetingScheduler.java"
+        ],
+        "example": [
+            "meeting_scheduler/.meta//build.gradle",
+            "meeting_scheduler/.meta//src/main/java/MeetingScheduleResult.java",
+            "meeting_scheduler/.meta//src/main/java/MeetingScheduler.java"
+        ]
+    }
+}

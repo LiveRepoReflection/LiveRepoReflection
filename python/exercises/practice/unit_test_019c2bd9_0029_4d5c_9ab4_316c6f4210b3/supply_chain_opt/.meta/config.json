@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "supply_chain_opt.py"
+        ],
+        "example": [
+            ".meta//supply_chain_opt.py"
+        ],
+        "test": [
+            "supply_chain_opt_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "supply_chain_opt/supply_chain_opt_test.py"
+        ],
+        "solution": [
+            "supply_chain_opt/supply_chain_opt.py"
+        ],
+        "example": [
+            "supply_chain_opt/.meta//supply_chain_opt.py"
+        ]
+    }
+}

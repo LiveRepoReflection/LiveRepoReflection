@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "bank_tx.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//bank_tx.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "bank_tx_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "bank_tx/bank_tx_test.go"
+        ],
+        "solution": [
+            "bank_tx/bank_tx.go",
+            "bank_tx/go.mod"
+        ],
+        "example": [
+            "bank_tx/.meta//bank_tx.go",
+            "bank_tx/.meta//go.mod"
+        ]
+    }
+}

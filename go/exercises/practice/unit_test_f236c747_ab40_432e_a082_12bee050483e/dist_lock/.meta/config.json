@@ -1,0 +1,34 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "dist_lock.go",
+            "errors.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//dist_lock.go",
+            ".meta//errors.go"
+        ],
+        "test": [
+            "cases_test.go",
+            "dist_lock_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "dist_lock/cases_test.go",
+            "dist_lock/dist_lock_test.go"
+        ],
+        "solution": [
+            "dist_lock/go.mod",
+            "dist_lock/dist_lock.go",
+            "dist_lock/errors.go"
+        ],
+        "example": [
+            "dist_lock/.meta//go.mod",
+            "dist_lock/.meta//dist_lock.go",
+            "dist_lock/.meta//errors.go"
+        ]
+    }
+}

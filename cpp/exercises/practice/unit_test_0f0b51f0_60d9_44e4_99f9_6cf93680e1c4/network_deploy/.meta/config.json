@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_deploy.h",
+            "network_deploy.cpp"
+        ],
+        "example": [
+            ".meta//network_deploy.h",
+            ".meta//network_deploy.cpp"
+        ],
+        "test": [
+            "network_deploy_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_deploy/network_deploy_test.cpp"
+        ],
+        "solution": [
+            "network_deploy/network_deploy.h",
+            "network_deploy/network_deploy.cpp"
+        ],
+        "example": [
+            "network_deploy/.meta//network_deploy.h",
+            "network_deploy/.meta//network_deploy.cpp"
+        ]
+    }
+}

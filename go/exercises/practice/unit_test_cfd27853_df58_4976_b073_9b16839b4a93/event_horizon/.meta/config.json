@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "event_horizon.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//event_horizon.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "event_horizon_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_horizon/event_horizon_test.go"
+        ],
+        "solution": [
+            "event_horizon/event_horizon.go",
+            "event_horizon/go.mod"
+        ],
+        "example": [
+            "event_horizon/.meta//event_horizon.go",
+            "event_horizon/.meta//go.mod"
+        ]
+    }
+}

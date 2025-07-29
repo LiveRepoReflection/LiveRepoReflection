@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "event_priority.py"
+        ],
+        "example": [
+            ".meta//event_priority.py"
+        ],
+        "test": [
+            "event_priority_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "event_priority/event_priority_test.py"
+        ],
+        "solution": [
+            "event_priority/event_priority.py"
+        ],
+        "example": [
+            "event_priority/.meta//event_priority.py"
+        ]
+    }
+}

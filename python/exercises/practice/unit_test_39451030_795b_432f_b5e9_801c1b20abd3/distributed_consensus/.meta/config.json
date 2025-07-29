@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "distributed_consensus.py"
+        ],
+        "example": [
+            ".meta//distributed_consensus.py"
+        ],
+        "test": [
+            "distributed_consensus_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_consensus/distributed_consensus_test.py"
+        ],
+        "solution": [
+            "distributed_consensus/distributed_consensus.py"
+        ],
+        "example": [
+            "distributed_consensus/.meta//distributed_consensus.py"
+        ]
+    }
+}

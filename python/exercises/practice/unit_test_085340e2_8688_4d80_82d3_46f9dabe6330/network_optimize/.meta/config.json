@@ -1,0 +1,24 @@
+{
+    "files": {
+        "solution": [
+            "network_optimize.py"
+        ],
+        "example": [
+            ".meta//network_optimize.py"
+        ],
+        "test": [
+            "test_network_optimize.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_optimize/test_network_optimize.py"
+        ],
+        "solution": [
+            "network_optimize/network_optimize.py"
+        ],
+        "example": [
+            "network_optimize/.meta//network_optimize.py"
+        ]
+    }
+}

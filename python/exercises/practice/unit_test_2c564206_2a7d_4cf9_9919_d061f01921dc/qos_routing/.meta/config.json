@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "qos_routing.py",
+            "__init__.py"
+        ],
+        "example": [
+            ".meta//qos_routing.py",
+            ".meta//__init__.py"
+        ],
+        "test": [
+            "test_qos_routing.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "qos_routing/test_qos_routing.py"
+        ],
+        "solution": [
+            "qos_routing/qos_routing.py",
+            "qos_routing/__init__.py"
+        ],
+        "example": [
+            "qos_routing/.meta//qos_routing.py",
+            "qos_routing/.meta//__init__.py"
+        ]
+    }
+}

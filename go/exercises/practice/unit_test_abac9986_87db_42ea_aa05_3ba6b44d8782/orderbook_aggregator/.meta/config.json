@@ -1,0 +1,29 @@
+{
+    "files": {
+        "solution": [
+            "orderbook_aggregator.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//orderbook_aggregator.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "orderbook_aggregator_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "orderbook_aggregator/orderbook_aggregator_test.go",
+            "orderbook_aggregator/go.mod"
+        ],
+        "solution": [
+            "orderbook_aggregator/orderbook_aggregator.go",
+            "orderbook_aggregator/go.mod"
+        ],
+        "example": [
+            "orderbook_aggregator/.meta//orderbook_aggregator.go",
+            "orderbook_aggregator/.meta//go.mod"
+        ]
+    }
+}

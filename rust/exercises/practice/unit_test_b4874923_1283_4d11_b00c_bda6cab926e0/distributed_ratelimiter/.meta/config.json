@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "Cargo.toml",
+            "src/lib.rs"
+        ],
+        "example": [
+            ".meta//Cargo.toml",
+            ".meta//src/lib.rs"
+        ],
+        "test": [
+            "tests/distributed_ratelimiter.rs"
+        ]
+    },
+    "other": {
+        "test": [
+            "distributed_ratelimiter/tests/distributed_ratelimiter.rs"
+        ],
+        "solution": [
+            "distributed_ratelimiter/Cargo.toml",
+            "distributed_ratelimiter/src/lib.rs"
+        ],
+        "example": [
+            "distributed_ratelimiter/.meta//Cargo.toml",
+            "distributed_ratelimiter/.meta//src/lib.rs"
+        ]
+    }
+}

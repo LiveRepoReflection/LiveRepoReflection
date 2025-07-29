@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "time_kv.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//time_kv.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "time_kv_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "time_kv/time_kv_test.go"
+        ],
+        "solution": [
+            "time_kv/time_kv.go",
+            "time_kv/go.mod"
+        ],
+        "example": [
+            "time_kv/.meta//time_kv.go",
+            "time_kv/.meta//go.mod"
+        ]
+    }
+}

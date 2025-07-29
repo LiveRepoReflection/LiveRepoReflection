@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "go.mod",
+            "network_quorum.go"
+        ],
+        "example": [
+            ".meta//go.mod",
+            ".meta//network_quorum.go"
+        ],
+        "test": [
+            "network_quorum_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_quorum/network_quorum_test.go"
+        ],
+        "solution": [
+            "network_quorum/go.mod",
+            "network_quorum/network_quorum.go"
+        ],
+        "example": [
+            "network_quorum/.meta//go.mod",
+            "network_quorum/.meta//network_quorum.go"
+        ]
+    }
+}

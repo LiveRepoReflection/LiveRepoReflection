@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "network_flow.h",
+            "network_flow.cpp"
+        ],
+        "example": [
+            ".meta//network_flow.h",
+            ".meta//network_flow.cpp"
+        ],
+        "test": [
+            "network_flow_test.cpp"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_flow/network_flow_test.cpp"
+        ],
+        "solution": [
+            "network_flow/network_flow.h",
+            "network_flow/network_flow.cpp"
+        ],
+        "example": [
+            "network_flow/.meta//network_flow.h",
+            "network_flow/.meta//network_flow.cpp"
+        ]
+    }
+}

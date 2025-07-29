@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "optimize_deployment.go",
+            "go.mod"
+        ],
+        "example": [
+            ".meta//optimize_deployment.go",
+            ".meta//go.mod"
+        ],
+        "test": [
+            "cases_test.go"
+        ]
+    },
+    "other": {
+        "test": [
+            "network_deploy/cases_test.go"
+        ],
+        "solution": [
+            "network_deploy/optimize_deployment.go",
+            "network_deploy/go.mod"
+        ],
+        "example": [
+            "network_deploy/.meta//optimize_deployment.go",
+            "network_deploy/.meta//go.mod"
+        ]
+    }
+}

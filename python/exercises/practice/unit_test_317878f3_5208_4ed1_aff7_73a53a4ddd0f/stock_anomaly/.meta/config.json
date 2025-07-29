@@ -1,0 +1,28 @@
+{
+    "files": {
+        "solution": [
+            "__init__.py",
+            "anomaly_detector.py"
+        ],
+        "example": [
+            ".meta//__init__.py",
+            ".meta//anomaly_detector.py"
+        ],
+        "test": [
+            "stock_anomaly_test.py"
+        ]
+    },
+    "other": {
+        "test": [
+            "stock_anomaly/stock_anomaly_test.py"
+        ],
+        "solution": [
+            "stock_anomaly/__init__.py",
+            "stock_anomaly/anomaly_detector.py"
+        ],
+        "example": [
+            "stock_anomaly/.meta//__init__.py",
+            "stock_anomaly/.meta//anomaly_detector.py"
+        ]
+    }
+}
