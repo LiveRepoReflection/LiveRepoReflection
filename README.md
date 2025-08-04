@@ -28,41 +28,41 @@ The directory structure is as follows:
   .
   ├── cpp/
   │   └── exercises/practice/
-  │       └── <test_case_id>/
+  │       └── <uuid_id>/<test_case_id>/
   │           ├── .docs/
   │           ├── .meta/
   │           ├── <source_files>.cpp
   │           └── <test_files>.cpp
   ├── go/
   │   └── exercises/practice/
-  │       └── <test_case_id>/
+  │       └── <uuid_id>/<test_case_id>/
   │           ├── .docs/
   │           ├── .meta/
   │           ├── <source_files>.go
   │           └── <test_files>.go
   ├── java/
   │   └── exercises/practice/
-  │       └── <test_case_id>/
+  │       └── <uuid_id>/<test_case_id>/
   │           └── src/
   │               ├── main/java/
   │               └── test/java/
   ├── javascript/
   │   └── exercises/practice/
-  │       └── <test_case_id>/
+  │       └── <uuid_id>/<test_case_id>/
   │           ├── .docs/
   │           ├── .meta/
   │           ├── <source_files>.js
   │           └── <test_files>.js
   ├── python/
   │   └── exercises/practice/
-  │       └── <test_case_id>/
+  │       └── <uuid_id>/<test_case_id>/
   │           ├── .docs/
   │           ├── .meta/
   │           ├── <source_files>.py
   │           └── <test_files>.py
   └── rust/
       └── exercises/practice/
-          └── <test_case_id>/
+          └── <uuid_id>/<test_case_id>/
               ├── .docs/
               ├── .meta/
               └── src/
